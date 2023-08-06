@@ -1,9 +1,9 @@
-# Pronunciación y ortografía de pandunia
+# Pronunciación y ortografía de panlingue
 
-Pandunia utiliza el alfabeto latino básico que se muestra a continuación junto
+Panlingue utiliza el alfabeto latino básico que se muestra a continuación junto
 con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 
-| Pandunia | IPA     |
+| Panlingue | IPA     |
 |:--------:|:-------:|
 | a        | /a/     |
 | b        | /b/     |
@@ -30,11 +30,11 @@ con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 | y        | /j/     |
 | z        | /z≈dz/  |
 
-En pandunia cada letra representa siempre el mismo sonido y ninguna letra es muda.
+En panlingue cada letra representa siempre el mismo sonido y ninguna letra es muda.
 
 ## Sonido de las vocales
 
-Pandunia tiene cinco vocales, que se pronuncian igual que en español.
+Panlingue tiene cinco vocales, que se pronuncian igual que en español.
 
     i   u
     e   o
@@ -82,7 +82,7 @@ Las consonantes siguientes representan fonemas que no existen en español:
 
 ## Acento
 
-El acento tónico en pandunia va en la sílabra que está antes de la última
+El acento tónico en panlingue va en la sílabra que está antes de la última
 consonante.
 
 Ejemplos:
@@ -94,13 +94,13 @@ Ejemplos:
      dunia sa momi sundari planete.  
     /dúnia sá mómi sundári planéte./
 
-     me vola loga komuni bax, le sa pandunia.  
+     me vola loga komuni bax, le sa panlingue.  
     /mé vóla lóga komúni báx, lé sa pandúnia./
 
 
 ## Uso de las letras mayúsculas y minúsculas
 
-En pandunia se escribe normalmente solo con letras minúsculas.  Las letras
+En panlingue se escribe normalmente solo con letras minúsculas.  Las letras
 mayúsculas pueden usarse al inicio de las frases y de los nombres propios, como
 los nombres de personas y lugares, pero no son obligatorias.
 
@@ -117,7 +117,7 @@ Nota: Usar letras mayúsculas no es un error. A veces las personas las usan
 porque están acostumbradas a ello en otros idiomas. Aun así, las mayúsculas son
 innecesarias y no se recomiendan..
 
-En pandunia, se usan las letras mayúsculas en los acrónimos y símbolos
+En panlingue, se usan las letras mayúsculas en los acrónimos y símbolos
 internacionales estándar. Por ejemplo: 10 Mb (des megobite), 100 Gb (hon
 gigobite), 2 mm (du milometre), 1 kJ (un kilojul).
 
@@ -152,7 +152,7 @@ indica tristeza.
 
 ## Estructura de las palabras
 
-La estructura de palabras más común en pandunia es CVCV, en donde C es una
+La estructura de palabras más común en panlingue es CVCV, en donde C es una
 consonante y V es una vocal.
 
 La palabra más difícil posible es CLVCCLVC, en donde L es una consonante líquida

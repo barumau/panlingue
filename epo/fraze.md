@@ -607,13 +607,13 @@ Mi povas konduki aŭton.
 **eska te abla xula le?**
 Ĉu vi povas ripari ĝin?
 
-**eska te abla pandunia?**
+**eska te abla panlingue?**
 Ĉu vi povas paroli pandunion?
 
-**me abla pandunia.**
+**me abla panlingue.**
 Mi povas pandunion.
 
-**me abla lilo Pandunia.**
+**me abla lilo Panlingue.**
 Mi povas ete pandunion.
 
 **me no abla Engli.**
@@ -634,10 +634,10 @@ Mi parolas al vi.
 **mome loga pa unale.**
 Ni parolas unu al alia.
 
-**ze loga "kato" sa ki yang sa pandunia?**
+**ze loga "kato" sa ki yang sa panlingue?**
 Kiel oni diras "kato" pandunie?
 
-**"kato" si ke sa pandunia?**
+**"kato" si ke sa panlingue?**
 Kio estas "kato" pandunie?
 
 **maw loga miaw.**
@@ -701,10 +701,10 @@ Bonvolu skribi ĝin tie!
 
 ### basha <small>paroli, lingvumi</small>
 
-**eska tote basha pandunia.**
+**eska tote basha panlingue.**
 Ĉu vi parolas pandunion?
 
-**mome basha pandunia.**
+**mome basha panlingue.**
 Ni parolas pandunion.
 
 **eska te abla basha Engli?**

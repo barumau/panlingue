@@ -1,14 +1,14 @@
 #!/bin/bash
 kitaba_pike() {
-   echo "#numbe da panduni loge la ali bax" > pandunia/loge_du_numbe.md
-   echo "" >> pandunia/loge_du_numbe.md
-   echo "| bax | numbe | fen |" >> pandunia/loge_du_numbe.md
-   echo "|-----|-------|-----|" >> pandunia/loge_du_numbe.md
-   cat temp/stats.txt >> pandunia/loge_du_numbe.md
+   echo "#numbe da panduni loge la ali bax" > panlingue/loge_du_numbe.md
+   echo "" >> panlingue/loge_du_numbe.md
+   echo "| bax | numbe | fen |" >> panlingue/loge_du_numbe.md
+   echo "|-----|-------|-----|" >> panlingue/loge_du_numbe.md
+   cat temp/stats.txt >> panlingue/loge_du_numbe.md
 }
 
 fata_leksasli_liste() {
-    cat pandunia-loge.csv | cut -d '|' -f 5 > temp/logaslia.txt
+    cat panlingue-loge.csv | cut -d '|' -f 5 > temp/logaslia.txt
     #Delete empty lines
     sed -i '/^$/d' temp/logaslia.txt
 }

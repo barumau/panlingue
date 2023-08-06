@@ -1,22 +1,22 @@
-pandunia
+panlingue
 ========
 
-![](http://www.pandunia.info/bandir/bandir.png "bendera Pandunia")
+![](http://www.panlingue.info/bandir/bandir.png "bendera Panlingue")
 
 
-Bahasa Pandunia adalah [bahasa buatan antarabangsa](https://id.wikipedia.org/wiki/Bahasa_buatan). Pandunia adalah bahasa minimal. Mirip dengan sebuah pidgin, bahasa ini memusatkan pikiran pada konsep dan elemen sederhana yang relatif universal di antara kebudayaan.
+Bahasa Panlingue adalah [bahasa buatan antarabangsa](https://id.wikipedia.org/wiki/Bahasa_buatan). Panlingue adalah bahasa minimal. Mirip dengan sebuah pidgin, bahasa ini memusatkan pikiran pada konsep dan elemen sederhana yang relatif universal di antara kebudayaan.
 
 ## Materi pembelajaran
 
-- [Pelajaran mini](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Pelajaran mini](http://www.panlingue.info/panlingue/mini_darse.html)
 
 ## Forum diskusi
 
-- [Facebook](http://www.facebook.com/groups/pandunia)
+- [Facebook](http://www.facebook.com/groups/panlingue)
 - [Telegram](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
 - [Twitter]()
 
-Kontak: risto@pandunia.info
+Kontak: risto@panlingue.info
 
 
 

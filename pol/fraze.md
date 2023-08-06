@@ -1,8 +1,8 @@
-# Pandunia słowo po słowie
+# Panlingue słowo po słowie
 
 ### Wstęp
 
-Pandunia jest językiem sztucznym zaprojektowanym, by być relatywnie prostym dla każdego. Możesz się jej uczyć szybko tym kursem praktycznym.
+Panlingue jest językiem sztucznym zaprojektowanym, by być relatywnie prostym dla każdego. Możesz się jej uczyć szybko tym kursem praktycznym.
 
 Użytkownicy języka polskiego łatwo się nauczą tworzyć podstawowe zdania w Panduni, jako że szyk zdania jest zasadniczo taki sam jak w języku polskim, nie ma przedimków (rodzajników), żadnego "być", ani skomplikowanych zasad odmiany słów, by wyrazić liczby pojedyńczą i mnogą lub czas czasowników.
 
@@ -80,7 +80,7 @@ Ja pozdrawiam ojca.
 
 Słowo **salam**
 jest rzeczownikiem a **salama**
-odpowiadającym mu czasownikiem. Podstawowy szyk zdania w Panduni Pandunia to podmiot-orzeczenie-dopełnienie.
+odpowiadającym mu czasownikiem. Podstawowy szyk zdania w Panduni Panlingue to podmiot-orzeczenie-dopełnienie.
 
 **sarah salama tomas.**
 Sara pozdrawia Tomasza.
@@ -415,7 +415,7 @@ Je jabłko.
 **lole niama aple.**
 Jedzą jabłka.
 
-Uwaga: Inaczej niż język polski, Pandunia nie ma osobnych form pojedynczej i mnogiej. Dlatego słowa jak **aple**
+Uwaga: Inaczej niż język polski, Panlingue nie ma osobnych form pojedynczej i mnogiej. Dlatego słowa jak **aple**
 mogą się odnosić do jednego lub większej liczby jabłek.
 
 **eska te niama kafe?**
@@ -584,13 +584,13 @@ Nie umie kierować samochodem.
 **eska te abla xula le?**
 Czy umiesz to naprawić?
 
-**eska te abla pandunia?**
+**eska te abla panlingue?**
 Czy umiesz mówić w Panduni?
 
-**me abla pandunia.**
+**me abla panlingue.**
 Umiem mówić w Panduni.
 
-**me abla lil pandunia.**
+**me abla lil panlingue.**
 Umiem trochę mówić w Panduni.
 
 **me no abla engli.**
@@ -612,10 +612,10 @@ Mówię do ciebie.
 **mome loga pa unale.**
 Mówimy do siebie.
 
-**ze loga "kot" sa ki yang sa pandunia?**
+**ze loga "kot" sa ki yang sa panlingue?**
 Jak się mówi "kot" w Panduni?
 
-**"kot" si ke sa pandunia?**
+**"kot" si ke sa panlingue?**
 Czym jest "kot" w Panduni?
 
 **maw loga miaw.**
@@ -684,10 +684,10 @@ Proszę, napisz to tutaj!
 
 ### baxa <small>mówić w języku, komunikować się</small>
 
-**eska tote baxa pandunia.**
+**eska tote baxa panlingue.**
 Czy mówicie w Panduni?
 
-**mome baxa pandunia.**
+**mome baxa panlingue.**
 Mówimy w Panduni.
 
 **eska te abla baxa engli?**

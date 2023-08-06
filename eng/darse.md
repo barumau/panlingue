@@ -4,7 +4,7 @@
 
 ### Dialog
 
-![](http://www.pandunia.info/grafe/halou.png "halou!")  
+![](http://www.panlingue.info/grafe/halou.png "halou!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 <big>👩🏻</big>
@@ -34,13 +34,13 @@
 
 ### Grammar
 
-Pandunia's sentences normally follow the topic-comment structure. 
+Panlingue's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in **le sa mi doste**
 the topic is the pronoun **le** (he, she, it), which is followed by
 the comment **sa mi doste** (is my friend).
 
-In Pandunia, the word **sa** functions like _to be_ in English.
+In Panlingue, the word **sa** functions like _to be_ in English.
 The same word is used for all persons. And to say the opposite, 
 simply replace it with **no** (which is the word for _no_).
 
@@ -68,7 +68,7 @@ and a word that describes you.
 
 ### Exercises
 
-Try translating these sentences from English to Pandunia. The correct
+Try translating these sentences from English to Panlingue. The correct
 answers are after the word list.
 
 1. Who are you?
@@ -134,7 +134,7 @@ animal
 **salam**
 = Hello!
 
-This is how people often greet each other in Pandunia.
+This is how people often greet each other in Panlingue.
 They say **salam**.
 It is used for saying both hello and goodbye.
 
@@ -149,7 +149,7 @@ It appears as "shlaam" in Aramaic, the language that Jesus of Nazareth spoke,
 in Hebrew it is "shalom",
 and in Arabic it is "salaam".
 Today it is a common greeting in hundreds of languages in Africa, Asia and Europe.
-Pandunia is a constructed world language
+Panlingue is a constructed world language
 that borrows international words from all parts of the world.
 
 The verb form of **salam** is **salama**, which means "to greet".
@@ -163,16 +163,16 @@ These are active sentences. In active sentences the subject does the
 action to the object. In **me salama te** the first word, **me**, is
 the subject, **salama** is the verb (action word), and **te** is the
 object. The order of subject, verb and object is the normal word order
-in Pandunia.
+in Panlingue.
 
 > Word order in active sentence: Subject + Verb + Object
 
-Pandunia's personal pronouns are: **me** = I, **te** = you, and
+Panlingue's personal pronouns are: **me** = I, **te** = you, and
 **le** = he, she, it. Note that the pronouns stayed the same in the
-previous example sentences. Words never change in Pandunia. They
+previous example sentences. Words never change in Panlingue. They
 always stay the same regardless of their position in sentence.
 
-In Pandunia sentences can be made shorter by leaving out pronouns
+In Panlingue sentences can be made shorter by leaving out pronouns
 that are obvious in the present situation.
 
 **me salama te!**
@@ -184,7 +184,7 @@ that are obvious in the present situation.
 **salam!**
 = Hello!
 
-Another Pandunia word for greeting is **halou**. It is also a very
+Another Panlingue word for greeting is **halou**. It is also a very
 international greeting. You can choose freely, which word to use when
 you greet people.
 
@@ -207,7 +207,7 @@ to address people by name, kinship term or profession.
 
 ### Exercises
 
-Try translating these sentences from English to Pandunia. The correct
+Try translating these sentences from English to Panlingue. The correct
 answers are after the word list.
 
 1. You greet him/her.
@@ -273,8 +273,8 @@ chief, boss
 
 ### Grammar
 
-Pandunia's personal pronouns are: **me** = I, **te** = you, and
-**le** = he, she, it. Pandunia is a gender-neutral language. It
+Panlingue's personal pronouns are: **me** = I, **te** = you, and
+**le** = he, she, it. Panlingue is a gender-neutral language. It
 doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
@@ -291,7 +291,7 @@ _pivot_ or hinge between the two verbs.
 
 > Pivot Stucture: Subject + Verb¹ + Object/Subject + Verb² + Object
 
-The pivot structure is a common structure in Pandunia.
+The pivot structure is a common structure in Panlingue.
 
 Remember that it is allowed to leave out pronouns that are known in
 the context. In other words the speaker can safely assume that the
@@ -306,8 +306,8 @@ to keep on repeating them. In this manner phrases can be made shorter.
 See how the translation of **cinga** changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
 English reflects this change by using different words, to ask and please.
-Pandunia can cope with changes like this without resorting to different
-words. It is a principle in Pandunia that there is always exactly one
+Panlingue can cope with changes like this without resorting to different
+words. It is a principle in Panlingue that there is always exactly one
 word for one concept. Different words are not created just because the
 grammatical role of a concept changes.
 
@@ -342,7 +342,7 @@ a commanding voice.
 
 ### Exercises
 
-Try translating these sentences from English to Pandunia.
+Try translating these sentences from English to Panlingue.
 
 1. He drinks tea.
 2. The boss asked her to sit down.
@@ -405,8 +405,8 @@ to eat or drink
 **e te?**
 = And you?  
 <big>🧓</big>
-**me no baxa pandunia...**
-= I don't speak Pandunia...  
+**me no baxa panlingue...**
+= I don't speak Panlingue...  
 <big>👩‍🍳</big>
 **maf! suala le yama cai?**
 = Pardon! Will he have tea?  
@@ -461,8 +461,8 @@ Of course common and proper nouns can also be used.
 = Does the chief drink coffee?  
 **suala pape safa kamar?**
 = Does the father clean the room?  
-**suala niki baxa pandunia?**
-= Does Nicky speak Pandunia?
+**suala niki baxa panlingue?**
+= Does Nicky speak Panlingue?
 
 
 ### Giving answers
@@ -499,10 +499,10 @@ It is also possible to answer yes by repeating the main verb of the question.
 
 ### Exercises
 
-Try translating these sentences from English to Pandunia.
+Try translating these sentences from English to Panlingue.
 
-1. Do you speak Pandunia?
-2. Yes, I speak Pandunia.
+1. Do you speak Panlingue?
+2. Yes, I speak Panlingue.
 3. Does the mother drink coffee?
 4. No, she doesn't drink coffee.
 5. Does she eat soup?
@@ -536,8 +536,8 @@ yes
 
 ### Answers to the Exercises
 
-1. suala te baxa pandunia?
-2. ha. me baxa pandunia.
+1. suala te baxa panlingue?
+2. ha. me baxa panlingue.
 3. suala mam yama kafe?
 4. no. le no yama kafe.
 5. suala le yama supe?
@@ -562,7 +562,7 @@ Conceptually negation means the absence or non-existence of the
 negated word. In the phrase **me no salama te** the negative word
 **no** denies the existence of greeting.
 
-In Pandunia the negative word affects the word that follows it.
+In Panlingue the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
@@ -588,7 +588,7 @@ and even numeral.
 
 ### Exercises
 
-Translate these sentences from English to Pandunia. Sometimes there
+Translate these sentences from English to Panlingue. Sometimes there
 is more than one correct answer.
 
 1. He didn't clean the room.
@@ -647,7 +647,7 @@ manner or thing if needed.
 **ki yang dansa?**
 = How to dance? (**yang** = manner, style)
 
-In Pandunia, questions beginning with _why_ are asked using
+In Panlingue, questions beginning with _why_ are asked using
 **ke saba**.
 
 **ke saba te suku mau?**
@@ -705,14 +705,14 @@ something, even when not answering to a question.
 
 ### Expressing time
 
-There are no verb conjugations in Pandunia. All verbs have only one
+There are no verb conjugations in Panlingue. All verbs have only one
 form for all times. In a way they are similar to some English verbs,
 such as "to hit", which is the same in all tenses.
 
 **me darba le.**
 = I hit it.
 
-In Pandunia all verbs are like that! For example, **me yama pang**
+In Panlingue all verbs are like that! For example, **me yama pang**
 can mean both "I eat bread" and "I ate bread", but usually only one
 or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the
@@ -796,7 +796,7 @@ time expression is present, other markers are not needed.
 
 ### Exercises
 
-Try translating these sentences from English to Pandunia.
+Try translating these sentences from English to Panlingue.
 
 1. My boss will celebrate in the future	
 2. I used to have two dogs.	

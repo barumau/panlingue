@@ -1,7 +1,7 @@
 พันดูเนีย - ภาษาเรียบง่ายของโลก
 ============================
 
-![](http://www.pandunia.info/bandir/bandir.png "ธงของภาษาพันดูเนีย")
+![](http://www.panlingue.info/bandir/bandir.png "ธงของภาษาพันดูเนีย")
 
 ## พันดูเนียคืออะไร?
 
@@ -16,7 +16,7 @@
 
 ## มาเรียนกัน
 
-- [บทเรียนผ่านทางรูปภาพ](http://www.pandunia.info/pandunia/mini_darse.html)
+- [บทเรียนผ่านทางรูปภาพ](http://www.panlingue.info/panlingue/mini_darse.html)
 - [การออกเสียง](abc.md)
 - [รวบประโยค](fraze.md)
 - [ไวยากรณ์](kanun.md)
@@ -31,16 +31,16 @@
 
 สามารถร่วมพูดคุยกับผู้คนที่สนใจภาษาพันดูเนียได้ที่:
 
-- เว็บบอร์ด [Reddit](https://www.reddit.com/r/pandunia/)
-- [กลุ่ม Facebook pandunia](http://www.facebook.com/groups/pandunia)
+- เว็บบอร์ด [Reddit](https://www.reddit.com/r/panlingue/)
+- [กลุ่ม Facebook panlingue](http://www.facebook.com/groups/panlingue)
 - [Telegram ภาษาพันดูเนีย](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)
 - [Telegram หลายภาษา](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
 - ช่อง [Discord](https://discord.gg/FWavWeG)
 - แอป [Amikumu](https://amikumu.com/) por trovi parolantojn
 - QQ: 717549404
-- [Twitter](https://twitter.com/pandunia_)
-- [Pandunia Vikio](http://eo.pandunia.wikia.com/wiki/%C4%88efpa%C4%9Do)
+- [Twitter](https://twitter.com/panlingue_)
+- [Panlingue Vikio](http://eo.panlingue.wikia.com/wiki/%C4%88efpa%C4%9Do)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
+![](http://www.panlingue.info/grafe/mome_loga_panlingue.png "mome loga panlingue!")
 
-คุณสามารถติดต่อ Risto Kupsala ผู้ประดิษฐ์ภาษาพันดูเนีย ผ่านทางอีเมลที่ [risto@pandunia.info](mailto:risto@pandunia.info) หรือในที่ที่อยู่ในรายการเครือข่ายชุมชน
+คุณสามารถติดต่อ Risto Kupsala ผู้ประดิษฐ์ภาษาพันดูเนีย ผ่านทางอีเมลที่ [risto@panlingue.info](mailto:risto@panlingue.info) หรือในที่ที่อยู่ในรายการเครือข่ายชุมชน

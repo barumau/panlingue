@@ -1,5 +1,5 @@
-# pandunia-portugali ha logasle
-| pandunia | portugali | logasle |
+# panlingue-portugali ha logasle
+| panlingue | portugali | logasle |
 |----------|----------|----------|
 |**abite**|abeto|spa:por:abeto|
 |**adali**|justo|ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)|

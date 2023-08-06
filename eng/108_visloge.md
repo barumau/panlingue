@@ -165,7 +165,7 @@ and they refer to things in the world outside the structure of the language.
 Function words have only a structural role
 and therefore they behave differently than content words.
 
-In Pandunia, the pronouns and other function words that are derived from them have the following characteristics:
+In Panlingue, the pronouns and other function words that are derived from them have the following characteristics:
 
 1. The word is made up of one consonant and one vowel.
 2. The consonant indicates the general idea of the word.

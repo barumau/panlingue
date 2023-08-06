@@ -23,7 +23,7 @@ Przedstawianie się
 
 Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **le si mi doste** tematem jest zaimek **le** (on, ona, ono), za którym podąrza komentarz **si mi doste** (jest moim przyjacielem).
 
-Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
+Słowo **si** znaczy _być_ w Panlingue. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
 
 **le si sarah.**
 = Ona jest Sarą.  
@@ -84,7 +84,7 @@ Oto jak ludzie pozdrawiają się w Panduni. Mówią **salam**. To słowo jest u�
 **salam**
 = Żegnaj!
 
-Słowo **salam** znaczy "pozdrowienie". Jest oryginalnie arabskim słowem znaczącym _pokój_ i jest powszechnym pozdrowieniem w wielu częściach śœiata, szczególnie w Afryce i Azji. Pandunia jest językiem ogólnoświatowym, biorącym słowa z wszystkich części świata.
+Słowo **salam** znaczy "pozdrowienie". Jest oryginalnie arabskim słowem znaczącym _pokój_ i jest powszechnym pozdrowieniem w wielu częściach śœiata, szczególnie w Afryce i Azji. Panlingue jest językiem ogólnoświatowym, biorącym słowa z wszystkich części świata.
 
 Forma czasownikowa **salam** to **salama**, znaczące "pozdrawiać".
 
@@ -175,7 +175,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Gramatyka
 
-Zaimki osobowe w Panduni to: **me** = ja, **te** = ty, i **le** = on, ona, ono. Pandunia jest językiem neutralnym płciowo. Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach. Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
+Zaimki osobowe w Panduni to: **me** = ja, **te** = ty, i **le** = on, ona, ono. Panlingue jest językiem neutralnym płciowo. Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach. Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
 
 **me pliza te salama le.**
 = Ja proszę cię, żebyś pozdrowił go/ją.
@@ -255,7 +255,7 @@ Pytania "tak lub nie"
 ☻: **salam! eska te niama kafe u cay?** = Witam! Czy chce pan kawę albo herbatę?  
 ☺: **cay.** = Herbatę.  
 ☻: **i te?** = A pan?  
-○: **me no baxa pandunia...** = Nie mówię w Panduni...  
+○: **me no baxa panlingue...** = Nie mówię w Panduni...  
 ☻: **pardon! eska le niama cay?** = Przepraszam! Czy napije się herbaty?  
 ☺: **no. le no niama cay. le niama kafe.** = Nie, on nie pije herbaty. On pije kawę.  
 ☻: **eska te niama supe?** = Czy zje pan zupę?  
@@ -284,7 +284,7 @@ Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używan
 
 > **eska xefe niama kafe?** = Czy szef pije kawę?  
 > **eska papá safa kamare?** = Czy ojciec sprząta pokój?  
-> **eska niki baxa pandunia?** = Czy Nicky mówi Pandunia?
+> **eska niki baxa panlingue?** = Czy Nicky mówi Panlingue?
 
 
 ### Dawanie odpowiedzi
@@ -329,8 +329,8 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Odpowiedzi do Ćwiczeń
 
-1. eska te baxa pandunia?
-2. si. me baxa pandunia.
+1. eska te baxa panlingue?
+2. si. me baxa panlingue.
 3. eska mamá niama kafe?
 4. no. le no niama kafe.
 5. eska le niama supe?

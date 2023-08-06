@@ -1,8 +1,8 @@
-# Pandunia - jezyk światowych kontaktów
+# Panlingue - jezyk światowych kontaktów
  
 ## Wstęp
 
-Ten artykuł opisuje, dlaczego i jak Pandunia została stworzona, by
+Ten artykuł opisuje, dlaczego i jak Panlingue została stworzona, by
 być równo światowym językiem pomocniczym.
 
 ## Pełny obraz
@@ -10,7 +10,7 @@ być równo światowym językiem pomocniczym.
 Wiele ludzi jest przyzwyczajonych do patrzenia na taką mapę świata. To sławna mapa w _odwzorowaniu Merkatora_. Niestety, okropnie
 zniekształca powierzchnię lądową.
 
-![](http://www.pandunia.info/grafe/metrograf_da_merkator.jpg "Odwzorowanie Merkatora")
+![](http://www.panlingue.info/grafe/metrograf_da_merkator.jpg "Odwzorowanie Merkatora")
 
 Dlaczego tak jest? Ziemia jest trójwymiarową kulą i narysowanie jej
 na płaskiej, dwuwymiarowej mapie, nie jest łatwe. Odwzorowania
@@ -21,19 +21,19 @@ wygląda na większą, ale odwzorowanie Equal'a-Earth'a pokazuje
 poprawnie, że w rzeczywistości Afryka jest 14 razy większa od
 Grenlandii.
 
-![](http://www.pandunia.info/grafe/metrograf_da_pari_gevia.jpg "Odwzorowanie Equal'a-Earth'a")
+![](http://www.panlingue.info/grafe/metrograf_da_pari_gevia.jpg "Odwzorowanie Equal'a-Earth'a")
 
 Taki jest świat naturalny. Żyjemy też w świecie ludzkim, który jest
 podzielony granicami między państwami. Na normalnej mapie
 politycznej, rozmiary państw są zdefiniowane ich powierzchnią
 geograficzną.
 
-![](http://www.pandunia.info/grafe/metrograf_da_aria.png "Mapa według powierzchni")
+![](http://www.panlingue.info/grafe/metrograf_da_aria.png "Mapa według powierzchni")
 
 Jakkolwiek, mapa poniżej jest oparta o populację państw, nie
 ich powierzchnię geograficzną.
 
-![](http://www.pandunia.info/grafe/karte_da_insania.png "Mapa według populacji 2002")
+![](http://www.panlingue.info/grafe/karte_da_insania.png "Mapa według populacji 2002")
 
 W naszej opinii, język ogólnoświatowy powinien reprezentować świat
 ludzki. Każda część świata, każda kultura, powinna być traktowane
@@ -101,7 +101,7 @@ Standardowy chiński jest pisany chińskimi znakami, które tworzą
 system tak skomplikowany, że dzieci w szkołach są najpierw uczone
 alfabetu rzymskiego. Ten system romanizacji jest znany jako Pīnyīn.
 
-Dlatego jest jasne, dlaczego Pandunia jest zapisywane alfabetem
+Dlatego jest jasne, dlaczego Panlingue jest zapisywane alfabetem
 rzymskim.
 
 ### Tylko pięć samogłosek
@@ -112,7 +112,7 @@ samogłosek (i wiele więcej cech samogłosek innych niż jakościowe). To
 stosunkowo duże liczby, zważając, że globalnie średni zasób
 samogłosek to tylko od 5 do 6 samogłosek.
 
-Pandunia ma tylko 5 monoftongów: a, e, i, o, u. Pod tym względem,
+Panlingue ma tylko 5 monoftongów: a, e, i, o, u. Pod tym względem,
 blisko jej do takich języków jak hiszpański, suahili, japoński i
 indonezyjski, które mają proste zasoby samogłosek.
 
@@ -125,7 +125,7 @@ spógłoski są mapowane z Panduni na angielski i mandaryński. Dźwięki,
 które są w angielskim, mandaryńskim i polskim, ale nie w Panduni, są
 umieszczone w nawiasach.
 
-|                    | Pandunia    | Angielski     | Mandaryński Pinyin | Polski                          |
+|                    | Panlingue    | Angielski     | Mandaryński Pinyin | Polski                          |
 |--------------------|-------------|---------------|--------------------|---------------------------------|
 | Nosowe             | m n ng      | m n ng        | m n ng             | m n ng (m' ń)                   |
 | Zwarte             | p b t d k g | p b t d k g   | p b t d k g        | p b t d k g (p' b' t' d' k' g') |
@@ -144,7 +144,7 @@ wokaliczne brzmienie. Natomiast angielski i polski mogą mieć bardzo
 trudne sylaby, na przykład "sprints" (CCCVNCC) w angielskim i
 "przestępstw" (CCVCCVCCCCC) w polskim.
 
-Pandunia jest gdzieś po środku. Większość słów składa się z prostych
+Panlingue jest gdzieś po środku. Większość słów składa się z prostych
 sylab CV, ale są możliwe też bardzej skomplikowane, szczególnie w
 międzynarodowo znanych słowach technicznych. Na przykład **kristal**
 (kryształ) jest uznawany za skomplikowane słowo w Panduni. Z bardziej
@@ -167,12 +167,12 @@ porównaniu do angielskiego, Pīnyīn jest bardzo regularny. Na
 przykład, angielskie rymy _my, sigh, lie,_ i _rye_ byłyby zapisane w
 Pīnyīn jako _mai, sai, lai, rai_.
 
-Pandunia może być zapisywana regularnie, bo ma mniej dźwięków mowy
+Panlingue może być zapisywana regularnie, bo ma mniej dźwięków mowy
 (24) niż jest liter w podstawowym alfabecie rzymskim (26). Alfabet
 Panduni to:  
 a b c d e f g h i j k l m n o p r s t u v w x y z
 
-Pandunia ma doskonałą zgodność liter i dźwięków. Jedna litera
+Panlingue ma doskonałą zgodność liter i dźwięków. Jedna litera
 odpowiada tylko jednej głosce. Głoska jest reprezentowana przez
 dokładnie jedną literę. Każde słowo jest wymawiane tak, jak jest pisane.
 
@@ -195,10 +195,10 @@ Zmienny akcent jest trudny do nauki dla ludzi przyzwyczajonych do
 stałego akcentu. Ani ton ani zmienny akcent nie są potrzebne w języku
 międzynarodowym.
 
-Pandunia ma stały akcent. Pada on na sylabę przed ostatnią
+Panlingue ma stały akcent. Pada on na sylabę przed ostatnią
 spółgłoską. O tak: **mi wól lóga supér dúnia báxe.**
 
-Pandunia nie ma tonu leksykalnego.
+Panlingue nie ma tonu leksykalnego.
 
 
 
@@ -235,7 +235,7 @@ słów. _Cats_ jest słowem aglutynatywnym składającym się z dwóch
 wyraźnych części (_cat_ i _-s_). _Leaves_ jest połączonym słowem,
 składającym się z dwóch części (_leaf_ i _-s_).
 
-Pandunia należy do pierwszego typu. Jest językiem analitycznym. Jej
+Panlingue należy do pierwszego typu. Jest językiem analitycznym. Jej
 słowa składają się z niewielu części, które są łatwe do
 rozdzielenia. To dobra cecha, bo sprawia, że język jest łatwiejszy w
 nauce i użyciu w porównaniu z językami, w których słowa zazwyczaj są
@@ -271,7 +271,7 @@ Rdzeń składa się z (zazwyczaj trzech) spółgłosek i jest odmieniany
 przez wprowadzanie wzorów samogłosek między nimi. Arabski ma też
 wiele przedrostków i przyrostków do tworzenia dodatkowych słów.
 
-Pandunia używa _systemu rdzenia i zrostka_. Zasady tego systemu są
+Panlingue używa _systemu rdzenia i zrostka_. Zasady tego systemu są
 znane większości ludzi. Nowe słowa mogą być łatwo tworzone.
 
 
@@ -330,7 +330,7 @@ sztucznego, który powinien być przyjazny dla wielu ludzi z różnymi
 zwyczajami mówienia. To czyni język nie tylko uniwersalnym, ale też
 bardziej interesującym!
 
-Pandunia pozwala na różne szyki słów. Jest to osiągnięte głównie
+Panlingue pozwala na różne szyki słów. Jest to osiągnięte głównie
 zakończeniami czasowników -a i -u, które sygnalizują odwrotne szyki
 zdań. W Panduni czasowniki mogą działać też jako przyimki.
 
@@ -388,7 +388,7 @@ Polski używa podobnych zrostków.
 - Rzeczownik: krótkość
 - Czasownik: skrócić
 
-Pandunia zapożycza rdzenie z zachodnich słów. Cel to wybranie formy,
+Panlingue zapożycza rdzenie z zachodnich słów. Cel to wybranie formy,
 która brzmi znajomo dla użytkowników jak największej liczby języków,
 jak to możliwe.
 
@@ -414,14 +414,14 @@ słowa złożone z elementów sylabicznych.
 Średniochiński miał ton leksykalny. Dzisiejsze języki chińskie i
 wietnamski mają tony, ale nie są one takie same jak w
 średniochińskim. Japoński i chiński nie są językami tonalnymi, więc
-zignorowały tony. Również Pandunia Pandunia ignoruje tony.
+zignorowały tony. Również Panlingue Panlingue ignoruje tony.
 (Ignorowanie tonów jest jak ignorowanie akcentu tonicznego lub
 akcentu dynamicznegoe w innych językach źródłowych.)
 
 Średniochiński miał niewymawiane spółgłoski zwarte, które są
 zazwyczaj pisane jako -p, -t i -k. Kantoński, wietnamski i koreański
 zostawiają je, tak jak były. Mandaryński usunął je. Japoński dodał
-samogłoski, by ułatwić wymowę. Pandunia zostawia końcowe spółgłoski
+samogłoski, by ułatwić wymowę. Panlingue zostawia końcowe spółgłoski
 zwarte i dodaje normalne przyrostki części mowy.
  
 | 字 | Rdzeń Panduni | Kantoński  | Mandaryński | Japoński   | Koreański  | Wietnamski |
@@ -452,7 +452,7 @@ polskim, angielskim i chińskim.
 
     Polski:     Ja kocham cię, a ty kochasz mnie.
     Angielski:  I love you, and you love me.
-    Pandunia:   mi lova tu, tu lova mi.
+    Panlingue:   mi lova tu, tu lova mi.
     Chiński:    Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 Czasownik **bey** jest używany, gdy pacjens pojawia się pierwszy w
@@ -460,7 +460,7 @@ zdaniu. (To tak zwana strona bierna.)
 
     Polski:     Jabłka były zjedzone.
     Angielski:  The apples were eaten.
-    Pandunia:   apel bey niama.
+    Panlingue:   apel bey niama.
     Chiński:    Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bey** jest zapożyczeniem ze standardowego chińskiego, ale jest też
@@ -468,15 +468,15 @@ podobne do niektórych użyć polskiego "być" i angielskiego "to be".
 
     Polski:     To nie może być zjedzone.
     Angielski:  It can not be eaten.
-    Pandunia:   ye no abla bey niama.
+    Panlingue:   ye no abla bey niama.
     Chiński:    Tā bù néng bèi chī. (它不能被吃。)
 
-Jak chiński, Pandunia nie oznacza czasowników końcówkami jak "-ić"
+Jak chiński, Panlingue nie oznacza czasowników końcówkami jak "-ić"
 lub słowami jak "to".
 
     Polski:     Zapraszam go do wypicia kawy.
     Angielski:  I invite him to drink coffee.
-    Pandunia:   mi pliza ye niama kafe.
+    Panlingue:   mi pliza ye niama kafe.
     Chiński:    Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 W Panduni i chińskim, rzeczowniki mogą być w liczbie pojedynczej lub
@@ -487,18 +487,18 @@ byłem, byliście, będziemy..._
 
     Polski:     To jest jabłko.
     Angielski:  It is an apple.
-    Pandunia:   ye si apel.
+    Panlingue:   ye si apel.
     Chiński:    Tā shì píngguǒ. (他是苹果。)
 
     Polski:     To są jabłka.
     Angielski:  They are apples.
-    Pandunia:   yemen si apel.
+    Panlingue:   yemen si apel.
     Chiński:    Tāmen shì píngguǒ. (他们是苹果。)
 
 
 
-## Pandunia - język globalny
+## Panlingue - język globalny
 
-![](http://www.pandunia.info/grafe/bandera.png "Flaga Panduni")
+![](http://www.panlingue.info/grafe/bandera.png "Flaga Panduni")
 
 

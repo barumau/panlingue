@@ -101,7 +101,7 @@
 他動詞の目的語が次の動詞の主語として機能します。
     - 例) **me pliza te dona pese.** = 私はあなたにお願いします + あなたはお金を与えます = 私はあなたがお金をくれるようお願いします。
 10. 代名詞の対象が明確で、冗長に感じる場合は省略できます。
-    - **me** eska te baxa pandunia? → eska te baxa pandunia? = あなたは
+    - **me** eska te baxa panlingue? → eska te baxa panlingue? = あなたは
       パンドゥニアを話せますか?
     - **me** pliza te loga mingo. →  pliza loga mingo.
       = はっきりと話してください。
@@ -208,7 +208,7 @@ me **bono** sona.
 – 私の眠りは**良い。**  
 me sona **bono.**
 – 私は**よく**眠る。  
-te baxa pandunia **bono.**
+te baxa panlingue **bono.**
 – あなたは**上手に**パンドゥニアを話す。
 
 ### 3.3. その他の修飾詞の修飾
@@ -686,9 +686,9 @@ me ne **aga** pas tenu dom predoden wil ablo infeksa novokoronovirus zayoden.
 
 #### 7.8.1. 小依存文(VOVO)
 
-**me** eska te baxa pandunia.
+**me** eska te baxa panlingue.
 – パンドゥニアを話せますか。  
-eska te baxa pandunia?
+eska te baxa panlingue?
 – パンドゥニアを話せますか。
 
 #### 7.8.2. 小依存文(VVO)
@@ -1074,11 +1074,11 @@ me libu **sa** dome.
 (私は家と**共に**立っています)  
 私は家の**側に**立っています。 (訳注:日本語では例文からこの邦訳を連想出来ない)
 
-me loga **sa** pandunia.  
+me loga **sa** panlingue.  
 (私はパンドゥニアと**共に**話す)  
 私はパンドゥニア**で**話します。
  
-me loga **sa** doste **sa** pandunia <u>sa</u> telofone.  
+me loga **sa** doste **sa** panlingue <u>sa</u> telofone.  
 (私は友達**と**電話**と**パンドゥニア<u>と共に</u>話す)  
 私は電話**で**友達**と**パンドゥニア<u>で</u>話します。
 
@@ -1116,7 +1116,7 @@ jenger **marca** daw. - 戦士達が道<u>を</u>**行進しています**。
 **ko** は行儀、作法、
 様式、形式を表します。<!-- 英語の前置詞 *like*, *than*, *as*, *as if* に対応します。 -->
 
-me **jana** pandunia _ko_ <u>baxi darsogur</u>. - パンドゥニアを語学教師<u>のように</u>**知っています**。
+me **jana** panlingue _ko_ <u>baxi darsogur</u>. - パンドゥニアを語学教師<u>のように</u>**知っています**。
 
 **ko** は動詞または形容詞を比較条件に関連付けます。
 例では **jana**(知っている)が

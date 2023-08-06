@@ -1,6 +1,6 @@
-# Pronúncia e ortografia de pandunia
+# Pronúncia e ortografia de panlingue
 
-Pandunia usa o alfabeto latino básico mostrado abaixo junto com os
+Panlingue usa o alfabeto latino básico mostrado abaixo junto com os
 correspondentes símbolos Alfabeto Fonético Internacional (AFI):
 
 | a        | /a/     |
@@ -28,11 +28,11 @@ correspondentes símbolos Alfabeto Fonético Internacional (AFI):
 | y        | /j/     |
 | z        | /z≈dz/  |
 
-Em Pandunia, cada letra sempre representa o mesmo som e nenhuma letra é muda.
+Em Panlingue, cada letra sempre representa o mesmo som e nenhuma letra é muda.
 
 ## As vogais
 
-Pandunia tem cinco vogais, que são pronunciadas da mesma forma que em espanhol.
+Panlingue tem cinco vogais, que são pronunciadas da mesma forma que em espanhol.
 
     i   u
     e   o

@@ -1,10 +1,10 @@
-# Esperanto vs. Pandunia
+# Esperanto vs. Panlingue
 
 Esperanto on ollut suosituin keinotekoinen apukieli jo 1890-luvulta alkaen. Sen johdosta kaikkia uusia apukieliä verrataan itseoikeutetusti siihen.
 
 Esperantoa on myös arvosteltu vuosien varrella runsaastikin. Useimmiten toistuvat ongelmakohdat luetellaan Justin B. Ryen englanninkielisessä kirjoituksessa [Learn Not to Speak Esperanto](http://jbr.me.uk/ranto/index.html). Sille ovat kirjoittaneet vastineet mm. [Vítor De Araújo](https://elmord.org/misc/kontrauranto/) ja [Claude Piron](http://claudepiron.free.fr/articlesenanglais/why.htm).
 
-Arvostelusta huolimatta on tunnustettava, että esperantolla on kiistämättömiä ansioita ja se on apukielistä ylivoimaisesti menestynein. Mutta onko se todella ansainnut menestyksensä? Onko esperanto todella ihanteellinen maailmankieli? Käymme tässä kirjoituksessa esperanton merkittävimmät ongelmakohdat läpi ja vertaamme niitä panduniaan.
+Arvostelusta huolimatta on tunnustettava, että esperantolla on kiistämättömiä ansioita ja se on apukielistä ylivoimaisesti menestynein. Mutta onko se todella ansainnut menestyksensä? Onko esperanto todella ihanteellinen maailmankieli? Käymme tässä kirjoituksessa esperanton merkittävimmät ongelmakohdat läpi ja vertaamme niitä panlinguean.
 
 
 
@@ -19,7 +19,7 @@ Esperanton hatullisten kirjainten olemassaolo kyseenalaistetaan usein, koska nii
 
 Sen sijaan usein jää huomaamatta se, että esperanto käyttää kahta kirjaimistoa: suuraakkosia ja pienaakkosia. Molempien tarkoitus on esittää puhetta kirjoitettuna. Eli se on kuin löisi samaa naulaa kahdella vasaralla. Latinalaisissa, kreikkalaisissa ja kyrillisissä aakkosissa käytetään kirjaimista kahta versiota, mutta suurin osa maailman muista kirjoitusjärjestelmistä tulee toimeen yhdellä merkistöllä.
 
-Pandunian kirjoittamiseen käytetään loogisesti vain pieniä latinalaisia kirjaimia.
+Panlinguen kirjoittamiseen käytetään loogisesti vain pieniä latinalaisia kirjaimia.
 
     a b c d e f g h i j k l m n o p r s t u w x y z '
 
@@ -48,7 +48,7 @@ Esperantossa on kaikki piirteet kohtaa 7 lukuun ottamatta. Idossa, novialissa ja
 
 Nämä tavanomaiset länsieurooppalaiset kielenpiirteet eivät ole pahasta vain sen vuoksi että ne asettavat länsimaiset kielet etusijalle. Ne ovat pahasta myös sen vuoksi, että osa niistä on epäloogisia ja vaikeita niille, jotka eivät ole tottuneet niihin. Esimerkiksi artikkelien oikea käyttö ja kohteliaisuusmuodot ovat vaikeita suomalaisillekin. Maailmankielen ei tarvitse sellaisia sääntöjä.
 
-Panduniassa on vain piirre 1: _Sanaluokka määrittyy päätteen perusteella._ Se on myös eräs esperanton leimallisista piirteistä. Muuten pandunia eroaa suuresti esperantosta ja länsieurooppalaisista kielistä. Niinpä pandunia ei ole kieliopiltaan Eurooppa-keskeinen toisin kuin esperanto.
+Panlinguessa on vain piirre 1: _Sanaluokka määrittyy päätteen perusteella._ Se on myös eräs esperanton leimallisista piirteistä. Muuten panlingue eroaa suuresti esperantosta ja länsieurooppalaisista kielistä. Niinpä panlingue ei ole kieliopiltaan Eurooppa-keskeinen toisin kuin esperanto.
 
 
 ### Läntinen vai kansainvälinen sanasto?
@@ -57,7 +57,7 @@ Esperanto kehuskelee kansainvälisellä sanastollaan. Tarkemmin katsottuna se ei
 
 Eikö ole röyhkeää luoda kansainvälinen kieli katsomatta omaa naapurustoa pidemmälle? Joskin sehän oli ajanhengen mukaista, esperantohan luotiin siirtomaavaltojen aikakaudella.
 
-Pandunia tunnustaa, että maailmassa on useita kansainvälisiä sanastoja. Suurimmat niistä ovat läntinen, intialainen, kiinalainen ja persialais-arabialainen. Pandunia lainaa satoja sanoja niistä jokaisesta ja sen sanasto on tasapuolisesti kansainvälinen.
+Panlingue tunnustaa, että maailmassa on useita kansainvälisiä sanastoja. Suurimmat niistä ovat läntinen, intialainen, kiinalainen ja persialais-arabialainen. Panlingue lainaa satoja sanoja niistä jokaisesta ja sen sanasto on tasapuolisesti kansainvälinen.
 
 
 
@@ -77,9 +77,9 @@ Useimpien ihmisten mielestä keino 1 tuottaa "luonnolliselta" kuulostavia sanoja
 
 Tämä ongelma kasvaa suuremmaksi, kun nimiä siirretään esperantoon. Onko mitenkään edes mahdollista siirtää samankaltaisia nimiä kuten Mari, Maria ja Mario esperantoon siten, että ne kuulostavat oikealta ja eivät sotkeudu toisiinsa? Ilmeisesti ei. Nimittäin tavallisesti sekä Mari että Maria kirjoitetaan esperantoksi "Maria" – vaikka -a on virallisesti adjektiivin pääte!
 
-### Sanojen lainaaminen panduniaan
+### Sanojen lainaaminen panlinguean
 
-Panduniassa substantiivin pääte on -e tai ei mitään. Yleensä päätettä -e käytetään sanoissa, joiden ääntäminen olisi vaikeaa ilman sitä.
+Panlinguessa substantiivin pääte on -e tai ei mitään. Yleensä päätettä -e käytetään sanoissa, joiden ääntäminen olisi vaikeaa ilman sitä.
 
 1. Ei lisätä mitään päätettä sanavartaloihin, jotka ovat yleisesti helppoja ääntää. Esim. problem.
 2. Lisätään pääte -e sanavartaloihin, jotka päättyvät vaikeisiin konsonantteihin. Esim. bote (boat), supe (soup), sufle (soufflé).
@@ -87,7 +87,7 @@ Panduniassa substantiivin pääte on -e tai ei mitään. Yleensä päätettä -e
 
 Heittomerkki siirtää sananpainon viimeiselle tavulle, joten ero on havaittavissa myös puhutussa kielessä.
 
-Näillä keinoilla panduniaan voi lainata kaikenlaisia sanoja tärkeitä kirjaimia muuttamatta ja hävittämättä.
+Näillä keinoilla panlinguean voi lainata kaikenlaisia sanoja tärkeitä kirjaimia muuttamatta ja hävittämättä.
 
 
 ### Esperanton sanavartaloilla on sanaluokka
@@ -108,7 +108,7 @@ Esimerkiksi _blua_ (sininen) ja _malferma_ (avoin) ovat adjektiiveja, mutta vain
 
 ### Sanavartaloita ilman luokkia
 
-Panduniassa sanavartalot ovat sanaluokattomia, joten kenenkään ei tarvitse painaa mieleensä esimerkiksi sitä, onko  **kay-** (auki) pohjimmiltaan verbi vai adjektiivi. Sanaluokka tulee mukaan vasta kun sana saa sanaluokkapäätteen: -i merkitsee adjektiivia, -a aktiivista verbiä ja -u passiivista verbiä.
+Panlinguessa sanavartalot ovat sanaluokattomia, joten kenenkään ei tarvitse painaa mieleensä esimerkiksi sitä, onko  **kay-** (auki) pohjimmiltaan verbi vai adjektiivi. Sanaluokka tulee mukaan vasta kun sana saa sanaluokkapäätteen: -i merkitsee adjektiivia, -a aktiivista verbiä ja -u passiivista verbiä.
 
 | nil-               | kay-              | jen-               |
 |:-------------------|:------------------|:-------------------|

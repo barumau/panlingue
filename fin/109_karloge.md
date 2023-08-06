@@ -4,7 +4,7 @@
 
 Verbi tarkoittaa tekemistä tai tapahtumista, esim. syödä, puhua, katsoa, ajatella.
 
-Panduniassa verbejä on kahta lajia: a-päätteisiä verbejä ja u-päätteisiä verbejä. Pääte ratkaisee sanajärjestyksen lauseenosien eli subjektin ja objektin suhteen.
+Panlinguessa verbejä on kahta lajia: a-päätteisiä verbejä ja u-päätteisiä verbejä. Pääte ratkaisee sanajärjestyksen lauseenosien eli subjektin ja objektin suhteen.
 
 ## A-päätteiset verbit
 
@@ -16,7 +16,7 @@ A-päätteiset verbit seuraavat tätä kolmiomaista kaavaa.
 
 ### SVO-järjestys
 
-Panduniassa yleisin sanajärjestys on subjekti-verbi-objekti eli SVO. Tässä sanajärjestyksessä siis subjekti tulee ensin, sitten verbi ja viimeisenä objekti.
+Panlinguessa yleisin sanajärjestys on subjekti-verbi-objekti eli SVO. Tässä sanajärjestyksessä siis subjekti tulee ensin, sitten verbi ja viimeisenä objekti.
 
     subjekti-verbi-objekti
     
@@ -137,7 +137,7 @@ Kaikkien verbien päätteenä on **-a** tai **-u**.
 
 ### Ajan ja paikan prepositiot
 
-Panduniassa on kolme aikaa ja paikkaa ilmaisevaa prepositiota.
+Panlinguessa on kolme aikaa ja paikkaa ilmaisevaa prepositiota.
 
 1. **sa** = paikka tai ajanhetki yleensä: -ssa, -lla, luona
 2. **du** = lähtöpaikka tai -aika: -sta, -lta, luota, lähtien
@@ -183,11 +183,11 @@ Myös toinen lause voi toimia preposition täydennyksenä. Silloin kyseessä on 
 **me stasa sa dome.**  
 Minä seison talon luona.
  
-**me loga sa pandunia.**  
-Minä puhun panduniaksi.
+**me loga sa panlingue.**  
+Minä puhun panlingueksi.
  
-**me loga sa doste sa pandunia sa fon.**  
-Minä puhun ystävien kanssa panduniaa puhelimessa.
+**me loga sa doste sa panlingue sa fon.**  
+Minä puhun ystävien kanssa panlinguea puhelimessa.
 
 ### Verbit preposition asemassa
 
@@ -218,7 +218,7 @@ Tässä on joitakin verbejä, joita voi käyttää prepositioiden asemasta:
 
 ### Verbi ilman prepositiota
 
-Panduniassa prepositioita käytetään vähemmän kuin suomessa ja englannissa. Monesti lauseen pääverbi ilmaisee asian jo riittävän tarkasti.
+Panlinguessa prepositioita käytetään vähemmän kuin suomessa ja englannissa. Monesti lauseen pääverbi ilmaisee asian jo riittävän tarkasti.
 
 **me laya dome.**
 = Minä tulen kotiin.  
@@ -236,8 +236,8 @@ Panduniassa prepositioita käytetään vähemmän kuin suomessa ja englannissa. 
 
 Prepositio **ko** ilmaisee tapaa. Se vastaa suomen sanoja _kuin_ ja _kuten_.
 
-**me jana pandunia ko gur.**
-= Minä osaan panduniaa kuin/kuten mestari.
+**me jana panlingue ko gur.**
+= Minä osaan panlinguea kuin/kuten mestari.
 
 **ko** muodostaa vertailusuhteen verbin tai adjektiivin ja vertailtavan asian kesken. Edellisessä esimerkissä **jana** (osata) on verbi ja **gur** (mestari) on vertailukohta.
 

@@ -1,24 +1,24 @@
 
-Pandunia - maailman yhteyskieli
+Panlingue - maailman yhteyskieli
 ===============================
 
 ## Näkökulmia maailmasta
 
 Monet ihmiset ovat tottuneet näkemään alla olevan näköisen maailmankartan. Kyseessä on tunnettu [Mercatorin projektio](https://fi.wikipedia.org/wiki/Mercatorin_projektio), joka valitettavasti vääristää pinta-alaa.
 
-![](http://www.pandunia.info/grafe/metrograf_da_merkator.jpg "Mercatorin palloprojektio")
+![](http://www.panlingue.info/grafe/metrograf_da_merkator.jpg "Mercatorin palloprojektio")
 
 Mistä se johtuu? Maapallon on kolmiulotteinen kappale, jota on mahdotonta grafea täydellisesti kaksiulotteisena piirustuksena. Yksi tunnetuimmista pinta-alan oikein esittävistä kartoista on [Equal Earth projektio](https://en.wikipedia.org/wiki/Equal_Earth_projection). Se näyttää pinta-alat oikein mutta muodot väärin. Vertaa Grönlannin ja Afrikan kokoa näillä kartoilla. Mercatorin projektiossa Grönlanti näyttää Afrikan kokoiselta, mutta Equal Earth projektio paljastaa, että todellisuudessa Afrikka on 14 kertaa Grönlantia suurempi.
 
-![](http://www.pandunia.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth palloprojektio")
+![](http://www.panlingue.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth palloprojektio")
 
 Se luonnollisesta maailmasta. Me elämme myös ihmisten maailmassa, jossa maapallo on jaettu valtioihin ja kansakuntiin. Tavallisissa kartoissa valtioiden koko riippuu niiden pinta-alasta.
 
-![](http://www.pandunia.info/grafe/metrograf_da_aria.png "Valtiokartta")
+![](http://www.panlingue.info/grafe/metrograf_da_aria.png "Valtiokartta")
 
 Alla olevassa kartassa valtiot on piirretty väkiluvun eikä pinta-alan mukaan. Näin piirrettynä esim. Suomi näyttää entistä pienemmältä ja Kiina ja Intia entistä suuremmilta – ja vielä enemmän kun vertailukohtana on Mercatorin projektio!
 
-![](http://www.pandunia.info/grafe/karte_da_insania.png "Väestökartta")
+![](http://www.panlingue.info/grafe/karte_da_insania.png "Väestökartta")
 
 Meidän mielestä maailmankielen pitäisi edustaa kaikkia ihmisiä. Kaikkien maanosien ja kulttuurien täytyy olla reilusti ja demokraattisesti edustettuina. Maailmankielen kieliopin täytyy olla kaikille helppo. Mikään maantieteellinen tai kulttuurinen alue ei saa jyrätä muita alleen, vaan kielen täytyy olla tasapuolisesti kaikkien omaksuttavissa.
 
@@ -60,11 +60,11 @@ Tämän hetken tärkein kansainvälinen kieli on epäilemättä englanti. Toisaa
 
 Luvuista näkee, että yleiskiina (mandariinikiina) on ylivoimaisesti puhutuin äidinkieli, ja englanti on yleisin vieras kieli. Kummankin yhteenlaskettu puhujamäärä yltää miljardiin. Kuitenkin heti perässä on kieliä, joiden puhujat lasketaan sadoissa miljoonissa. Kaikille yhteistä kieltä ei ole.
 
-**Pandunia** on luotu ratkaisemaan yhteisen kielen puute. Pandunia on keinotekoinen maailmankieli, joka on huolella suunniteltu helpottamaan kansainvälistä viestintää kaikkialla maailmassa.
+**Panlingue** on luotu ratkaisemaan yhteisen kielen puute. Panlingue on keinotekoinen maailmankieli, joka on huolella suunniteltu helpottamaan kansainvälistä viestintää kaikkialla maailmassa.
 
-Pohjimmiltaan pandunia on maailman kahden tärkeimmän kielen, englannin ja yleiskiinan, sekoitus. Pandunian kieliopillinen rakenne myötäilee niitä monilta osin. Sen lisäksi pandunia lainaa sanoja monesta muusta kielestä, mukaan lukien espanja, hindi, urdu, arabia, portugali, bangla, venäjä, ranska, indonesia ja swahili.
+Pohjimmiltaan panlingue on maailman kahden tärkeimmän kielen, englannin ja yleiskiinan, sekoitus. Panlinguen kieliopillinen rakenne myötäilee niitä monilta osin. Sen lisäksi panlingue lainaa sanoja monesta muusta kielestä, mukaan lukien espanja, hindi, urdu, arabia, portugali, bangla, venäjä, ranska, indonesia ja swahili.
 
-Pandunia on paljon velkää näille suurille kansallisille ja kansainvälisille kielille, mutta niihin verrattuna pandunia on yksinkertainen, helppo ja todella yleismaailmallinen. Se on eräs yksinkertaisimmista koskaan puhutuista kielistä ja kaikkia muita kansainvälisempi. Se on niin yksinkertainen, että sen koko kieliopin voi kirjoittaa yhdelle sivulle.
+Panlingue on paljon velkää näille suurille kansallisille ja kansainvälisille kielille, mutta niihin verrattuna panlingue on yksinkertainen, helppo ja todella yleismaailmallinen. Se on eräs yksinkertaisimmista koskaan puhutuista kielistä ja kaikkia muita kansainvälisempi. Se on niin yksinkertainen, että sen koko kieliopin voi kirjoittaa yhdelle sivulle.
 
 
 ## Suhteellisen helppo
@@ -90,12 +90,12 @@ Ylempänä luetellut kielet voidaan jakaa näiden tekijöiden perusteella neljä
 
 Yleensä kielissä on piirteitä useammasta kielityypistä. Esimerkiksi englannissa monikko voidaan muodostaa erittelemällä (esim. _many a cat_), liittämällä (esim. _cats_ = cat + s) ja yhdistämällä (esim. _leaves_ = leaf + s).
 
-Pandunia kuuluu ensimmäiseen kielityyppiin. Se on [analyyttinen kieli](https://fi.wikipedia.org/wiki/Analyyttinen_kieli). Sen sanat koostuvat korkeintaan muutamasta osasta, jotka on helppo erottaa toisistaan. Se on hyvä piirre, koska tällainen kieli on helpompi oppia ja käyttää verrattuna kieliin, joissa on paljon pitkiä, taivutettuja sanoja.
+Panlingue kuuluu ensimmäiseen kielityyppiin. Se on [analyyttinen kieli](https://fi.wikipedia.org/wiki/Analyyttinen_kieli). Sen sanat koostuvat korkeintaan muutamasta osasta, jotka on helppo erottaa toisistaan. Se on hyvä piirre, koska tällainen kieli on helpompi oppia ja käyttää verrattuna kieliin, joissa on paljon pitkiä, taivutettuja sanoja.
 
 
 ## Yhteyskieli
 
-Pandunia on niin helppo, koska se on rakennettu luonnollisesti syntyneiden yhteyskielten, niin sanottujen [pidžinien](https://fi.wikipedia.org/wiki/Pidgin) inspiroimana. Pidžin on kieli, jonka ihmiset luovat äkillisestä tarpeestä puhua toisen kielen puhujien kanssa. Tällaisessa tilanteessa ihmiset poimivat sanoja ympäriltään ja käyttävät niitä uudella, yksinkertaistetulla tavalla asiansa sanomiseksi. Pidžinin ainoa tavoite on viestintä, joten lähes aina pidžinin kieliopista jää pois lähdekielen "turhat" rakenteet, kuten sijamuodot, monikon taivutus, taivutetut aikamuodot, kieliopillinen suku, määräinen ja epämääräinen artikkeli, jne.
+Panlingue on niin helppo, koska se on rakennettu luonnollisesti syntyneiden yhteyskielten, niin sanottujen [pidžinien](https://fi.wikipedia.org/wiki/Pidgin) inspiroimana. Pidžin on kieli, jonka ihmiset luovat äkillisestä tarpeestä puhua toisen kielen puhujien kanssa. Tällaisessa tilanteessa ihmiset poimivat sanoja ympäriltään ja käyttävät niitä uudella, yksinkertaistetulla tavalla asiansa sanomiseksi. Pidžinin ainoa tavoite on viestintä, joten lähes aina pidžinin kieliopista jää pois lähdekielen "turhat" rakenteet, kuten sijamuodot, monikon taivutus, taivutetut aikamuodot, kieliopillinen suku, määräinen ja epämääräinen artikkeli, jne.
 
 Kaikki pidžinit muistuttavat toisiaan kaikessa yksinkertaisuudessaan. Ne tavallaan edustavat vähäisintä inhimillistä kielioppia. Sellainen on ihanteellinen maailman yhteyskielelle!
 
@@ -109,13 +109,13 @@ Nykytilanteessa on itsestään selvää, että uutta maailmankieltä kirjoitetaa
 
 Sekä englannissa että yleiskiinassa on paljon vokaaleita. Englannin kielessä on 14-20 vokaalia murteesta riippuen. Yleiskiinassa on 9 perusvokaalia, joiden ääntämys vaihtelee tavun mukaan. Nämä ovat suuria määriä verrattuna siihen, että maailmanlaajuisesti kielissä on keskimäärin vain 5-6 vokaalia.
 
-Panduniassa on vain 5 vokaalia: a, e, i, o, u. Vokaalien osalta se on lähellä sellaisia kieliä kuin espanja, venäjä, swahili, japani ja indonesia, joissa on suhteellisen vähän vokaaleja.
+Panlinguessa on vain 5 vokaalia: a, e, i, o, u. Vokaalien osalta se on lähellä sellaisia kieliä kuin espanja, venäjä, swahili, japani ja indonesia, joissa on suhteellisen vähän vokaaleja.
 
 ### Yleiset konsonantit
 
-Pandunian konsonantisto on pienempi kuin englannissa ja yleiskiinassa. Suurin osa konsonantteja esittävistä kirjaimista äännetään samalla tavalla näissä kielissä. Erot koskevat enimmäkseen erilaisia suhuäänteitä. Alla oleva taulukko näyttää konsonanttien vastaavuudet panduniasta englantiin ja yleiskiinaan. Panduniasta puuttuvat äänteet ovat sulkujen sisällä.
+Panlinguen konsonantisto on pienempi kuin englannissa ja yleiskiinassa. Suurin osa konsonantteja esittävistä kirjaimista äännetään samalla tavalla näissä kielissä. Erot koskevat enimmäkseen erilaisia suhuäänteitä. Alla oleva taulukko näyttää konsonanttien vastaavuudet panlinguesta englantiin ja yleiskiinaan. Panlinguesta puuttuvat äänteet ovat sulkujen sisällä.
 
-|                | Pandunia    | Englanti      | Yleiskiina    |
+|                | Panlingue    | Englanti      | Yleiskiina    |
 |----------------|-------------|---------------|---------------|
 | Nasaalit       | m n ng      | m n ng        | m n ng        |
 | Sulkuäänteet   | p b t d k g | p b t d k g   | p b t d k g   |
@@ -130,10 +130,10 @@ Englannin kielen oikeinkirjoitussäännöt ovat vanhoja ja ne ovat jääneet puh
 
 Kiinan kielelle kehitettiin 1950-luvulla siirtokirjoitus latinalaisille aakkosille. Järjestelmän nimi on pīnyīn. Ikävä kyllä, sekään ei ole täysin säännöllinen siitä yksinkertaisesta syystä, että kiinan kielessä on enemmän äänteitä kuin mitä latinalaisissa aakkosissa on kirjaimia. Silti pīnyīn on huomattavasti säännöllisempi englannin oikeinkirjoitukseen verrattuna. Esimerkiksi englannin riimit _my, sigh, lie,_ ja _rye_ kirjoitettaisiin pīnyīnillä _mai, sai, lai, rai_.
 
-Pandunian kirjoitus pystyy olemaan äänteenmukaista, koska panduniassa on vähemmän äänteitä (24) kuin latinalaisissa aakkosissa on kirjaimia (26). Pandunian aakkoset ovat:  
+Panlinguen kirjoitus pystyy olemaan äänteenmukaista, koska panlinguessa on vähemmän äänteitä (24) kuin latinalaisissa aakkosissa on kirjaimia (26). Panlinguen aakkoset ovat:  
 a b c d e f g h i j k l m n o p r s t u w x y z
 
-Panduniaa kirjoitetaan äänteenmukaisesti. Jokainen kirjain tarkoittaa yhtä äännettä ja jokainen äänne voidaan kirjoittaa vain yhdellä kirjaimella. Kaikki sanat siis luetaan niin kuin ne kirjoitetaan.
+Panlinguea kirjoitetaan äänteenmukaisesti. Jokainen kirjain tarkoittaa yhtä äännettä ja jokainen äänne voidaan kirjoittaa vain yhdellä kirjaimella. Kaikki sanat siis luetaan niin kuin ne kirjoitetaan.
 
 ## Säännöllinen painotus
 
@@ -143,30 +143,30 @@ Englannin kielessä sanoilla ei ole sävelkorkoa, mutta niillä on sanapaino. Se
 
 Sävelkoron oppiminen on vaikeaa niihin tottumattomille. Epäsäännöllisen sanapainon oppiminen on vaikeaa niille, jotka ovat tottuneet säännölliseen painotukseen. Kumpikaan piirre ei ole sen paremmin hyödyllinen kuin välttämätönkään maailmankielessä.
 
-Panduniassa sanapaino on säännöllinen. Paino lankeaa viimeistä konsonanttia ennen olevalle tavulle. Näin: **mi wól lóga supér dúnia báx.** Tällä tavalla sanojen painottaminen on sekä helppoa että monipuolista.
+Panlinguessa sanapaino on säännöllinen. Paino lankeaa viimeistä konsonanttia ennen olevalle tavulle. Näin: **mi wól lóga supér dúnia báx.** Tällä tavalla sanojen painottaminen on sekä helppoa että monipuolista.
 
-Panduniassa ei ole sävelkorkoa tavuissa eikä edes kysymyslauseissa tarvitse käyttää _nousevaa intonaatiota_.
+Panlinguessa ei ole sävelkorkoa tavuissa eikä edes kysymyslauseissa tarvitse käyttää _nousevaa intonaatiota_.
 
 ## Sanojen helppo rakenne
 
 Yleiskiinassa sanat voivat loppua joko vokaaliin tai yhteen seuraavista konsonanteista: -n, -ng, -r. Yleiskiinan puhujien on vaikea ääntää muita sanan lopussa olevia konsonantteja. Kantoninkiinassa ja eräissä muissa kiinan muodoissa sanan lopussa voi olla myös -k, -t tai -p.
 
-Pandunian sanat päättyvät useimmiten vokaaliin, mutta sanan lopussa saa olla myös yksi konsonantti. Tämä on eräänlainen kompromissi kiinan yksinkertaisuuden ja englannin monimutkaisuuden välillä.
+Panlinguen sanat päättyvät useimmiten vokaaliin, mutta sanan lopussa saa olla myös yksi konsonantti. Tämä on eräänlainen kompromissi kiinan yksinkertaisuuden ja englannin monimutkaisuuden välillä.
 
 
 
 ## Maailmanlaajuinen sanasto
 
-Pandunia lainaa sanoja englannista, kiinasta ja muista maailman kielistä. Luonnollisesti sanat yksinkertaistetaan pandunian kirjoitusjärjestelmään ja ääntämykseen sopiviksi, jotta kaikki voisivat puhua yhtä helposti.
+Panlingue lainaa sanoja englannista, kiinasta ja muista maailman kielistä. Luonnollisesti sanat yksinkertaistetaan panlinguen kirjoitusjärjestelmään ja ääntämykseen sopiviksi, jotta kaikki voisivat puhua yhtä helposti.
 
-Pandunian persoonapronominit ovat hyvä esimerkki sanojen kansainvälisyydestä.
+Panlinguen persoonapronominit ovat hyvä esimerkki sanojen kansainvälisyydestä.
 
 - **mi** (minä) kuulostaa samalta kuin englannin "me", espanjan "mí" ja monen muun indoeurooppalaisen kielen sana.
 - **tu** (sinä) kuulostaa samalta kuin espanjan ja portugalin "tu" sekä hindin ja urdun "tū" (तू).
 - **ye** kuulostaa samalta kuin hindi-urdun "ye" (यह) ja useiden bantukielten pronominit, mukaan lukien lingalan "yé", swahilin "yeye" ja zulun "ye-".
 - Monikkomuodot muodostetaan samalla tavalla kuin yleiskiinassa eli lisäämällä loppuun **-men**: **mimen** (me), **tumen** (te) ja **yemen** (he).
 
-|Suomi | Englanti| Pandunia | Kiina   |
+|Suomi | Englanti| Panlingue | Kiina   |
 |------|---------|----------|---------|
 | minä | I       | mi       | wǒ      |
 | sinä | you     | tu       | nǐ      |
@@ -179,44 +179,44 @@ Huom. Kolmannen persoonan pronomini **ye** viittaa kaikkiin sukupuoliin niin kui
 
 ## Helppo lauserakenne
 
-Pandunian yleisin sanajärjestys on subjekti-predikaatti-objekti, joka on myös yleisin sanajärjestys englannissa ja kiinassa.
+Panlinguen yleisin sanajärjestys on subjekti-predikaatti-objekti, joka on myös yleisin sanajärjestys englannissa ja kiinassa.
 
     Englanti:  I love you, and you love me.
-    Pandunia:  mi lova tu, tu lova mi.
+    Panlingue:  mi lova tu, tu lova mi.
     Kiina:     Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 Objektin voi siirtää lauseen alkun verbin **bey** avulla.
 
     Englanti:  The apples were eaten.
-    Pandunia:  aple bey niama.
+    Panlingue:  aple bey niama.
     Kiina:     Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bey** on lainaa kiinan kielestä, mutta sen käyttö muistuttaa myös joitakin englannin olla-verbin "to be" käyttötapoja.
 
     Englanti:  It can not be eaten.
-    Pandunia:  ye no abla bey niama.
+    Panlingue:  ye no abla bey niama.
     Kiina:     Tā bù néng bèi chī. (它不能被吃。)
 
-Kuten kiinassa, panduniassa ei tarvitse merkitä infiniittimuotoista verbiä, mikä tehdään englannissa artikkelilla "to".
+Kuten kiinassa, panlinguessa ei tarvitse merkitä infiniittimuotoista verbiä, mikä tehdään englannissa artikkelilla "to".
 
     Englanti:  I invite him to drink coffee.
-    Pandunia:  mi pliza ye niama kafe.
+    Panlingue:  mi pliza ye niama kafe.
     Kiina:     Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
-Panduniassa ja kiinassa sama substantiivimuoto käy sekä yksikössä että monikossa. Siis englannin kielen tapaista monikon päätettä (-s) ei ole. Molemmissa kielissä ei myöskään taivuteta verbejä persoona- eikä aikamuodoissa.
+Panlinguessa ja kiinassa sama substantiivimuoto käy sekä yksikössä että monikossa. Siis englannin kielen tapaista monikon päätettä (-s) ei ole. Molemmissa kielissä ei myöskään taivuteta verbejä persoona- eikä aikamuodoissa.
 
     Englanti:  It is an apple.
-    Pandunia:  ye si aple.
+    Panlingue:  ye si aple.
     Kiina:     Tā shì píngguǒ. (他是苹果。)
 
     Englanti:  They are apples.
-    Pandunia:  yemen si aple.
+    Panlingue:  yemen si aple.
     Kiina:     Tāmen shì píngguǒ. (他们是苹果。)
 
 
 
-## Pandunia - koko maailman kieli
+## Panlingue - koko maailman kieli
 
-![](http://www.pandunia.info/bander/bander.png "Pandunian lippu")
+![](http://www.panlingue.info/bander/bander.png "Panlinguen lippu")
 
 

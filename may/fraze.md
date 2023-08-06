@@ -1,4 +1,4 @@
-# Pandunia kata demi kata
+# Panlingue kata demi kata
 
 
 Bagian 1: Salam

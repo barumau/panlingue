@@ -1,9 +1,9 @@
 
-![](http://www.pandunia.info/bandir/bandir.png "bandir da pandunia")
+![](http://www.panlingue.info/bandir/bandir.png "bandir da panlingue")
 
-#pandunia - adali dunbax
+#panlingue - adali dunbax
 
-#### [pandunia](pandunia/index.md)
+#### [panlingue](panlingue/index.md)
 
 #### [cini – 中文](cini/index.md)
 

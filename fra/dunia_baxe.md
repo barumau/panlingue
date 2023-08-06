@@ -1,15 +1,15 @@
-# Le Pandunia - Langue de contact mondiale
+# Le Panlingue - Langue de contact mondiale
 
 ## Introduction
 
-Cet article décrit pourquoi et comment le Pandunia a été créé pour être une langue auxiliaire mondiale égalitaire.
+Cet article décrit pourquoi et comment le Panlingue a été créé pour être une langue auxiliaire mondiale égalitaire.
 
 ## Tableau d'ensemble
 
 Beaucoup de gens sont habitués à voir ce genre de mappemonde. C'est la fameuse carte de projection Mercator.
 Malheureusement elle déforme la surface réelle des territoires.
 
-![](http://www.pandunia.info/grafe/metrograf_da_merkator.jpg "Mercator projection")
+![](http://www.panlingue.info/grafe/metrograf_da_merkator.jpg "Mercator projection")
 
 Pourquoi cela ? Le monde est un globe 3D et le dessiner sous la forme d'une carte 2D n'est pas évident.
 Les projections aux justes proportions telles que celles de
@@ -18,17 +18,17 @@ affichent les surfaces terrestres telles qu'elles sont (ou du moins le plus fid�
 Comparez les tailles du Groenland et de l'Afrique sur ces deux cartes.
 Dans la projection Mercator, le Groenland semble plus grand, tandis que dans celle de Equal Earth c'est l'Afrique (14 fois la taille du Groenland).
 
-![](http://www.pandunia.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth projection")
+![](http://www.panlingue.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth projection")
 
 C'est le monde naturel.
 Nous vivons également dans un monde d'humains divisé par des frontières entre les nations.
 Dans une représentation classique des pays du monde, la taille des pays est définie par leur zone géographique.
 
-![](http://www.pandunia.info/grafe/metrograf_da_aria.png "Map by area")
+![](http://www.panlingue.info/grafe/metrograf_da_aria.png "Map by area")
 
 Cependant, la projection cartographique ci-dessous est basée sur la population des pays et non sur leur zone géographique.
 
-![](http://www.pandunia.info/grafe/karte_da_insania.png "Map by Population 2002")
+![](http://www.panlingue.info/grafe/karte_da_insania.png "Map by Population 2002")
 
 À notre avis, une langue du monde devrait représenter le monde humain.
 Chaque partie du monde, chaque culture doit être traitée équitablement et démocratiquement.
@@ -86,7 +86,7 @@ Le chinois standard est écrit en sinogrammes (caractères chinois),
 mais il forme un système si complexe que les écoliers apprennent d'abord à lire l'alphabet latin.
 Ce système de romanisation est connu sous le nom de Pīnyīn.
 
-C'est pour cette raison que le Pandunia utilise l'alphabet latin.
+C'est pour cette raison que le Panlingue utilise l'alphabet latin.
 
 ### Seulement cinq voyelles
 
@@ -95,16 +95,16 @@ L'anglais comporte entre 14 et 20 voyelles, selon le dialecte.
 e chinois standard en compte 9 (et beaucoup d'autres types de voyelles).
 Ces chiffres sont plutôt élevés si on on considère que généralement on ne dépasse pas les 5 à 6 voyelles.
 
-Le Pandunia n'a que 5 voyelles pures : a, e, i, o, u.
+Le Panlingue n'a que 5 voyelles pures : a, e, i, o, u.
 À cet égard, il est proche de langues telles que l'espagnol, le swahili, le japonais et l'indonésien, qui ont un nombre limité de voyelles simples.
 
 ### Consonnes communes
 
-Le nombre de consonne en Pandunia est moins élevé qu'en anglais ou en mandarin.
+Le nombre de consonne en Panlingue est moins élevé qu'en anglais ou en mandarin.
 La majorité des consonnes est prononcée de la même manière dans les trois langues ci-dessous.
-Les sons qui existent en anglais ou en mandarin mais pas en Pandunia sont mis entre parenthèses.
+Les sons qui existent en anglais ou en mandarin mais pas en Panlingue sont mis entre parenthèses.
 
-|            | Pandunia    | Anglais       | Pinyin Mandarin |
+|            | Panlingue    | Anglais       | Pinyin Mandarin |
 | ---------- | ----------- | ------------- | --------------- |
 | Nasales    | m n ng      | m n ng        | m n ng          |
 | Occlusives | p b t d k g | p b t d k g   | p b t d k g     |
@@ -120,9 +120,9 @@ La complexité des modèles (combinaisons) syllabiques peut varier d'une langue 
 Par exemple, en japonais, la syllabe la plus lourde est CVN, où C est une consonne, V est une voyelle et N est une consonne nasale.
 En anglais on trouvera des combinaisons bien plus complexes comme dans  "sprints" (CCCVNCC).
 
-Le Pandunia se situe quelque part au milieu.
+Le Panlingue se situe quelque part au milieu.
 Son vocabulaire comporte des mots qui, pour la plupart, sont de simples combinaisons de consonnes-voyelles (CV),
-mais des syllabes plus complexes sont également permises comme dans **kristal** (crystal) qui est un mot considéré comme complexe en Pandunia.
+mais des syllabes plus complexes sont également permises comme dans **kristal** (crystal) qui est un mot considéré comme complexe en Panlingue.
 Les mots d'emprunts plus complexes peuvent être traités des deux manières : 
 
 1. Choisir une variante plus simple à partir d'une autre langue. 
@@ -139,11 +139,11 @@ Ceci est dû au fait qu'il y a plus de sons dans le chinois parlé qu'il n'y a d
 Pourtant, par rapport à l'anglais, le Pinyin est très régulier. Par exemple, les rimes anglaises "my", "sigh", "lie", et "rye" s'écriraient en Pīnyīn "mai", "sai", "lai", "lai", "rai".
 C'est aussi simple que ça !
 
-Le Pandunia est épelé régulièrement, parce qu'il comporte moins de sons parlés (24) qu'il n'y a de lettres dans l'alphabet latin de base (26).
-L'alphabet du Pandunia est le suivant :  
+Le Panlingue est épelé régulièrement, parce qu'il comporte moins de sons parlés (24) qu'il n'y a de lettres dans l'alphabet latin de base (26).
+L'alphabet du Panlingue est le suivant :  
 a b c d e f g h i j k l m n o p r s t u w x y z
 
-En Pandunia, les mots sont prononcés comme ils sont écrits : une lettre, un son ; un son, une lettre.
+En Panlingue, les mots sont prononcés comme ils sont écrits : une lettre, un son ; un son, une lettre.
 
 ### Accent tonique simple
 
@@ -159,10 +159,10 @@ Si nous devions représenter les accents toniques de chacun de ces mots, cela do
 Les tons et les accents toniques variables sont difficiles à appréhender pour ceux qui n'y sont pas habitués.
 Aucune de ces deux caractéristiques n'est nécessaire dans une langue mondiale.
 
-Le Pandunia a par conséquent déterminé une règle simple :
+Le Panlingue a par conséquent déterminé une règle simple :
 l'accent tonique se place toujours sur la syllabe qui précède la dernière consonne.
 Ex : **me wána lóga bón dúnia báxe.**
-Le Pandunia n'a pas d'accent lexical de hauteur.
+Le Panlingue n'a pas d'accent lexical de hauteur.
 
 
 ## Structure relativement simple
@@ -192,7 +192,7 @@ Par exemple, en anglais le pluriel se forme de différentes manières :
 "Cats" est un mot agglutinant qui se compose de deux parties distinctes ("cat" et "-s")
 et "Leaves" est un mot fusionné qui comporte deux parties ("leaf" et "-s").
 
-Le Pandunia appartient au premier type. C'est une langue analytique dont les mots se composent de peu de parties que l'on peut aisément séparer, de ce fait la langue est plus facile à apprendre et à utiliser que d'autres langues dont les mots sont en général plus longs et composés de plusieurs parties.
+Le Panlingue appartient au premier type. C'est une langue analytique dont les mots se composent de peu de parties que l'on peut aisément séparer, de ce fait la langue est plus facile à apprendre et à utiliser que d'autres langues dont les mots sont en général plus longs et composés de plusieurs parties.
 
 
 ### Parties de mot
@@ -211,7 +211,7 @@ La plupart des affixes ne se suffisent pas à eux-mêmes, ils ont besoin d'une r
 
 L'arabe utilise des transfixes (affixes qui s'insèrent de manière discontinue dans un mot) dont le principe consiste à insérer des voyelles au sein d'un groupe de consonne (généralement trois). L'arabe utilise également de nombreux préfixes et suffixes pour créer d'autres mots.
 
-Le Pandunia utilise un système de racines et d'affixes connus de la plupart des gens. 
+Le Panlingue utilise un système de racines et d'affixes connus de la plupart des gens. 
 Grâce à ce système, de nouveaux mots peuvent être créés facilement.
 
 
@@ -257,7 +257,7 @@ Il y a trois principaux types de langues :
 
 Le troisième type est de loin le plus intéressant pour une langue mondiale qui doit accueillir des personnes ayant des habitudes linguistiques différentes.
 
-L'organisation des mots en Pandunia est libre. Ceci est possible grâce aux terminaisons -a et -u qui inverse le sens des mots par le biais d'un verbe. En Pandunia, les verbes peuvent aussi fonctionner comme adpositions (appelés _coverbes_).
+L'organisation des mots en Panlingue est libre. Ceci est possible grâce aux terminaisons -a et -u qui inverse le sens des mots par le biais d'un verbe. En Panlingue, les verbes peuvent aussi fonctionner comme adpositions (appelés _coverbes_).
 
 **me ama te.** (SVO)  
 **me te amu.** (SOV)  
@@ -298,28 +298,28 @@ L'anglais utilise également ce genre d'affixes.
 - Noms : shortness (petitesse), shorty (nabot, nain ; ou court pour un vêtement)
 - Verbe : shorten (raccourcir)
 
-Le Pandunia emprunte des racines de mots occidentaux afin de proposer un vocabulaire familier au plus grand nombre de locuteurs possible.
+Le Panlingue emprunte des racines de mots occidentaux afin de proposer un vocabulaire familier au plus grand nombre de locuteurs possible.
 
-| Racine Pandunia | Anglais     | Portugais | Espagnol | Français | Allemand | Russe    |
+| Racine Panlingue | Anglais     | Portugais | Espagnol | Français | Allemand | Russe    |
 | --------------- | ----------- | --------- | -------- | -------- | -------- | -------- |
 | **kort**        | short       | curto     | corto    | court    | kurz     | korotkiy |
 | **now**         | new         | novo      | nuevo    | nouveau, neuf  | neu      | novıy    |
 | **marc**        | march       | marcha    | marcha   | marche   | Marsch   | marš     |
 | **post**        | post (mail) | (postal)  | posta    | poste    | Post     | počta    |
 
-A l'instar des langues citées ci-dessus, le Pandunia utilise également des suffixes afin de créer des adjectifs, des noms et des verbes. Voici quelques exemples : korti (court), korte (nabot, nain), korta (raccourcir), novi (nouveau), nove (des nouvelles [informations]), nova (renouveler, rénover).
+A l'instar des langues citées ci-dessus, le Panlingue utilise également des suffixes afin de créer des adjectifs, des noms et des verbes. Voici quelques exemples : korti (court), korte (nabot, nain), korta (raccourcir), novi (nouveau), nove (des nouvelles [informations]), nova (renouveler, rénover).
 
 
 ### Le vocabulaire sinitique
 
 Le vocabulaire sinitique est constitué de mots chinois datant du moyen-âge qui sont aujourd'hui utilisés dans les langues de l'Asie de l'Est, y compris les langues chinoises, le japonais, le coréen et le vietnamien. Les mots sinitiques sont des mots d'une syllabe ou encore des combinaisons d'éléments syllabiques.
 
-Le chinois médiéval avait un système tonal lexical. Aujourd'hui des langues comme le chinois ou le vietnamien utilisent également des tons, mais ce ne sont pas les mêmes qu'en chinois classique. A l'instar du japonais ou du coréen, le Pandunia ignore les tons afin de faciliter la prononciation des mots.
+Le chinois médiéval avait un système tonal lexical. Aujourd'hui des langues comme le chinois ou le vietnamien utilisent également des tons, mais ce ne sont pas les mêmes qu'en chinois classique. A l'instar du japonais ou du coréen, le Panlingue ignore les tons afin de faciliter la prononciation des mots.
 
 Le chinois médiéval utilisait des consonnes occlusives sans relâchement d'air qui sont généralement écrites -p, -t et -k. Le cantonais, le vietnamien et le coréen les ont gardées pour la plupart telles qu'elles étaient, le mandarin les a supprimées et le japonais leur a ajouté une voyelle pour en faciliter la prononciation.
-Le Pandunia quant à lui conserve la consonne – p, t ou k, –, finale et lui ajoute un suffixe grammatical.
+Le Panlingue quant à lui conserve la consonne – p, t ou k, –, finale et lui ajoute un suffixe grammatical.
 
-| 字   | Racine Pandunia | Cantonais | Mandarin | Japonais | Coréen | Vietnamien |
+| 字   | Racine Panlingue | Cantonais | Mandarin | Japonais | Coréen | Vietnamien |
 | ---- | --------------- | --------- | -------- | -------- | ------ | ---------- |
 | 水   | **suy**         | sui       | shuǐ     | sui      | su     | thuỷ       |
 | 中   | **jung**        | zung      | zhōng    | chū      | jung   | trung      |
@@ -336,55 +336,55 @@ Appliquer des suffixes aux racines sinitiques peut paraître surprenant au premi
 
 ## Phrases faciles
 
-Dans cette section, nous allons comparer les structures de phrases du Pandunia avec celles de l'anglais et du chinois, les deux langues les plus parlées dans le monde.
+Dans cette section, nous allons comparer les structures de phrases du Panlingue avec celles de l'anglais et du chinois, les deux langues les plus parlées dans le monde.
 
 L'ordre normal des mots est sujet-verbe-objet - tout comme en anglais ou en chinois.
 
     Anglais :   I love you, and you love me.
-    Pandunia :  me ama te, te ama me.
+    Panlingue :  me ama te, te ama me.
     Chinois :   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
     Français :  Je t'aime, et tu m'aimes.
 
 Le verbe **beyu** est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'est ce qu'on appelle la phrase passive.)
 
     Anglais :   The apples were eaten.
-    Pandunia :  aple beyu niama.
+    Panlingue :  aple beyu niama.
     Chinois :   Píngguǒ bèi chī le. (苹果被吃了。)
     Français :  Les pommes ont été mangées.
 
 **Beyu** est un mot emprunté au chinois standard, mais il est également proche de certaines utilisations de l'anglais "to be".
 
     Anglais :   It can not be eaten.
-    Pandunia :  le no abla beyu niama.
+    Panlingue :  le no abla beyu niama.
     Chinois :   Tā bù néng bèi chī. (它不能被吃。)
     Français :	Ça ne peut pas être mangé.
 
-Comme le chinois, le Pandunia ne marque pas les verbes avec un mot comme "to" (français : "à").
+Comme le chinois, le Panlingue ne marque pas les verbes avec un mot comme "to" (français : "à").
 
     Anglais :   I invite him to drink coffee.
-    Pandunia:   me pliza le niama kafe.
+    Panlingue:   me pliza le niama kafe.
     Chinois :   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
     Français :  Je l'invite à boire du café.
     
 
-En pandunia et en chinois, les noms peuvent être singuliers ou pluriels selon le contexte.
+En panlingue et en chinois, les noms peuvent être singuliers ou pluriels selon le contexte.
 Il n'y a pas de terminaison au pluriel comme -s en anglais ou en français et les verbes ne sont pas conjugés. Un seul mot, **si**, est utilisé au lieu de _am, is, are, was, were..._ (_suis, es, est, sommes, êtes, sont, étais, était, étions, étiez…_).
 
     Anglais :   It is an apple.
-    Pandunia :  le si aple.
+    Panlingue :  le si aple.
     Chinois :   Tā shì píngguǒ. (他是苹果。)
     Français :  C'est une pomme.
     
     
     Anglais :   They are apples.
-    Pandunia :  lole si aple.
+    Panlingue :  lole si aple.
     Chinois :   Tāmen shì píngguǒ. (他们是苹果。)
     Français :  Ce sont des pommes.
     
 
-## Le Pandunia - Une langue mondiale
+## Le Panlingue - Une langue mondiale
 
-![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag")
+![](http://www.panlingue.info/grafe/bandera.png "Panlingue flag")
 
 
 Mis à jour le 27 mars 2020.

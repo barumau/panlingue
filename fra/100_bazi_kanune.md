@@ -1,6 +1,6 @@
 # Règles de base
 
-Voici les règles de base de la langue pandunia.
+Voici les règles de base de la langue panlingue.
 Elles seront abordées plus en détail plus loin dans ce document.
 
 1. Tout mot est lu comme il est écrit.
@@ -28,7 +28,7 @@ Elles seront abordées plus en détail plus loin dans ce document.
 9. Dans la _structure pivot_, l'objet du verbe transitif fonctionne comme le sujet du verbe qui suit.
     - ex. **me pliza te dona pes.** = I te demande de donner de l'argent.
 10. Les pronoms peuvent être omis quand ils sont évidents et redondant.
-    - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Parles-tu le pandunia?
+    - **me eska te baxa panlingue?** → **eska te baxa panlingue?** = Parles-tu le panlingue?
     - **me pliza te loga mingo.** →  **pliza loga mingo.**
       = S'il te plait, parle distinctement.
 11. Les mots composés se construisent en mettant les mots-racines l'un à côté de l'autre.

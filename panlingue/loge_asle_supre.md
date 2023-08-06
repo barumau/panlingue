@@ -1,6 +1,6 @@
-# asle da lekse da pandunia
+# asle da lekse da panlingue
   
-pandunia du loge laya ya pol bax da dunia.
+panlingue du loge laya ya pol bax da dunia.
   
 - afriki bax
     - (ara) arabi 

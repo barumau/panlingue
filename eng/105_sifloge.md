@@ -6,7 +6,7 @@ for example good, bad, big, and fast.
 ## Modifying a noun
 
 An adjective is a word that adds a particular quality for a noun.
-In Pandunia, adjectives typically end in **-i** and their place is before a noun.
+In Panlingue, adjectives typically end in **-i** and their place is before a noun.
 
 **novi gar**
 – new car(s)  

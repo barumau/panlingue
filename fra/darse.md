@@ -6,9 +6,9 @@ Se présenter
 
 Note : Au travers des leçons proposées sur cette page, vous
 remarquerez que le pronom à la deuxième personne du singulier -
-**te** (en Pandunia) -, est tantôt famillier (tutoiement) tantôt
+**te** (en Panlingue) -, est tantôt famillier (tutoiement) tantôt
 soutenu (vouvoiement) selon le contexte. Ces traductions sont
-purement arbitraires, car en Pandunia le **te** est toujours neutre
+purement arbitraires, car en Panlingue le **te** est toujours neutre
 sur le plan de la politesse et de l'intimité.
 
 ### Dialogue
@@ -28,13 +28,13 @@ sur le plan de la politesse et de l'intimité.
 
 ### Grammaire
 
-Les phrases en Pandunia suivent normalement la structure sujet-commentaire.
+Les phrases en Panlingue suivent normalement la structure sujet-commentaire.
 Le sujet indique de qui ou de quoi on parle. Le commentaire dit
 quelque chose sur le sujet. Par exemple, dans **le si mi doste**,
 le sujet est le pronom **le** (il, elle, il neutre), suivi du
 commentaire **si mi doste** (est mon amie).
 
-Le mot **si** signifie _être_ et _oui_ en Pandunia. Le même mot est utilisé pour toutes les personnes. 
+Le mot **si** signifie _être_ et _oui_ en Panlingue. Le même mot est utilisé pour toutes les personnes. 
 Et pour dire le contraire, remplacez le simplement par **no** (qui signifie à la fois _ne pas_ et _non_)
 
 **le si sarah.**
@@ -56,7 +56,7 @@ De la même façon, vous pouvez vous décrire en utilisant **me** suivi d'un mot
 
 ### Exercices
 
-Essayez de traduire ces phrases du français au Pandunia. Les réponses correctes sont données plus bas.
+Essayez de traduire ces phrases du français au Panlingue. Les réponses correctes sont données plus bas.
 
 1. Qui es-tu ?
 2. Je suis Thomas.
@@ -96,7 +96,7 @@ Essayez de traduire ces phrases du français au Pandunia. Les réponses correcte
 **salam**
 = Bonjour ! | Salut !
 
-C'est de cette manière que les gens se saluent en Pandunia. Ils
+C'est de cette manière que les gens se saluent en Panlingue. Ils
 disent **salam** à la fois pour dire bonjour et au revoir.
 
 **salam**
@@ -105,7 +105,7 @@ disent **salam** à la fois pour dire bonjour et au revoir.
 Le mot **salam** signifie "salutation". C'est à l'origine un mot
 arabe qui signifie _paix_ et c'est une manière de se saluer
 commune dans de nombreuses parties du monde, en particulier en
-Afrique et en Asie. Le Pandunia est une langue mondiale construite
+Afrique et en Asie. Le Panlingue est une langue mondiale construite
 qui emprunte des mots de toutes les parties du monde.
 
 La forme verbale de **salam** est **salama**, qui signifie "saluer".
@@ -123,13 +123,13 @@ important et ne change jamais.
 
 > Ordre des mots dans une phrase active : Sujet + Verbe + Complément
 
-Les pronoms personnels en Pandunia sont : **me** = je, **te** = tu,
+Les pronoms personnels en Panlingue sont : **me** = je, **te** = tu,
 et **le** = il, elle, il neutre. Notez que les pronoms restent les
 mêmes dans les phrases d'exemples précédentes. Les mots ne changent
-jamais en Pandunia ; ils restent toujours les mêmes peu importe leur
+jamais en Panlingue ; ils restent toujours les mêmes peu importe leur
 position dans une phrase. 
 
-En Pandunia, les phrases peuvent être raccourcies en omettant les
+En Panlingue, les phrases peuvent être raccourcies en omettant les
 pronoms lorsque ceux-ci se devinent.
 
 **me salama te!**
@@ -159,7 +159,7 @@ pouvez librement choisir lequel utiliser pour saluer les gens.
 
 ### Exercices
 
-Essayez de traduire ces phrases du français au Pandunia.
+Essayez de traduire ces phrases du français au Panlingue.
 Les réponses correctes sont données plus bas.
 
 1. Tu le/la salues.
@@ -212,8 +212,8 @@ Les réponses correctes sont données plus bas.
 
 ### Grammaire
 
-Les pronoms personnels en Pandunia sont : **me** = je, **te** = tu,
-et **le** = il, elle, il neutre.  Le pandunia est une langue neutre
+Les pronoms personnels en Panlingue sont : **me** = je, **te** = tu,
+et **le** = il, elle, il neutre.  Le panlingue est une langue neutre
 du point de vue du genre. Il ne fait pas de distinction entre les
 sexes des pronoms à la troisième personne ou de n'importe quels
 autres pronoms. Tous les pronoms personnels sont présents dans la
@@ -231,7 +231,7 @@ charnière entre les deux verbes.
 
 > Stucture Pivot : Sujet+ Verbe¹ + Objet/Sujet + Verbe² + Objet
 
-La structure pivot est une structure fréquente en Pandunia.
+La structure pivot est une structure fréquente en Panlingue.
 
 Rappelez-vous qu'il est permis d'omettre les pronoms connus dans le
 contexte. En d'autres termes, le locuteur peut supposer que les
@@ -248,8 +248,8 @@ Avez-vous noté comment la traduction de **pliza** a changé entre les
 deux phrases ? Le sens du mot – le concept –, n'a pas changé, c'est
 son utilisation qui a changé. Le français reflète ce changement en
 utilisant des mots différents : "demander" et "s'il vous plaît". Le
-Pandunia peut faire face à de tels changements sans avoir recours à
-des mots différents. C'est un principe en Pandunia qu'il y ait
+Panlingue peut faire face à de tels changements sans avoir recours à
+des mots différents. C'est un principe en Panlingue qu'il y ait
 toujours exactement un mot pour un concept. On ne crée pas différents
 mots simplement parce que le rôle grammatical d'un concept change.
 
@@ -284,7 +284,7 @@ d'un seul verbe et d'un ton autoritaire.
 
 ### Exercices
 
-Essayez de traduire ces phrases du Français au Pandunia.
+Essayez de traduire ces phrases du Français au Panlingue.
 
 1. Il boit du thé.
 2. Le patron lui demande de s'asseoir.
@@ -332,8 +332,8 @@ Questions par oui ou par non
 = Du thé.  
 ☻: **e te?**
 = Et vous ?  
-○: **me no baxa pandunia...**
-= Je ne parle pas le Pandunia...  
+○: **me no baxa panlingue...**
+= Je ne parle pas le Panlingue...  
 ☻: **pardon! eska le niama cay?**
 = Pardon ! prend-il du thé ?  
 ☺: **no. le no niama cay. le niama kafe.**
@@ -382,8 +382,8 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 = Est-ce que le chef prend du café ?  
 **eska pape safa kamare?**
 = Le père nettoie-t-il la chambre ?  
-**eska niki baxa pandunia?**
-= Est-ce que Nicky parle le Pandunia ?
+**eska niki baxa panlingue?**
+= Est-ce que Nicky parle le Panlingue ?
 
 
 ### Apporter des réponses
@@ -422,10 +422,10 @@ le verbe principal de la question.
 
 ### Exercices
 
-Essayez de traduire ces phrases du Français au Pandunia.
+Essayez de traduire ces phrases du Français au Panlingue.
 
-1. Parles-tu le pandunia ?
-2. Oui, je parle le pandunia.
+1. Parles-tu le panlingue ?
+2. Oui, je parle le panlingue.
 3. La mère boit-elle du café ?
 4. Non, elle ne boit pas de café.
 5. Mange-t-elle de la soupe ?
@@ -450,8 +450,8 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Réponses aux exercices
 
-1. eska te baxa pandunia?
-2. si. me baxa pandunia.
+1. eska te baxa panlingue?
+2. si. me baxa panlingue.
 3. eska mame niama kafe?
 4. no. le no niama kafe.
 5. eska le niama supe?
@@ -475,7 +475,7 @@ phrase affirmative en phrase négative.
 
 Conceptuellement, la négation signifie l'absence ou la non-existence du mot nié (ne pas y avoir). Dans la phrase **me no salama te** le mot **no** nie
 l'existence de la salutation.
-En Pandunia, la négation affecte le mot qui le suit ; le sens de la phrase change donc selon l'emplacement du **no**.
+En Panlingue, la négation affecte le mot qui le suit ; le sens de la phrase change donc selon l'emplacement du **no**.
 
 **me pliza te safa kamare.**
 = Je te demande de nettoyer la chambre.  
@@ -499,7 +499,7 @@ Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et 
 
 ### Exercices
 
-Essayez de traduire ces phrases du français au Pandunia.
+Essayez de traduire ces phrases du français au Panlingue.
 Parfois, il y a plus d'une bonne réponse.
 
 1. Il ne nettoie pas la chambre.
@@ -551,7 +551,7 @@ si nécessaire.
 **ki yang dansa?**
 = Comment danser ? (**yang** = manière, style)
 
-En Pandunia, les questions commençant par _pourquoi_ sont posées à
+En Panlingue, les questions commençant par _pourquoi_ sont posées à
 l'aide de **ke saba**.
 
 **ke saba te suku maw?**
@@ -609,14 +609,14 @@ ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
 ### Exprimer le temps
 
-Il n'y a pas de conjugaison en Pandunia. Les verbes n'ont qu'une
+Il n'y a pas de conjugaison en Panlingue. Les verbes n'ont qu'une
 seule forme. Ils fonctionnement un peu comme le verbe anglais "to hit
 (frapper)" dont la forme ne change (pratiquement) jamais.
 
 **me darba le.**
 = Je le frappe / je l'ai frappé.
 
-En Pandunia tous les verbes fonctionnent ainsi ! Par exemple,
+En Panlingue tous les verbes fonctionnent ainsi ! Par exemple,
 **me niama pang** peut signifier à la fois "Je mange du pain" et
 "J'ai mangé du pain", mais en général un seul temps est retenu selon
 le contexte de la discussion. Par exemple lorsque les gens parlent à
@@ -691,7 +691,7 @@ marqueurs de temps ne sont pas nécessaires.
 
 ### Exercices
 
-Essayez de traduire ces phrases du Français au Pandunia. Les réponses correctes sont données ci-dessous.
+Essayez de traduire ces phrases du Français au Panlingue. Les réponses correctes sont données ci-dessous.
 
 1. Mon chef fêtera "ça" dans le futur	
 2. J'avais deux chiens.	

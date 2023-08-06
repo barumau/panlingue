@@ -1,6 +1,6 @@
-site_name: Pandunia
-site_url: http://www.pandunia.info/espani
-repo_url: https://github.com/barumau/pandunia/
+site_name: Panlingue
+site_url: http://www.panlingue.info/espani
+repo_url: https://github.com/barumau/panlingue/
 docs_dir: ../../espani
 site_dir: ../../html/espani
 theme: readthedocs
@@ -13,7 +13,7 @@ nav:
         - 'Frases básicas': fraze.md
         - 'Curso': darse.md
     - 'Diccionarios':
-        - 'Pandunia-Español': pandunia-espani.md
-        - 'Español-Pandunia': espani-pandunia.md
+        - 'Panlingue-Español': panlingue-espani.md
+        - 'Español-Panlingue': espani-panlingue.md
         - 'Diccionario etimologico': leksaslia.md
 

@@ -3,7 +3,7 @@
 ### Uninflected
 
 A noun is a word that names a thing.
-Like all words in Pandunia, nouns are invariant.
+Like all words in Panlingue, nouns are invariant.
 So the same form is used in singular and plural, in definite and indefinite, etc.
 
 **seke**
@@ -37,7 +37,7 @@ Number can be mentioned with number words when it is needed.
 
 ### Gender
 
-Pandunia doesn't have grammatical gender (i.e. masculine, feminine and/or neuter categories).
+Panlingue doesn't have grammatical gender (i.e. masculine, feminine and/or neuter categories).
 
 Some words have _natural gender_.
 For example **fem** (woman) is feminine and **man** (man) is masculine.

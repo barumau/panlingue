@@ -2,14 +2,14 @@
 
 ##. Modification du verbe
 
-En pandunia, les adverbes se terminent en **-o** et ils se placent avant le verbe ou à la fin de la phrase.
+En panlingue, les adverbes se terminent en **-o** et ils se placent avant le verbe ou à la fin de la phrase.
 
 **me _bono_ sona.** 
 – Je _bien_ dors.  
 **me sona _bono_.** 
 – Je dors _bien_.  
-**te baxa pandunia _bono_.** 
-– Tu parles pandunia _bien_.
+**te baxa panlingue _bono_.** 
+– Tu parles panlingue _bien_.
 
 
 ## Modification d'un autre modificateur

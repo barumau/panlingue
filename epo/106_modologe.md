@@ -4,12 +4,12 @@
 
 An adverb is a word that modifies a verb or another modifier.
 
-In Pandunia an adverb is a modifier that is before a verb or at the
+In Panlingue an adverb is a modifier that is before a verb or at the
 end of the sentence.
 
 > **me _bono_ sona.** - Mi _bone_ dormas.  
 > **me sona _bono_.** - Mi dormas _bone_.  
-> **te basha pandunia _bono_.** - Vi parolas Pandunian _bone_.
+> **te basha panlingue _bono_.** - Vi parolas Panlinguen _bone_.
 
 ## Modifante alian modifovorton
 

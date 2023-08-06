@@ -2,10 +2,10 @@
 
 ## Introduction
 
-Pandunia is a constructed language that is designed to be relatively easy for
+Panlingue is a constructed language that is designed to be relatively easy for
 everyone. You can learn it fast with this practical course.
 
-English speakers will find it easy to make basic sentences in Pandunia as the
+English speakers will find it easy to make basic sentences in Panlingue as the
 word order is generally the same as in English, there are no definite or
 indefinite articles, no verb "to be", and no complicated rules about changing
 the form of words to express singular and plural or the tense of verbs.
@@ -26,7 +26,7 @@ As they say, _repetition is the mother of learning_.
 Note! Many lessons include also tips and notes like this. They are there to
 clarify grammatical details for those who are interested. You can skip over
 them if they are not helpful. You don't have to know the theory of the
-language. You can just speak Pandunia!
+language. You can just speak Panlingue!
 
 ## Part 1: Greeting and basics
 
@@ -139,7 +139,7 @@ I greet mother.
 I greet father.
 
 The word **salam** is a noun and **salama** is the corresponding verb. The
-basic word order in Pandunia is subject-verb-object.
+basic word order in Panlingue is subject-verb-object.
 
 **Sara salama Tomas.**
 Sarah greets Thomas.
@@ -167,7 +167,7 @@ I greet you.
 **te salama me.**
 You greet me.
 
-Pronouns don't ever change their form in Pandunia. That's why **me** is the
+Pronouns don't ever change their form in Panlingue. That's why **me** is the
 same in subject and object positions while English has two different forms, 'I'
 and 'me'.
 
@@ -493,7 +493,7 @@ He/she eats an apple.
 **lole yama aple.**
 They eat apples.
 
-Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
+Note: Unlike English, Panlingue doesn't have separate singular and plural forms.
 Therefore a word like **aple** can refer to one or more apples.
 
 **suala te yama kafe?**
@@ -518,7 +518,7 @@ Would you like to eat?
 **te vola yama ke?**
 What would you like to eat?
 
-Tip: While English puts the "what" at the beginning of a question, in Pandunia
+Tip: While English puts the "what" at the beginning of a question, in Panlingue
 the word order is not affected by the **ke**.
 
 **me vola yama kafe.**
@@ -631,14 +631,14 @@ He/she doesn't know how to drive a car.
 **suala te abla reibona le?**
 Do you know how to fix it?
 
-**suala te abla pandunia?**
-Can you speak Pandunia?
+**suala te abla panlingue?**
+Can you speak Panlingue?
 
-**me abla pandunia.**
-I can speak Pandunia.
+**me abla panlingue.**
+I can speak Panlingue.
 
-**me abla lilo pandunia.**
-I can speak a little Pandunia.
+**me abla lilo panlingue.**
+I can speak a little Panlingue.
 
 **me no abla engli.**
 I can't speak English.
@@ -658,11 +658,11 @@ I talk to you.
 **mome loga va ses.**
 We talk to each other.
 
-**se loga "cat" ko ya pandunia?**
-How do you say "cat" in Pandunia?
+**se loga "cat" ko ya panlingue?**
+How do you say "cat" in Panlingue?
 
-**"cat" logu ko ya pandunia?**
-How is "cat" said in Pandunia?
+**"cat" logu ko ya panlingue?**
+How is "cat" said in Panlingue?
 
 **mau loga miau.**
 Cat says meow.
@@ -727,11 +727,11 @@ Please, write it here!
 
 ### baxa <small>speak a language, communicate</small>
 
-**suala tote baxa pandunia.**
-Do you speak Pandunia?
+**suala tote baxa panlingue.**
+Do you speak Panlingue?
 
-**mome baxa pandunia.**
-We speak Pandunia.
+**mome baxa panlingue.**
+We speak Panlingue.
 
 **suala te abla baxa engli?**
 Can you speak English?
@@ -1019,8 +1019,8 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**me darsa pandunia.**
-I study Pandunia.
+**me darsa panlingue.**
+I study Panlingue.
 
 **xova le va me ya logobuke!**
 Show me in the dictionary!

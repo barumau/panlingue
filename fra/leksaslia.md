@@ -1,5 +1,5 @@
-# pandunia-fransi ha logasle
-| pandunia | fransi | logasle |
+# panlingue-fransi ha logasle
+| panlingue | fransi | logasle |
 |----------|----------|----------|
 |**-i**|suffixe pour l'adjectif|ara:(-i), fas:(-i), hin:-ई (-ī), ben:-ই (-i), eng:-y, jpn:-い (-i), hun:-i|
 |**-u**|suffixe pour les verbes avec ordre des mots OVS|hau:wol:-u, swa:-wa|

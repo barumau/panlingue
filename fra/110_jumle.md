@@ -78,7 +78,7 @@ Donc le verbe vient en premier, et on utilise **ye** pour introduire un commenta
 
 #### 7.2.4. Être
 
-Le pandunia n'a pas de verbe tel que "être" en français.
+Le panlingue n'a pas de verbe tel que "être" en français.
 
 
 ### 7.3. Phrases active
@@ -87,7 +87,7 @@ Une phrase active est une phrase dans laquelle le sujet fait une action marquée
 L'attention se focalise sur le sujet en tant qu'élément actif.
 L'ordre des mots correct est sujet – verbe – objet (SVO).
 
-En pandunia, les verbes actifs sont faciles à identifier parce qu'ils se terminent tous en **-a**.
+En panlingue, les verbes actifs sont faciles à identifier parce qu'ils se terminent tous en **-a**.
 
 Les phrases suivantes utilisent l'ordre des mots de type SVO.
 
@@ -103,7 +103,7 @@ Dans une phrase passive, l'attention se focalise sur le sujet qui reçoit ou sub
 Donc l'objet de l'action est le sujet de la phrase.
 Souvent, le complément d'agent n'est pas mentionné du tout.
 
-En pandunia, la voix passive est marquée par la terminaison en **-u** du verbe. L'ordre des mots est sujet - verbe - (objet en option) ou, plus précisément verbe - (agent en option).
+En panlingue, la voix passive est marquée par la terminaison en **-u** du verbe. L'ordre des mots est sujet - verbe - (objet en option) ou, plus précisément verbe - (agent en option).
 
 **te vidu.** 
 – Tu es vu.e.  
@@ -163,10 +163,10 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 #### 7.8.1. Structure pivot brève (VOVO)
 
-**me eska te baxa pandunia.** 
-– Je demande (si) tu parles pandunia.  
-**eska te baxa pandunia?** 
-– Est-ce que tu parles pandunia ?
+**me eska te baxa panlingue.** 
+– Je demande (si) tu parles panlingue.  
+**eska te baxa panlingue?** 
+– Est-ce que tu parles panlingue ?
 
 #### 7.8.2. Short pivot structure (VVO)
 
@@ -364,8 +364,8 @@ Faites très attention aux voyelles finales ! Elles sont cruciales pour comprend
 **maw vidu du man** 
 – l'homme par qui _le chat est vu_
 
-Remarque : en pandunia, on peut utiliser beaucoup d'ordres de mots différents.
-C'est pourquoi certaines traductions semblent maladroites en français, bien que les phrases originales en pandunia soient parfaitement naturelles.
+Remarque : en panlingue, on peut utiliser beaucoup d'ordres de mots différents.
+C'est pourquoi certaines traductions semblent maladroites en français, bien que les phrases originales en panlingue soient parfaitement naturelles.
 
 
 #### 9.2.4. Modifications par des groupes de mots en adposition
@@ -389,7 +389,7 @@ Les particules modales indiquent ce à quoi le locuteur pense de ce qu'il/elle d
 Les particules modales sont couramment utilisées dans de nombreuses langues.
 Des langues de l'Asie de l'Est, y compris le chinois et le japonais, utilisent en particulier des particules modales en fin de phrase.
 
-En pandunia, une particule modale modifie le mot qui la suit, ou bien toute la phrase si cette particule est le dernier mot de la phrase.
+En panlingue, une particule modale modifie le mot qui la suit, ou bien toute la phrase si cette particule est le dernier mot de la phrase.
 
 La particule **plus** _(aussi, également)_ en est un bon exemple car elle fonctionne plutôt comme en français.
 
@@ -407,7 +407,7 @@ Les particules modales peuvent modifier toutes sortes de mots, y compris des pro
 
 ### 9.4. Particules de temps et d'aspect
 
-En pandunia, on peut exprimer le temps grammatical à l'aide de particules et expressions temporelles, si besoin.
+En panlingue, on peut exprimer le temps grammatical à l'aide de particules et expressions temporelles, si besoin.
 Les particules de temps générales sont **pas** (passé), **zay** (présent) et **wil** (future, avenir).
 Elles fonctionnent comme des adjectifs et des verbs, donc elles se placent généralement avant le verbe.
 

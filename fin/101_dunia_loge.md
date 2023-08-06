@@ -15,17 +15,17 @@ Hartmut Traunmuller jakaa maailman neljään suureen kulttuuripiiriin artikkelis
 
 Niiden rajat on piirretty summittaisesti alla olevaan maailman karttaan.
 
-![](http://www.pandunia.info/grafe/linguisticspheres.gif "Kulttuuripiirit kartalla")
+![](http://www.panlingue.info/grafe/linguisticspheres.gif "Kulttuuripiirit kartalla")
 
 
-Kuinka pandunian sanat saadaan?
+Kuinka panlinguen sanat saadaan?
 -------------------------------
 
-Pandunian sanat tulevat maailman laajiiten puhutuista kielistä. Sanat otetaan siten, että ne täyttävät kolme ehtoa:
+Panlinguen sanat tulevat maailman laajiiten puhutuista kielistä. Sanat otetaan siten, että ne täyttävät kolme ehtoa:
 
 - Tasapuolisuus: Sanat otetaan tasapuolisesti maailman eri puolilta.
-- Levinneisyys: Pandunian sanat ovat laajasti tunnettuja ja käytettyjä kansainvälisiä sanoja.
-- Yksinkertaisuus: Helposti äännettävät ja lyhyet sanat ovat pandunialle otollisia.
+- Levinneisyys: Panlinguen sanat ovat laajasti tunnettuja ja käytettyjä kansainvälisiä sanoja.
+- Yksinkertaisuus: Helposti äännettävät ja lyhyet sanat ovat panlinguelle otollisia.
 
 
 

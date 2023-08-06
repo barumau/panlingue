@@ -1,14 +1,14 @@
 # World Words
 
-<big>Where Pandunia words come from?</big>
+<big>Where Panlingue words come from?</big>
 
 ## Principles
 
-Most Pandunia words are already international – at least in some part of the world!
-The three key criteria for selecting words for Pandunia are:
+Most Panlingue words are already international – at least in some part of the world!
+The three key criteria for selecting words for Panlingue are:
 
 - **Equality** : Words are be borrowed equally from different regions of the world.
-  In practice it means that Pandunia borrows words from the languages of Africa, Asia, Europe and the Americas.
+  In practice it means that Panlingue borrows words from the languages of Africa, Asia, Europe and the Americas.
 - **Prevalence** : Widely spread words are favored.
   The more people know the word the better.
 - **Simplicity** : Word forms with easy pronunciation are favored.
@@ -38,7 +38,7 @@ The four major cultural spheres are:
 
 The cultural spheres are roughly outlined in the picture below.
 
-![](http://www.pandunia.info/grafe/linguisticspheres.gif "Map of cultural spheres")
+![](http://www.panlingue.info/grafe/linguisticspheres.gif "Map of cultural spheres")
 
 ## Selecting the source languages
 
@@ -61,11 +61,11 @@ It compares languages on how well they provide to a speaker the following five o
 5. Diplomacy: The ability to engage in international relations
 
 Chan builds a ranking of languages based on a combination of the above-listed opportunities.
-This ranking is used as a reference in Pandunia.
+This ranking is used as a reference in Panlingue.
 
-### The main source languages for Pandunia
+### The main source languages for Panlingue
 
-Most Pandunia words are borrowed from the following 14 widely spoken languages.
+Most Panlingue words are borrowed from the following 14 widely spoken languages.
 The languages are selected so that they represent different language families,
 different geographical regions and different cultures.
 
@@ -90,7 +90,7 @@ The following table is ordered by the rank in the Power Language Index.
 
 Because the languages constantly influence each other, there are a lot of international words.
 Some words are international in the West, some in the East, and some are even global.
-Pandunia attempts to use as international, intercontinental and global words as possible.
+Panlingue attempts to use as international, intercontinental and global words as possible.
 
 ## Word selection method
 
@@ -112,10 +112,10 @@ No. → Use the following word selection method.
     - The more international, the better.
     - The best words are cross-cultural.
     - If there's no cross-cultural word, select the one that is known by the greatest number of 1st language speakers.
-4. Select a word form that represents the group well and fits into Pandunia well.
+4. Select a word form that represents the group well and fits into Panlingue well.
     - Strip off unnecessary prefixes and suffixes.
-    - Use [the sounds, the spelling and the normal word structure](102_ABC.md) of Pandunia.
-    - Make sure that the new word is not identical or too similar to any already existing Pandunia word.
+    - Use [the sounds, the spelling and the normal word structure](102_ABC.md) of Panlingue.
+    - Make sure that the new word is not identical or too similar to any already existing Panlingue word.
 
 The list of source languages for general words:
 
@@ -171,8 +171,8 @@ which are some of the most densely populated areas in the world.
 As you can see, the same word is written and pronounced differently in different languages.
 This is typical of international words.
 They get adapted in almost every language to their own spelling system.
-Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
-So the Pandunia word for language becomes **bax**.
+Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Panlingue.
+So the Panlingue word for language becomes **bax**.
 
 
 ### Examples of global words

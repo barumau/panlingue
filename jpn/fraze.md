@@ -615,13 +615,13 @@
 **eska te abla xula le?**
 (あなたはそれを)修理できますか?
 
-**eska te abla pandunia?**
+**eska te abla panlingue?**
 (あなたは)パンドゥニアを話せますか?
 
-**me abla pandunia.**
+**me abla panlingue.**
 (私は)パンドゥニアを話せます。
 
-**me abla lilo pandunia.**
+**me abla lilo panlingue.**
 (私は)パンドゥニアを少し話せます。
 
 **me no abla engli.**
@@ -642,10 +642,10 @@
 **mome loga pa unale.**
 私達はお互いに向けて話しています(=私達は話し合っています)。
 
-**ze loga “cat” sa ki yange sa pandunia?**
+**ze loga “cat” sa ki yange sa panlingue?**
 「猫」はパンドゥニアでどの分類で話しますか? (訳注:例文が文法的におかしい。正常に訳せない)
 
-**“猫” logu ko sa pandunia?**
+**“猫” logu ko sa panlingue?**
 「猫」はパンドゥニアで何と言いますか? (訳注:答えは “猫” logu maw.)
 
 **maw loga miaw.**
@@ -711,10 +711,10 @@
 
 ### baxa <small>(言語を)話す、意思疎通する</small>
 
-**eska tote abla baxa pandunia.**
+**eska tote abla baxa panlingue.**
 あなたたちはパンドゥニアを話せますか?  (訳注:**abla** がない場合、話す技術がなく真似事の場合も含んでしまう)
 
-**mome abla baxa pandunia.**
+**mome abla baxa panlingue.**
 私たちはパンドゥニアを話せます。
 
 **eska te abla baxa engli?**
@@ -1004,8 +1004,8 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**me darsa pandunia.**
-I study Pandunia.
+**me darsa panlingue.**
+I study Panlingue.
 
 **xowa le pa me sa leksobuke!**
 Show me in the dictionary!

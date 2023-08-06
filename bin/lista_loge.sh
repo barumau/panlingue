@@ -1,41 +1,41 @@
-fata_liste_pandunia_X() {
-    #pandunia unodo
-    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$2	 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
+fata_liste_panlingue_X() {
+    #panlingue unodo
+    cat panlingue-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$2	 \" - \" \$$1 \"  \"}" > $2/panlingue-$2.md
     #morta unodi linye
-    sed -i '1d' $2/pandunia-$2.md
+    sed -i '1d' $2/panlingue-$2.md
     # alfobeta
-    sed -i 's/[A-Z] - .*$/####&/' $2/pandunia-$2.md
+    sed -i 's/[A-Z] - .*$/####&/' $2/panlingue-$2.md
     #Add header
-    sed -i "1s/^/# pandunia-$2\n/" $2/pandunia-$2.md
+    sed -i "1s/^/# panlingue-$2\n/" $2/panlingue-$2.md
     #Delete empty translations
-    sed -i '/-...$/d' $2/pandunia-$2.md
+    sed -i '/-...$/d' $2/panlingue-$2.md
 }
 
-fata_liste_X_pandunia() {
+fata_liste_X_panlingue() {
     #ali bax unodo
-    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$$1 \" - \" \$2 \"  \"}" > $2/$2-pandunia.md
+    cat panlingue-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$$1 \" - \" \$2 \"  \"}" > $2/$2-panlingue.md
     #morta unodi linye
-    sed -i '1d' $2/$2-pandunia.md
+    sed -i '1d' $2/$2-panlingue.md
     # alfobeta
-    cat $2/$2-pandunia.md | LC_ALL=C sort -f > temp/temp.txt
-    cat temp/temp.txt | sed 's/[A-Z] - .*$/####&/' > $2/$2-pandunia.md
+    cat $2/$2-panlingue.md | LC_ALL=C sort -f > temp/temp.txt
+    cat temp/temp.txt | sed 's/[A-Z] - .*$/####&/' > $2/$2-panlingue.md
     #Add header
-    sed -i "1s/^/# $2-pandunia\n/" $2/$2-pandunia.md
+    sed -i "1s/^/# $2-panlingue\n/" $2/$2-panlingue.md
     #Delete empty translations
-    sed -i '/^.-/d' $2/$2-pandunia.md
+    sed -i '/^.-/d' $2/$2-panlingue.md
 }
 
 fata_leksasli_liste() {
-#    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
-    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$$1 \"|\" \$5 \"|\"}" > $2/leksaslia.md
+#    cat panlingue-loge.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
+    cat panlingue-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$$1 \"|\" \$5 \"|\"}" > $2/leksaslia.md
     #morta unodi linye
     sed -i '1d' $2/leksaslia.md
     #Sort
     LC_ALL=C sort -f $2/leksaslia.md --output $2/leksaslia.md
     #Add header row
-    sed -i "1s/^/| pandunia | $2 | logasle |\n/" $2/leksaslia.md
+    sed -i "1s/^/| panlingue | $2 | logasle |\n/" $2/leksaslia.md
     #Add header
-    sed -i "1s/^/# pandunia-$2 ha logasle\n/" $2/leksaslia.md
+    sed -i "1s/^/# panlingue-$2 ha logasle\n/" $2/leksaslia.md
     #Delete empty translations
     sed -i '/||/d' $2/leksaslia.md
     #xula linye 2
@@ -45,13 +45,13 @@ fata_leksasli_liste() {
 
 fata_liste() {
     echo cana logoliste pa $2
-    fata_liste_pandunia_X $1 $2
-    fata_liste_X_pandunia $1 $2
+    fata_liste_panlingue_X $1 $2
+    fata_liste_X_panlingue $1 $2
     fata_leksasli_liste $1 $2
 }
 
 fata_lekse_asle() {
-    cat pandunia-loge.tsv | cut -f 2,5 > temp/lekse.txt
+    cat panlingue-loge.tsv | cut -f 2,5 > temp/lekse.txt
     sed -i '1d' temp/lekse.txt
     sed -i 's/\t/ ← /g' temp/lekse.txt
     awk ' { FS=" ← "; OFS=" ← "; t = $1; $1 = $2; $2 = t; print; } ' temp/lekse.txt > temp/temp.txt
@@ -60,7 +60,7 @@ fata_lekse_asle() {
     cat temp/abace.txt temp/temp.txt | sed 's/\t/@/g' | LC_ALL=C sort -f | sed 's/.00/##/g' | sed 's/@/ /g'> temp/lekse.txt
     #Add two spaces to line-ends
     sed 's/$/  /' -i temp/lekse.txt
-    cat pandunia/loge_asle_supre.md temp/lekse.txt > pandunia/loge_asle.md
+    cat panlingue/loge_asle_supre.md temp/lekse.txt > panlingue/loge_asle.md
 }
 
 tarja_logaslia_pa_engli() {
@@ -226,52 +226,52 @@ tarja_logaslia_pa_esperanti() {
 }
 
 
-#dos2unix pandunia-loge.csv
-sed 's/\t/|/g' -i pandunia-loge.csv
+#dos2unix panlingue-loge.csv
+sed 's/\t/|/g' -i panlingue-loge.csv
 
-# engli e pandunia
+# engli e panlingue
 fata_liste 6 engli
 fata_leksasli_liste 6 engli
 tarja_logaslia_pa_engli
 
 #Tiddly dictionary
-cp engli/pandunia-engli.md temp/temp.txt
+cp engli/panlingue-engli.md temp/temp.txt
 sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
 
-# esperanti e pandunia
+# esperanti e panlingue
 fata_liste 21 esperanti
 tarja_logaslia_pa_esperanti
 
-# suomi e pandunia
+# suomi e panlingue
 fata_liste 22 suomi
 tarja_logaslia_pa_suomi
 
-# polski e pandunia
+# polski e panlingue
 fata_liste 23 polski
 
-# Tiddly polski e pandunia
-cp polski/pandunia-polski.md temp/temp.txt
+# Tiddly polski e panlingue
+cp polski/panlingue-polski.md temp/temp.txt
 sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > polski/tiddly.html
 
-# cini e pandunia
+# cini e panlingue
 fata_liste 12 cini
 
-# rusi e pandunia
+# rusi e panlingue
 fata_liste 10 rusi
 
-# fransi e pandunia
+# fransi e panlingue
 fata_liste 7 fransi
 
-#Tiddly fransi e pandunia
-cp fransi/pandunia-fransi.md temp/temp.txt
+#Tiddly fransi e panlingue
+cp fransi/panlingue-fransi.md temp/temp.txt
 sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > fransi/tiddly.html
 
-# espani e pandunia
+# espani e panlingue
 fata_liste 8 espani
 
-# portugali e pandunia
+# portugali e panlingue
 fata_liste 9 portugali
 

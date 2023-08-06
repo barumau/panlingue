@@ -339,7 +339,7 @@ dom **no** hewan.
 = お茶を。  
 ☻: **e te?**
 = あなたは?  
-○: **me no baxa pandunia...** 
+○: **me no baxa panlingue...** 
 = 私はパンドゥニアを話せません… (訳注:「話してるじゃん」とツッコミを入れてはいけない)  
 ☻: **pardon! eska le niama cay?**
 = すみません。彼もお茶でよろしいでしょうか? <!-- 原文では「も」(英語なら too)とは言っていないが、会話の流れから日本語ではそうするのが普通 -->  
@@ -388,7 +388,7 @@ dom **no** hewan.
 = 先生はコーヒーを飲みますか?  
 **eska pape safa kamare?**
 = 父は部屋を掃除しますか??  
-**eska niki baxa pandunia?**
+**eska niki baxa panlingue?**
 = ニキ(あるいはニッキー。人の名前)はパンドゥニアを話せますか?
 
 
@@ -453,8 +453,8 @@ dom **no** hewan.
 
 ### 練習の答え
 
-1. eska te baxa pandunia?
-2. si. me baxa pandunia.
+1. eska te baxa panlingue?
+2. si. me baxa panlingue.
 3. eska mame niama kafe?
 4. no. me no niama kafe.
 5. eska le niama supe?

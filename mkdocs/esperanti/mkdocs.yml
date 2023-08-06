@@ -1,12 +1,12 @@
-site_name: Pandunia
-site_url: http://www.pandunia.info/esperanti
-repo_url: https://github.com/barumau/pandunia/
+site_name: Panlingue
+site_url: http://www.panlingue.info/esperanti
+repo_url: https://github.com/barumau/panlingue/
 docs_dir: ../../esperanti
 site_dir: ../../html/esperanti
 theme: readthedocs
 nav:
     - 'Ĉefpaĝo': 'index.md'
-    - 'Bazaĵoj kaj strukturo de Pandunia':
+    - 'Bazaĵoj kaj strukturo de Panlingue':
         - 'Bazaj reguloj': 100_bazi_kanun.md
         - 'Tutmonda vortaro': 101_dunia_loge.md
         - 'Prononco': 102_ABC.md
@@ -20,7 +20,7 @@ nav:
     - 'Lecionoj':
         - 'Utilaj frazoj': fraze.md
     - 'Vortaroj':
-        - 'Pandunia-Esperanto': pandunia-esperanti.md
-        - 'Esperanto-Pandunia': esperanti-pandunia.md
+        - 'Panlingue-Esperanto': panlingue-esperanti.md
+        - 'Esperanto-Panlingue': esperanti-panlingue.md
         - 'Etimologia vortaro': leksaslia.md
 

@@ -1,11 +1,11 @@
-# Basics of Pandunia
+# Basics of Panlingue
 
-This document is a simple guide to the main features of Pandunia.
+This document is a simple guide to the main features of Panlingue.
 
 
 ### Letters and sounds
 
-| Pandunia | IPA |
+| Panlingue | IPA |
 |----------|-----|
 | a | /a/ |
 | b | /b/ |

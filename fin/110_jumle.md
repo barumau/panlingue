@@ -1,10 +1,10 @@
-# Pandunian kielioppia
+# Panlinguen kielioppia
 
 ## 1. Yleiskatsaus
 
 ### 1.1. Johdanto
 
-Tämä kielioppi käsittelee pandunian sanaluokkia ja sanajärjestystä. 
+Tämä kielioppi käsittelee panlinguen sanaluokkia ja sanajärjestystä. 
 Se on tarkoitettu oppimisen tueksi,
 mutta parhaiten kielen oppii opettelemalla fraaseja ja keskusteluja.
 
@@ -14,14 +14,14 @@ Oppijalle vaikeuksia aiheuttavat mm.
 epäsäännöllinen kirjoitus, taivutussijat, aikamuodot, toonit, substantiivin ja adjektiivin yhteistaivutus,
 kunnioitusmuodot, vokaaliharmonia ja kieliopillinen suku.
 
-Pandunian oppiminen ei ole vaikeaa.
+Panlinguen oppiminen ei ole vaikeaa.
 Siinä ei ole ainoatakaan edellä luetelluista hankaluuksista,
 vaan sen sijaan sen kielioppi on helppo ja säännöllinen, sen sanasto on suhteellisen yksinkertainen, ja sitä kirjoitetaan äänteenmukaisesti.
 
 ### 1.2. Sanaluokat
 
 Sanaluokka on joukko sanoja, joilla on samanlaiset (taivutus)muodot ja joita käytetään lauseissa samalla tavalla.
-Panduniassa sanat koostuvat vartalosta ja loppuvokaalista, joka osoittaa sanan sanaluokan.
+Panlinguessa sanat koostuvat vartalosta ja loppuvokaalista, joka osoittaa sanan sanaluokan.
 Esimerkiksi suurin osa sanoista, joiden loppuna on **-a**, ovat verbejä.
 
 Sanaluokkien yliluokkia ovat sisältösanat ja funktiosanat.
@@ -32,7 +32,7 @@ Ne ylläpitävät lauseiden rakennetta,
 mutta ne eivät useinkaan tarkoita mitään.
 Esimerkiksi sana "että" on funktiosana.
 
-Panduniassa sisältösanoihin kuuluvat substantiivit, verbit ja määritteet;
+Panlinguessa sisältösanoihin kuuluvat substantiivit, verbit ja määritteet;
 ja funktiosanoihin kuuluvat pronominit, tarkenteet, konjunktiot ja suhdesanat.
 
 Loppuvokaalit osoittavat sisältösanojen luokat seuraavasti:
@@ -66,12 +66,12 @@ Esim. **un** (_yksi_), **unordi** (_ensimmäinen_);
 **dul** (_kaksi_), **dulordi** (_toinen_).
 -->
 
-Erisnimet ovat riippumattomia pandunian loppuvokaalikäytännöstä
+Erisnimet ovat riippumattomia panlinguen loppuvokaalikäytännöstä
 ja ne voivat päättyä mihin tahansa kirjaimeen.
-Esimerkiksi nimi _Mari_ voi olla **mari** myös panduniaksi,
+Esimerkiksi nimi _Mari_ voi olla **mari** myös panlingueksi,
 ja se toimii substantiivina toisin kuin loppuvokaalista voisi päätellä.
 Luonnollisesti tämä saattaa aiheuttaa sekaannuksia.
-Sen vuoksi on suositeltavaa että nimet mukautetaan pandunian rakenteen mukaisiksi
+Sen vuoksi on suositeltavaa että nimet mukautetaan panlinguen rakenteen mukaisiksi
 tai niiden kanssa käytetään kunnioittavaa loppuliitettä **san**, esim. **mari-san**.
 ## 7. Lausetyyppejä
 
@@ -140,13 +140,13 @@ Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeen
 
 #### 7.2.4. Olla-verbi
 
-Panduniassa ei käytetän suomen kielen kaltaista olla-verbiä.
+Panlinguessa ei käytetän suomen kielen kaltaista olla-verbiä.
 
 
 
 ### 7.3. Aktiivilauseet
 
-Aktiivilauseissa predikaatin pääsana on verbi eli teonsana. Panduniassa verbit on helppo tunnistaa, koska useimpien pääte **-a** tai **-u**.
+Aktiivilauseissa predikaatin pääsana on verbi eli teonsana. Panlinguessa verbit on helppo tunnistaa, koska useimpien pääte **-a** tai **-u**.
 
 A-päätteistä verbiä käyttävän aktiivilauseen sanajärjestys on subjekti–verbi–objekti (SVO).
 
@@ -202,7 +202,7 @@ Kun käytetään sanajärjestä verbi–objekti (VO), huomion kohteena on teko.
 
 ### 7.5. Kaikki sanajärjestykset
 
-Mahdollisia sanajärjestyksiä on kaikkiaan kuusi. Panduniassa ne ovat mahdollisia kahden verbipäätteen ansiosta, joilla lauseenosien eli subjektin ja objektin paikka valitaan.
+Mahdollisia sanajärjestyksiä on kaikkiaan kuusi. Panlinguessa ne ovat mahdollisia kahden verbipäätteen ansiosta, joilla lauseenosien eli subjektin ja objektin paikka valitaan.
 
 Eri sanajärjestysten avulla voidaan keskittää huomio eri lauseenosiin: subjektiin, objektiin tai verbiin. Tärkeimpänä pidetty sana on lauseessa ensimmäisenä.
 
@@ -217,14 +217,14 @@ Eri sanajärjestysten avulla voidaan keskittää huomio eri lauseenosiin: subjek
 
 Verbistä kauimmaisena oleva lauseenosa voidaan jättää pois. Esimerkiksi **musike me auda** (OSV) voidaan karsia muotoon **me auda** (SV). Samaten **me musike audu** (SOV) voidaan karsia muotoon **musike audu** (OV).
 
-Pandunian tavallisimmat sanajärjestykset ovat SVO, SOV ja OSV. Muita sanajärjestyksiä esiintyy lähinnä runoudessa ja muussa kirjallisuudessa.
+Panlinguen tavallisimmat sanajärjestykset ovat SVO, SOV ja OSV. Muita sanajärjestyksiä esiintyy lähinnä runoudessa ja muussa kirjallisuudessa.
 
 
 ### 7.6. Saranarakenne
 
 #### 7.6.1. Kokonainen saranarakenne (SVOVO)
 
-Saranarakenne on pandunian keskeisimpiä lauserakenteita. Lisäksi se toimii perustana muille rakenteille.
+Saranarakenne on panlinguen keskeisimpiä lauserakenteita. Lisäksi se toimii perustana muille rakenteille.
 
 Saranarakenteessa ensimmäisen teonsanan kohde on samalla toisen teonsanan tekijä.
 
@@ -264,12 +264,12 @@ Pronominit voidaan jättää pois silloin kun ne ovat muuten tunnettuja tai arva
 
 #### 7.8.1. Lyhyt saranarakenne (VOVO)
 
-**me eska te baxa pandunia.**
-= Minä kysyn, sinä puhutko panduniaa.  
-**eska te baxa pandunia?**
-= Puhutko sinä panduniaa?
+**me eska te baxa panlingue.**
+= Minä kysyn, sinä puhutko panlinguea.  
+**eska te baxa panlingue?**
+= Puhutko sinä panlinguea?
 
-Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lauseita, joissa puhuja kertoo, miten hän suhtautuu sanomaansa asiaan.
+Tällainen "karsittu" saranarakenne on panlinguessa yleinen tapa muodostaa lauseita, joissa puhuja kertoo, miten hän suhtautuu sanomaansa asiaan.
  
 **me xina le gowa dome.**
 = Minä luulen, että hän menee kotiin.   
@@ -372,7 +372,7 @@ Kieltomuotoisiin kysymyksiin vastattaessa **si** ja **no** koskevat verbiä eiv�
 
 ### 9.2. Määrepartikkelit
 
-Panduniassa on kaksi määrepartikkelia, **yu** ja **ya**. Ne eroavat toisistaan vain sanajärjestyksen osalta. Merkitykseltään ne ovat samoja.
+Panlinguessa on kaksi määrepartikkelia, **yu** ja **ya**. Ne eroavat toisistaan vain sanajärjestyksen osalta. Merkitykseltään ne ovat samoja.
 
 Määrepartikkeleilla ilmaistaan mm. omistusta. Sanaa **yu** käytetään siten, että ensin on määrite, keskimmäisenä **yu** ja viimeisenä pääsana. Sanaa **ya** käytetään päinvastaisessa järjestyksessä: ensin on pääsana, keskimmäisenä **ya** ja viimeisenä määrite. Määrepartikkeli muuttaa minkä tahansa sanan tai lausekkeen määreeksi. Siten myös asiansanoista ja teonsanoista voi tehdä määreitä.
 
@@ -451,7 +451,7 @@ Jos määrelauseessa on kohde mutta ei tekijää, päälauseen asiansana toimii 
 
 Tavan partikkeleilla puhuja voi ilmaista, miten hän suhtautuu sanomaansa asiaan. Monissa kielissä on jonkinlaisia tavan partikkeleita. Suomen kielessä sellaisia ovat sanat _vain, kai_ ja _toki_.
 
-Panduniassa tavan partikkeli määrittää seuraavaa sanaa tai, jos se on lauseen viimeisenä, se määrittää koko lausetta.
+Panlinguessa tavan partikkeli määrittää seuraavaa sanaa tai, jos se on lauseen viimeisenä, se määrittää koko lausetta.
 
 Partikkeli **plus** (myös) on hyvä esimerkki tavan partikkeleista, koska se toimii samalla tavalla kuin vastaava suomen sana.
 

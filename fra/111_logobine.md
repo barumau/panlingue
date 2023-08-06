@@ -2,21 +2,21 @@
 
 ## Introduction
 
-Cette grammaire traite du type des mots et des différentes façons d'ordonner les mots en pandunia. Cependant il est possible d'apprendre le pandunia sans lire cette grammaire, par exemple à l'aide du recueil d'expressions et du dictionnaire.
+Cette grammaire traite du type des mots et des différentes façons d'ordonner les mots en panlingue. Cependant il est possible d'apprendre le panlingue sans lire cette grammaire, par exemple à l'aide du recueil d'expressions et du dictionnaire.
 
 Tous les professeurs de langue savent qu'une langue devient plus difficile à apprendre à partir du moment où l'étudiant doit apprendre à faire des distinctions qu'il n'a pas l'habitude de faire.
 C'est pourquoi les étudiants ont des difficultés avec des points tels que l'orthographe irrégulière, les déclinaisons, la concordance des temps, les tons, l'accord entre le nom et l'adjectif, les degrés de politesse, l'harmonie vocalique ou consonantique, les distinctions obligatoires de genre, etc.
 
-Le pandunia n'est pas une langue difficile à apprendre.
+Le panlingue n'est pas une langue difficile à apprendre.
 Il ne possède aucune des complexités mentionnées ci-dessus.
 Au contraire, il possède une grammaire simple et régulière, un vocabulaire relativement simple et une orthographe phonétique simple.
 
-Il est possible de construire des mots nouveaux en pandunia. Le pandunia possède un système productif de dérivation lexicale. La plupart des suffixes qui sont utilisés en pandunia sont déjà dans l'usage international. Beaucoup d'entre eux proviennent du grec ancien, du latin, de l'arabe et du perse.
+Il est possible de construire des mots nouveaux en panlingue. Le panlingue possède un système productif de dérivation lexicale. La plupart des suffixes qui sont utilisés en panlingue sont déjà dans l'usage international. Beaucoup d'entre eux proviennent du grec ancien, du latin, de l'arabe et du perse.
 
 ### Marqueurs de catégories grammaticales
 
 Une catégorie grammaticale est un groupe de mots qui partagent des formes et des fonctions semblables dans les phrases.
-En pandunia, la catégorie grammaticale est souvent indiquée par la terminaison, en particulier la voyelle finale d'un mot.
+En panlingue, la catégorie grammaticale est souvent indiquée par la terminaison, en particulier la voyelle finale d'un mot.
 Par exemple, la plupart des mots qui se terminent en **-a** servent de verbes dans la phrase.
 
 Les deux grandes familles de catégories grammaticales sont les mots lexicaux et les mots-outils.
@@ -25,7 +25,7 @@ Les mots-outils sont les mots nécessaire à la grammaire.
 Aucun propos n'aura de sens sans les mots lexicaux,
 mais on a besoin des mots-outils pour assembler les mots lexicaux, en particulier dans de longues phrases.
 
-En pandunia, les familles principales de mots lexicaux sont : les noms, les verbes et les modificateurs ;
+En panlingue, les familles principales de mots lexicaux sont : les noms, les verbes et les modificateurs ;
 et les classes principales des mots-outils sont : les pronoms, les déterminants, les prépositions et les postpositions.
 
 Les terminaisons vocaliques marquent les classes des mots lexicaux comme suit :
@@ -89,9 +89,9 @@ Ainsi, **k-** sert de racine au pronom interrogatif **ke** (_quoi_),
 
 Les nombres cardinaux n'ont pas de terminaison vocalique.
 
-On considère que les noms propres ne font pas partie du système de racine et suffixe en pandunia.
+On considère que les noms propres ne font pas partie du système de racine et suffixe en panlingue.
 C'est pourquoi ils ne portent pas toujours les marqueurs des catégories grammaticales normales.
-Par exemple, le nom d'une personne qui s'appelle _Marie_ peut être **mari** en pandunia,
+Par exemple, le nom d'une personne qui s'appelle _Marie_ peut être **mari** en panlingue,
 et ce mot fonctionnera comme un nom, pas comme un modificateur (adjectif ou déterminant), contrairement à ce que la terminaison du mot indique.
 Evidemment, cela peut prêter à confusion.
 C'est pourquoi il est recommandé de modifier le nom de façon à adopter la terminaison normale des substantifs
@@ -146,7 +146,7 @@ Des suffixes nominaux supplémentaires sont présentés plus loin.
 
 ## Mots sans terminaisons
 
-Certains mots en pandunia n'ont pas de terminaison vocalique.
+Certains mots en panlingue n'ont pas de terminaison vocalique.
 En voici les règles :
 
 - Les verbes portent toujours une terminaison : **-a** ou **-u**.
@@ -159,7 +159,7 @@ En voici les règles :
 Ainsi nous utilisons normalement la forme brève **insan** (_être humain_) au lieu de **insane**.
 De même, nous disons normalement **bon** (_bon_) au lieu de **boni**.
 Remarque : utiliser les terminaisons vocaliques sur chaque mot est toujours acceptable.
-Il s'agit d'un choix artistique des auteurs du pandunia ne ne pas exiger ces terminaisons sur des racines terminées par des consonnes douces.
+Il s'agit d'un choix artistique des auteurs du panlingue ne ne pas exiger ces terminaisons sur des racines terminées par des consonnes douces.
 
 ## Mots composés
 
@@ -295,7 +295,7 @@ C'est une catégorie grammaticale fermée, c'est-à-dire que de nouveaux mots n'
 Les mots-fonctions se comportent par définition différemment des _mots lexicaux_,
 qui est une classe ouverte de mots qui se réfèrent aux choses du monde en dehors de la structure de la langue.
 
-En pandunia, les mots-fonctions possèdent les caractéristiques suivantes :
+En panlingue, les mots-fonctions possèdent les caractéristiques suivantes :
 
 1. Le mot est composé d'une consonne et d'une voyelle.
 2. La consonne marque l'idée générale du mot.

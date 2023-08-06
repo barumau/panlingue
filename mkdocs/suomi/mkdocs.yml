@@ -1,6 +1,6 @@
-site_name: Pandunia
-site_url: http://www.pandunia.info/suomi
-repo_url: https://github.com/barumau/pandunia/
+site_name: Panlingue
+site_url: http://www.panlingue.info/suomi
+repo_url: https://github.com/barumau/panlingue/
 site_author: Risto Kupsala
 docs_dir: ../../suomi
 site_dir: ../../html/suomi
@@ -13,7 +13,7 @@ nav:
     - 'Tietoa':
         - 'Maailman yhteyskieli': dunia_baxe.md
         - 'Kysymyksiä & vastauksia': eske_i_jawabe.md
-    - 'Pandunian perusteet ja rakenne':
+    - 'Panlinguen perusteet ja rakenne':
         - 'Perussäännöt': 100_bazi_kanune.md
         - 'Yleismaailmallinen sanasto': 101_dunia_loge.md
         - 'Ääntäminen': 102_ABC.md
@@ -28,7 +28,7 @@ nav:
         - 'Lauseita': fraze.md
         - 'Kurssi': darse.md
     - 'Sanasto':
-        - 'Pandunia-suomi': pandunia-suomi.md
-        - 'Suomi-pandunia': suomi-pandunia.md
+        - 'Panlingue-suomi': panlingue-suomi.md
+        - 'Suomi-panlingue': suomi-panlingue.md
         - 'Alkuperäsanasto': leksaslia.md
 

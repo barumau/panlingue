@@ -1,4 +1,4 @@
-# As regras da pandunia
+# As regras da panlingue
 
 1. Todas as palavras são pronunciadas da mesma forma como são escritas. Apenas as letras minúsculas são usadas.
 2. O acento tônico cai sempre sobre a penúltima sílaba.
@@ -18,7 +18,7 @@
 10. O objecto de um verbo transitivo pode funcionar como o objecto do verbo seguinte. Essa estrutura é chamada a construção dobradiça.
   - p. ex. **mi pliza tu dona pese.** = Peço-lhe para dar dinheiro.
 11. Pronomes pode ser deixado quando eles são conhecidos.
-  - **mi eska tu loga pandunia?** -> **eska tu loga pandunia?** = Você fala a pandunia?
+  - **mi eska tu loga panlingue?** -> **eska tu loga panlingue?** = Você fala a panlingue?
   - **mi pliza tu loga ming.** -> **pliza loga ming.** = Por favor, fale mais claro. 
 
 

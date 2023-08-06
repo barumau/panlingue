@@ -3,7 +3,7 @@
 ## Invariabilité
 
 Un substantif ou nom est un mot qui sert à nommer une chose.
-Comme tous les mots en pandunia, les noms sont invariables : ils ne sont pas affectés par le nombre et le genre. Donc la même forme sert pour le singulier et le pluriel, le masculin ou le féminin, le caractère défini ou indéfini, etc.
+Comme tous les mots en panlingue, les noms sont invariables : ils ne sont pas affectés par le nombre et le genre. Donc la même forme sert pour le singulier et le pluriel, le masculin ou le féminin, le caractère défini ou indéfini, etc.
 
 **petre** 
 – une pierre, des pierres, la pierre ou les pierres  
@@ -37,7 +37,7 @@ Le nombre peut être mentionné avec des numéraux au besoin.
 
 ### 2.3. Genre
 
-Le pandunia n'a pas de genre grammatical (maculin, féminin ou neutre).
+Le panlingue n'a pas de genre grammatical (maculin, féminin ou neutre).
 
 Certains mots ont un _genre naturel_.
 Ainsi, **fem** (femme) est féminin et **man** (homme) est masculin.

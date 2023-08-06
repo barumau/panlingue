@@ -1,11 +1,11 @@
 # Word class markers
 
-Pandunia uses vowel endings for quick word derivation.
+Panlingue uses vowel endings for quick word derivation.
 In this system the final vowel of a word indicates its word class.
 So the root (i.e. stem) of the word indicates a general idea
 and the vowel endings indicate different manifestations of that idea.
 
-Pandunia uses the following vowel endings to mark parts of speech.
+Panlingue uses the following vowel endings to mark parts of speech.
 
 No vowel or **-e** indicates a noun,
 which is the name of the thing or idea that the root is about.
@@ -34,7 +34,7 @@ So the purpose or the potential of the noun determines the meaning of the verb.
 which is an event that happens or an action that is done to someone.
 The meaning of a passive verb depends on the corresponding active verb.
 
-These endings and the participles (**-an-** and **-it-**) are the only true suffixes i.e. bound morphemes in Pandunia.
+These endings and the participles (**-an-** and **-it-**) are the only true suffixes i.e. bound morphemes in Panlingue.
 All other suffixes can be used also as independent words.
 For example **paciste** (pacifist) is made up of two full words:
 **pace** (peace) and **iste** (proponent).

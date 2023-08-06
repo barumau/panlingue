@@ -1,4 +1,4 @@
-The pandunia-loge.csv in not valid by RFC 4180.
+The panlingue-loge.csv in not valid by RFC 4180.
 
 The following are the differences:
 
@@ -7,7 +7,7 @@ The following are the differences:
 
 Here are descriptions of headers:
 
-1. "pandunia" - words, phrases or affixes in Pandunia
+1. "panlingue" - words, phrases or affixes in Panlingue
 2. "klase" - auxiliary classification of a word; including grammatical roles and holonyms
 3. "" - conventional symbols of referents (i.e. translations to scientific nomenclature).
 4. "logasle" - etymology of a word (syntax described below)

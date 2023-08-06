@@ -1,4 +1,4 @@
-# Pandunian perussäännöt
+# Panlinguen perussäännöt
 
 1. Kaikki sanat luetaan äänteenmukaisesti.
    Kaikki sanat voidaan kirjoittaa pienillä kirjaimilla.
@@ -10,7 +10,7 @@
    - Vastapäiväiset verbit loppuvat **-u**:hun, esim. **le logu** = Sitä puhutaan.
    - Substantiivien lopussa on **-e**, **-ia** tai ei mitään.
 4. Substantiivit ovat taipumattomia.
-   Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
+   Panlinguessa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
 5. Adjektiivit ja adverbit ovat muodoltaan samanlaisia.
    Niitä sanotaan yhteisesti määritteiksi.
    Ajektiivimääritteen paikka on ennen substantiivia ja adverbimääritteen ennen verbiä.
@@ -27,8 +27,8 @@
    Tämä on ns. _saranarakenne_.
     - esim. **me pliza te dona pese.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-    - **me eska te baxa pandunia?** → **eska te baxa pandunia?**
-      = Puhutko sinä panduniaa?
+    - **me eska te baxa panlingue?** → **eska te baxa panlingue?**
+      = Puhutko sinä panlinguea?
     - **me pliza te loga ming.** →  **pliza loga ming.**
       = Pyydän, puhu selvästi.
 10. Yhdyssanat muodostetaan asettamalla kaksi tai useampia sanavartaloita peräkkäin.

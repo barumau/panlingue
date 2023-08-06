@@ -203,13 +203,13 @@ We greet you.
 **eska te abla xula le?**
 你知道怎么修吗？
 
-**eska te abla pandunia?**
+**eska te abla panlingue?**
 你会泛世界语吗？
 
-**me abla pandunia.**
+**me abla panlingue.**
 我会泛世界语。
 
-**me abla lil pandunia.**
+**me abla lil panlingue.**
 我会一点泛世界语。
 
 **me no abla engli.**
@@ -220,10 +220,10 @@ We greet you.
 
 ### baxa <small>说语</small>
 
-**eska tote baxa pandunia.**
+**eska tote baxa panlingue.**
 你们说泛世界语吗？
 
-**mome baxa pandunia.**
+**mome baxa panlingue.**
 我们会说泛世界语。
 
 **eska te abla baxa engli?**

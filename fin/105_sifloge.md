@@ -4,7 +4,7 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 ## Substantiivin määrite
 
-Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
+Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panlinguessa adjektiivit ovat yleensä pääsanaa ennen.
 
 **novi gare**
 – uusi auto  
@@ -40,6 +40,6 @@ Tavan adverbit ovat verbin vieressä tai lauseen lopussa.
 = Minä _hyvin_ nukun.  
 **me sona _bono_.**
 = Minä nukun _hyvin_.  
-**te baxa pandunia _bono_.**
-= Sinä puhut panduniaa _hyvin_.
+**te baxa panlingue _bono_.**
+= Sinä puhut panlinguea _hyvin_.
 

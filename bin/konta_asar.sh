@@ -1,15 +1,15 @@
 #!/bin/bash
 kitaba_pike() {
-   echo "#asar la mulbax va pandunia" > pandunia/asar_da_mulbax.md
-   echo "" >> pandunia/asar_da_mulbax.md
-   echo "| bax | asar |" >> pandunia/asar_da_mulbax.md
-   echo "|-----|--------|" >> pandunia/asar_da_mulbax.md
-   cat temp/stats.txt >> pandunia/asar_da_mulbax.md
+   echo "#asar la mulbax va panlingue" > panlingue/asar_da_mulbax.md
+   echo "" >> panlingue/asar_da_mulbax.md
+   echo "| bax | asar |" >> panlingue/asar_da_mulbax.md
+   echo "|-----|--------|" >> panlingue/asar_da_mulbax.md
+   cat temp/stats.txt >> panlingue/asar_da_mulbax.md
 }
 
 
 fata_leksasli_liste() {
-    cat pandunia-loge.csv | cut -d '|' -f 5 > temp/logaslia.txt
+    cat panlingue-loge.csv | cut -d '|' -f 5 > temp/logaslia.txt
     #Delete empty lines
     sed -i '/^$/d' temp/logaslia.txt
     #Delete illegal strings

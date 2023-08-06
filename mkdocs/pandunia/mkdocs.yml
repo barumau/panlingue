@@ -1,9 +1,9 @@
-site_name: Pandunia
-site_url: http://www.pandunia.info/pandunia
-repo_url: https://github.com/barumau/pandunia/
+site_name: Panlingue
+site_url: http://www.panlingue.info/panlingue
+repo_url: https://github.com/barumau/panlingue/
 site_author: Risto Kupsala
-docs_dir: ../../pandunia
-site_dir: ../../html/pandunia
+docs_dir: ../../panlingue
+site_dir: ../../html/panlingue
 theme: readthedocs
 nav:
     - ABC: abc.md

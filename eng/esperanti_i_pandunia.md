@@ -1,4 +1,4 @@
-# Esperanto vs. Pandunia
+# Esperanto vs. Panlingue
 
 Esperanto has been the most popular constructed auxiliary language for
 over a century since the 1890s. That's why all new auxiliary languages
@@ -17,7 +17,7 @@ Despite all the critique, Esperanto has its merits and its relative
 success among auxiliary languages is undeniable. But does it really
 deserve its success? Is Esperanto really an ideal world language?
 In this article we will review the most important points of critique
-and compare Esperanto to Pandunia.
+and compare Esperanto to Panlingue.
 
 
 
@@ -39,7 +39,7 @@ Most writing systems in the world get by with only one type of letters.
 For example the writing systems of Arabia, India, China, Korea, Japan and Ethiopia
 don't differentiate large and small letters.
 
-The alphabet of Pandunia uses logically only the small Basic Latin letters.
+The alphabet of Panlingue uses logically only the small Basic Latin letters.
 
     a b c d e f g h i j k l m n o p r s t u v x y z
 
@@ -55,7 +55,7 @@ are difficult to pronounce for most people, especially at the beginnings
 of words, such as "kn" as in "knabo", "kv" as in "kvar", "mn" as in
 "mnemonika", "ŝr" as in "ŝranko", and "sc" as in "scii".
 
-Pandunia's word structure is designed to balance keeping international words
+Panlingue's word structure is designed to balance keeping international words
 recognizable and making them easy to pronounce for as many people as possible.
 Thus, the only consonant cluster permitted at the beginning of a word is a
 stop or fricative plus a liquid, such as "kr" as in "kristal".
@@ -107,10 +107,10 @@ language. Many learners stumble with articles and "difficult" personal
 pronouns. The world language should be free of such unnecessary features
 and rules.
 
-Pandunia has only features 1 and 11. These are also main features of
-Esperanto. But otherwise Pandunia diverges greatly from Esperanto in
+Panlingue has only features 1 and 11. These are also main features of
+Esperanto. But otherwise Panlingue diverges greatly from Esperanto in
 particular and from Standard Average European grammar in general. So
-grammar-wise Pandunia is not Eurocentric like Esperanto.
+grammar-wise Panlingue is not Eurocentric like Esperanto.
 
 
 ### Western or global vocabulary?
@@ -125,9 +125,9 @@ Isn't it arrogant to create a language for the world without looking
 beyond your own neighbourhood? It was in the spirit of the time, the
 time of colonialism, when Esperanto was created.
 
-Pandunia acknowledges that there are many stocks of international words:
+Panlingue acknowledges that there are many stocks of international words:
 Western, Indian, Sinitic and Perso-Arabic being the major ones. Hundreds
-of words are borrowed from each of them. Pandunia's vocabulary is evenly
+of words are borrowed from each of them. Panlingue's vocabulary is evenly
 global.
 
 
@@ -163,9 +163,9 @@ verbs, which is illustrated by the root nask- (birth).
 |                    | malfermita = open(ed) | naskita = born        |
 
 
-### Pandunia roots are classless
+### Panlingue roots are classless
 
-The roots are classless in Pandunia, so there's no need to memorize
+The roots are classless in Panlingue, so there's no need to memorize
 whether for example kay- (open) is basically a verb or an adjective.
 Word class is added by adding the appropriate ending: -i for adjectives
 or stative verbs, -a for active verbs and -u for passive verbs.

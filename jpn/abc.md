@@ -86,7 +86,7 @@ ma**w** tena na**w** ha**y**. = 猫には9つの命がある。
      dunia si momi sundari planete.  
     /dúnia sí mómi sundári planéte./
 
-     me vola loga komuni baxe, le si pandunia.  
+     me vola loga komuni baxe, le si panlingue.  
     /mé vóla lóga komúni báxe, lé sí pandúnia./
 
 

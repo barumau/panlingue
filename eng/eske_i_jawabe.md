@@ -3,55 +3,55 @@ Frequently Asked Questions
 
 ## General
 
-#### How many people can speak Pandunia?
+#### How many people can speak Panlingue?
 
-Currently speakers of Pandunia are counted in tens. It is still a
+Currently speakers of Panlingue are counted in tens. It is still a
 very new language.
 
-#### How can I help to spread Pandunia?
+#### How can I help to spread Panlingue?
 
-Learn Pandunia! Speak it with others! Talk about it with others!
+Learn Panlingue! Speak it with others! Talk about it with others!
 Write stories or articles, make videos, podcasts, music, etc.
 
 You can also help with this website by translating content and
 correcting mistakes. Contents ("source code") of this website are
-stored in [GitHub](https://github.com/barumau/pandunia). You can also
-send your edited files by email to risto@pandunia.info
+stored in [GitHub](https://github.com/barumau/panlingue). You can also
+send your edited files by email to risto@panlingue.info
 
-#### When was Pandunia created?
+#### When was Panlingue created?
 
-Creators of Pandunia began to create a language together first in 2005.
+Creators of Panlingue began to create a language together first in 2005.
 Since the beginning the basic idea was to create an evenly global
 auxiliary language. Many different structures and ideas were tried
-over the years. The name _Pandunia_ was invented already in 2007 but
+over the years. The name _Panlingue_ was invented already in 2007 but
 the language got its "final" form in 2017 – but of course languages
 evolve all the time!
 
-#### What does the flag of Pandunia represent?
+#### What does the flag of Panlingue represent?
 
-![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
+![](http://www.panlingue.info/bandir/bandir.png "The flag of Panlingue")
 
-The flag of Pandunia represents global equality. There is a symbol of
+The flag of Panlingue represents global equality. There is a symbol of
 _the blue planet_ against the background of the dark blue space. The
 equality sign is laid over the Earth.
 
-#### Why the mascot of Pandunia is a duck-billed platypus?
+#### Why the mascot of Panlingue is a duck-billed platypus?
 
-Platypus (**batokrote** in Pandunia) is an egg-laying, duck-billed,
+Platypus (**batokrote** in Panlingue) is an egg-laying, duck-billed,
 beaver-tailed, otter-footed mammal that lives in eastern Australia.
 It is an unusual creature. That's why the platypus is a fitting
-mascot for Pandunia, which is also an unusual mix, a mix of words and
+mascot for Panlingue, which is also an unusual mix, a mix of words and
 grammar from East and West, from North and South.
 
-Pandunia doesn't fit into any of the traditional types of languages.
+Panlingue doesn't fit into any of the traditional types of languages.
 Also in that regard it is similar to the platypus, which is of its own type.
 
-![](http://www.pandunia.info/grafe/batokrote_tena_bandir.png "Our platypus")
+![](http://www.panlingue.info/grafe/batokrote_tena_bandir.png "Our platypus")
 
 
 ## Past, present and future
 
-#### I want to change something in Pandunia. What should I do?
+#### I want to change something in Panlingue. What should I do?
 
 If your change is a small thing, you should try it in practice with
 other people and see how it works. If it really is a good change,
@@ -65,9 +65,9 @@ them. Esperanto is still the most popular language of its kind.
 It is better to have one big language with several dialects than
 many competing languages.
 
-#### Which languages have influenced the grammar of Pandunia?
+#### Which languages have influenced the grammar of Panlingue?
 
-Pandunia has been influenced by both natural and constructed
+Panlingue has been influenced by both natural and constructed
 languages.
 
 - Natural languages with isolating grammar were a useful model. For
@@ -83,14 +83,14 @@ languages.
   they speak natively.
 
 
-#### Who made Pandunia?
+#### Who made Panlingue?
 
-The starter of Pandunia is _Risto Kupsala_ (born in Finland in 1979).
+The starter of Panlingue is _Risto Kupsala_ (born in Finland in 1979).
 He is a language hobbyist and an engineer in information technology
 who wants to help the world communicate better.
 People from many countries have helped over the years.
 There is a list of some of the contributors in
-[GitHub](https://github.com/barumau/pandunia/graphs/contributors).
+[GitHub](https://github.com/barumau/panlingue/graphs/contributors).
 
 
 
@@ -103,30 +103,30 @@ speech sounds and possibly grammar from different language families
 of the world. There are many worldlangs. Some of them are listed
 [here](http://www.kupsala.net/risto/tekokieli/worldlangs.html).
 
-#### How does Pandunia differ from other auxiliary languages?
+#### How does Panlingue differ from other auxiliary languages?
 
-- The vocabulary of Pandunia is evenly global. It consists of Western
+- The vocabulary of Panlingue is evenly global. It consists of Western
   (Greco-Latin) words, Perso-Arabic words, Chinese words and Indian
   words. Many other auxiliary languages use only or mostly Western
   words, which is not ideal for the world language in our opinion.
 - Internationality is the main criterion for selecting words to
-  Pandunia. All the words of Pandunia are known by many nations in
+  Panlingue. All the words of Panlingue are known by many nations in
   some part of the world.
-- The grammar of Pandunia is concise but very flexible. Pandunia has
+- The grammar of Panlingue is concise but very flexible. Panlingue has
   only a few grammatical structures, which are re-used over and over
   again.
-- Pandunia is a truly neutral language. It's not meant to imitate any
+- Panlingue is a truly neutral language. It's not meant to imitate any
   languages, whereas for example Esperanto, Ido and Interlingua are
   intentionally similar to the European languages.
 
-#### Did Esperanto contribute to the birth of Pandunia?
+#### Did Esperanto contribute to the birth of Panlingue?
 
 At first Esperanto was an important source of inspiration. However
 the influence of Esperanto to the final language is insignificant.
-Pandunia has very different structure and vocabulary compared to
+Panlingue has very different structure and vocabulary compared to
 Esperanto.
 
-#### Are the makers of Pandunia aware of the history of the IAL movement?
+#### Are the makers of Panlingue aware of the history of the IAL movement?
 
 Yes. Here are some of the most important lessons to be learned from
 the history of the international auxiliary language (IAL) movement.
@@ -146,14 +146,14 @@ the history of the international auxiliary language (IAL) movement.
   to push an IAL to success.
 
 
-#### Should Pandunia replace English?
+#### Should Panlingue replace English?
 
-Pandunia is not meant to replace English or any other languages.
+Panlingue is not meant to replace English or any other languages.
 People have ability to speak several languages and they speak every
 language for a different reason. Some people speak one language at
 home, another at work and yet another on international travels. We
 can imagine a world where English and all other languages will
-continue to be spoken, and where Pandunia is spoken as the universal
+continue to be spoken, and where Panlingue is spoken as the universal
 second language.
 
 In a way, English will never be replaced. Those who speak it today
@@ -165,7 +165,7 @@ landscape of languages changes in a natural process. Different
 languages were spoken in the past and different languages will be
 spoken in the future.
 
-You are free to speak Pandunia, English and any other language that
+You are free to speak Panlingue, English and any other language that
 your heart desires.
 
 
@@ -174,7 +174,7 @@ your heart desires.
 
 #### Why is the letter X pronounced like SH?
  
-Pandunia follows the phonetic principle. One letter represents
+Panlingue follows the phonetic principle. One letter represents
 exactly one sound, and one sound is written with exactly one letter.
 
 Traditionally there isn't any dedicated letter for /ʃ/ in the Latin
@@ -186,14 +186,14 @@ in Polish, Š in Czech and Ş in Turkish.
 However, there is a handful of languages that use the letter X for
 /ʃ/. Basque and Maltese do it without exception. Portuguese and
 Catalan are less consistent, but X stands for /ʃ/ frequently.
-Pandunia word **xampu'** is written almost exactly the same as in Portuguese.
+Panlingue word **xampu'** is written almost exactly the same as in Portuguese.
 It means _shampoo_.
 
 In the Chinese romanization systen, Pīnyīn, the letter X stands for
-/ɕ/ which is close to /ʃ/. Pandunia has many words with X from
+/ɕ/ which is close to /ʃ/. Panlingue has many words with X from
 Chinese, for example **xim, xin** and **xuxe**.
 
-![](http://www.pandunia.info/grafe/X.png "C = ʃ")
+![](http://www.panlingue.info/grafe/X.png "C = ʃ")
 
 
 #### Why is the letter C pronounced like CH?
@@ -203,39 +203,39 @@ including Indonesian, Hausa, Oromo and Rwanda.
 In Italian, when C is followed by E or I, it is pronounced /tʃ/.
 This pronunciation is present in English loan words from Italian such as _cello_ and _cappuccino_.
 
-![](http://www.pandunia.info/grafe/C.png "C = ts o tʃ")
+![](http://www.panlingue.info/grafe/C.png "C = ts o tʃ")
 
 On the other hand, the letter C doesn't stand for any dedicated sound in English.
 The _hard C_ can be replaced by K and the _soft C_ by S.
 So it makes sense to use C instead of CH.
 
-#### Is Pandunia's alphabet unique?
+#### Is Panlingue's alphabet unique?
 
 It is unique but not as odd as you might think. In fact,
 the majority of letters (19 in total) are pronounced in general in
-the way in Pandunia and English, 5 are different, and one (q)
-is missing from Pandunia.
+the way in Panlingue and English, 5 are different, and one (q)
+is missing from Panlingue.
 
-Most letters correspond to approximately similar sounds in Pandunia
+Most letters correspond to approximately similar sounds in Panlingue
 and in other languages that use the Latin alphabet in their spelling
 or their standard way of Romanization.
  
-The alphabet of Pandunia is compared to alphabets and Romanizations
+The alphabet of Panlingue is compared to alphabets and Romanizations
 used in other languages in the table below.
 
 - Letters that correspond normally to approximately similar sounds
-  in Pandunia and in the compared language are listed under SIMILAR.
-  For example English g is considered similar to Pandunia g although
+  in Panlingue and in the compared language are listed under SIMILAR.
+  For example English g is considered similar to Panlingue g although
   there is the 'soft' g (as in _gel_) besides the more common 'hard'
   g (as in _get_) in English.
-- Letters that Pandunia has but the compared language doesn't have
+- Letters that Panlingue has but the compared language doesn't have
   are listed under MISSING.
-- Letters that correspond usually to different sounds in Pandunia
+- Letters that correspond usually to different sounds in Panlingue
   and in the compared language are listed under DIFFERENT.
 
 | ALPHABET         | SIMILAR                                           | MISSING |DIFFERENT    |
 |:-----------------|---------------------------------------------------|---------|-------------|
-| Pandunia         | a b c d e f g h i j k l m n o p r s t u v   x y z |         |             |
+| Panlingue         | a b c d e f g h i j k l m n o p r s t u v   x y z |         |             |
 | Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u v     y z | x       |             |
 | Malay/Indonesian | a b c d e f g h i j k l m n o p r s t u   w   y z | v x     |             |
 | Hausa            | a b c d e f g h i j k l m n o p r s t u   w   y z | v x     |             |
@@ -252,15 +252,15 @@ used in other languages in the table below.
 
 ## Grammar
 
-#### Is Pandunia a pidgin or a creole?
+#### Is Panlingue a pidgin or a creole?
 
 Pidgins and creoles are _natural_ contact languages.
-Pandunia is a _constructed_ contact language.
-So the answer is no, Pandunia is not a real pidgin or a creole.
+Panlingue is a _constructed_ contact language.
+So the answer is no, Panlingue is not a real pidgin or a creole.
 However, it is characterized by many of the same features as pidgins and creoles.
 
 The following is a list of characteristic features of pidgins and creoles
-that apply for Pandunia too.
+that apply for Panlingue too.
 
 1. Lack of grammatical complexity
    - No definite or indefinite article
@@ -281,7 +281,7 @@ that apply for Pandunia too.
    - Prefer short words.
    - Tone is not used to distinguish words.
 
-#### How word forms change in Pandunia?
+#### How word forms change in Panlingue?
 
 In general, word forms can change in four ways.
 
@@ -290,15 +290,15 @@ In general, word forms can change in four ways.
 3. Change of an affix: electric ⇒ electron
 4. Addition of an affix: man ⇒ manhood
 
-In Pandunia, only 3. and 4. are used.
+In Panlingue, only 3. and 4. are used.
 We can change the ending of a word,
 so for example **loge** (_speech_) can be changed to **loga** (_to speak_).
 We can also add suffixes,
 so for example **insania** (_humanity_) can be created from **insan** (_human being_).
 
-#### Why word forms change in Pandunia?
+#### Why word forms change in Panlingue?
 
-Pandunia uses different word forms to indicate different word classes.
+Panlingue uses different word forms to indicate different word classes.
 There are many good sides:
 
 - Learning the grammar is very easy because
@@ -306,19 +306,19 @@ There are many good sides:
 - You can understand the structure of a sentence without knowing the meaning of all words.
 - You don't have to memorize the word class with each word separately
   – words include that information in the last vowel!
-- Word derivation is symmetric because word stems are neutral in Pandunia.
+- Word derivation is symmetric because word stems are neutral in Panlingue.
    - A word stem becomes a verb, a noun or a modifier only when the corresponding vowel ending is added.
-   - Even transitive and intransitive verbs are symmetric in Pandunia,
+   - Even transitive and intransitive verbs are symmetric in Panlingue,
      so we always know is the subject the agent or the recipient of the action.
 
 Word class marking is a very efficient method to realize a functional grammar.
-It is done in Pandunia with a minimal set of only four endings.
+It is done in Panlingue with a minimal set of only four endings.
 (In comparison, Esperanto employs 10 basic and 7 combined endings.)
 
-#### Why agglutinating structure was chosen for Pandunia?
+#### Why agglutinating structure was chosen for Panlingue?
 
 Different structures were considered and tested during the
-development of Pandunia. The main choice was between an agglutinating
+development of Panlingue. The main choice was between an agglutinating
 and an isolating structure.
 
 1. In an agglutinating language every word can be clearly divided
@@ -331,30 +331,30 @@ and an isolating structure.
    de (possessive marker). Then they are simply put together:
    wǒmende, 我们的.
 
-Pandunia is a lightly agglutinating language. It uses separate words
+Panlingue is a lightly agglutinating language. It uses separate words
 to express things like person, number, mood, tense and aspect, which
 are typically expressed with inflection in agglutinating and
 inflecting languages.
 
 To demonstrate the difference, let's compare the same sentence in
-Esperanto (a heavily agglutinating language) and Pandunia. Parts of
+Esperanto (a heavily agglutinating language) and Panlingue. Parts of
 word are separated with the vertical bar sign.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  me vol|a   vid|a  t|i       dul|i sundar|i kan|e       zay|o.
+    Panlingue:  me vol|a   vid|a  t|i       dul|i sundar|i kan|e       zay|o.
                I  want to see    your      two beautiful  eyes        now.
 
 #### Are the word class markers unnatural?
 
-Pandunia uses final vowels as word class markers.
+Panlingue uses final vowels as word class markers.
 It is not an unnatural thing to do
 because there are comparable morphemes in natural languages
 that are used for marking various word classes and their subclasses.
 
 For example, the Bantu languages use a system of prefixes for marking nouns, verbs, adjectives and adverbs.
-Here are some Swahili words together with the same words in Pandunia.
+Here are some Swahili words together with the same words in Panlingue.
 
-| Pandunia | Swahili | English meaning |
+| Panlingue | Swahili | English meaning |
 |----------|---------|-----------------|
 | kitab-   | -and- | the root related to writing |
 | kitaba   | ku-and-ik-a | to write |
@@ -363,21 +363,21 @@ Here are some Swahili words together with the same words in Pandunia.
 | kitabi   | -a ma-and-ish-i | written, textual |
 
 Another example, Arabic uses a system of vowel infixes to convert consonant roots into different word classes and their subclasses.
-Here are some Arabic words together with the same words in Pandunia.
+Here are some Arabic words together with the same words in Panlingue.
 
-| Pandunia | Arabic | English meaning |
+| Panlingue | Arabic | English meaning |
 |----------|---------|-----------------|| kitab- | k-t-b | the root related to writing | 
 | kitaba   | kataba | to write |
 | kitabu   | kutiba | to be written |
 | kitabe   | kitāb | writing, text, book |
 | kitabi   | kitābi | written, textual |
 
-Pandunia's system is a very simple one – it includes only the bare minimum! – but otherwise it's nothing new.
+Panlingue's system is a very simple one – it includes only the bare minimum! – but otherwise it's nothing new.
 Various natural languages have comparable morphemes for marking words in different word classes.
 The morpheme type doesn't matter: prefixes, infixes, circumfixes and suffixes can do the same task.
 Single-vowel suffixes are the most minimal and therefore the simplest type!
 
-Looking at the examples above, it's obvious that the system of Pandunia is simpler than those of Swahili and Arabic.
+Looking at the examples above, it's obvious that the system of Panlingue is simpler than those of Swahili and Arabic.
 English is the least systematic as it uses sometimes independent words (to, to be) and sometimes suffixes (-en, -ing, -al) as markers.
 
 In conclusion, using the vowel suffixes for word class markers is unnatural only for its simplicity, nothing else.
@@ -385,24 +385,24 @@ In conclusion, using the vowel suffixes for word class markers is unnatural only
 
 ## Vocabulary
 
-#### Where Pandunia's words come from?
+#### Where Panlingue's words come from?
 
-Pandunia's words come from all parts of the world.
+Panlingue's words come from all parts of the world.
 
 In our opinion the world language should be a mix of all languages
-in the world. That's why Pandunia has at least a few words in common
+in the world. That's why Panlingue has at least a few words in common
 with almost all languages of the world.
 
 A lot of words are in common to international and important regional languages.
 
-![](http://www.pandunia.info/grafe/logasle.png "Bar chart depicting lexical similarity")  
-Figure. Bar chart showing the percentage of words similar in the source languages and Pandunia.
+![](http://www.panlingue.info/grafe/logasle.png "Bar chart depicting lexical similarity")  
+Figure. Bar chart showing the percentage of words similar in the source languages and Panlingue.
 
-![](http://www.pandunia.info/grafe/logasar.png "Pie chart depicting influence distribution")  
-Figure. Pie chart showing distribution of influence from the main source languages to Pandunia.
+![](http://www.panlingue.info/grafe/logasar.png "Pie chart depicting influence distribution")  
+Figure. Pie chart showing distribution of influence from the main source languages to Panlingue.
 
 
-#### Why Pandunia borrows words mainly from widely spoken languages?
+#### Why Panlingue borrows words mainly from widely spoken languages?
 
 About 6500 languages are spoken in the world today. It would be
 possible to borrow one and _only one_ word from every language.
@@ -410,7 +410,7 @@ But it wouldn't be very useful, if you knew only one or two words in
 the world language beforehand, would it?
 
 It's smarter to borrow words that are in common to many languages.
-Then most people will know many words in Pandunia.
+Then most people will know many words in Panlingue.
 
 There are common words in every region of the world. For example,
 in Europe there are European international words, which often come
@@ -422,32 +422,32 @@ That's why it is enough that we select some languages from every
 part of the world. They represent also the other languages of that
 region.
 
-#### Why the last vowel of words is sometimes different in Pandunia than in language X?
+#### Why the last vowel of words is sometimes different in Panlingue than in language X?
 
-In Pandunia, words consist of a stem and one or more suffixes.
+In Panlingue, words consist of a stem and one or more suffixes.
 A suffix is a part of word that belongs to the end.
-The final vowel of a word has a grammatical meaning in Pandunia.
-That's the basic reason why the final vowels are sometimes different in Pandunia than in other languages.
+The final vowel of a word has a grammatical meaning in Panlingue.
+That's the basic reason why the final vowels are sometimes different in Panlingue than in other languages.
 
-The second reason is that Pandunia borrows words from many languages,
+The second reason is that Panlingue borrows words from many languages,
 and often those languages don't agree about the final vowel.
 For example the word **supe** (_soup_) ends in -a in Spanish _sopa_,
 in -u in Japanese スープ or _sūpu_,
 in -e in German _Suppe_,
 and not in any vowel in English _soup_.
 So it's not one and the same word but rather an international family of similar words,
-and Pandunia's **supe** fits perfectly into that family.
+and Panlingue's **supe** fits perfectly into that family.
 
 The third reason is that endings of words change already in many source languages.
-For example, Pandunia word **novi** is borrowed, among others, from Portuguese.
+For example, Panlingue word **novi** is borrowed, among others, from Portuguese.
 In Portuguese, this word has many forms and only the stem nov- remains the same:
 _nov|o, nov|a, nov|os, nov|as, nov|idade, re|nov|ar_...
-So it makes sense to take only the stem and attach our regular Pandunia suffixes to it.
+So it makes sense to take only the stem and attach our regular Panlingue suffixes to it.
 
 #### Shouldn't "salam" mean "peace"?
 
 In many languages, expressions of greeting have something to do with
-peace, health or well-being. The origins of Pandunia's word **salam**
+peace, health or well-being. The origins of Panlingue's word **salam**
 can be traced back to Semitic triliteral root SLM, which covers a
 variety of meanings including safety, security, peace and health.
 Likewise the English word _salutation_ (and French greeting _salut_)

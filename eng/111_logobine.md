@@ -1,8 +1,8 @@
 # Word derivation
 
-New words can be built freely in Pandunia!
-Pandunia has a productive system of word derivation.
-Most of the suffixes that are used in Pandunia are already in international use.
+New words can be built freely in Panlingue!
+Panlingue has a productive system of word derivation.
+Most of the suffixes that are used in Panlingue are already in international use.
 Many of them come from ancient Greek, Latin, Arabic and Persian.
 
 ## How to combine words

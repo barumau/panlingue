@@ -1,6 +1,6 @@
-site_name: Pandunia
-site_url: http://www.pandunia.info/polski
-repo_url: https://github.com/barumau/pandunia/
+site_name: Panlingue
+site_url: http://www.panlingue.info/polski
+repo_url: https://github.com/barumau/panlingue/
 docs_dir: ../../polski
 site_dir: ../../html/polski
 theme:
@@ -16,8 +16,8 @@ nav:
         - 'Rozmówki': fraze.md
         - 'Kurs': darse.md
     - 'Słownik':
-        - 'Pandunia-polski': pandunia-polski.md
-        - 'Polski-pandunia': polski-pandunia.md
+        - 'Panlingue-polski': panlingue-polski.md
+        - 'Polski-panlingue': polski-panlingue.md
         - 'Etymologia': leksaslia.md
         - 'Wyszukaj': tiddly.html
     - 'Gramatyka': kanun.md

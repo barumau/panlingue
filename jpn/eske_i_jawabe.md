@@ -14,8 +14,8 @@
 お話や記事を書いたり、動画を作ったり、ポッドキャストや音楽などを作ったりしてください。
 
 サイトの内容を翻訳し、間違いを修正してください。
-サイトのソースコードは [GitHub](https://github.com/barumau/pandunia) にあります。
-編集したファイルをEメールで [risto@pandunia.info](mailto:risto@pandunia.info) に
+サイトのソースコードは [GitHub](https://github.com/barumau/panlingue) にあります。
+編集したファイルをEメールで [risto@panlingue.info](mailto:risto@panlingue.info) に
 送ることもできます。
 
 #### いつ作られましたか?
@@ -29,7 +29,7 @@
 
 #### 旗は何を表していますか?
 
-![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
+![](http://www.panlingue.info/bandir/bandir.png "The flag of Panlingue")
 
 パンドゥニアの旗は世界の平等を表しています。
 紺色の空間を背景に青い惑星のシンボルがあります。
@@ -46,7 +46,7 @@
 パンドゥニアは従来のどの言語とも適合しません。その点でもカモノハシに似ています。
 カモノハシは固有の種です。
 
-![](http://www.pandunia.info/grafe/batokrote_tena_bandir.png "Our platypus")
+![](http://www.panlingue.info/grafe/batokrote_tena_bandir.png "Our platypus")
 
 
 ## 過去、現在、未来
@@ -89,7 +89,7 @@ Risto Kupsala が中心となって制作しています。
 フィンランド人の彼は世界のコミュニケーションをより良くするための手助けをしたいと考えています。
 長年にわたって多くの国の人々が制作に協力しています。
 
-![](http://www.pandunia.info/grafe/risto.png "Risto")
+![](http://www.panlingue.info/grafe/risto.png "Risto")
 
 
 
@@ -185,7 +185,7 @@ Risto Kupsala が中心となって制作しています。
 ただし、 /ʃ/ に X を使う言語はいくつかあります。
 バスク語とマルタ語は例外なく使います。
 ポルトガル語とカタロニア語はあまり一貫性がありませんが、 X は頻繁に /ʃ/ を表します。 
-<!-- Pandunia word **xampu'** is written almost exactly the same as in Portuguese.
+<!-- Panlingue word **xampu'** is written almost exactly the same as in Portuguese.
 It means _shampoo_. -->
 
 中国語のローマ字化システム Pīnyīn では X は /ɕ/ を表し、 /ʃ/ に近いものです。
@@ -352,7 +352,7 @@ marcul**a**(走る) から malcul**er**(ランナー) に変更できます。
 多くの単語は
 国際的で重要な地域の言語と共通しています。
 
-![](http://www.pandunia.info/grafe/leksasle.png "Source languages")
+![](http://www.panlingue.info/grafe/leksasle.png "Source languages")
 
 
 #### 何故広く話される言語から単語を借りているのですか?

@@ -1,6 +1,6 @@
 # Filozofia Panduni
 
-Pandunia ma być prostym językiem łączącym ludzi. Podąża zasadami neutralności języka.
+Panlingue ma być prostym językiem łączącym ludzi. Podąża zasadami neutralności języka.
 
 Neutralność języka oznacza, że w idealnej sytuacji:
 

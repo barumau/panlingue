@@ -1,6 +1,6 @@
-site_name: Pandunia
-site_url: http://www.pandunia.info/espani
-repo_url: https://github.com/barumau/pandunia/
+site_name: Panlingue
+site_url: http://www.panlingue.info/espani
+repo_url: https://github.com/barumau/panlingue/
 docs_dir: ../../portugali
 site_dir: ../../html/portugali
 theme: readthedocs
@@ -8,7 +8,7 @@ nav:
     - Inicio: 'index.md'
     - 'Ortografía': abc.md
     - 'Dicionarios':
-        - 'Pandunia-Português': pandunia-portugali.md
-        - 'Português-Pandunia': portugali-pandunia.md
+        - 'Panlingue-Português': panlingue-portugali.md
+        - 'Português-Panlingue': portugali-panlingue.md
         - 'Dicionario etimologico': leksaslia.md
 

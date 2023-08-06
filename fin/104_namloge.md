@@ -2,7 +2,7 @@
 
 ## Taipumattomia
 
-Asiansanat nimeävät esineitä ja asioita. Panduniassa niihin ei sisälly lukumäärä, joten erillisiä yksikkö- ja monikkomuotoja ei ole.
+Asiansanat nimeävät esineitä ja asioita. Panlinguessa niihin ei sisälly lukumäärä, joten erillisiä yksikkö- ja monikkomuotoja ei ole.
 
 **petre**
 = kivi tai kiviä  
@@ -29,7 +29,7 @@ Substantiivin toistaminen on helppo tapa ilmaista monikkoa.
 
 ## Suku
 
-Panduniassa ei ole kieliopillista sukua (eli maskuliinia, feminiiniä tai neutria).
+Panlinguessa ei ole kieliopillista sukua (eli maskuliinia, feminiiniä tai neutria).
 
 Tietyillä sanoilla on _luonnollinen suku_. Esimerkiksi **fem** (nainen) on feminiini ja **man** (mies) on maskuliini.
 

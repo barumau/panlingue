@@ -24,7 +24,7 @@
 
 ## abace sa pol bax
 
-|   | pandunia | engli | espani | fransi | indonesi | rusi | heleni | arabi |
+|   | panlingue | engli | espani | fransi | indonesi | rusi | heleni | arabi |
 |---|-----|-----|-----|-----|-----|-----|-----|-----|
 | a | a   | ey  | a   | a   | a   | a   | alfa| alif|
 | b | ba  | bi  | be  | be  | be  | be  | beta| ba  |

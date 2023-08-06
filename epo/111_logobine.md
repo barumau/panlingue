@@ -2,7 +2,7 @@
 
 ## Nedeviga finaĵo por baza vortotipo
 
-En Esperanto, normalaj radikoj povas esti a/e-bazaj, o-bazaj kaj i-bazaj. (Tiu informo konsulteblas en bonaj vortaroj.) En Pandunia, kiam vorto estas uzata en sia baza formo, skribi aŭ elparoli la finaĵon ne estas devige. Estas kvazaŭ diri en Esperanto "Mi ŝat manĝ pom".
+En Esperanto, normalaj radikoj povas esti a/e-bazaj, o-bazaj kaj i-bazaj. (Tiu informo konsulteblas en bonaj vortaroj.) En Panlingue, kiam vorto estas uzata en sia baza formo, skribi aŭ elparoli la finaĵon ne estas devige. Estas kvazaŭ diri en Esperanto "Mi ŝat manĝ pom".
 
 > log**a** - dir**i**  
 > log**u** - esti dirata (de) / dir**iĝi**  

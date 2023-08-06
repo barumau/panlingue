@@ -50,7 +50,7 @@ Oni povas esprimin nombron per numeraloj kiam ĝi estas utila.
 
 ## Genro
 
-Pandunia ne havas gramatikan genron (t.e. maskla, femala kaj neŭtra kategorioj).
+Panlingue ne havas gramatikan genron (t.e. maskla, femala kaj neŭtra kategorioj).
 
 Kelkaj vortoj enhavas _naturan genron_.
 Ekzemple **fem** (ino) estas femala kaj **man** (viro, icxo) estas maskla.

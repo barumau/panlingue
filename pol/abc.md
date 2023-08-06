@@ -3,7 +3,7 @@
 Do zapisywania Pandunii używany jest podstawowy alfabet łaciński.
 Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu Fonetycznego (IPA).
 
-| Pandunia | IPA     |
+| Panlingue | IPA     |
 |:--------:|:-------:|
 | a        | /a/     |
 | b        | /b/     |
@@ -52,7 +52,7 @@ Następujące spółgłoski są wymawiane inaczej w Panduni niż w języku polsk
 
 ## Samogłoski
 
-Pandunia ma pięć samogłosek.
+Panlingue ma pięć samogłosek.
 
     i   u
     e   o
@@ -74,13 +74,13 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
      dunia sa momi sundari planete.  
     /dúnia sá mómi sundári planéte./
 
-     me vola loga komuni bax, le sa pandunia.  
+     me vola loga komuni bax, le sa panlingue.  
     /mé wóla lóga komúni báx, lé sá pandúnia./
 
 
 ## Wielkość liter
 
-Pandunia jest normalnie zapisywana tylko małymi literami (tj. minuskułą). Wielkie litery mogą być na początku zdań i nazw własnych, jak imiona osobowe i nazwy miejsc, ale nie jest to wymagane.
+Panlingue jest normalnie zapisywana tylko małymi literami (tj. minuskułą). Wielkie litery mogą być na początku zdań i nazw własnych, jak imiona osobowe i nazwy miejsc, ale nie jest to wymagane.
 
 Są trzy powody, dlaczego wielkie litery są niepotrzebne.
 

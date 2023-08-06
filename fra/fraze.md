@@ -1,8 +1,8 @@
-﻿# Le pandunia mot à mot
+﻿# Le panlingue mot à mot
 
 ### Introduction
 
-Le pandunia est une langue construite conçue pour être relativement
+Le panlingue est une langue construite conçue pour être relativement
 aisée pour tout le monde. Vous pouvez l’apprendre rapidement avec ce
 cours pratique.
 
@@ -27,7 +27,7 @@ Remarque ! Beaucoup de leçons contiennent également des astuces et
 des remarques comme celle-ci. Elles sont là pour détailler un
 point de grammaire pour ceux que ça intéresse. Vous pouvez les passer
 si elles ne vous aident pas. Vous n’avez pas à connaitre la théorie
-de la langue. Vous pouvez tout simplement parler en pandunia !
+de la langue. Vous pouvez tout simplement parler en panlingue !
 
 
 
@@ -126,7 +126,7 @@ Je salue la mère.
 Je salue le père.
 
 Le mot **salam** est un nom et **salama** le verbe correspondant.
-L'ordre des mots en Pandunia est sujet-verbe-objet.
+L'ordre des mots en Panlingue est sujet-verbe-objet.
 
 **Sara salama Tomas.**
 Sara salue Thomas.
@@ -153,7 +153,7 @@ Je te salue.
 **te salama me.**
 Tu me salues.
 
-Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'ils soient sujets ou compléments.
+Les pronoms ne changent jamais de forme en Panlingue ; peu importe qu'ils soient sujets ou compléments.
 
 **me ama te.**
 Je t'aime.
@@ -453,7 +453,7 @@ Il/elle mange une pomme.
 **lole yama aple.**
 Ils/elles mangent des pommes.
 
-Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **aple** peut signifier une ou plusieurs pommes.
+Remarque : Contrairement au français, le panlingue n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **aple** peut signifier une ou plusieurs pommes.
 
 **eska te yama kafe?**
 Est-ce que tu bois du café ?
@@ -476,7 +476,7 @@ Est-ce que tu veux manger ?
 **te vola yama ke?**
 Qu’est-ce que tu veux manger ?
 
-Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia, l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « tu veux manger quoi ? ».
+Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en panlingue, l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
 **me vola yama kafe.**
 Je veux boire un café.
@@ -595,14 +595,14 @@ Il/elle ne sait pas conduire une voiture.
 **eska te abla xula le?**
 Est-ce que tu sais réparer ça ?
 
-**eska te abla pandunia?**
-Peux-tu parler pandunia ?
+**eska te abla panlingue?**
+Peux-tu parler panlingue ?
 
-**me abla pandunia.**
-Je peux parler pandunia.
+**me abla panlingue.**
+Je peux parler panlingue.
 
-**me abla lilo pandunia.**
-Je peux parler un peu pandunia.
+**me abla lilo panlingue.**
+Je peux parler un peu panlingue.
 
 **me no abla engli.**
 Je ne parle pas anglais.
@@ -623,11 +623,11 @@ Je te parle. (mot à mot : _je parle à toi_)
 **mome loga pa unale.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**se loga "cat" ko va pandunia?**
-Comment se dit « chat » en pandunia ?
+**se loga "cat" ko va panlingue?**
+Comment se dit « chat » en panlingue ?
 
-**"chat" logu ko va pandunia?**
-Qu’est-ce que c’est, « chat», en pandunia ?
+**"chat" logu ko va panlingue?**
+Qu’est-ce que c’est, « chat», en panlingue ?
 
 **maw loga miaw.**
 Un chat dit miaou.
@@ -692,11 +692,11 @@ S’il te plait, écris-le là !
 
 ### baxa <small>communiquer, parler une langue</small>
 
-**eska tote abla baxa pandunia.**
-Est-ce que vous parlez tous pandunia ?
+**eska tote abla baxa panlingue.**
+Est-ce que vous parlez tous panlingue ?
 
-**mome baxa pandunia.**
-Nous parlons pandunia.
+**mome baxa panlingue.**
+Nous parlons panlingue.
 
 **eska te abla baxa engli?**
 Est-ce que tu parles anglais ?
@@ -986,8 +986,8 @@ Viens ici / reviens / vers nous.
 
 
 
-**me darsa pandunia.**
-J’étudie le pandunia.
+**me darsa panlingue.**
+J’étudie le panlingue.
 
 **xowa le pa me va leksobuke!**
 Montre-moi dans le dictionnaire !

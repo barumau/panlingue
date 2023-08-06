@@ -8,7 +8,7 @@ Un verbe peut impliquer un agent et un objet.
 L'agent fait une action, il en est à l'origine,
 et l'objet reçoit ou subit l'action.
 
-Le pandunia a deux catégories de verbes :
+Le panlingue a deux catégories de verbes :
 les verbes qui se terminent en **-a** et les verbes qui se terminent en **-u**.
 Les terminaisons décident de la place de l'agent et de l'objet de l'action dans la phrase.
 Donc la structure de la phrase dépend de la catégorie du verbe.
@@ -62,7 +62,7 @@ mais cette fois les rôles du sujet et de l'objet sont différents de ceux dans 
 Le sujet d'un verbe passif reçoit ou subit passivement l'action qu'on fait sur lui.
 Et l'objet est la source de l'action.
 
-Souvent les phrases passives en pandunia peuvent être traduites en français  grâce à la voix passive ou par un verbe intransitif
+Souvent les phrases passives en panlingue peuvent être traduites en français  grâce à la voix passive ou par un verbe intransitif
 mais parfois on peut utiliser également un verbe transitif.
 
 Examples:  
@@ -76,7 +76,7 @@ Examples:
 
 ### 10.1. Prépositions de lieu et de temps
 
-Le pandunia possède quatre prépositions de lieu et de temps.
+Le panlingue possède quatre prépositions de lieu et de temps.
 
 1. **sa** - présence, lieu où l'on est ou moment (en général): avec, à, dans, sur, au cours de, pendant, durant
 2. **na** - absence ou le manque : sans
@@ -108,17 +108,17 @@ Les prépositions peuvent être aussi complétées par un groupe verbale. Dans c
 _Je suis debout avec maison._  
 Je me tiens devant la maison / tout près de la maison.
  
-**me loga sa pandunia.**  
-_Je parle avec pandunia._  
-Je parle en pandunia.
+**me loga sa panlingue.**  
+_Je parle avec panlingue._  
+Je parle en panlingue.
  
-**me loga sa doste sa pandunia sa fon.**  
-_Je parle avec ami.e avec pandunia avec téléphone._  
-Je parle avec un ami.e en pandunia au téléphone.
+**me loga sa doste sa panlingue sa fon.**  
+_Je parle avec ami.e avec panlingue avec téléphone._  
+Je parle avec un ami.e en panlingue au téléphone.
 
 #### 10.1.3. Verbs as prepositions
 
-En pandunia certains verbes fonctionnent comme le feraient des prépositions en français.
+En panlingue certains verbes fonctionnent comme le feraient des prépositions en français.
 
 **me kata pang.** - Je coupe pain.  
 **me kata pang, uza caku.** – Je coupe pain, utilise un couteau. (Je coupe du pain avec un couteau.)  
@@ -136,7 +136,7 @@ Here are some verbs that are usable as prepositions:
 
 #### 10.1.4. Verbes sans prépositions
 
-Les prépositions ne sont pas utilisées aussi fréquemment en pandunia qu'en anglais.
+Les prépositions ne sont pas utilisées aussi fréquemment en panlingue qu'en anglais.
 Dans de nombreuses phrases, le verbe seul suffit.
 
 **me laya dome.** - Je viens (à) la maison.  
@@ -149,7 +149,7 @@ Dans de nombreuses phrases, le verbe seul suffit.
 
 La préposition **ko** indique la manière ou le style. Elle correspond en français aux prépositions _comme_, _que (Cf. comparaisons)_, et _comme si_.
 
-**me jana pandunia ko gur.** - Je connais le pandunia comme un maître.
+**me jana panlingue ko gur.** - Je connais le panlingue comme un maître.
 
 **ko** met en relation le verbe ou l'adjectif avec l'élément comparé. Dans l'exemple ci-dessus **jana** (connaître, savoir) est le verbe et **gur** (maître) est l'élément de comparaison.
 

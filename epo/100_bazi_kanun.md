@@ -20,7 +20,7 @@
 9. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
     - ekz. **me pliza te dona pese.** = Mi petas vin (por) doni monon.
 10. Eblas forigi pronomon kiam ĝia senco estas evidenta.
-    - **me eska te baxa pandunia?** → **eska te baxa pandunia?** =
+    - **me eska te baxa panlingue?** → **eska te baxa panlingue?** =
       Ĉu vi parolas pandunion?
     - **me pliza te loga ming.** →  **pliza loga ming.** = Bonvolu
       paroli klare.

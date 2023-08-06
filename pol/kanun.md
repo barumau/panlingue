@@ -7,7 +7,7 @@ Ta gramatyka opisuje typy słów i kolejność słów w Panduni. Jakkolwiek, mo�
 
 Wszyscy nauczyciele języków wiedzą, że język staje się trudniejszy do nauki, gdy uczeń musi uczyć się rozróżniać rzeczy, do których rozróżniania nie jest przyzwyczajony. Dlatego uczniowie mają problemy z rzeczami jak: nieregularna ortografia, deklinacja, konieczne czasy gramatyczne, tony, zgodność przymiotnika z rzeczownikiem, odmiana grzecznościowa, harmoniczność spółgłoski i samogłoski, koniczne rozróżnianie płci i tak dalej.
 
-Pandunia nie jest trudnym do nauki językiem. Nie ma żadnych wyżej wspomnianych złożoności. Zamiast tego, ma prostą gramatykę, relatywnie proste słownictwo i proste, fonetyczne pismo.
+Panlingue nie jest trudnym do nauki językiem. Nie ma żadnych wyżej wspomnianych złożoności. Zamiast tego, ma prostą gramatykę, relatywnie proste słownictwo i proste, fonetyczne pismo.
 
 Jedną rzeczą, o której należy pamiętać, ucząc się Panduni, jest to, że nie jest to sztywny, nakierowany na zasady język, w którym jest "właściwy" i "niewłaściwy" sposób wyrażania się. Ważne, żeby inni cię rozumieli. Konsekwentnie, większość języka to leksykalne elementy (słowa, które mają znaczenie, jak "książka" lub "jeść"), a niewielka jego część to czysto gramatyczne pojęcia (jak liczba i czas gramatyczny).
 
@@ -16,7 +16,7 @@ Jedną rzeczą, o której należy pamiętać, ucząc się Panduni, jest to, że 
 
 ## 1. Podstawowe Zasady
 
-Oto 11 podstawowych zasad języka Pandunia.
+Oto 11 podstawowych zasad języka Panlingue.
 
 1. Ortografia odzwierciedla dokładnie wymowę.
 2. Akcentowana jest sylaba przed ostatnią spółgłoską.
@@ -34,7 +34,7 @@ Oto 11 podstawowych zasad języka Pandunia.
 9. W _strukturze osiowej_, dopełnienie przechodniego czasownika działa jako podmiot następnego czasownika.
     - przykład: **me pliza te dona mone.** = Proszę cię, żebyś dał me pieniądze.
 10. Zaimki Mogą być opuszczane, gdy są oczywiste i zbędne.
-    - **me kia te baxa pandunia?** → **kia te baxa pandunia?** = Mówisz w Panduni?
+    - **me kia te baxa panlingue?** → **kia te baxa panlingue?** = Mówisz w Panduni?
     - **me pliza te loga ming.** →  **pliza loga ming.** = Proszę, mów wyraźnie.
 11. Słowa pochodne mają opcjonalne zakończenie. Przymiotniki kończą się na -i, rzeczowniki na -e, a czasowniki na -a lub -u.
 
@@ -65,7 +65,7 @@ Prostym sposobem wyrażenia liczby mnogiej jest rzeczownik.
 
 ### 2.3. Rodzaj
 
-Pandunia nie ma rodzaju gramatycznego (tj. męskiej, żeńskiej i/lub nijakiej kategorii).
+Panlingue nie ma rodzaju gramatycznego (tj. męskiej, żeńskiej i/lub nijakiej kategorii).
 
 Kilka słów niesie _naturalny rodzaj_. Na przykład **fem** (kobieta) jest żeńska, a **man** (mężczyzna) jest męski.
 
@@ -108,7 +108,7 @@ W Panduni przysłówek to modyfikator, który znajduje się przed czasownikiem l
 
 > **me _bon_ sona.** - Ja _dobrze_ śpię.
 > **me sona _bon_.** - Śpię _dobrze_.
-> **te baxa pandunia _bon_.** - Mówisz w Panduni _dobrze_.
+> **te baxa panlingue _bon_.** - Mówisz w Panduni _dobrze_.
 
 
 ### 3.4 Opisywanie innego modyfikatora
@@ -271,7 +271,7 @@ Przymiotnikowy zaimek pytający to **ki** i znaczy tyle, co polskie _jaki_.
 
 Czasownik opisuje działanie lub wydarzenie, np. jeść, mówić, patrzeć, myśleć.
 
-Pandunia ma dwa typy czasowników: czasowniki kończące się na **-a** i czasowniki kończące się na **-u**. Zakończenia decydują o kolejności innych części zdania (podmiotu i dopełnienia), więc budowa zdania zależy od typu czasownika.
+Panlingue ma dwa typy czasowników: czasowniki kończące się na **-a** i czasowniki kończące się na **-u**. Zakończenia decydują o kolejności innych części zdania (podmiotu i dopełnienia), więc budowa zdania zależy od typu czasownika.
 
 Wyjaśnienie oznaczenień:
 
@@ -445,7 +445,7 @@ Ta sama zasada działa przy zdaniach z dwoma przymiotnikami.
 
 #### 7.2.4. Być
 
-Pandunia nie używa czasownika jak "być" języka polski.
+Panlingue nie używa czasownika jak "być" języka polski.
 
 
 
@@ -542,8 +542,8 @@ W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości. Dochodzi do 
 
 #### 7.8.1. Krótka struktura osiowa (VOVO)
 
-> **me kia te baxa pandunia.** - Pytam mówisz w Pandunia.
-> **kia te baxa pandunia?** - Czy mówisz w Panduni?
+> **me kia te baxa panlingue.** - Pytam mówisz w Panlingue.
+> **kia te baxa panlingue?** - Czy mówisz w Panduni?
 
 #### 7.8.2. Krótka struktura osiowa (VVO)
 
@@ -697,7 +697,7 @@ Naturalnie, wszystkie słowa czasu są używane, gdy są potrzebne. Zazwyczah wy
 
 ### 10.1. Przyimiki miejsca i czasu
 
-Pandunia ma cztery przyimki miejsca i czasu.
+Panlingue ma cztery przyimki miejsca i czasu.
 
 1. **na** - obecność, miejsce lub moment (zazwyczaj): wraz z, przy, w, na, obok, podczas
 2. **be** - nieobecność lub brak: bez
@@ -725,11 +725,11 @@ Przyimki mogą być też użyte jako rozpoczęcie zdania okolicznikowego czasu.
 **me stasa na dome.**
 _Stoję przy domu._
 
-**me loga na pandunia.**
+**me loga na panlingue.**
 _Mówię przy Panduni._
 Mówię w Panduni.
 
-**me loga na doste na pandunia na fon.**
+**me loga na doste na panlingue na fon.**
 _Mówię przy przyjaciołach przy Panduni przy telefonie._
 Mówię z przyjaciółmi w Panduni przez telefon.
 
@@ -767,7 +767,7 @@ Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu z
 
 Przyimek **ko** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
 
-> **me jana pandunia ko guru.** - Znam Pandunię jak mistrz.
+> **me jana panlingue ko guru.** - Znam Pandunię jak mistrz.
 
 **ko** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **jana** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
 
@@ -782,13 +782,13 @@ Przyimek **ko** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _
 
 ## 11. Słowotwórstwo
 
-Możliwe jest tworzenie nowych słów w Panduni. Pandunia ma produktywny system tworzenia nowych słów. Większość przyrostków używanych w Panduni jest już w międzynarodowym użyciu. Wiele z nich pochodzi z starożytnej greki, łaciny, języka arabskiego i języka perskiego.
+Możliwe jest tworzenie nowych słów w Panduni. Panlingue ma produktywny system tworzenia nowych słów. Większość przyrostków używanych w Panduni jest już w międzynarodowym użyciu. Wiele z nich pochodzi z starożytnej greki, łaciny, języka arabskiego i języka perskiego.
 
 ### 11.1. Znaczniki części mowy
 
-Pandunia używa zakończeń samogłoskowych do szybkiego słowotwórstwa. W tym systemie końcowa samogłoska słowa oznacza typ słowa. System stosuje się głównie do tych słów, które pochodzą od rdzeni-czynności i rdzenie-opisów. Część przymiotników pochodzi też od rdzeni-rzeczy. Zaimki, spójniki, liczebniki i partykuły są poza systemem słowotwórczym.
+Panlingue używa zakończeń samogłoskowych do szybkiego słowotwórstwa. W tym systemie końcowa samogłoska słowa oznacza typ słowa. System stosuje się głównie do tych słów, które pochodzą od rdzeni-czynności i rdzenie-opisów. Część przymiotników pochodzi też od rdzeni-rzeczy. Zaimki, spójniki, liczebniki i partykuły są poza systemem słowotwórczym.
 
-Pandunia korzysta z następujących zakończeń samogłoskowych do oznaczania części mowy:
+Panlingue korzysta z następujących zakończeń samogłoskowych do oznaczania części mowy:
 
 - **a** oznacza czasowniki w szyku podmiot-orzeczenie-dopełnienie (SVO)
 - **u** oznacza czasowniki w szyku dopełnienie-orzeczenie-podmiot (OVS)
@@ -876,7 +876,7 @@ Jeśli rdzeń jest słowem na miejsce, jego forma przymiotnikowa będzie znaczy�
 | Rdzeń-opis       | bone        | **bon**     | bona        |
 | Rdzeń-czynność   | wole        | woli        | **wol**     |
 
-Uwaga! Pandunia nie podąża z zasadą o rdzeniach-czynnościach, by sądzimy, że normalnie jest użyteczniej zaznaczać czasowniki niż rzeczowniki. Tak więc rdzeń-czynność jak **kitab** (pisanie) daje dwa czasowniki, **kitaba** i **kitabu** – ale czysty rdzeń, **kitab**, jest używany jako rzeczownik!
+Uwaga! Panlingue nie podąża z zasadą o rdzeniach-czynnościach, by sądzimy, że normalnie jest użyteczniej zaznaczać czasowniki niż rzeczowniki. Tak więc rdzeń-czynność jak **kitab** (pisanie) daje dwa czasowniki, **kitaba** i **kitabu** – ale czysty rdzeń, **kitab**, jest używany jako rzeczownik!
 
 
 ### 11.2. Przyrostki słowotwórcze
@@ -1035,7 +1035,7 @@ Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak na
 Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słów w hierarchii drzewa. Na przykład, chociaż **i** jest ogólnie wyżej niż **sabu**, tutaj jego zasięg obejmuje tylko **yusef** i **sarah**. **sabu** jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef i sarah wana darsa pandunia, sabu le si bon dunia bax.
+    yusef i sarah wana darsa panlingue, sabu le si bon dunia bax.
 
                         sabu
                ┌──────────┴──────────┐
@@ -1043,7 +1043,7 @@ Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słó
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        le    bax
       ┌───┴───┐    ┌──┴────┐            |
-    yusef   sarah       pandunia       dunia
+    yusef   sarah       panlingue       dunia
                                         |
                                        bon
 

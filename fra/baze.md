@@ -1,11 +1,11 @@
-﻿# Les bases du pandunia
+﻿# Les bases du panlingue
 
-Cette page se veut être un guide de base décrivant les traits principaux du Pandunia.
+Cette page se veut être un guide de base décrivant les traits principaux du Panlingue.
 
 
 ### Alphabet et sons
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
+| Panlingue: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | IPA:      | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
 

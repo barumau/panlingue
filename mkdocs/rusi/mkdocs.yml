@@ -1,6 +1,6 @@
 site_name: пандуния
-site_url: http://www.pandunia.info/rusi
-repo_url: https://github.com/barumau/pandunia/
+site_url: http://www.panlingue.info/rusi
+repo_url: https://github.com/barumau/panlingue/
 docs_dir: ../../rusi
 site_dir: ../../html/rusi
 theme: 
@@ -14,8 +14,8 @@ nav:
     - 'Звучание': abc.md
     - 'Уроки': darse.md
     - 'Словарь':
-        - 'пандуния-русский': pandunia-rusi.md
-        - 'русский-пандуния': rusi-pandunia.md
+        - 'пандуния-русский': panlingue-rusi.md
+        - 'русский-пандуния': rusi-panlingue.md
         - 'этимология': leksaslia.md
     - 'Грамматика': kanun.md
 

@@ -1,4 +1,4 @@
-# pandunia
+# panlingue
 [gimmick:theme](readable)
 
 [🏠](index.md)
@@ -7,7 +7,7 @@
 
 [Gramatica](kanun.md)
 
-[Videos](../pandunia/filme.md)
+[Videos](../panlingue/filme.md)
 
 [💬]()
 
@@ -17,7 +17,7 @@
   * [français](../fransi/index.md)
   * [indonesia](../malayu/index.md)
   * [日本語](../niponi/index.md)
-  * [pandunia](../pandunia/index.md)
+  * [panlingue](../panlingue/index.md)
   * [polski](../polski/index.md)
   * [português](../portugali/index.md)
   * [русский](../rusi/index.md)

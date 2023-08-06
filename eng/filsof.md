@@ -1,6 +1,6 @@
-# Philosophy of Pandunia
+# Philosophy of Panlingue
 
-Pandunia is meant to be a simple language that brings people together. It follows the principles of language neutrality.
+Panlingue is meant to be a simple language that brings people together. It follows the principles of language neutrality.
 
 Language neutrality means that in an ideal situation:
 

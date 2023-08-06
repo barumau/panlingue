@@ -1,6 +1,6 @@
 # tin lil gurube
 
-<small>"Three Little Pigs" sa pandunia bax. kitabu **thethedorn**.</small>
+<small>"Three Little Pigs" sa panlingue bax. kitabu **thethedorn**.</small>
 
 <p style="font-size:6em;text-align:center;">🐷🐷🐷</p>
 

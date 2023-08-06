@@ -1,6 +1,6 @@
-# Filosofía de Pandunia
+# Filosofía de Panlingue
 
-Pandunia está destinado a ser un idioma simple y que tenga la capacidad de unir a las personas. Sigue los principios de la neutralidad de un idioma.
+Panlingue está destinado a ser un idioma simple y que tenga la capacidad de unir a las personas. Sigue los principios de la neutralidad de un idioma.
 
 La neutralidad de un idioma significa que en una situación ideal:
 

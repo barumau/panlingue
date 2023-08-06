@@ -1,22 +1,22 @@
-# Panduniaa sana sanalta
+# Panlinguea sana sanalta
 
 ### Johdanto
 
-Pandunia on keinotekoinen kieli, joka on suunniteltu olemaan suhteellisen helppoa jokaiselle. Yleensä on neljä asiaa, jotka tekevät kielestä helpon tai vaikean oppia.
+Panlingue on keinotekoinen kieli, joka on suunniteltu olemaan suhteellisen helppoa jokaiselle. Yleensä on neljä asiaa, jotka tekevät kielestä helpon tai vaikean oppia.
 
 1. Kuinka läheisesti se muistuttaa oppijan ennestään osaamia kieliä
 2. Kuinka helppoja tai vaikeita sen äänteet ovat
 3. Kuinka monimutkainen sen kielioppi on
 4. Pitääkö sitä käyttää eri tavoin eri ihmisten kanssa ja eri tilanteissa
 
-Pandunia tarjoaa ratkaisun jokaiseen kohtaan.
+Panlingue tarjoaa ratkaisun jokaiseen kohtaan.
 
-1. Panduniassa on paljon lainasanoja maailman joka puolelta, joten siinä on jotakin tuttua lähes jokaiselle.
+1. Panlinguessa on paljon lainasanoja maailman joka puolelta, joten siinä on jotakin tuttua lähes jokaiselle.
 2. Sen ääntäminen on suhteellisen helppoa. Suurin osa sen vokaaleista ja konsonanteista ovat maailman tavallisimpien äänteiden joukossa. Lisäksi sen sanat ovat enimmäkseen 2-3 tavua pitkiä.
 3. Sen kielioppi on säännöllinen ja selkeä. Kaikki sanat ovat taipumattomia, mikä helpottaa kielen oppimista erityisesti vasta-alkajille.
-4. Keinotekoisena kielenä panduniaa ei rasita perinteen painolasti. Voit puhua kaikille samalla tavalla, oli kyseessä sitten ystävä, vieras, nuorempi, vanhempi tai vaikka kuninkaallinen!
+4. Keinotekoisena kielenä panlinguea ei rasita perinteen painolasti. Voit puhua kaikille samalla tavalla, oli kyseessä sitten ystävä, vieras, nuorempi, vanhempi tai vaikka kuninkaallinen!
 
-Tällä kurssilla opetellaan pandunia sanojen kautta. Kurssi koostuu lyhyistä kappaleista. Joka kappaleessa esitellään uusi sana ja sen käyttöä erilaisten lauseiden osana. Kappaleessa saattaa tulla vastaan myös muita uusia sanoja, mutta älä huolehdi niistä liikaa! Kaikkia sanoja ei tarvitse oppia kerralla, vaan niitä toistetaan kappaleiden kuluessa. On parempi keskittyä hyödyllisten lauseiden oppimiseen. Niitä kannattaa kokeilla käytännössä aina tilaisuuden tullen!
+Tällä kurssilla opetellaan panlingue sanojen kautta. Kurssi koostuu lyhyistä kappaleista. Joka kappaleessa esitellään uusi sana ja sen käyttöä erilaisten lauseiden osana. Kappaleessa saattaa tulla vastaan myös muita uusia sanoja, mutta älä huolehdi niistä liikaa! Kaikkia sanoja ei tarvitse oppia kerralla, vaan niitä toistetaan kappaleiden kuluessa. On parempi keskittyä hyödyllisten lauseiden oppimiseen. Niitä kannattaa kokeilla käytännössä aina tilaisuuden tullen!
 
 Huom! Kappaleissa on monesti tällaisia huomioita ja vinkkejä. Niissä kerrotaan sanojen käyttöalasta ja kieliopin piirteistä.
 
@@ -110,7 +110,7 @@ Minä olen Sara.
 Minä olen Tomas.
 
 Voit esitellä itsesi helposti sanomalla vain **me**
-ja nimesi. Panduniassa siihen ei tarvita verbiä!
+ja nimesi. Panlinguessa siihen ei tarvita verbiä!
 
 **me salama mame.**
 Minä tervehdin äitiä.
@@ -120,7 +120,7 @@ Minä tervehdin isää.
 
 Kun sanaan **salam**
 (tervehdys) lisätään verbin pääte -a, saadaan **salama**
-(tervehtiä). Pandunian normaali sanajärjestys on subjekti-verbi-objekti.
+(tervehtiä). Panlinguen normaali sanajärjestys on subjekti-verbi-objekti.
 
 **Sara salama Tomas.**
 Sara tervehtii Tomasta.
@@ -150,7 +150,7 @@ Minä tervehdin sinua.
 **te salama me.**
 Sinä tervehdit minua.
 
-Pandunian sanat ovat taipumattomia. Niinpä esimerkiksi sana **me**
+Panlinguen sanat ovat taipumattomia. Niinpä esimerkiksi sana **me**
 pysyy koko ajan samana, oli se sitten tekijänä taikka teon kohteena.
 
 **me ama te.**
@@ -480,7 +480,7 @@ Hän syö omenaa.
 **lole yama apel.**
 He syövät omenoita.
 
-Huom! Panduniassa ei ole erillisiä sanoja yksikölle ja monikolle. Siksi esimerkiksi sana **apel**
+Huom! Panlinguessa ei ole erillisiä sanoja yksikölle ja monikolle. Siksi esimerkiksi sana **apel**
 voi tarkoittaa yhtä tai useampaa omenaa.
 
 **eska te yama kafe?**
@@ -507,7 +507,7 @@ Haluaisitko syödä?
 **te vola yama ke?**
 Mitä haluaisit syödä?
 
-Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke**
+Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panlinguessa **ke**
 on samalla paikalla kuin normaalissakin lauseessa.
 
 **me vola yama kafe.**
@@ -626,14 +626,14 @@ Hän ei osaa ajaa autolla.
 **eska te abla shula le?**
 Osaatko korjata sen?
 
-**eska te abla pandunia?**
-Osaatko panduniaa?
+**eska te abla panlingue?**
+Osaatko panlinguea?
 
-**me abla pandunia.**
-Minä osaan panduniaa.
+**me abla panlingue.**
+Minä osaan panlinguea.
 
-**me abla lilo pandunia.**
-Minä osaan vähän panduniaa.
+**me abla lilo panlingue.**
+Minä osaan vähän panlinguea.
 
 **me no abla engli.**
 Minä en osaa englantia.
@@ -654,11 +654,11 @@ Minä puhun sinulle.
 **mome loga pa unale.**
 Me puhumme toisillemme.
 
-**ze loga "kissa" sa ki yange sa pandunia?**
-Miten sanotaan "kissa" panduniaksi?
+**ze loga "kissa" sa ki yange sa panlingue?**
+Miten sanotaan "kissa" panlingueksi?
 
-**"kissa" si ke sa pandunia?**
-Mikä "kissa" on panduniaksi?
+**"kissa" si ke sa panlingue?**
+Mikä "kissa" on panlingueksi?
 
 **maw loga miaw.**
 Kissa sanoo miau.
@@ -724,11 +724,11 @@ Kirjoittaisitko sen tähän!
 
 ### basha <small>puhua kieltä, kommunikoida</small>
 
-**eska tote basha pandunia.**
-Puhutteko te panduniaa?
+**eska tote basha panlingue.**
+Puhutteko te panlinguea?
 
-**mome abla basha pandunia.**
-Me osaamme puhua panduniaa.
+**mome abla basha panlingue.**
+Me osaamme puhua panlinguea.
 
 **eska te abla basha Engli?**
 Osaatko puhua englantia?
@@ -818,7 +818,7 @@ Missä hän on?
 **le sida sa kamar.**
 Hän istuu huoneessa.
 
-Panduniassa sanaa **sa**
+Panlinguessa sanaa **sa**
 voi käyttää yksinään ilman verbiä.
 
 **me werka sa...**

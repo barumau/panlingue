@@ -21,7 +21,7 @@ Esittäytyminen
 
 ### Kielioppia
 
-Pandunian lauseet noudattavat tavallisesti teema-kommentti-rakennetta. Teema osoittaa kenestä tai mistä puhutaan. Kommentti kertoo jotakin uutta teemasta. Esimerkiksi lauseessa **le si me ya doste** teema on **le** (hän), ja sitä seuraa kommentti **si me ya doste** (on minun ystäväni).
+Panlinguen lauseet noudattavat tavallisesti teema-kommentti-rakennetta. Teema osoittaa kenestä tai mistä puhutaan. Kommentti kertoo jotakin uutta teemasta. Esimerkiksi lauseessa **le si me ya doste** teema on **le** (hän), ja sitä seuraa kommentti **si me ya doste** (on minun ystäväni).
 
 Sanan **si** voi kääntää olla-verbiksi. Samaa sanaa käytetään sellaisenaan kaikissa persoonissa. Kieltomuodossa käytetään sen sijasta sanaa **no**, joka tarkoittaa _ei_.
 
@@ -38,7 +38,7 @@ Sanan **si** voi kääntää olla-verbiksi. Samaa sanaa käytetään sellaisenaa
 
 ### Harjoituksia
 
-Käännä seuraavat lauseet suomesta panduniaksi. Oikeat vastaukset ovat sananston jälkeen.
+Käännä seuraavat lauseet suomesta panlingueksi. Oikeat vastaukset ovat sananston jälkeen.
 
 1. Who are you?
 2. I am Thomas.
@@ -76,12 +76,12 @@ Käännä seuraavat lauseet suomesta panduniaksi. Oikeat vastaukset ovat sananst
 **salam**
 = Terve!
 
-Näin ihmiset tervehtivät toisiaan panduniaksi. He sanovat **salam**. Samaa sanaa voi käyttää sekä tervehtimiseen että hyvästelemiseen.
+Näin ihmiset tervehtivät toisiaan panlingueksi. He sanovat **salam**. Samaa sanaa voi käyttää sekä tervehtimiseen että hyvästelemiseen.
 
 **salam**
 = Näkemiin!
 
-Sana **salam** tarkoittaa tervehdystä. Se on alkujaan arabian kielen sana, joka tarkoittaa _hyvinvointia_ ja _rauhaa_, ja se on yleinen tervehdys monessa maailman kolkassa, erityisesti Afrikassa ja Aasiassa. Pandunia on keinotekoinen maailmankieli, joka lainaa sanoja maailman kaikista osista.
+Sana **salam** tarkoittaa tervehdystä. Se on alkujaan arabian kielen sana, joka tarkoittaa _hyvinvointia_ ja _rauhaa_, ja se on yleinen tervehdys monessa maailman kolkassa, erityisesti Afrikassa ja Aasiassa. Panlingue on keinotekoinen maailmankieli, joka lainaa sanoja maailman kaikista osista.
 
 Sanan **salam** verbimuoto on **salama**, "tervehtiä".
 
@@ -90,17 +90,17 @@ Sanan **salam** verbimuoto on **salama**, "tervehtiä".
 **te salama me.**
 = Sinä tervehdit minua.
 
-Nämä ovat aktiivisia lausekkeita. Aktiivissa lausekkeissa tekijä eli subjekti tekee teon eli verbin kohteelle eli objektille. Siis lauseessa **me salama te** ensimmäinen sana, **me**, on subjekti, **salama** on verbi, ja **te** on objekti. Juuri tämä järjestys, subjekti, verbi ja objekti, on normaali sanajärjestys panduniassa.
+Nämä ovat aktiivisia lausekkeita. Aktiivissa lausekkeissa tekijä eli subjekti tekee teon eli verbin kohteelle eli objektille. Siis lauseessa **me salama te** ensimmäinen sana, **me**, on subjekti, **salama** on verbi, ja **te** on objekti. Juuri tämä järjestys, subjekti, verbi ja objekti, on normaali sanajärjestys panlinguessa.
 
 > Lauseen sanajärjestys: Subjekti + verbi + objekti
 
-Pandunian persoonapronominit ovat: **me** = minä, **te** = sinä, ja 
+Panlinguen persoonapronominit ovat: **me** = minä, **te** = sinä, ja 
 **le** = hän, se. Huomasithan että pronominit pysyivät koko ajan
-samoina edellisissä esimerkkilauseissa? Pandunian sanat eivät taivu
+samoina edellisissä esimerkkilauseissa? Panlinguen sanat eivät taivu
 sijamuodoissa. Ne pysyvät koko ajan samoina riippumatta siitä, mikä
 niiden asema lauseessa on.
 
-Panduniassa lauseita voi lyhentää jättämällä pois ilmeiset pronominit.
+Panlinguessa lauseita voi lyhentää jättämällä pois ilmeiset pronominit.
 
 **me salama te!**
 = Minä tervehdin sinua.  
@@ -130,7 +130,7 @@ ja maailmalla laajasti tunnistettu tapa tervehtiä ihmisiä.
 
 ### Harjoituksia
 
-Käännä seuraavat lauseet suomesta panduniaksi. Oikeat vastaukset ovat sananston jälkeen.
+Käännä seuraavat lauseet suomesta panlingueksi. Oikeat vastaukset ovat sananston jälkeen.
 
 1. Sinä tervehdit häntä.
 2. Äiti tervehtii isää.
@@ -185,8 +185,8 @@ pomo, päällikkö.
 
 ### Kielioppia
 
-Pandunian persoonapronominit ovat: **me** = minä, **te** = sinä, ja
-**le** = hän. Kuten suomessa, myös panduniassa persoonapronomineilla
+Panlinguen persoonapronominit ovat: **me** = minä, **te** = sinä, ja
+**le** = hän. Kuten suomessa, myös panlinguessa persoonapronomineilla
 ei jaotella sukupuolta. Kaikkia edellä mainittuja persoonapronomineja
 käytettään seuraavassa esimerkkilauseessa.
 
@@ -202,9 +202,9 @@ siis ikään kuin saranana kahden verbin välissä.
 
 > Saranarakenne: subjekti + verbi¹ + object/subjekti + verbi² + objekti
 
-Saranarakennetta käytetään yleisesti panduniassa.
+Saranarakennetta käytetään yleisesti panlinguessa.
 
-Muistatko, että panduniassa on sallittua jättää pronomini pois silloin,
+Muistatko, että panlinguessa on sallittua jättää pronomini pois silloin,
 kun se tunnetaan ilman muuta? Toisin sanoen puhuja voi turvallisin
 mielin olettaa, että kuulijat tietävät mistä tai kenestä hän puhuu,
 eikä hänen tarvitse jatkuvasti toistaa niitä. Tällä tavalla lauseista
@@ -220,7 +220,7 @@ edellisessä lauseessa? Sanan merkitys ei muuttunut, mutta sen
 käyttötapa muuttui. Eräissä kielissä pyyntöjen muodostamiseen
 käytetään apusanaa kuten englannissa _please_ ja saksassa _bitte_.
 Suomessa käytetään ilmaisua "ole hyvä" tai verbin isi-muotoa. Sen
-sijaan panduniassa käytetään yksinkertaisesti pyytämistä tarkoittavaa
+sijaan panlinguessa käytetään yksinkertaisesti pyytämistä tarkoittavaa
 verbiä yksinään, sillä kuulija toki tietää kuka pyytää.
 
 Lauseen **pliza salama le** rakennetta voi hyödyntää kaikenlaisten
@@ -254,7 +254,7 @@ käskevällä äänellä.
 
 ### Harjoituksia
 
-Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkeen.
+Käännä seuraavat lauseet panlingueksi. Oikeat vastaukset ovat sanaston jälkeen.
 
 1. Hän juo teetä.
 2. Pomo pyysi häntä istumaan.
@@ -303,8 +303,8 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 = Teetä.  
 ☻: **i te?**
 = Entä sinä?  
-○: **me no baxa pandunia...**
-= En osaa panduniaa...  
+○: **me no baxa panlingue...**
+= En osaa panlinguea...  
 ☻: **pardon! eska le niama cay?**
 = Anteeksi! Haluaisiko hän teetä?  
 ☺: **no. le no niama cay. le niama kafe.**
@@ -352,8 +352,8 @@ Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 = Juoko päällikkö kahvia?  
 **eska pape safa kamare?**
 = Siivoaako isä huoneen?  
-**eska niki baxa pandunia?**
-= Puhuuko Niki panduniaa?
+**eska niki baxa panlingue?**
+= Puhuuko Niki panlinguea?
 
 
 ### Vastaaminen
@@ -390,10 +390,10 @@ Toinen tapa vastata myöntävästi on kysymyksen verbin toistaminen.
 
 ### Harjoituksia
 
-Käännä seuraavat lauseet panduniaksi.
+Käännä seuraavat lauseet panlingueksi.
 
-1. Puhutko panduniaa?
-2. Kyllä minä puhun panduniaa.
+1. Puhutko panlinguea?
+2. Kyllä minä puhun panlinguea.
 3. Juoko äiti kahvia?
 4. Ei, hän ei juo kahvia.
 5. Syökö hän keittoa?
@@ -415,8 +415,8 @@ Käännä seuraavat lauseet panduniaksi.
 
 ### Harjoitusten vastaukset
 
-1. eska te baxa pandunia?
-2. si. me baxa pandunia.
+1. eska te baxa panlingue?
+2. si. me baxa panlingue.
 3. eska mame niama kafe?
 4. no. le no niama kafe.
 5. eska le niama supe?
@@ -438,7 +438,7 @@ tulee kieltolause.
 
 Käsitteellisesti kieltäminen tarkoittaa kielletyn sanan olemattomaksi
 toteamista. Lauseessa **me no salama te** kieltosana **no** kieltää
-tervehtimisen olemassaolon. Panduniassa kieltosana vaikuttaa aina
+tervehtimisen olemassaolon. Panlinguessa kieltosana vaikuttaa aina
 seuraavaan sanaan. Siis eri asiat tulevat kielletyksi, kun kieltosanan
 paikka lauseessa muuttuu.
 
@@ -464,7 +464,7 @@ substantiivi, adjektiivi tai jopa lukusana.
 
 ### Harjoituksia
 
-Käännä seuraavat lauseet panduniaksi.
+Käännä seuraavat lauseet panlingueksi.
 
 1. Hän ei siivonnut huonetta.
 2. Yksi kuppi ei ole tyhjä.
@@ -574,7 +574,7 @@ vastata kysymykseen.
 
 ### Expressing time
 
-Pandunian kaikki verbit ovat taipumattomia. Jokaisella verbillä on
+Panlinguen kaikki verbit ovat taipumattomia. Jokaisella verbillä on
 siis vain yksi muoto, jota käytetään kaikissa aikamuodoissa. Ne siis
 muistuttavat joitakin suomen kielen verbejä, kuten imuroida ja nauttia,
 jotka ovat kaikissa aikamuodoissa samoja tietyissä persoonissa.
@@ -582,7 +582,7 @@ jotka ovat kaikissa aikamuodoissa samoja tietyissä persoonissa.
 **me funocupa.**
 = Minä imuroin (äsken/nyt/pian).
 
-Ero on siinä, että kaikki pandunian verbit ovat sellaisia! Esimerkiksi
+Ero on siinä, että kaikki panlinguen verbit ovat sellaisia! Esimerkiksi
 **me niama pang**  voi tarkoittaa sekä "Minä söin leipää" että "Minä
 syön leipää", mutta tavallisesti vain toinen merkitys sopii
 asiayhteyteen. Esimerkiksi kun on päivä ja puhe on aamiaisesta,
@@ -655,7 +655,7 @@ tarvita muita aikaa ilmaisevia sanoja.
 
 ### Harjoituksia
 
-Käännä seuraavat lauseet panduniaksi.
+Käännä seuraavat lauseet panlingueksi.
 
 1. Minun pomo juhlii tulevaisuudessa.
 2. Minulla oli kaksi koiraa ennen.	

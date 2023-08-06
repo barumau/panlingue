@@ -1,6 +1,6 @@
-site_name: Pandunia
-site_url: http://www.pandunia.info/fransi
-repo_url: https://github.com/barumau/pandunia/
+site_name: Panlingue
+site_url: http://www.panlingue.info/fransi
+repo_url: https://github.com/barumau/panlingue/
 docs_dir: ../../fransi
 site_dir: ../../html/fransi
 theme: readthedocs
@@ -31,8 +31,8 @@ nav:
         - 'Phrases courantes': fraze.md
         - 'Leçons': darse.md
     - 'Vocabulaire':
-        - 'Pandunia → français': pandunia-fransi.md
-        - 'Français → pandunia': fransi-pandunia.md
+        - 'Panlingue → français': panlingue-fransi.md
+        - 'Français → panlingue': fransi-panlingue.md
         - 'Etymologie': leksaslia.md
         - 'Recherche': tiddly.html
     - 'Grammaire': kanun.md

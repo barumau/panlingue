@@ -4,15 +4,15 @@
 
 An adverb is a word that modifies a verb or another modifier.
 
-In Pandunia adverbs end in **-o** and their place is before a verb
+In Panlingue adverbs end in **-o** and their place is before a verb
 or at the end of the sentence.
 
 **me _bono_ sona.**
 – I well sleep.  
 **me sona _bono_.**
 – I sleep _well_.  
-**te baxa pandunia _bono_.**
-– You speak Pandunia _well_.
+**te baxa panlingue _bono_.**
+– You speak Panlingue _well_.
 
 ## Modifying another modifier
 

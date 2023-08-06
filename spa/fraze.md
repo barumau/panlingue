@@ -2,10 +2,10 @@
 
 ## Introducción
 
-Pandunia es un idioma construido que está diseñado para ser relativamente fácil
+Panlingue es un idioma construido que está diseñado para ser relativamente fácil
 de aprender para todos. Puedes aprenderlo rápidamente con este práctico curso.
 
-Construir oraciones básicas en pandunia es fácil.  No hay artículos definidos
+Construir oraciones básicas en panlingue es fácil.  No hay artículos definidos
 ni indefinidos, no existe el verbo "ser", y no hay reglas complicadas en cuanto
 a cambiar la forma de las palabras para expresar singular y plural o el tiempo
 de los verbos.
@@ -27,7 +27,7 @@ del aprendizaje_.
 Nota: Muchas lecciones incluyen notas explicativas como esta y también otras de
 ayuda. Están ahí para aclarar detalles gramaticales para aquellos que estén
 interesados. Puedes saltártelas si no te son útiles. No necesitas saber la
-teoría del idioma. Puedes hablar pandunia sin más.
+teoría del idioma. Puedes hablar panlingue sin más.
 
 ## Parte 1: Saludos y conceptos básicos
 
@@ -110,7 +110,7 @@ Yo saludo a mamá.
 Yo saludo a papá.
 
 La palabra **salam** es un sustantivo y **salama** es el verbo correspondiente.
-El orden básico de las palabras en pandunia es sujeto-verbo-objeto.
+El orden básico de las palabras en panlingue es sujeto-verbo-objeto.
 
 **Sara salama Tomas.**
 Sara saluda a Tomás.
@@ -134,7 +134,7 @@ Te saludo.
 **te salama me.**
 Me saludas.
 
-Los pronombres no cambian su forma en pandunia. Es por eso que **me** es el
+Los pronombres no cambian su forma en panlingue. Es por eso que **me** es el
 mismo en las posiciones de sujeto y objeto, mientras que el español tiene
 diferentes formas, 'yo', 'me', etc.
 
@@ -423,7 +423,7 @@ Necesito ayuda.
 **lole yama aple.**
 Ellos/as comen manzanas.
 
-Nota: A diferencia del español, pandunia no tiene formas separadas de singular
+Nota: A diferencia del español, panlingue no tiene formas separadas de singular
 y plural. Por lo tanto una palabra como **aple** puede referirse a una o más
 manzanas.
 
@@ -450,7 +450,7 @@ Estoy tomando café y pan.
 ¿Qué te gustaría comer?
 
 Ayuda: Mientras que en el español por lo general se pone el "qué" al inicio de
-la pregunta, en pandunia el orden de las palabras no es afectado por el **ke**.
+la pregunta, en panlingue el orden de las palabras no es afectado por el **ke**.
 
 **me vola yama kafe.**
 Quiero beber café.
@@ -563,14 +563,14 @@ _Él/ella no puede conducir un auto._)
 **eska te abla reibona le?**
 ¿Puedes arreglarlo?
 
-**eska te abla pandunia?**
-¿Puedes hablar pandunia?
+**eska te abla panlingue?**
+¿Puedes hablar panlingue?
 
-**me abla pandunia.**
-Puedo hablar pandunia.
+**me abla panlingue.**
+Puedo hablar panlingue.
 
-**me abla lilo pandunia.**
-Puedo hablar un poco de pandunia.
+**me abla lilo panlingue.**
+Puedo hablar un poco de panlingue.
 
 **me no abla engli.**
 No puedo hablar inglés.
@@ -590,11 +590,11 @@ Te hablé.
 **mome loga pa unale.**
 Hablamos entre nosotros.
 
-**se loga "gato" ko va pandunia?**
-¿Cómo se dice "gato" en pandunia?
+**se loga "gato" ko va panlingue?**
+¿Cómo se dice "gato" en panlingue?
 
-**"gato" logu ko va pandunia?**
-¿Qué es "gato" en pandunia?
+**"gato" logu ko va panlingue?**
+¿Qué es "gato" en panlingue?
 
 **mau loga miau.**
 El gato dice miau.
@@ -659,11 +659,11 @@ Por favor, escríbelo aquí.
 
 ### baxa <small>hablar un idioma, comunicar</small>
 
-**eska tote baxa pandunia.**
-¿Hablas pandunia?
+**eska tote baxa panlingue.**
+¿Hablas panlingue?
 
-**mome baxa pandunia.**
-Nosotros hablamos pandunia.
+**mome baxa panlingue.**
+Nosotros hablamos panlingue.
 
 **eska te abla baxa engli?**
 ¿Puedes hablar inglés?

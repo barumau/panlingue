@@ -83,7 +83,7 @@ An active sentence is a sentence where the subject does the action denoted by th
 The focus is on the subject as the active participant.
 The correct word order is subject-verb-object (SVO).
 
-In Pandunia, active verbs are easy to identify because all of them end in **-a**.
+In Panlingue, active verbs are easy to identify because all of them end in **-a**.
 
 
 The following sentences are in SVO order.
@@ -101,7 +101,7 @@ that is a passive recipient that undergoes the action.
 So the recipient is the subject of the sentence.
 Often the agent is not mentioned at all.
 
-In Pandunia, the passive voice is expressed with the verb ending in **-u**.
+In Panlingue, the passive voice is expressed with the verb ending in **-u**.
 The word order is subject–verb–(optional object) or, more precisely,
 recipient–verb–(optional agent).
 
@@ -192,10 +192,10 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VOVO)
 
-**me suala te baxa pandunia.**
-– I ask do you speak Pandunia.  
-**suala te baxa pandunia?**
-– Do you speak Pandunia.
+**me suala te baxa panlingue.**
+– I ask do you speak Panlingue.  
+**suala te baxa panlingue?**
+– Do you speak Panlingue.
 
 ### Short pivot structure (VVO)
 
@@ -212,15 +212,15 @@ A relative clause is a subordinate clause that modifies a noun phrase, most comm
 For example, the phrase "the person who lives there" containst the noun _person_,
 which is modified by the relative clause _who lives there_.
 
-There are different ways to build a relative clause in Pandunia.
-The relative pronoun in Pandunia is **de**
+There are different ways to build a relative clause in Panlingue.
+The relative pronoun in Panlingue is **de**
 and it corresponds to English _that_, _who_ and _which_.
 
 The relativized word can be emphasized by **di**,
 as in the following example,
 but it is necessary only in complex phrases.
 
-In Pandunia, relative clauses are always set off by commas.
+In Panlingue, relative clauses are always set off by commas.
 
 **di buke, de jan kitaba, padu.**
 – _That_ book, which the person writes, falls.
@@ -454,7 +454,7 @@ Verbs and verb phrases are turned into modifiers by placing **da** or **du** imm
 
 ### Tense and Aspect Particles
 
-In Pandunia, tense can be expressed with time words and time phrases if needed.
+In Panlingue, tense can be expressed with time words and time phrases if needed.
 The general time words are **ceno** (past), **zayo** (present) and **poso** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 

@@ -1,6 +1,6 @@
-# Philosophie du Pandunia
+# Philosophie du Panlingue
 
-Le Pandunia se veut une langue simple qui rassemble les peuples.
+Le Panlingue se veut une langue simple qui rassemble les peuples.
 Il suit les principes de neutralité linguistique.
 
 La neutralité linguistique implique que dans une situation idéale : 
@@ -12,6 +12,6 @@ La neutralité linguistique implique que dans une situation idéale :
 3. Tout le monde trouvera la langue simple.
 4. Tout le monde trouvera la langue logique.
 5. Tout le monde pourra aisément s'exprimer dans la langue.
-6. Chacun aura le sentiment que sa langue/culture représente une contribution significative au Pandunia.
+6. Chacun aura le sentiment que sa langue/culture représente une contribution significative au Panlingue.
 
 L'expression "tout le monde" ne signifie pas que tout le monde sera représenté, mais elle inclue néanmoins la plupart des peuples du monde. Aucun groupe particulier d'individus (ex : Américains, Européens, Asiatiques ou Africains) ne doit être favorisé ou exclu.

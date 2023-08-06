@@ -1,16 +1,16 @@
-# pandunia – dunbax
+# panlingue – dunbax
 
-![](http://www.pandunia.info/bandir/bandir.png "pandunia du bandere")
+![](http://www.panlingue.info/bandir/bandir.png "panlingue du bandere")
 
 salam dunia!
 
-pandunia si novi dunia bax!
-pandunia du loge layu ja mey fen da dunia:
+panlingue si novi dunia bax!
+panlingue du loge layu ja mey fen da dunia:
 Afrike, Amerike, Asia, Europe
 – ja dunia bax xudu vakila momi pani dunia!
 
-eska te sava pandunia?
-te ablu xula pandunia uza [mini xul](mini_darse.html).
+eska te sava panlingue?
+te ablu xula panlingue uza [mini xul](mini_darse.html).
 
 
 * [harfe](abc.md)
@@ -20,7 +20,7 @@ te ablu xula pandunia uza [mini xul](mini_darse.html).
     * [tin buze e guy](3_buze_e_guye.md)
     * [insan du putongi hake](putong_hake.md)
     * [dini kitabe](dini_kitabe.md)
-    * [makal tema pandunia va ali bax](makal_tema_pandunia.md)
+    * [makal tema panlingue va ali bax](makal_tema_panlingue.md)
 * [filme](filme.md)
 * logoliste
     * [dunia loge](lekse/dunia_loge.html)
@@ -30,6 +30,6 @@ te ablu xula pandunia uza [mini xul](mini_darse.html).
     * [nam da dex](dexonam.md)
     * [logaslia](leksaslia.md) e [loge du numbe](loge_du_numbe.md) e [asar da mulbax](asar_da_mulbax.md)
 * vikia
-    * [vikia va Fandom](https://pandunia.fandom.com/)
-    * [ali vikia va pandunia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)
+    * [vikia va Fandom](https://panlingue.fandom.com/)
+    * [ali vikia va panlingue](http://eo.panlingue.wikia.com/wiki/Ali_panlingue_wikia)
 

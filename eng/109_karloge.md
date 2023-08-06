@@ -8,7 +8,7 @@ A verb can involve an agent and a patient.
 The agent performs or "causes" an action,
 and the patient receives or "experiences" the action.
 
-There are three types of verbs in Pandunia:
+There are three types of verbs in Panlingue:
 
 1. Agent-oriented verbs: The subject does the action in the SVO word order.
    The the verb ends in **-a**.
@@ -38,7 +38,7 @@ Verbs that end in **-a** are called _agent-oriented verbs_
 because the agent comes before the verb.
 The agent and patient are arranged around the verb as depicted in the figure below.
 
-![](http://www.pandunia.info/grafe/eng_agent-verb-patient.png "Agent-verb-patient cycle")
+![](http://www.panlingue.info/grafe/eng_agent-verb-patient.png "Agent-verb-patient cycle")
 
 There can be only one verb, one agent, and one patient
 one after another in a sentence.
@@ -55,7 +55,7 @@ If there is a word immediately after the verb, it is the patient.
 
 #### Order A-1: Agent, verb and patient
 
-The most common word order in Pandunia is agent–verb–patient.
+The most common word order in Panlingue is agent–verb–patient.
 It is used typically in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
 
 Examples:  
@@ -88,7 +88,7 @@ Verbs that end in **-u** are called _patient-oriented verbs_
 because the patient comes before the verb.
 The agent and patient are arranged around the verb as depicted in the figure below.
 
-![](http://www.pandunia.info/grafe/eng_patient-verb-agent.png "Patient-verb-agent cycle")
+![](http://www.panlingue.info/grafe/eng_patient-verb-agent.png "Patient-verb-agent cycle")
 
 There can be only one verb, one agent, and one patient.
 Therefore it is possible to put them in exactly three different orders:
@@ -261,11 +261,11 @@ A causative can imply that the action is done for the causer.
 
 ## Prepositions
 
-In Pandunia, prepositions are basically a sub-category of verbs.
+In Panlingue, prepositions are basically a sub-category of verbs.
 
 ### Prepositions of place and time
 
-Pandunia has five prepositions of place and time.
+Panlingue has five prepositions of place and time.
 
 1. **ya** - presence or togetherness:
    with, by use of
@@ -306,17 +306,17 @@ Its basic meaning is "at".
 _I stand with house._  
 I stand by the house.
  
-**me loga va pandunia.**  
-_I speak with Pandunia._  
-I speak in Pandunia.
+**me loga va panlingue.**  
+_I speak with Panlingue._  
+I speak in Panlingue.
  
-**me loga ya doste va pandunia va fon.**  
-_I speak with friends with Pandunia with telephone._  
-I speak with friends in Pandunia by telephone.
+**me loga ya doste va panlingue va fon.**  
+_I speak with friends with Panlingue with telephone._  
+I speak with friends in Panlingue by telephone.
 
 #### Verbs as prepositions
 
-In Pandunia some verbs function like prepositions do in English.
+In Panlingue some verbs function like prepositions do in English.
 
 **me kata pang.**
 – I cut bread.  
@@ -336,7 +336,7 @@ Here are some verbs that are usable as prepositions:
 
 #### Verbs without prepositions
 
-Prepositions are not used as frequently in Pandunia as in English. In
+Prepositions are not used as frequently in Panlingue as in English. In
 many phrases, the verb says enough alone.
 
 **me laya dome.**
@@ -355,8 +355,8 @@ many phrases, the verb says enough alone.
 Preposition **ka** indicates the way something is done.
 It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
 
-**me sava pandunia ka master.**
-– I know Pandunia like a master.
+**me sava panlingue ka master.**
+– I know Panlingue like a master.
 
 **ka**
 relates the verb or the adjective to a point of comparison.

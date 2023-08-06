@@ -1,6 +1,6 @@
-# The basic rules of Pandunia
+# The basic rules of Panlingue
 
-These are the basic rules of Pandunia language.
+These are the basic rules of Panlingue language.
 They are described in more detail later in this document.
 
 1. The spelling follows the pronunciation exactly.
@@ -31,8 +31,8 @@ They are described in more detail later in this document.
    functions as the subject of the next verb.
     - ex. **me cinga te dona pes.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
-    - **me suala te baxa pandunia?** → **suala te baxa pandunia?** = Do
-      you speak Pandunia?
+    - **me suala te baxa panlingue?** → **suala te baxa panlingue?** = Do
+      you speak Panlingue?
     - **me cinga te loga klaro.** →  **cinga loga klaro.**
       = Please speak clearly.
 11. Compound words are created by putting the word stems side by side.

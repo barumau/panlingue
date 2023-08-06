@@ -2,9 +2,9 @@
 
 ## Productive word derivation
 
-Word derivation is productive in Pandunia. Everybody can freely build new words!
+Word derivation is productive in Panlingue. Everybody can freely build new words!
 
-Sometimes regularly derived Pandunia words differ in form and/or meaning from their English counterparts.
+Sometimes regularly derived Panlingue words differ in form and/or meaning from their English counterparts.
 
 **nas** : people, folk (from Arabic ناس /nās/ )  
 **nasi** : popular, national  
@@ -44,7 +44,7 @@ This suffix is more productive in Slavic languages. It is used for example in ma
 
 Among Romance languages, Romanian uses the suffix -er. For example _văcar_ (herdsman) and _fierar_ (blacksmith). In Spanish the equivalent suffix is -ero (as in _vaquero_ and _herrero_), -eiro in Portuguese (_vaqueiro_ and _ferreiro_) and -eur in French.
 
-In Germanic languages this suffix is most often written -er but the vowel is actually a schwa sound. For example, English _baker_ and German _Bäcker_ sound almost like Pandunia's **beker**.
+In Germanic languages this suffix is most often written -er but the vowel is actually a schwa sound. For example, English _baker_ and German _Bäcker_ sound almost like Panlingue's **beker**.
 
 ### -i
 
@@ -61,9 +61,9 @@ Also in Hungarian -i is a productive adjectival suffix, ex. _kéz_ = hand → _k
 
 ### -ia
 
-**-ia** is a very common and wide-spread suffix. It's used in many languages in names of countries and regions. Pandunia adopts this practice.
+**-ia** is a very common and wide-spread suffix. It's used in many languages in names of countries and regions. Panlingue adopts this practice.
 
-| Pandunia | asia            | italia              | rusia               | suria             | turkia              |
+| Panlingue | asia            | italia              | rusia               | suria             | turkia              |
 |:---------|:---------------:|:-------------------:|:-------------------:|:-----------------:|:-------------------:|
 | English  | Asia            | Italy               | Russia              | Syria             | Turkey              |
 | Italian  | Asia            | Italia              | Russia              | Siria             | Turchia             |
@@ -71,7 +71,7 @@ Also in Hungarian -i is a productive adjectival suffix, ex. _kéz_ = hand → _k
 | Turkish  | Asya            | İtalya              | Rusya               | Suriye            | Türkiye             |
 | Arabic   | آسِيَا <br>(āsiyā) | إِيطَالِيَا <br>(ītāliyā) | رُوسِيَا <br>(rūsiyā)  | سُورِيَا <br>(sūriyā) | تُرْكِيَّا <br>(turkiyā)  |
 
-In Romance and Germanic languages this suffix is also productive in deriving place names from names of professions. For example in English _baker → bakery_, in German _Bäcker → Bäckerei_, in Spanish _panadero → panadería_, and in French _boulanger → boulangerie_. Pandunia adopts also this practice: **beker** (baker) → **bekeria** (bakery).
+In Romance and Germanic languages this suffix is also productive in deriving place names from names of professions. For example in English _baker → bakery_, in German _Bäcker → Bäckerei_, in Spanish _panadero → panadería_, and in French _boulanger → boulangerie_. Panlingue adopts also this practice: **beker** (baker) → **bekeria** (bakery).
 
 By coincidence, Japanese has a similar sounding suffix for place names:
 パン (pan = bread) → パン屋 (panya = bakery).
@@ -80,7 +80,7 @@ The suffix **-ia** is also used with names of governments and other organization
 
 In addition **-ia** is used in words for abstract systems of thinking, such as science and religion. There are lots of examples in natural languages for this pattern too.
 
-| Pandunia | filosofia   | kimia     | fizikia  |
+| Panlingue | filosofia   | kimia     | fizikia  |
 |:---------|:------------|:----------|:---------|
 | English  | philosophy  | chemistry | physics  |
 | French   | philosophie | chimie    | physique |

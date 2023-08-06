@@ -1,7 +1,7 @@
 ## 3. Modifovortoj
 
 _Modifovorto_ estas vorto, kiu priskribas econ de alia vorto.
-Panduniaj modifovortoj rolas kiel adjektivoj kaj adverboj en Esperanto.
+Panlinguej modifovortoj rolas kiel adjektivoj kaj adverboj en Esperanto.
 En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 
 ### 3.1. Modifante substantivon

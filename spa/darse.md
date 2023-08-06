@@ -6,7 +6,7 @@ Presentación
 
 ### Diálogo
 
-![](http://www.pandunia.info/grafe/halou.png "halou!")
+![](http://www.panlingue.info/grafe/halou.png "halou!")
 
 <big>��</big>>
 **halou!**
@@ -35,7 +35,7 @@ Yo soy Sara. ¿Quién es?
 
 ### Gramatica
 
-Frases de Pandunia normalmente sigue la estructura tema-comentario. El tema indica quién o qué se está hablando. El comentario dice algo sobre el tema. Por ejemplo, en **le si mi doste** el tema es el pronombre **le** (él, ella, ello), que es seguido por el comentario **si mi doste** (es amigo mío).
+Frases de Panlingue normalmente sigue la estructura tema-comentario. El tema indica quién o qué se está hablando. El comentario dice algo sobre el tema. Por ejemplo, en **le si mi doste** el tema es el pronombre **le** (él, ella, ello), que es seguido por el comentario **si mi doste** (es amigo mío).
 
 
 Del mismo modo puede describirse diciendo **me sa** seguida por una palabra que lo describa.
@@ -50,7 +50,7 @@ Del mismo modo puede describirse diciendo **me sa** seguida por una palabra que 
 
 ### Ejercicios
 
-Intenta traducir estas frases de Español a Pandunia.
+Intenta traducir estas frases de Español a Panlingue.
 
 1. ¿Quién es usted?
 2. Soy Tomas.
@@ -112,12 +112,12 @@ animal
 **salam**
 = ¡Hola!
 
-Esta es la manera como se saludan las personas en Pandunia. Dicen **salam**. Es usado para decir tanto hola como adiós o chao.
+Esta es la manera como se saludan las personas en Panlingue. Dicen **salam**. Es usado para decir tanto hola como adiós o chao.
 
 **salam**
 = ¡Adiós!
 
-La palabra **salam** significa saludo. (El origen de esta palabra es del árabe “salām”. Pandunia es una lengua planificada multicultural. Por eso en Pandunia es común encontrar que una sola palabra tenga origenes de diferentes idiomas.) 
+La palabra **salam** significa saludo. (El origen de esta palabra es del árabe “salām”. Panlingue es una lengua planificada multicultural. Por eso en Panlingue es común encontrar que una sola palabra tenga origenes de diferentes idiomas.) 
 
 
 **me salama te.**
@@ -132,13 +132,13 @@ verbo (la acción), y **te** es el objeto. Su orden es importante.
 
 > Sujeto + Verbo + Objeto
 
-En Pandunia los pronombres personales son: **me** = yo, **te** = tú,
+En Panlingue los pronombres personales son: **me** = yo, **te** = tú,
 usted, y **le** = él, ella, ello. Nota: los pronombres se mantienen
 igual a los dos ejemplos de las oraciones anteriores. Las palabras en
-Pandunia nunca cambian. Siempre se mantienen igual sin importar su
+Panlingue nunca cambian. Siempre se mantienen igual sin importar su
 posición o función en la oración.
 
-En Pandunia las oraciones pueden ser abreviadas dejando por fuera los pronombres que son evidentes en el contexto.
+En Panlingue las oraciones pueden ser abreviadas dejando por fuera los pronombres que son evidentes en el contexto.
 
 **me salama te!**
 = ¡Yo te saludo!  
@@ -161,7 +161,7 @@ La forma de **salama tu** es útil para decir el nombre de la persona, parentesc
 
 ### Ejercicios
 
-Intenta traducir estas frases de Español a Pandunia.
+Intenta traducir estas frases de Español a Panlingue.
 
 1. Tú la/lo saludas.
 2. Mamá saluda a papá.
@@ -228,8 +228,8 @@ Pidiendo
 
 ### Gramatica
 
- En Pandunia los pronombres personales son: **me** = yo, **te** = tú,
- usted, y **le** = él, ella, ello. Pandunia es una lengua de género
+ En Panlingue los pronombres personales son: **me** = yo, **te** = tú,
+ usted, y **le** = él, ella, ello. Panlingue es una lengua de género
  neutral. No distingue sexos en los pronombres de las terceras personas
  o en otros pronombres. Todos los pronombres personales son usados en
  la siguiente oración.
@@ -246,7 +246,7 @@ eje entre los dos verbos.
 
 > Oración eje: Sujeto + Verbo¹ + Objeto/Sujeto + Verbo² + Objeto
 
-La oración eje es una estructura común en Pandunia.
+La oración eje es una estructura común en Panlingue.
 
 Recordemos que se permite dejar por fuera pronombres que se conocen
 en el contexto. En otras palabras, el hablante puede asumir con
@@ -262,9 +262,9 @@ pueden hacer frases más cortas.
 ¿Vea cómo la traducción de **pliza** ha cambiado entre las dos frases?
 El significado de la palabra, el concepto, no ha cambiado, pero sí su
 uso. En español se refleja este cambio mediante el uso de diferentes
-palabras, 'pedir' y 'por favor'. Pandunia puede hacer frente a los
+palabras, 'pedir' y 'por favor'. Panlingue puede hacer frente a los
 cambios de este tipo sin recurrir a diferentes palabras. Es un
-principio en Pandunia que siempre hay exactamente una palabra para un
+principio en Panlingue que siempre hay exactamente una palabra para un
 concepto. Diferentes palabras no se crean sólo por el papel gramatical
 de algunos cambios de concepto.
 
@@ -292,7 +292,7 @@ Las ordenes son introducidas con **amira** = ordenar. Se utiliza la misma estruc
 
 ### Ejercicios
 
-Intenta traducir estas oraciones de Español a Pandunia.
+Intenta traducir estas oraciones de Español a Panlingue.
 
 1. Él bebe té.
 2. El jefe le pidio a ella sentarse.
@@ -357,8 +357,8 @@ Preguntas de Sí o No
 **e te?**
 = ¿ y Usted? 
 <big>🧓</big>
-**me no baxa pandunia...**
-= Yo no hablo Pandunia...  
+**me no baxa panlingue...**
+= Yo no hablo Panlingue...  
 <big>👩‍🍳</big>
 **maf! eska le yama cai?**
 = ¡Perdón! ¿Él toma té?  
@@ -399,8 +399,8 @@ En las peticiones por lo general se refiere a los que se habla, pero las pregunt
 = ¿Bebe él/ella té?  
 **eska te yama supe?**
 = ¿Come usted sopa?  
-**eska Kamilo baxa pandunia?**
-= ¿Habla Camilo Pandunia?
+**eska Kamilo baxa panlingue?**
+= ¿Habla Camilo Panlingue?
 
 
 ### Respondiendo
@@ -436,10 +436,10 @@ Se puede también responder sí, repitiendo el verbo de la pregunta.
 
 ### Ejercicios
 
-Intenta traducir estas oraciones de Español a Pandunia.
+Intenta traducir estas oraciones de Español a Panlingue.
 
-1. ¿Hablas tú pandunia?
-2. Sí, yo hablo Pandunia.
+1. ¿Hablas tú panlingue?
+2. Sí, yo hablo Panlingue.
 3. ¿Bebe mamá café?
 4. No, ella no bebe café.
 5. ¿Ella come sopa?
@@ -475,8 +475,8 @@ sí
 
 ### Respuestas
 
-1. eska te baxa pandunia?
-2. ye. me baxa pandunia.
+1. eska te baxa panlingue?
+2. ye. me baxa panlingue.
 3. eska mam yama kafe?
 4. no. le no yama kafe.
 5. eska le yama supe?
@@ -500,7 +500,7 @@ del verbo convertimos una oración afirmativa en negativa.
 
  Conceptualmente negación significa a ausencia de la palabra negada.
  En la frase **me no salama te** la palabra **no** niega la existencia
- de **salama** (saludar). En Pandunia la palabra negativa ne se aplica
+ de **salama** (saludar). En Panlingue la palabra negativa ne se aplica
  a la palabra que la sigue. si que diferentes alcances de negación
  pueden resultar en función de la ubicación de la palabra negativa.
 
@@ -525,7 +525,7 @@ La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adj
 
 ### Ejercicios
 
-Intenta traducir las oraciones de Español a Pandunia.
+Intenta traducir las oraciones de Español a Panlingue.
 
 1. Él no limpia la habitación.
 2. Una copa no está vacia.
@@ -622,7 +622,7 @@ de tiempo no son necesarias.
 
 ### Ejercicios
 
-Intenta traducir de Español a Pandunia.
+Intenta traducir de Español a Panlingue.
 
 1. Mi jefe celebrará en el futuro.
 2. Yo solía tener dos perros.
@@ -678,7 +678,7 @@ celebrar
 
 ## Palabras conectoras «du» y «da»
 
-**ya** es una palabra especial en la gramática de Pandunia. Es una
+**ya** es una palabra especial en la gramática de Panlingue. Es una
 palabra que ayuda a organizar expresiones. **yu** conecta la palabra
 modificadora a la palabra modificada.
 
@@ -751,7 +751,7 @@ sucesivas efectuadas por el mismo agente. El orden de la frase es:
 
 > sujeto + verbo 1 + verbo 2 + objeto
 
-Recordemos que Pandunia es una lengua que la serialización verbal
+Recordemos que Panlingue es una lengua que la serialización verbal
 sea común.
 
 **me vola vida te.**
@@ -761,18 +761,18 @@ sea común.
 
 Pueden haber mas de dos verbos en serie.
 
-**me xula pandunia.**
-= Yo aprendo pandunia.  
-**me xura xula pandunia.**
-= Yo empiezo a aprender pandunia.  
-**me vola xura xula pandunia.**
-= Yo quiero empezar a aprender Pandunia.  
-**me vola xura xula loga pandunia.**
-= Yo quiero empezar a aprender a hablar Pandunia.
+**me xula panlingue.**
+= Yo aprendo panlingue.  
+**me xura xula panlingue.**
+= Yo empiezo a aprender panlingue.  
+**me vola xura xula panlingue.**
+= Yo quiero empezar a aprender Panlingue.  
+**me vola xura xula loga panlingue.**
+= Yo quiero empezar a aprender a hablar Panlingue.
 
 
 ### Ejercicios
-Intenta traducir estas oraciones de Español a Pandunia.
+Intenta traducir estas oraciones de Español a Panlingue.
 
 1. Yo necesito darle café al jefe.
 2. ¿Quieres beber agua?

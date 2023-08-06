@@ -1,4 +1,4 @@
-#asar la mulbax va pandunia
+#asar la mulbax va panlingue
 
 | bax | asar |
 |-----|--------|
