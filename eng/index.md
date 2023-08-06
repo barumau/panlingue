@@ -1,31 +1,33 @@
-# halou, dunia!
+# Panlingue
 
-Hello, world!
-Welcome to learn about Panlingue, the evenly global helping language!
+Panlingue is a globally sourced constructed language
+that combines different types of grammar and international words from all continents into one language.
+It can be used for many purposes.
+The list below suggests some possible use cases for the language.
 
-![](http://www.panlingue.info/grafe/halou_dunia.png "halou dunia!")  
-<small>Image designed by [Freepik](http://www.freepik.com)</small>
+- learning phonetics (IPA)
+- learning grammar
+- learning international and intercultural words
+- learning systematic word derivation
+- understanding different word orders
+- interlanguage for human translation and machine translation
+- interlanguage for human communication (international auxiliary language)
 
-## What is Panlingue?
+Panlingue is a perfect language to be learned as the first foreign language,
+because it prepares students to study other foreign languages in a unique way.
+Panlingue helps students to understand and use
 
-Panlingue is a helping language for world-wide use.
-It is an easy language that people can use to talk with each other
-when they don't talk any other common language.
-It is meant to supplement other languages in our multilingual world.
+- the basic word classes
+- different word orders
+- analytic and synthetic syntaxes
+- word derivation and structure of international words
+- international words from European, American, Asian and African cultures.
 
-Panlingue is a constructed language.
-It is simpler, more regular and easier to learn than natural world languages,
-like English, French, Spanish, Chinese, Russian, Arabic and Hindi.
-Learning Panlingue is equally easy for everybody.
-Its words have been borrowed from many languages on all continents and all cultures of the world.
+One year of learning Panlingue produces a language ability equivalent to what the average learner reaches with other languages after several years of study.
+It is a first stepping stone that builds confidence and improves the ability of the student to learn any other language in the future.
 
-![](http://www.panlingue.info/bandir/bandir.png "The flag of Panlingue")
-
-## Coming soon...
-
-New and improved version of Panlingue will be published in March 2021.
-Version 2.0 includes improved grammatical structures, more logical structure words, and new and changed words.
-
+One year of learning Panlingue also enables students to communicate well with a growing number of people
+who have also learned this regular, flexible and multicultural language.
 
 ## How to learn it?
 
@@ -42,10 +44,6 @@ Version 2.0 includes improved grammatical structures, more logical structure wor
 - [Origins of words](leksaslia.md)
 
 
-## Texts
-
-- [The rich man and the poor man](rici_man_i_miskin_man.md)
-- [Fandom Wiki in Panlingue](https://panlingue.fandom.com/)
 
 ## Articles
 
@@ -54,31 +52,13 @@ Version 2.0 includes improved grammatical structures, more logical structure wor
 - [Why do I like Panlingue?](http://www.panlingue.info/makal/Why_do_I_like_Panlingue.pdf) - opinions from learners
 - [Esperanto vs. Panlingue](esperanti_i_panlingue.md)
 
-## Presentations (in PDF format)
-
-- [General Presentation](Panlingue-presentation.pdf)
 
 ## Join Others
 
-Many people are already interested about Panlingue and they are speaking it.
-You can find Panlingue forums in several places:
-
-- Links and discussion in [Reddit](https://www.reddit.com/r/panlingue/)
-- [Friends of Panlingue](http://www.facebook.com/groups/panlingue) in Facebook
-- Channels in Telegram instant messenger:
-    * [multilingual](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
-    * [in Esperanto](https://panlingue.telegramo.org/)
-    * [in Panlingue](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
-- Find other Panlingue speakers in [Amikumu](https://amikumu.com/) app!
-- [channels in Discord](https://discord.gg/FWavWeG)
-- QQ channel: 717549404
-- You can follow Panlingue also on [Twitter](https://twitter.com/panlingue_).
-  Spread the word!
-- You can help to [translate this site](tarja_netoloke.md)
-
-![](http://www.panlingue.info/grafe/mome_loga_panlingue.png "mome loga panlingue!")  
-<small>Image designed by [Freepik](http://www.freepik.com)</small>
+You can talk about Panlingue at the
+[Auxlangs](https://www.reddit.com/r/auxlangs/)
+forum in Reddit.
 
 You can contact the creator and a main developer of Panlingue, Risto Kupsala, via email
-[risto@panlingue.info](mailto:risto@panlingue.info) and in the aforementioned forums.
+[risto@panlingue.info](mailto:risto@pandunia.info) and in the aforementioned forums.
 

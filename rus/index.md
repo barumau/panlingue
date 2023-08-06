@@ -22,5 +22,5 @@
 ![](http://www.panlingue.info/grafe/mome_loga_panlingue.png "mome loga panlingue!")
 
 
-Контакт: [risto@panlingue.info](mailto:risto@panlingue.info)
+Контакт: [risto@panlingue.info](mailto:risto@pandunia.info)
 

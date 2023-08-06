@@ -13,7 +13,7 @@
 ![](http://www.panlingue.info/grafe/mome_loga_panlingue.png "mome loga panlingue!")
 
 
-给我们发电子邮件: risto@panlingue.info
+给我们发电子邮件: risto@pandunia.info
 
 
 

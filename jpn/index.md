@@ -49,26 +49,7 @@
 
 - [一般的なプレゼンテーション(PDF/英語)](Panlingue-presentation.pdf)
 
-## 他の参加方法
-
-多くの人々がすでにパンドゥニアに興味を持って話しています。 パンドゥニアフォーラムはいくつかの場所で見つけることができます:
-
-- リンクとディスカッション: [Reddit](https://www.reddit.com/r/panlingue/)
-- Facebook [Friends of Panlingue](http://www.facebook.com/groups/panlingue)
-- Telegram(インスタントメッセンジャー) のチャンネル:
-    * [多言語で](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
-    * [エスペラントで](https://panlingue.telegramo.org/)
-    * [パンドゥニアで](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)
-- そのほかのパンドゥニア話者を見つけるには [Amikumu](https://amikumu.com/) アプリで!
-- [Discordのチャンネル](https://discord.gg/FWavWeG)
-- QQ channel: 717549404
-- [Twitter](https://twitter.com/panlingue_) の公式アカウントもフォロー出来ます。
-  言葉を広める! <!-- The official Twitter account is not functioning. -->
-- [Auxlang](https://listserv.brown.edu/archives/auxlang.html) メーリングリストでもパンドゥニアについて話すことができます。
-  _Subscribe_ をクリックし、リストに参加するためのメールアドレスを入力します。
-- このサイトの翻訳を[手伝ってください。](tarja_netoloke.md)
-
 パンドゥニアの制作者である Risto Kupsala にはEメール
-[risto@panlingue.info](mailto:risto@panlingue.info) または前述のフォーラムで
+[risto@panlingue.info](mailto:risto@pandunia.info) または前述のフォーラムで
 連絡できます。
 

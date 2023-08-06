@@ -30,32 +30,4 @@ Quelques traits remarquables du panlingue :
 
 - [Le panlingue, une nouvelle langue de communication mondiale](dunia_baxe.md)
 
-
-## Présentation au format PDF (en anglais)
-
-- [Présentation générale](http://panlingue.info/engli/Panlingue-presentation.pdf)
-
-## Rejoignez-nous
-
-De nombreuses personnes sont déjà intéressées par le panlingue et certaines l'utilisent déjà pour communiquer :
-- Salons Telegram (communauté la plus active) :
-  - [multilingue](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
-  - [en espéranto](https://panlingue.telegramo.org/)
-  - [en panlingue](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)
-- Sujet "panlingue" sur [L'Atelier](http://www.ideolangues.org/t727-panlingue)
-- Liens et discussions sur [Reddit](https://www.reddit.com/r/panlingue/)
-- Les amis du Panlingue sur [Facebook](http://www.facebook.com/groups/panlingue)
-- Trouvez d'autres locuteurs du Panlingue avec l'appli [Amikumu](https://amikumu.com/)
-- Salon sur [Discord](https://discord.gg/FWavWeG)
-- QQ channel: 717549404
-- Et vous pouvez suivre l'actualité du panlingue sur [Twitter](https://twitter.com/panlingue_). Diffusez l’info !
-- Vous pouvez aider à [traduire ce site](tarja_netoloke.md)
-
-![](http://www.panlingue.info/grafe/mome_loga_panlingue.png "mome loga panlingue!")
-
- 
-Vous pouvez contacter Risto Kupsala, un des créateurs du panlingue, en envoyant un courriel à [risto@panlingue.info](mailto:risto@panlingue.info) et également dans les forums mentionnés précédemment.
-
-Page mise à jour le 26 mars 2020
-
-
+Vous pouvez contacter Risto Kupsala, un des créateurs du panlingue, en envoyant un courriel à [risto@panlingue.info](mailto:risto@pandunia.info) et également dans les forums mentionnés précédemment.

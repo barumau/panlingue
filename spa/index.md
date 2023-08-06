@@ -42,23 +42,5 @@ Algunas características notables de Panlingue:
   ](http://www.panlingue.info/makal/Why_do_I_like_Panlingue.pdf) - opiniones de
   estudiantes
 
-## Aprende con otros
-
-Ya hay personas que están interesadas en panlingue y lo están practicando.
-Puedes encontrarlos en varios lugares de internet: 
-
-- Debates en [Reddit](https://www.reddit.com/r/panlingue/)
-- [Grupo de Facebook](http://www.facebook.com/groups/panlingue)
-- Salas de chat en Telegram:
-    * [plurilingüe](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), 
-    * [en esperanto](https://panlingue.telegramo.org/) y 
-    * [en panlingue](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
-- [Chat de voz en Discord](https://discord.gg/FWavWeG)
-- Canal QQ: 717549404
-- Sigue a panlingue en [Twitter](https://twitter.com/panlingue_).
-
-![](http://www.panlingue.info/grafe/mome_loga_panlingue.png "mome loga panlingue!")
-
 Puedes contactar por correo con el creador de Panlingue, Risto Kupsala, en el
-correo electrónico [risto@panlingue.info](mailto:risto@panlingue.info) y en los
-lugares anteriormente citados.
+correo electrónico [risto@panlingue.info](mailto:risto@pandunia.info).

@@ -21,17 +21,3 @@ Nota: Panlingue es un lingua construite que on ancora construe. Il es possible q
 
 - [Mini-lectiones con picturas](http://www.panlingue.info/panlingue/mini_darse.html)
 
-## Communitate
-
-Multe personas jam se occupa de Panlingue e lo parla. Vos pote trovar forumos pro Panlingue in multe locos:
-
-- Ligamines e discussion in [Reddit](https://www.reddit.com/r/panlingue/)
-- [Amicos de Panlingue](http://www.facebook.com/groups/panlingue) in Facebook
-- canales in le messagero instantanee Telegram:
-  [multilingual](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA),
-  [in Esperanto](https://panlingue.telegramo.org/) e
-  [in Panlingue](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
-- [canales in Discord](https://discord.gg/FWavWeG)
-- canal de QQ: 717549404
-- Vos pote sequer Panlingue etiam in [Twitter](https://twitter.com/panlingue_). Informa vostre amicos!
-

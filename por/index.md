@@ -19,5 +19,5 @@ A panlingue é uma língua artificial multicultural.
 
 ![](http://www.panlingue.info/grafe/mome_loga_panlingue.png "mome loga panlingue!")
 
-Contato: risto@panlingue.info
+Contato: risto@pandunia.info
 

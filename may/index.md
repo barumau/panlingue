@@ -10,13 +10,7 @@ Bahasa Panlingue adalah [bahasa buatan antarabangsa](https://id.wikipedia.org/wi
 
 - [Pelajaran mini](http://www.panlingue.info/panlingue/mini_darse.html)
 
-## Forum diskusi
-
-- [Facebook](http://www.facebook.com/groups/panlingue)
-- [Telegram](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
-- [Twitter]()
-
-Kontak: risto@panlingue.info
+Kontak: risto@pandunia.info
 
 
 

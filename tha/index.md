@@ -27,20 +27,4 @@
 
 [พันดูเนีย - ภาษาโลที่เท่าเทียม](dunia_baxe.md)
 
-## เครือข่ายชุมชน
-
-สามารถร่วมพูดคุยกับผู้คนที่สนใจภาษาพันดูเนียได้ที่:
-
-- เว็บบอร์ด [Reddit](https://www.reddit.com/r/panlingue/)
-- [กลุ่ม Facebook panlingue](http://www.facebook.com/groups/panlingue)
-- [Telegram ภาษาพันดูเนีย](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)
-- [Telegram หลายภาษา](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
-- ช่อง [Discord](https://discord.gg/FWavWeG)
-- แอป [Amikumu](https://amikumu.com/) por trovi parolantojn
-- QQ: 717549404
-- [Twitter](https://twitter.com/panlingue_)
-- [Panlingue Vikio](http://eo.panlingue.wikia.com/wiki/%C4%88efpa%C4%9Do)
-
-![](http://www.panlingue.info/grafe/mome_loga_panlingue.png "mome loga panlingue!")
-
-คุณสามารถติดต่อ Risto Kupsala ผู้ประดิษฐ์ภาษาพันดูเนีย ผ่านทางอีเมลที่ [risto@panlingue.info](mailto:risto@panlingue.info) หรือในที่ที่อยู่ในรายการเครือข่ายชุมชน
+คุณสามารถติดต่อ Risto Kupsala ผู้ประดิษฐ์ภาษาพันดูเนีย ผ่านทางอีเมลที่ [risto@panlingue.info](mailto:risto@pandunia.info) หรือในที่ที่อยู่ในรายการเครือข่ายชุมชน

@@ -42,22 +42,7 @@ Panlinguen voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole 
 - [Tarinoita ja sarjakuvia panlingueksi](http://www.panlingue.info/panlingue/index.html)
 
 
-
-## Jutellaan!
-
-- Löydä muita panlinguen puhujia [Amikumu](https://amikumu.com/)-sovelluksella!
-- Panlinguesta voi puhua suomeksi Facebookin [Tekokielet](http://www.facebook.com/groups/tekokielet)-ryhmässä.
-  ja Suomi24:n [Keinokielet](http://keskustelu.suomi24.fi/tiede-ja-teknologia/tiede/keinokielet)-ryhmässä.
-- Facebookin [Panlingue](http://www.facebook.com/groups/panlingue)-ryhmä toimii pääasiassa englanniksi.
-- Telegramissa on kanavat [kokonaan panlingueksi](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg), [englanniksi](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) ja [esperantoksi](https://panlingue.telegramo.org/).
-- Panlinguelle on myös oma [Reddit-foorumi](https://www.reddit.com/r/panlingue/).
-- Suomeksi on tarjolla [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-panlingue),
-  johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-panlingue+subscribe@googlegroups.com tai käytä selainta ja Google-tiliäsi.
-
-![](http://www.panlingue.info/grafe/mome_loga_panlingue.png "mome loga panlingue!")  
-<small>Kuvan lähde [Freepik](http://www.freepik.com)</small>
-
-Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@panlingue.info](mailto:risto@panlingue.info)
+Panlinguen yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@panlingue.info](mailto:risto@pandunia.info)
 
 ## Kirjoituksia
 
