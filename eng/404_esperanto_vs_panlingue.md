@@ -140,43 +140,60 @@ the way different word classes relate to each other can be confusing
 if not handled carefully.
 
 
-### Esperanto roots have inherent word class
+### Esperanto roots have inherent word classes
 
-One of the most confusing things in Esperanto is that, while it has
-separate word class markers, the roots belong to word classes already!
-What's even more confusing is that roots, which belong to the same
-category, can belong to different word classes. 
+One of the most confusing things in Esperanto is that,
+while it has distinct word class markers,
+all roots belong to word classes already by default.
+What's even more confusing is that roots,
+which seemingly belong to the same class,
+can have a different underlying word class.
 
-For example blua (blue) and malferma (opening) are adjectives, but
-the root blu- is an adjective while the root malferm- is a verb. This
-results into weird asymmetries in word derivation. Additional 
-asymmetry is caused by unsystematic distribution of transitivity in
-verbs, which is illustrated by the root nask- (birth).
+For example, the adjectives *blua*, *brula*, *ferma* and *naska* seem similar on the surface,
+but in reality they have different inherent word classes.
+Fundamentally *blu-* is an adjective,
+*brul-* is an intransitive verb
+*ferm-* is a transitive verb,
+and *nask-* is an action noun.
+As a result, deriving other words from them is different.
+Therefore their direct derivatives are distributed asymmetrically.
+In the table below, direct derivates are in bold cursive
+and indirect derivatives, which include additional derivative suffixes, are in normal cursive.
 
-| blu-               | malferm-              | nask-                 |
-|:-------------------|:----------------------|:----------------------|
-| blua = blue        | -                     | naska = birth-        |
-| blui = be blue     | -                     | -                     |
-| -                  | malfermi = make open  | naski = give birth    |
-| bluigi = make blue | -                     | -                     |
-| bluiĝi = get blue  | malfermiĝi = get open | naskiĝi = be/get born |
-|                    | malfermita = open(ed) | naskita = born        |
+| Word type             | *blu-*         | *brul-*        | *ferm-*        | *nask-*        |
+|:----------------------|:---------------|:---------------|:---------------|:---------------|
+| Noun                  | ***blu-o***    | ***brul-o***   | ***ferm-o***   | ***nask-o***   |
+|                       | 'color blue'   | 'burning'      | 'closure'      | 'birth'        |
+| Adjective of relation | -              | -              |  -             | ***nask-a***   |
+|                       |                |                |                | 'natal'        |
+| Adjective of being    | ***blu-a***    | ***brul-a***   | ***ferm-a***   | *nask-it-a*    |
+|                       | 'blue'         | 'burning'      | 'closed'       | 'born'         |
+| Verb of being         | ***blu-i***    | -              | -              | -              |
+|                       | 'be blue'      |                |                |                |
+| Verb of becoming      | *blu-iĝ-i*     | ***brul-i***   | *ferm-iĝ-i*    | *nask-iĝ-i*    |
+|                       | 'get blue'     | 'burn'         | 'be closed'    | 'be born'      |
+| Verb of doing         | *blu-ig-i*     | *brul-ig-i*    | ***ferm-i***   | ***nask-i***   |
+|                       | 'make blue'    | 'make burn'    | 'close'        | 'give birth'   |
 
 
 ### Panlingue roots are classless
 
-The roots are classless in Panlingue, so there's no need to memorize
-whether for example kay- (open) is basically a verb or an adjective.
-Word class is added by adding the appropriate ending: -i for adjectives
-or stative verbs, -a for active verbs and -u for passive verbs.
+The roots are classless in Panlingue.
+There's no need to memorize for example *kluz-* whether is fundamentally a verb or an adjective.
+It is neither!
+Word class is only indicated by adding the appropriate ending:
+*-i* for adjectives or stative verbs,
+*-a* for agent-oriented verbs and
+*-u* for patient-oriented verbs.
 
-| nil-               | kay-              | jen-               |
-|:-------------------|:------------------|:-------------------|
-| nili = (be) blue   | kayi = (be) open  | jeni = born        |
-| nila = make blue   | kaya = make open  | jena = give birth  |
-| nilu = get blue    | kayu = get open   | jenu = be/get born |
-
-
-
-
+| Word type             | *nil-*         | *pir-*         | *kluz-*        | *nat-*         |
+|:----------------------|:---------------|:---------------|:---------------|:---------------|
+| Noun                  | ***nil-e***    | ***pir-e***    | ***kluz-e***   | ***nat-e***    |
+|                       | 'color blue'   | 'burning'      | 'closure'      | 'birth'        |
+| Adj. or verb of being | ***nil-i***    | ***pir-i***    | ***kluz-i***   | ***nat-i***    |
+|                       | 'blue'         | 'burning'      | 'closed'       | 'born'         |
+| Verb of becoming      | ***nil-u***    | ***pir-u***    | ***kluz-u***   | ***nat-u***    |
+|                       | 'get blue'     | 'burn'         | 'be closed'    | 'be born'      |
+| Verb of doing         | ***nil-a***    | ***pir-a***    | ***kluz-a***   | ***nat-a***    |
+|                       | 'make blue'    | 'make burn'    | 'close'        | 'give birth'   |
 
