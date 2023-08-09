@@ -1,7 +1,7 @@
 panlingue - prosty światowy język
 ==================================
 
-![](http://www.panlingue.info/bandir/bandir.png "Flaga Panduni")
+![](http://www.pandunia.info/bandir/bandir.png "Flaga Panduni")
 
 Uwaga: Polskojęzyczna wersja jest w trakcie tworzenia. Cała i aktualna zawartość witryny jest dostępna w wersji anglojęzycznej
 
@@ -18,7 +18,7 @@ Niektóre zauważalne cechy Panduni:
 
 ## Materiały do nauki
 
-- [Mini lekcje z obrazkami](http://www.panlingue.info/panlingue/mini_darse.html)
+- [Mini lekcje z obrazkami](http://www.pandunia.info/panlingue/mini_darse.html)
 - [Pisownia](abc.md)
 - [Rozmówki](fraze.md)
 - [Lekcje z Dialogami](darse.md)
@@ -32,8 +32,8 @@ Niektóre zauważalne cechy Panduni:
 ## Artykuły
 
 - [Panlingue - nowy międzynarodowy język](dunia_baxe.md)
-- [Prezentacja w formacie PDF (ang.)](http://www.panlingue.info/engli/Panlingue-presentation.pdf)
-- [Panlingue, globalny język kontaktowy (ang.)](http://www.panlingue.info/makal/Panlingue_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
-- [Dlaczego lubię Pandunię (ang.)](http://www.panlingue.info/makal/Why_do_I_like_Panlingue.pdf) - opinie uczących się
+- [Prezentacja w formacie PDF (ang.)](http://www.pandunia.info/engli/Panlingue-presentation.pdf)
+- [Panlingue, globalny język kontaktowy (ang.)](http://www.pandunia.info/makal/Panlingue_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
+- [Dlaczego lubię Pandunię (ang.)](http://www.pandunia.info/makal/Why_do_I_like_Panlingue.pdf) - opinie uczących się
 
-Możesz skontaktować się z twórcą Panduni, Risto Kupsala, pocztą elektroniczną [risto@panlingue.info](mailto:risto@pandunia.info) oraz na wyżej wymienionych forach.
+Możesz skontaktować się z twórcą Panduni, Risto Kupsala, pocztą elektroniczną [risto@pandunia.info](mailto:risto@pandunia.info) oraz na wyżej wymienionych forach.

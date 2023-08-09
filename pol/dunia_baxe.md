@@ -10,7 +10,7 @@ być równo światowym językiem pomocniczym.
 Wiele ludzi jest przyzwyczajonych do patrzenia na taką mapę świata. To sławna mapa w _odwzorowaniu Merkatora_. Niestety, okropnie
 zniekształca powierzchnię lądową.
 
-![](http://www.panlingue.info/grafe/metrograf_da_merkator.jpg "Odwzorowanie Merkatora")
+![](http://www.pandunia.info/grafe/metrograf_da_merkator.jpg "Odwzorowanie Merkatora")
 
 Dlaczego tak jest? Ziemia jest trójwymiarową kulą i narysowanie jej
 na płaskiej, dwuwymiarowej mapie, nie jest łatwe. Odwzorowania
@@ -21,19 +21,19 @@ wygląda na większą, ale odwzorowanie Equal'a-Earth'a pokazuje
 poprawnie, że w rzeczywistości Afryka jest 14 razy większa od
 Grenlandii.
 
-![](http://www.panlingue.info/grafe/metrograf_da_pari_gevia.jpg "Odwzorowanie Equal'a-Earth'a")
+![](http://www.pandunia.info/grafe/metrograf_da_pari_gevia.jpg "Odwzorowanie Equal'a-Earth'a")
 
 Taki jest świat naturalny. Żyjemy też w świecie ludzkim, który jest
 podzielony granicami między państwami. Na normalnej mapie
 politycznej, rozmiary państw są zdefiniowane ich powierzchnią
 geograficzną.
 
-![](http://www.panlingue.info/grafe/metrograf_da_aria.png "Mapa według powierzchni")
+![](http://www.pandunia.info/grafe/metrograf_da_aria.png "Mapa według powierzchni")
 
 Jakkolwiek, mapa poniżej jest oparta o populację państw, nie
 ich powierzchnię geograficzną.
 
-![](http://www.panlingue.info/grafe/karte_da_insania.png "Mapa według populacji 2002")
+![](http://www.pandunia.info/grafe/karte_da_insania.png "Mapa według populacji 2002")
 
 W naszej opinii, język ogólnoświatowy powinien reprezentować świat
 ludzki. Każda część świata, każda kultura, powinna być traktowane
@@ -499,6 +499,6 @@ byłem, byliście, będziemy..._
 
 ## Panlingue - język globalny
 
-![](http://www.panlingue.info/grafe/bandera.png "Flaga Panduni")
+![](http://www.pandunia.info/grafe/bandera.png "Flaga Panduni")
 
 
