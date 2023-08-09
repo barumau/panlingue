@@ -1,10 +1,10 @@
 site_name: Panlingue
-site_url: http://www.panlingue.info/polski
+site_url: https://www.pandunia.info/panlingue/pol
 repo_url: https://github.com/barumau/panlingue/
-docs_dir: ../../polski
-site_dir: ../../html/polski
+docs_dir: ../../pol
+site_dir: ../../html/pol
 theme:
-  name: cerulean
+  name: material
   language: pl
 nav:
     - Główna: 'index.md'
@@ -15,10 +15,19 @@ nav:
         - 'Dźwięki i litery': abc.md
         - 'Rozmówki': fraze.md
         - 'Kurs': darse.md
+    - 'Gramatyka':
+        - 100_bazi_kanune.md
+        - 102_ABC.md
+        - 104_nam-lexe.md
+        - 105_sif-lexe.md
+        - 106_mod-lexe.md
+        - 107_nume.md
+        - 108_vis-lexe.md
+        - 109_kar-lexe.md
+        - 110_jumle.md
+        - 111_lex-bine.md
     - 'Słownik':
         - 'Panlingue-polski': panlingue-polski.md
         - 'Polski-panlingue': polski-panlingue.md
         - 'Etymologia': leksaslia.md
         - 'Wyszukaj': tiddly.html
-    - 'Gramatyka': kanun.md
-

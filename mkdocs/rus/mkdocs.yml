@@ -1,0 +1,29 @@
+site_name: панлингвэ
+site_url: https://www.pandunia.info/panlingue/rus
+repo_url: https://github.com/barumau/panlingue/
+docs_dir: ../../rus
+site_dir: ../../html/rus
+use_directory_urls: false
+theme:
+  name: material
+  language: ru
+plugins:
+    - search:
+        lang: ru
+nav:
+    - Дом: 'index.md'
+    - 'Звучание': abc.md
+    - 'Уроки': darse.md
+    - 'Грамматика':
+        - 100_bazi_kanune.md
+        - 102_ABC.md
+        - 104_nam-lexe.md
+        - 107_nume.md
+        - 108_vis-lexe.md
+        - 109_kar-lexe.md
+        - 110_jumle.md
+        - 111_lex-bine.md
+    - 'Словарь':
+        - 'пандуния-русский': panlingue-rusi.md
+        - 'русский-пандуния': rusi-panlingue.md
+        - 'этимология': leksaslia.md

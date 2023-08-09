@@ -15,17 +15,17 @@ bina_netoloke() {
 }
 
 bina_pane() {
-    bina_netoloke cini
-    bina_netoloke engli
-    bina_netoloke espani
-    bina_netoloke esperanti
-    bina_netoloke fransi
-    bina_netoloke niponi
+    bina_netoloke cmn
+    bina_netoloke eng
+    bina_netoloke spa
+    bina_netoloke epo
+    bina_netoloke fra
+    bina_netoloke jpn
     bina_netoloke panlingue
-    bina_netoloke polski
-    bina_netoloke portugali
-    bina_netoloke rusi
-    bina_netoloke suomi
+    bina_netoloke pol
+    bina_netoloke por
+    bina_netoloke rus
+    bina_netoloke fin
 }
 
 bina_pane

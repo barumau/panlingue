@@ -1,10 +1,12 @@
 site_name: Panlingue
-site_url: http://www.panlingue.info/suomi
+site_url: https://www.pandunia.info/panlingue/fin
 repo_url: https://github.com/barumau/panlingue/
 site_author: Risto Kupsala
-docs_dir: ../../suomi
-site_dir: ../../html/suomi
-theme: readthedocs
+docs_dir: ../../fin
+site_dir: ../../html/fin
+theme:
+  name: material
+  language: fi
 plugins:
     - search:
         lang: fi
@@ -12,17 +14,17 @@ nav:
     - Kotisivu: 'index.md'
     - 'Tietoa':
         - 'Maailman yhteyskieli': dunia_baxe.md
-        - 'Kysymyksiä & vastauksia': eske_i_jawabe.md
+        - 'Kysymyksiä & vastauksia': 402_sual_e_javabe.md
     - 'Panlinguen perusteet ja rakenne':
         - 'Perussäännöt': 100_bazi_kanune.md
-        - 'Yleismaailmallinen sanasto': 101_dunia_loge.md
+        - 'Yleismaailmallinen sanasto': 101_dunia_lexe.md
         - 'Ääntäminen': 102_ABC.md
-        - 'Substantiivit': 104_namloge.md
-        - 'Adjektiivit': 105_sifloge.md
-        - 'Adverbit': 106_modologe.md
-        - 'Numeraalit': 107_numloge.md
-        - 'Pronominit': 108_visloge.md
-        - 'Verbit': 109_karloge.md
+        - 'Substantiivit': 104_nam-lexe.md
+        - 'Adjektiivit': 105_sif-lexe.md
+        - 'Adverbit': 106_mod-lexe.md
+        - 'Numeraalit': 107_nume.md
+        - 'Pronominit': 108_vis-lexe.md
+        - 'Verbit': 109_kar-lexe.md
         - 'Lauserakenteita': 110_jumle.md
     - 'Oppitunteja':
         - 'Lauseita': fraze.md

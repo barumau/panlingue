@@ -1,11 +1,12 @@
 site_name: Panlingue
-site_url: http://www.panlingue.info/espani
+site_url: https://www.pandunia.info/panlingue/por
 repo_url: https://github.com/barumau/panlingue/
-docs_dir: ../../portugali
-site_dir: ../../html/portugali
-theme: readthedocs
+docs_dir: ../../por
+site_dir: ../../html/por
+theme:
+  name: material
+  language: pt
 nav:
-    - Inicio: 'index.md'
     - 'Ortografía': abc.md
     - 'Dicionarios':
         - 'Panlingue-Português': panlingue-portugali.md

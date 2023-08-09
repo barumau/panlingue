@@ -1,0 +1,24 @@
+site_name: 汎語
+site_url: https://www.pandunia.info/panlingue/jpn
+repo_url: https://github.com/barumau/panlingue/
+docs_dir: ../../jpn
+site_dir: ../../html/jpn
+theme:
+  name: material
+  language: ja
+nav:
+    - 'ホームページ': 'index.md'
+    - '基本': baze.md
+    - '文法':
+        - 103_lex-tipe.md
+        - 104_nam-lexe.md
+        - 105_sif-lexe.md
+        - 106_mod-lexe.md
+        - 107_nume.md
+        - 108_vis-lexe.md
+        - 109_kar-lexe.md
+        - 110_jumle.md
+        - 111_lex-bine.md
+    - 'フレーズ集': fraze.md
+    - '対話形式のレッスン': darse.md
+    - '辞典': panlingue-niponi.md

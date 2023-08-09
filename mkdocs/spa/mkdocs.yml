@@ -1,9 +1,11 @@
 site_name: Panlingue
-site_url: http://www.panlingue.info/espani
+site_url: https://www.pandunia.info/panlingue/epa
 repo_url: https://github.com/barumau/panlingue/
-docs_dir: ../../espani
-site_dir: ../../html/espani
-theme: readthedocs
+docs_dir: ../../spa
+site_dir: ../../html/spa
+theme:
+    name: material
+    language: es
 nav:
     - Inicio: 'index.md'
     - 'Info':
