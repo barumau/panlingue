@@ -6,7 +6,7 @@ Ofte homoj vidas mondan mapon kiel ĉi sube. Ĝi estas la renoma
 _Merkatora projekcio_. En tia mapo la tera surfaco estas ege
 distordita.
 
-![](http://www.panlingue.info/grafe/karte_da_merkator.jpg "Mapo laŭ Mercator")
+![](http://www.pandunia.info/grafe/karte_da_merkator.jpg "Mapo laŭ Mercator")
 
 Kial? Ĉar la mondo estas globa kaj ne plata kiel normala mapo!
 Egalareaj projekcioj, kiel _projekcio de Peters_ ĉi sube, montras
@@ -15,17 +15,17 @@ mapoj de Merkator kaj Peters. Groenlando ŝajnas pli granda sur la
 Merkatora mapo, sed la mapo de Peters montras ĝuste ke la areo de
 Afriko estas 14-oble pli granda ol la areo de Groenlando.
 
-![](http://www.panlingue.info/grafe/karte_da_peters.jpg "Mapo laŭ Peters")
+![](http://www.pandunia.info/grafe/karte_da_peters.jpg "Mapo laŭ Peters")
 
 Tio estas la fizika mondo. Ni vivas ankaŭ en la mondo de landoj kaj
 nacioj. En normalaj mapoj de landoj, areoj estas geografiaj.
 
-![](http://www.panlingue.info/grafe/karte_da_aria.png "Mapo laŭ landareoj")
+![](http://www.pandunia.info/grafe/karte_da_aria.png "Mapo laŭ landareoj")
 
 Sed la ĉi suba mapo montras areojn de landoj laŭ ilia nombro de
 loĝantoj.
 
-![](http://www.panlingue.info/grafe/karte_da_aria.png "Mapo laŭ nombro de loĝantoj 2018")
+![](http://www.pandunia.info/grafe/karte_da_aria.png "Mapo laŭ nombro de loĝantoj 2018")
 
 Verkistoj de Panlingue opinias ke la mondlingvo devas reprezenti la
 homa mondo, ne la mondoj de politika aŭ kultura potenco. Ĉiu parto de
@@ -62,7 +62,7 @@ Hartmut Traunmuller dividis la mondon en kvar ĉefajn kulturajn sferojn en sia a
 
 La suba monda mapo montras ilin preskaŭe.
 
-![](http://www.panlingue.info/grafe/linguisticspheres.gif "Mapo de kulturkomunumoj")
+![](http://www.pandunia.info/grafe/linguisticspheres.gif "Mapo de kulturkomunumoj")
 
 Legu pli pri la
 [internaciaj vortaroj](http://www2.ling.su.se/staff/hartmut/plej_disvast.ppt).

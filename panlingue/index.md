@@ -1,6 +1,6 @@
 # panlingue – dunbax
 
-![](http://www.panlingue.info/bandir/bandir.png "panlingue du bandere")
+![](http://www.pandunia.info/bandir/bandir.png "panlingue du bandere")
 
 salam dunia!
 

@@ -1,7 +1,7 @@
 panlingue - un lingua mondial simple
 ===================================
 
-![](http://www.panlingue.info/bandir/bandir.png "Bandiera de Panlingue")
+![](http://www.pandunia.info/bandir/bandir.png "Bandiera de Panlingue")
 
 ## Que es Panlingue?
 
@@ -19,5 +19,5 @@ Nota: Panlingue es un lingua construite que on ancora construe. Il es possible q
 
 ## Materiales pro aprender Panlingue
 
-- [Mini-lectiones con picturas](http://www.panlingue.info/panlingue/mini_darse.html)
+- [Mini-lectiones con picturas](http://www.pandunia.info/panlingue/mini_darse.html)
 

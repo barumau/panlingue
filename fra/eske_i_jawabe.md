@@ -11,7 +11,7 @@ Pour le moment les locuteurs du Panlingue se comptent en dizaines, car la langue
 
 Apprenez le Panlingue ! Parlez-le avec d'autres ! Parlez-en autour de vous ! Ecrivez des récits ou des articles, faites des vidéos, enregistrez des podcasts, écrivez des chansons, etc.
 
-Vous pouvez également nous aider en traduisant le contenu de ce site et en corrigeant les erreurs qu'il pourrait contenir. Les contenus ("le code source") de ce site sont stockés sur [GitHub](https://github.com/barumau/panlingue). Si vous ne connaissez pas les principes de fonctionnement de [Git](https://fr.wikipedia.org/wiki/Git), transmettez vos changements par mail à risto@panlingue.info
+Vous pouvez également nous aider en traduisant le contenu de ce site et en corrigeant les erreurs qu'il pourrait contenir. Les contenus ("le code source") de ce site sont stockés sur [GitHub](https://github.com/barumau/panlingue). Si vous ne connaissez pas les principes de fonctionnement de [Git](https://fr.wikipedia.org/wiki/Git), transmettez vos changements par mail à risto@pandunia.info
 
 #### Quand le Panlingue a-t-il été créé ?
 
@@ -19,7 +19,7 @@ Les créateurs du Panlingue ont commencé ensemble l'élaboration d'une langue e
 
 #### Que représente le drapeau Panlingue ?
 
-![](http://www.panlingue.info/bandir/bandir.png "Le drapeau Panlingue")
+![](http://www.pandunia.info/bandir/bandir.png "Le drapeau Panlingue")
 
 Le drapeau Panlingue représente l'égalité mondiale. On peut y distinguer une planète bleue sur fond spatial et un signe égal superposé à la terre.
 
@@ -28,7 +28,7 @@ Le drapeau Panlingue représente l'égalité mondiale. On peut y distinguer une 
 L’ornithorynque est un animal de l’est de l’Australie.
 Ses particularités anatomiques (bec de canard, queue de castor, pieds de loutre) font de ce mammifère une créature inhabituelle, tout comme l’est le Panlingue avec un mélange de mots et de grammaires des quatre coins du globe.
 
-![](http://www.panlingue.info/grafe/batokrote_tena_bandir.png "Nôtre platypus")
+![](http://www.pandunia.info/grafe/batokrote_tena_bandir.png "Nôtre platypus")
 
 
 ## Passé, présent et futur

@@ -8,7 +8,7 @@ GitHub propose deux façons de télécharger le contenu du dépôt de versions.
 Cliquez sur le bouton "Clone or download".
 
 1. Vous pouvez le télécharger sous forme de fichier ZIP.
-    * Dans ce cas vous pouvez envoyer les fichiers mis à jour par email à risto@panlingue.info
+    * Dans ce cas vous pouvez envoyer les fichiers mis à jour par email à risto@pandunia.info
 2. Si vous avez l'habitude de programmer, vous pouvez cloner le dépôt avec Git.
     * Dans ce cas vous pouvez créer un _pull request_ dans GitHub.
 
@@ -64,7 +64,7 @@ La meilleure façon de mettre à jour des traductions ainsi que de traduire des 
 
 Les mots et phrases en Panlingue devraient être les mêmes dans les deux langues, de sorte à servir de points d'ancrage et ainsi garder les différentes versions sur les mêmes lignes.
 
-![](http://www.panlingue.info/grafe/kompar.png "Comparing two language versions")
+![](http://www.pandunia.info/grafe/kompar.png "Comparing two language versions")
 
 ### Recommandations
 

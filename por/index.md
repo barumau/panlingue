@@ -1,6 +1,6 @@
 # panlingue - una lingua igualmente mundial
 
-![](http://www.panlingue.info/bandir/bandir.png "Bandeira de Panlingue")
+![](http://www.pandunia.info/bandir/bandir.png "Bandeira de Panlingue")
 
 
 A panlingue é uma língua artificial multicultural.
@@ -13,11 +13,11 @@ A panlingue é uma língua artificial multicultural.
 
 ## Junte-se a nós!
 
-- [Pequenas aulas com imagens](http://www.panlingue.info/panlingue/mini_darse.html)
+- [Pequenas aulas com imagens](http://www.pandunia.info/panlingue/mini_darse.html)
 - [Grupo Facebook da panlingue](http://www.facebook.com/groups/panlingue)
 - [Sala de conversa em Telegram](https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw)
 
-![](http://www.panlingue.info/grafe/mome_loga_panlingue.png "mome loga panlingue!")
+![](http://www.pandunia.info/grafe/mome_loga_panlingue.png "mome loga panlingue!")
 
 Contato: risto@pandunia.info
 

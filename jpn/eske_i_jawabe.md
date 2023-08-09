@@ -15,7 +15,7 @@
 
 サイトの内容を翻訳し、間違いを修正してください。
 サイトのソースコードは [GitHub](https://github.com/barumau/panlingue) にあります。
-編集したファイルをEメールで [risto@panlingue.info](mailto:risto@panlingue.info) に
+編集したファイルをEメールで [risto@pandunia.info](mailto:risto@pandunia.info) に
 送ることもできます。
 
 #### いつ作られましたか?
@@ -29,7 +29,7 @@
 
 #### 旗は何を表していますか?
 
-![](http://www.panlingue.info/bandir/bandir.png "The flag of Panlingue")
+![](http://www.pandunia.info/bandir/bandir.png "The flag of Panlingue")
 
 パンドゥニアの旗は世界の平等を表しています。
 紺色の空間を背景に青い惑星のシンボルがあります。
@@ -46,7 +46,7 @@
 パンドゥニアは従来のどの言語とも適合しません。その点でもカモノハシに似ています。
 カモノハシは固有の種です。
 
-![](http://www.panlingue.info/grafe/batokrote_tena_bandir.png "Our platypus")
+![](http://www.pandunia.info/grafe/batokrote_tena_bandir.png "Our platypus")
 
 
 ## 過去、現在、未来
@@ -89,7 +89,7 @@ Risto Kupsala が中心となって制作しています。
 フィンランド人の彼は世界のコミュニケーションをより良くするための手助けをしたいと考えています。
 長年にわたって多くの国の人々が制作に協力しています。
 
-![](http://www.panlingue.info/grafe/risto.png "Risto")
+![](http://www.pandunia.info/grafe/risto.png "Risto")
 
 
 
@@ -352,7 +352,7 @@ marcul**a**(走る) から malcul**er**(ランナー) に変更できます。
 多くの単語は
 国際的で重要な地域の言語と共通しています。
 
-![](http://www.panlingue.info/grafe/leksasle.png "Source languages")
+![](http://www.pandunia.info/grafe/leksasle.png "Source languages")
 
 
 #### 何故広く話される言語から単語を借りているのですか?

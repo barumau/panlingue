@@ -17,7 +17,7 @@ Voit myös auttaa tämän internetsivuston kanssa kääntämällä sen
 toiselle kielelle, täydentämällä tai korjaamalla virheitä. Tämän
 sivuston sisältö on tallessa [GitHubissa](https://github.com/barumau/panlingue).
 Voit myös lähettää korjauksia ja ehdotuksia sähköpostilla
-osoitteeseen risto@panlingue.info
+osoitteeseen risto@pandunia.info
 
 #### Milloin panlingue on luotu?
 
@@ -30,7 +30,7 @@ vuonna 2007, mutta kieli alkoi saada lopullisen muotonsa vasta vuoden
 
 #### Mitä panlinguen lippu esittää?
 
-![](http://www.panlingue.info/bandir/bandir.png "Panlinguen lippu")
+![](http://www.pandunia.info/bandir/bandir.png "Panlinguen lippu")
 
 Panlinguen lippu kuvastaa yleismaailmallista tasavertaisuutta. Lipun
 tausta on tumman sininen. Ympyrä esittää _sinistä planeettaamme_ ja
@@ -49,7 +49,7 @@ Panlingue ei istu mihinkään perinteiseen kielikategoriaan ja myös
 siinä suhteessa se muistuttaa vesinokkaeläintä, joka myös on
 ainutlaatuinen.
 
-![](http://www.panlingue.info/grafe/batokrote_tena_bandir.png "Vesinokkaeläin")
+![](http://www.pandunia.info/grafe/batokrote_tena_bandir.png "Vesinokkaeläin")
 
 
 ## Menneisyys, nykyisyys ja tulevaisuus

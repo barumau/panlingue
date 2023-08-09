@@ -1,7 +1,7 @@
 パンドゥニア - シンプルな国際語
 ==================================
 
-![](http://www.panlingue.info/bandir/bandir.png "The flag of Panlingue")
+![](http://www.pandunia.info/bandir/bandir.png "The flag of Panlingue")
 
 ## パンドゥニアとは?
 
@@ -22,7 +22,7 @@
 - [基本](baze.md) 初心者向けに短くまとめられています。
 - [対話形式のレッスン](darse.md)
 - [単語帳形式の学習とクイズ](https://lingopolo.org/panlingue/) Lingopolo を利用しています。
-- [絵を用いたミニレッスン](http://www.panlingue.info/panlingue/mini_darse.html)
+- [絵を用いたミニレッスン](http://www.pandunia.info/panlingue/mini_darse.html)
 - [フレーズ集](fraze.md)
 - [つづり](abc.md) と [文法](kanun.md)
 
@@ -41,7 +41,7 @@
 
 <!-- - [パンドゥニア - 新しい国際語](dunia_bax.md) -->
 <!-- - [他の出版物でのパンドゥニアに関する言及](makal_tema_panlingue.md) -->
-- [何故パンドゥニアが好きなのですか?(英語)](http://www.panlingue.info/makal/Why_do_I_like_Panlingue.pdf) - 学習者からの意見
+- [何故パンドゥニアが好きなのですか?(英語)](http://www.pandunia.info/makal/Why_do_I_like_Panlingue.pdf) - 学習者からの意見
 - [エスペラント VS パンドゥニア](esperanti_i_panlingue.md)
 <!-- - [雑記](note.md) -->
 
@@ -50,6 +50,6 @@
 - [一般的なプレゼンテーション(PDF/英語)](Panlingue-presentation.pdf)
 
 パンドゥニアの制作者である Risto Kupsala にはEメール
-[risto@panlingue.info](mailto:risto@pandunia.info) または前述のフォーラムで
+[risto@pandunia.info](mailto:risto@pandunia.info) または前述のフォーラムで
 連絡できます。
 

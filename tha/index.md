@@ -1,7 +1,7 @@
 พันดูเนีย - ภาษาเรียบง่ายของโลก
 ============================
 
-![](http://www.panlingue.info/bandir/bandir.png "ธงของภาษาพันดูเนีย")
+![](http://www.pandunia.info/bandir/bandir.png "ธงของภาษาพันดูเนีย")
 
 ## พันดูเนียคืออะไร?
 
@@ -16,7 +16,7 @@
 
 ## มาเรียนกัน
 
-- [บทเรียนผ่านทางรูปภาพ](http://www.panlingue.info/panlingue/mini_darse.html)
+- [บทเรียนผ่านทางรูปภาพ](http://www.pandunia.info/panlingue/mini_darse.html)
 - [การออกเสียง](abc.md)
 - [รวบประโยค](fraze.md)
 - [ไวยากรณ์](kanun.md)
@@ -27,4 +27,4 @@
 
 [พันดูเนีย - ภาษาโลที่เท่าเทียม](dunia_baxe.md)
 
-คุณสามารถติดต่อ Risto Kupsala ผู้ประดิษฐ์ภาษาพันดูเนีย ผ่านทางอีเมลที่ [risto@panlingue.info](mailto:risto@pandunia.info) หรือในที่ที่อยู่ในรายการเครือข่ายชุมชน
+คุณสามารถติดต่อ Risto Kupsala ผู้ประดิษฐ์ภาษาพันดูเนีย ผ่านทางอีเมลที่ [risto@pandunia.info](mailto:risto@pandunia.info) หรือในที่ที่อยู่ในรายการเครือข่ายชุมชน

@@ -55,7 +55,7 @@ He invents the three types of verbs and their vowel endings
 The vowel endings are originally borrowed from Arabic verb patterns "faʕala", "faʕila" and "faʕula".
 These ideas will find their way into Panlingue several years later.
 
-![](http://www.panlingue.info/bandir/bandera2007.gif "The 2016 flag of Panlingue")  
+![](http://www.pandunia.info/bandir/bandera2007.gif "The 2016 flag of Panlingue")  
 Panlingue flag in 2007
 
 Finally, in 2012, other people learn Panlingue for the first time.
@@ -74,7 +74,7 @@ Things slow down again.
 
 ## Fruition
 
-![](http://www.panlingue.info/bandir/bandera2016.png "The 2016 flag of Panlingue")  
+![](http://www.pandunia.info/bandir/bandera2016.png "The 2016 flag of Panlingue")  
 Panlingue flag in 2016
 
 In 2016, the Panlingue website is completely remade.
@@ -113,7 +113,7 @@ records how Panlingue sounded at that time.
 The most important changes to the language are announced there
 because it is the only forum that everybody can read without logging in.
 
-![](http://www.panlingue.info/bandir/bandir.png "The 2018 flag of Panlingue")  
+![](http://www.pandunia.info/bandir/bandir.png "The 2018 flag of Panlingue")  
 Panlingue flag in 2018
 
 In 2019, Panlingue version 1.0 is published.

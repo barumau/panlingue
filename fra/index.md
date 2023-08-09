@@ -1,7 +1,7 @@
 ﻿Panlingue - une langue simple pour le monde
 =====================================
 
-![](http://www.panlingue.info/bandir/bandir.png "Le drapeau du panlingue")
+![](http://www.pandunia.info/bandir/bandir.png "Le drapeau du panlingue")
 
 ## Qu’est-ce que le panlingue ?
 
@@ -18,16 +18,16 @@ Quelques traits remarquables du panlingue :
 - [L'essentiel](baze.md) en une seule page
 - [Leçon en dialogues](darse.md)
 - [Flashcards et quiz](https://lingopolo.org/panlingue/) sur le site de Lingopolo (en anglais)
-- [Petits cours en images](http://www.panlingue.info/panlingue/mini_darse.html)
+- [Petits cours en images](http://www.pandunia.info/panlingue/mini_darse.html)
 - [Recueil d’expressions](fraze.md)
 - Dictionnaire [français → panlingue](fransi-panlingue.md)
 - Dictionnaire [panlingue → français](panlingue-fransi.md)
 - Dictionnaire [étymologique](leksaslia.md) - (consulter la [liste des codes des langues](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
-- Dictionnaire [dynamique](http://www.panlingue.info/fransi/tiddly.html)
+- Dictionnaire [dynamique](http://www.pandunia.info/fransi/tiddly.html)
 
 
 ## Articles
 
 - [Le panlingue, une nouvelle langue de communication mondiale](dunia_baxe.md)
 
-Vous pouvez contacter Risto Kupsala, un des créateurs du panlingue, en envoyant un courriel à [risto@panlingue.info](mailto:risto@pandunia.info) et également dans les forums mentionnés précédemment.
+Vous pouvez contacter Risto Kupsala, un des créateurs du panlingue, en envoyant un courriel à [risto@pandunia.info](mailto:risto@pandunia.info) et également dans les forums mentionnés précédemment.

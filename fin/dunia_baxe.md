@@ -6,19 +6,19 @@ Panlingue - maailman yhteyskieli
 
 Monet ihmiset ovat tottuneet näkemään alla olevan näköisen maailmankartan. Kyseessä on tunnettu [Mercatorin projektio](https://fi.wikipedia.org/wiki/Mercatorin_projektio), joka valitettavasti vääristää pinta-alaa.
 
-![](http://www.panlingue.info/grafe/metrograf_da_merkator.jpg "Mercatorin palloprojektio")
+![](http://www.pandunia.info/grafe/metrograf_da_merkator.jpg "Mercatorin palloprojektio")
 
 Mistä se johtuu? Maapallon on kolmiulotteinen kappale, jota on mahdotonta grafea täydellisesti kaksiulotteisena piirustuksena. Yksi tunnetuimmista pinta-alan oikein esittävistä kartoista on [Equal Earth projektio](https://en.wikipedia.org/wiki/Equal_Earth_projection). Se näyttää pinta-alat oikein mutta muodot väärin. Vertaa Grönlannin ja Afrikan kokoa näillä kartoilla. Mercatorin projektiossa Grönlanti näyttää Afrikan kokoiselta, mutta Equal Earth projektio paljastaa, että todellisuudessa Afrikka on 14 kertaa Grönlantia suurempi.
 
-![](http://www.panlingue.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth palloprojektio")
+![](http://www.pandunia.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth palloprojektio")
 
 Se luonnollisesta maailmasta. Me elämme myös ihmisten maailmassa, jossa maapallo on jaettu valtioihin ja kansakuntiin. Tavallisissa kartoissa valtioiden koko riippuu niiden pinta-alasta.
 
-![](http://www.panlingue.info/grafe/metrograf_da_aria.png "Valtiokartta")
+![](http://www.pandunia.info/grafe/metrograf_da_aria.png "Valtiokartta")
 
 Alla olevassa kartassa valtiot on piirretty väkiluvun eikä pinta-alan mukaan. Näin piirrettynä esim. Suomi näyttää entistä pienemmältä ja Kiina ja Intia entistä suuremmilta – ja vielä enemmän kun vertailukohtana on Mercatorin projektio!
 
-![](http://www.panlingue.info/grafe/karte_da_insania.png "Väestökartta")
+![](http://www.pandunia.info/grafe/karte_da_insania.png "Väestökartta")
 
 Meidän mielestä maailmankielen pitäisi edustaa kaikkia ihmisiä. Kaikkien maanosien ja kulttuurien täytyy olla reilusti ja demokraattisesti edustettuina. Maailmankielen kieliopin täytyy olla kaikille helppo. Mikään maantieteellinen tai kulttuurinen alue ei saa jyrätä muita alleen, vaan kielen täytyy olla tasapuolisesti kaikkien omaksuttavissa.
 
@@ -217,6 +217,6 @@ Panlinguessa ja kiinassa sama substantiivimuoto käy sekä yksikössä että mon
 
 ## Panlingue - koko maailman kieli
 
-![](http://www.panlingue.info/bander/bander.png "Panlinguen lippu")
+![](http://www.pandunia.info/bander/bander.png "Panlinguen lippu")
 
 

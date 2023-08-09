@@ -34,7 +34,7 @@ who have also learned this regular, flexible and multicultural language.
 - [The basics](baze.md) in one short page
 - [Lessons with Dialogs](darse.md)
 - [Flashcards and quizzes](https://lingopolo.org/panlingue/) in Lingopolo
-- [Mini lessons with pictures](http://www.panlingue.info/panlingue/mini_darse.html)
+- [Mini lessons with pictures](http://www.pandunia.info/panlingue/mini_darse.html)
 - [Phrasebook](fraze.md)
 - [Grammar of Panlingue](pan.pdf) in PDF format
 
@@ -49,7 +49,7 @@ who have also learned this regular, flexible and multicultural language.
 
 - [Panlingue - a new world language](dunia_baxe.md)
 - [Mentions about Panlingue in other publications](makal_tema_panlingue.md)
-- [Why do I like Panlingue?](http://www.panlingue.info/makal/Why_do_I_like_Panlingue.pdf) - opinions from learners
+- [Why do I like Panlingue?](http://www.pandunia.info/makal/Why_do_I_like_Panlingue.pdf) - opinions from learners
 - [Esperanto vs. Panlingue](esperanti_i_panlingue.md)
 
 
@@ -60,5 +60,5 @@ You can talk about Panlingue at the
 forum in Reddit.
 
 You can contact the creator and a main developer of Panlingue, Risto Kupsala, via email
-[risto@panlingue.info](mailto:risto@pandunia.info) and in the aforementioned forums.
+[risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned forums.
 

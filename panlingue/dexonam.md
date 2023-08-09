@@ -3,8 +3,8 @@
 ye si liste da dexoname ca panlingue pa engli.
 panlingue kapa dexonam ca [dexi ren du zi baxe](http://www.omniglot.com/countries/).
 
-![](http://www.panlingue.info/grafe/duni_karte.png "dexi duni karte")
-[🔍](http://www.panlingue.info/grafe/duni_karte.jpg)
+![](http://www.pandunia.info/grafe/duni_karte.png "dexi duni karte")
+[🔍](http://www.pandunia.info/grafe/duni_karte.jpg)
 
 |kode| panduni | engli       |
 |----|---------|-------------|

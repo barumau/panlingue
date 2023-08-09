@@ -18,7 +18,7 @@ Most of the textual contents of this website are stored in a version control sys
 GitHub offers two ways to download the contents of the version repository. Click the button that reads "Clone or download".
 
 1. You can download it as a ZIP file.
-    * In this case you can send the files that you have updated by email to risto@panlingue.info
+    * In this case you can send the files that you have updated by email to risto@pandunia.info
 2. If you are used to programming, you can clone the repository with Git.
     * In this case you can create a _pull request_ in GitHub.
 
@@ -72,7 +72,7 @@ The best way to update translations and to translate parts of documents is to us
 
 Panlingue words and sentences should be the same in both language versions, so they function as anchor points that keep the versions in the same line.
 
-![](http://www.panlingue.info/grafe/kompar.png "Comparing two language versions")
+![](http://www.pandunia.info/grafe/kompar.png "Comparing two language versions")
 
 ### Tips
 

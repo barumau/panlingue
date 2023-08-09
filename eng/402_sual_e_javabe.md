@@ -15,7 +15,7 @@ Write stories or articles, make videos, podcasts, music, etc.
 You can also help with this website by translating content and
 correcting mistakes. Contents ("source code") of this website are
 stored in [GitHub](https://github.com/barumau/panlingue). You can also
-send your edited files by email to risto@panlingue.info
+send your edited files by email to risto@pandunia.info
 
 #### When was Panlingue created?
 
@@ -301,10 +301,10 @@ with almost all languages of the world.
 
 A lot of words are in common to international and important regional languages.
 
-![](http://www.panlingue.info/grafe/logasle.png "Bar chart depicting lexical similarity")  
+![](http://www.pandunia.info/grafe/logasle.png "Bar chart depicting lexical similarity")  
 Figure. Bar chart showing the percentage of words similar in the source languages and Panlingue.
 
-![](http://www.panlingue.info/grafe/logasar.png "Pie chart depicting influence distribution")  
+![](http://www.pandunia.info/grafe/logasar.png "Pie chart depicting influence distribution")  
 Figure. Pie chart showing distribution of influence from the main source languages to Panlingue.
 
 

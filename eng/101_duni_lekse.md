@@ -38,7 +38,7 @@ The four major cultural spheres are:
 
 The cultural spheres are roughly outlined in the picture below.
 
-![](http://www.panlingue.info/grafe/linguisticspheres.gif "Map of cultural spheres")
+![](http://www.pandunia.info/grafe/linguisticspheres.gif "Map of cultural spheres")
 
 ## Selecting the source languages
 

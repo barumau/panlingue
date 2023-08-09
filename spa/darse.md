@@ -6,7 +6,7 @@ Presentación
 
 ### Diálogo
 
-![](http://www.panlingue.info/grafe/halou.png "halou!")
+![](http://www.pandunia.info/grafe/halou.png "halou!")
 
 <big>��</big>>
 **halou!**
