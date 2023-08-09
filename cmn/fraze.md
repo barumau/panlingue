@@ -204,13 +204,13 @@ We greet you.
 你知道怎么修吗？
 
 **eska te abla panlingue?**
-你会泛世界语吗？
+你会汎话吗？
 
 **me abla panlingue.**
-我会泛世界语。
+我会汎话。
 
 **me abla lil panlingue.**
-我会一点泛世界语。
+我会一点汎话。
 
 **me no abla engli.**
 我不会英语。
@@ -221,10 +221,10 @@ We greet you.
 ### baxa <small>说语</small>
 
 **eska tote baxa panlingue.**
-你们说泛世界语吗？
+你们说汎话吗？
 
 **mome baxa panlingue.**
-我们会说泛世界语。
+我们会说汎话。
 
 **eska te abla baxa engli?**
 你能说英语吗？
