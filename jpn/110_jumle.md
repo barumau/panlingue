@@ -182,9 +182,9 @@ me ne **aga** pas tenu dom predoden wil ablo infeksa novokoronovirus zayoden.
 #### 7.8.1. 小依存文(VOVO)
 
 **me** eska te baxa panlingue.
-– パンドゥニアを話せますか。  
+– 汎語を話せますか。  
 eska te baxa panlingue?
-– パンドゥニアを話せますか。
+– 汎語を話せますか。
 
 #### 7.8.2. 小依存文(VVO)
 
@@ -383,7 +383,7 @@ maw **da** vid<u>a</u> man
 maw **da** vid<u>u</u> man
 – 男に<u>見られる</u>猫
 
-注: パンドゥニアは単語を様々な順序で並べることができます。
+注: 汎語は単語を様々な順序で並べることができます。
 原文では自然に聞こえても、他の言語に翻訳すると不自然に聞こえる場合があります。
 
 
