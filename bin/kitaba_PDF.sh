@@ -1,7 +1,16 @@
 fa_pandoc() {
-    pandoc $1/pan.md -V geometry:a4paper,margin=2cm -s -o $1/pan.pdf --pdf-engine=/usr/bin/xelatex -V mainfont="DejaVu Serif" -V monofont="DejaVu Sans Mono" #-V CJKmainfont="Noto Sans CJK SC" -V devanagarifont="Noto Sans Devanagari"
+    pandoc $1/pan.md -V geometry:a4paper,margin=2cm -s -o $1/pan.pdf --pdf-engine=/usr/bin/xelatex -V mainfont="$2" -V monofont="DejaVu Sans Mono"
+    #-V CJKmainfont="MS Mincho" #-V CJKmainfont="Noto Sans CJK SC" -V devanagarifont="Noto Sans Devanagari"
     sed 's/\/home\/rkupsala\/pandunia\/html/http:\/\/www.pandunia.info/g' -i $1/pan.md
 }
+
+#Sharing Windows fonts with WSL
+#https://x410.dev/cookbook/wsl/sharing-windows-fonts-with-wsl/
+#
+# Noto Serif CJK
+# sudo apt install fonts-noto-cjk
+# Noto Serif CJK SC
+# https://fonts.google.com/noto/specimen/Noto+Serif+SC
 
 max_dataje_nam() {
     if test -f "$1"; then
@@ -47,18 +56,25 @@ fa_pan_md() {
     sed 's/http:\/\/www.pandunia.info/\/home\/rkupsala\/pandunia\/html/g' -i $1/pan.md
 }
 
-fa_md_i_pdf() {
+fa_europi_dokume() {
     fa_pan_md $1
-    fa_pandoc $1
+    fa_pandoc $1 "DejaVu Serif"
 }
 
-fa_md_i_pdf eng
-fa_md_i_pdf epo
-fa_md_i_pdf fra
-fa_md_i_pdf pol
-fa_md_i_pdf rus
-#fa_md_i_pdf spa
-fa_md_i_pdf fin
+fa_niponi_dokume() {
+    fa_pan_md $1
+    fa_pandoc $1 "Noto Serif CJK JP"
+}
+
+fa_europi_dokume eng
+fa_europi_dokume epo
+fa_europi_dokume fra
+fa_europi_dokume pol
+fa_europi_dokume rus
+#fa_europi_dokume spa
+fa_europi_dokume fin
+
+fa_niponi_dokume jpn
 
 #uza di pake:
 #sudo apt install pandoc
