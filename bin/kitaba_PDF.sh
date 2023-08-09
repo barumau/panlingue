@@ -55,8 +55,8 @@ fa_md_i_pdf() {
 fa_md_i_pdf eng
 fa_md_i_pdf epo
 fa_md_i_pdf fra
-#fa_md_i_pdf pol
-#fa_md_i_pdf rus
+fa_md_i_pdf pol
+fa_md_i_pdf rus
 #fa_md_i_pdf spa
 fa_md_i_pdf fin
 
