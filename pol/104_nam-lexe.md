@@ -2,7 +2,7 @@
 
 ### 2.1. Nieodmienne
 
-Rzeczownik jest słowem, które nazywa rzeczy. Jak wszystkie słowa w Panduni, rzeczowniki są nieodmienne. Taka sa forma jest używana w liczbie pojedynczej i mnogiej, podmiocie i dopełnieniu.
+Rzeczownik jest słowem, które nazywa rzeczy. Jak wszystkie słowa w Panlinguu, rzeczowniki są nieodmienne. Taka sa forma jest używana w liczbie pojedynczej i mnogiej, podmiocie i dopełnieniu.
 
 > **petre** - kamień, kamienie
 > **meze** - stół, stoły

@@ -1,6 +1,6 @@
 #  Słowotwórstwo
 
-Możliwe jest tworzenie nowych słów w Panduni. Panlingue ma produktywny system tworzenia nowych słów. Większość przyrostków używanych w Panduni jest już w międzynarodowym użyciu. Wiele z nich pochodzi z starożytnej greki, łaciny, języka arabskiego i języka perskiego.
+Możliwe jest tworzenie nowych słów w Panlinguu. Panlingue ma produktywny system tworzenia nowych słów. Większość przyrostków używanych w Panlinguu jest już w międzynarodowym użyciu. Wiele z nich pochodzi z starożytnej greki, łaciny, języka arabskiego i języka perskiego.
 
 ## 1. Znaczniki części mowy
 
@@ -42,7 +42,7 @@ Podane zakończenia samogłoskowe umożliwiają łatwą zmianę typu słowa. Zak
 **nowe**
 – nowość, nova rzecz (rzeczownik)
 
-Jest garść czasowników pojawiających się bez zakończenia. Są jednymi z najpowszechniejszych czasowników w Panduni.
+Jest garść czasowników pojawiających się bez zakończenia. Są jednymi z najpowszechniejszych czasowników w Panlinguu.
 
 **ada**
 – mieć (czasownik czynny)
@@ -187,7 +187,7 @@ Tworzy czasowniki odwracjające znaczenie podstawowego czasownika.
 
 ## 12. Zaawancowane tematy
 
-Uwaga: Możesz nauczyć się Panduni bez czytania tego rozdziału, ale jeśli jestś zainteresowany wewnętrznymi mechanizmami języka, to może być dla ciebie interesujące.
+Uwaga: Możesz nauczyć się Panlingua bez czytania tego rozdziału, ale jeśli jestś zainteresowany wewnętrznymi mechanizmami języka, to może być dla ciebie interesujące.
 
 ### 12.1. Relations between the endings
 

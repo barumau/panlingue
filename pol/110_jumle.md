@@ -71,7 +71,7 @@ Panlingue nie używa czasownika jak "być" języka polski.
 
 ## 3. Zdania czynne
 
-W predykatach czynności, główne zdanie w predykatacie to czasownik (tj. słowo-czynność). W Panduni, czasowniki są łatwe do rozpoznania, bo większość kończy się na **-a** lub **-u**.
+W predykatach czynności, główne zdanie w predykatacie to czasownik (tj. słowo-czynność). W Panlinguu, czasowniki są łatwe do rozpoznania, bo większość kończy się na **-a** lub **-u**.
 
 Zdania czynne używające czasownika kończącego się na **-a** mają szyk podmiot-orzeczenie-dopełnienie (SVO).
 
@@ -127,7 +127,7 @@ W szyku zdania dopełnienie-orzeczenie (VO) skupienie pada na orzeczenie.
 
 ### 5. Wszystkie możliwe szyki zdania
 
-Jest sześc możliwych szyków zdania dla zdania przechodniego. W praktyce, wszystkie są możliwe w Panduni.Są możliwe dzięki dwóm zakończeniom czasowników, które decydują o kolejności dwóch pozostałych podstawowych części zdani (podmiotu i dopełnienia).
+Jest sześc możliwych szyków zdania dla zdania przechodniego. W praktyce, wszystkie są możliwe w Panlinguu.Są możliwe dzięki dwóm zakończeniom czasowników, które decydują o kolejności dwóch pozostałych podstawowych części zdani (podmiotu i dopełnienia).
 
 Różne części zdania stawiają nacisk na różne części zdania: podmiot, dopełnienie lub orzeczenie. Nacisk lub uwaga są skupione na pierwszej części zdania.
 
@@ -148,7 +148,7 @@ Różne części zdania stawiają nacisk na różne części zdania: podmiot, do
 
 Część zdania, która jest dalej od czasownika, może zostać opuszczona. Na przykład **musike me auda** (OSV) może być skrócone do **me auda** (SV). Podobnie **me musike audu** (SOV) może być skrócone do **musike audu** (OV).
 
-Typowe szyki zdań w codziennej Panduni to SVO, SOV i OSV. Pozostałe szyki zdań mogą być słyszane w poezji i innych formach języka literackiego.
+Typowe szyki zdań w codziennej Panlingua to SVO, SOV i OSV. Pozostałe szyki zdań mogą być słyszane w poezji i innych formach języka literackiego.
 
 
 ## 6. Struktura osiowa
@@ -187,7 +187,7 @@ W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości. Dochodzi do 
 **me kia te baxa panlingue.**
 – Pytam mówisz w Panlingue.
 **kia te baxa panlingue?**
-– Czy mówisz w Panduni?
+– Czy mówisz w Panlinguu?
 
 ## 8.2. Krótka struktura osiowa (VVO)
 
@@ -332,7 +332,7 @@ Można też tworzyć zdania podrzędne używają **du**. Wtedy zdanie podrzędne
 
 Partykuły modalne wyrażają, o czym mówiący myśli w relacji z słuchaczem. Partykuły modalne są powszechnie używane w wielu językach. Wschodniopazjatyckie języki, włączając w to chiński i japoński, używają słynnych patykuł kończących zdania.
 
-W Panduni, partykuła modalna opisuje następne słowo lub całe zdanie, gdy partykuła modalna jest ostatnim słowem w zdaniu.
+W Panlinguu, partykuła modalna opisuje następne słowo lub całe zdanie, gdy partykuła modalna jest ostatnim słowem w zdaniu.
 
 Partykuła **plus** _(też)_ jest dość dobrym przykładem.
 
@@ -350,7 +350,7 @@ Partykuły modalne mogą działać na każde słowo, włączając w to zimki i l
 
 ### 9.4. Partykuły czasu i aspektu
 
-W Panduni, czas może być wyrażany słowami czasu i wyrażeniami czasu, jeśli trzeba. Ogólne słowa czasu to **pas** (przeszłość), **zay** (teraźniejszość) i **futur** (przyszłość). Działają jak przymiotniki i przysłówki, więc zazwyczaj ich miejsce jest przed orzeczeniem lub na końcu zdania.
+W Panlinguu, czas może być wyrażany słowami czasu i wyrażeniami czasu, jeśli trzeba. Ogólne słowa czasu to **pas** (przeszłość), **zay** (teraźniejszość) i **futur** (przyszłość). Działają jak przymiotniki i przysłówki, więc zazwyczaj ich miejsce jest przed orzeczeniem lub na końcu zdania.
 
 **me tena maw pas.**
 – Miałem koty w przeszłości.
@@ -368,7 +368,7 @@ Naturalnie, wszystkie słowa czasu są używane, gdy są potrzebne. Zazwyczah wy
 
 ### 12.2. Hierarchia Części Mowy
 
-Język mówiony jest stumieniem dźwięków budujących słowa. Język pisany, w przypadku Panduni, jest strumieniem liter, od lewej do prawej, które budują słowa. Tak więc każde wyrażenie jest sekwencją słów. Jakkolwiek, nie wszystkie słowa są równe. Istnieje hierarchia słów. Orzeczenie jest strukturalnym centrum zdania i pozostałe słowa są pośrednio lub bezpośrednio z nim połączone.
+Język mówiony jest stumieniem dźwięków budujących słowa. Język pisany, w przypadku Panlingua, jest strumieniem liter, od lewej do prawej, które budują słowa. Tak więc każde wyrażenie jest sekwencją słów. Jakkolwiek, nie wszystkie słowa są równe. Istnieje hierarchia słów. Orzeczenie jest strukturalnym centrum zdania i pozostałe słowa są pośrednio lub bezpośrednio z nim połączone.
 
 Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są wyżej, a zależne słowa
 – niżej. Na przykład, zdanie **me wida te** (Widzę cię) może zostać rozrysowane w postaci poniższego drzewa:
@@ -391,7 +391,7 @@ Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
            |
           tin
 
-Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak następuje.
+Hierarchia części mowy w Panlinguu od bardziej do mniej centralnych jest, jak następuje.
 
 1. Spójniki: i, u, a
 2. Łączniki: du, da

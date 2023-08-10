@@ -4,13 +4,13 @@
 
 Panlingue jest językiem sztucznym zaprojektowanym, by być relatywnie prostym dla każdego. Możesz się jej uczyć szybko tym kursem praktycznym.
 
-Użytkownicy języka polskiego łatwo się nauczą tworzyć podstawowe zdania w Panduni, jako że szyk zdania jest zasadniczo taki sam jak w języku polskim, nie ma przedimków (rodzajników), żadnego "być", ani skomplikowanych zasad odmiany słów, by wyrazić liczby pojedyńczą i mnogą lub czas czasowników.
+Użytkownicy języka polskiego łatwo się nauczą tworzyć podstawowe zdania w Panlinguu, jako że szyk zdania jest zasadniczo taki sam jak w języku polskim, nie ma przedimków (rodzajników), żadnego "być", ani skomplikowanych zasad odmiany słów, by wyrazić liczby pojedyńczą i mnogą lub czas czasowników.
 
 Kurs składa się z małych lekcji. Każda lekcja wprowadza nove słowo, które jest używane w kilku różnych zdaniach w lekcji, by is to teach you how the word works as part of sentences. Possibly you will encounter also other new words in the same lesson but don't worry about them! You don't have to learn all of them at once. Just memorize the phrases that are useful for you! Maybe the rest will go to your memory subconciously.
 
 Możesz uczyć się z tego kursu razem z przyjaciółmi. Czytajcie zdania razem i spróbujcie dokonać małych rozmów. Możesz się też uczyć sam. Nawet wtedy jest przydatnym czytać na głos i tworzyć rozmowy. Powtrzaj te came zdania kilka razy dzisiaj, jutro, pojutrze i tak dalej. Jak to się mówi, _trening czyni mistrza_.
 
-Uwaga! Wiele lekcji zawiera też wskazówki jak ta. Służą wyjaśnieniu detali gramatycznych zainteresowanym. Możesz je pominąć, jeśli nie są pomocne. Nie musisz znać teorii języka. Możesz po prostu mówić w Panduni!
+Uwaga! Wiele lekcji zawiera też wskazówki jak ta. Służą wyjaśnieniu detali gramatycznych zainteresowanym. Możesz je pominąć, jeśli nie są pomocne. Nie musisz znać teorii języka. Możesz po prostu mówić w Panlinguu!
 
 
 
@@ -70,7 +70,7 @@ Ja jestem Sara.
 Ja jestem Tomasza.
 
 Możesz się przedstwiać po prostu mówiąc **mi**
-a następnie twoje imię. W Panduni nie potrzebujesz do tego czasownika!
+a następnie twoje imię. W Panlinguu nie potrzebujesz do tego czasownika!
 
 **me salama mame.**
 Ja pozdrawiam matkę.
@@ -80,7 +80,7 @@ Ja pozdrawiam ojca.
 
 Słowo **salam**
 jest rzeczownikiem a **salama**
-odpowiadającym mu czasownikiem. Podstawowy szyk zdania w Panduni Panlingue to podmiot-orzeczenie-dopełnienie.
+odpowiadającym mu czasownikiem. Podstawowy szyk zdania w Panlinguu Panlingue to podmiot-orzeczenie-dopełnienie.
 
 **sarah salama tomas.**
 Sara pozdrawia Tomasza.
@@ -108,7 +108,7 @@ Ja pozdrawiam cię.
 **te salama me.**
 Ty pozdrawiasz mnie.
 
-Zaimki nigdy nie odmieniają się w Panduni. Dlatego **mi**
+Zaimki nigdy nie odmieniają się w Panlinguu. Dlatego **mi**
 jest takie samo jako podmiot i dopełnienie, gdy język polski dwie różne formy, 'ja' i 'mnie'.
 
 **me ama te.**
@@ -440,7 +440,7 @@ Czy chcesz jeść?
 **te wana niama ke?**
 Co chcesz zjeść?
 
-Porada: Gdy język polski umieszcza "co" na początku pytania, w Panduni **ke**
+Porada: Gdy język polski umieszcza "co" na początku pytania, w Panlinguu **ke**
 nie zmienia szyku zdania.
 
 **me wana niama kafe.**
@@ -585,13 +585,13 @@ Nie umie kierować samochodem.
 Czy umiesz to naprawić?
 
 **eska te abla panlingue?**
-Czy umiesz mówić w Panduni?
+Czy umiesz mówić w Panlinguu?
 
 **me abla panlingue.**
-Umiem mówić w Panduni.
+Umiem mówić w Panlinguu.
 
 **me abla lil panlingue.**
-Umiem trochę mówić w Panduni.
+Umiem trochę mówić w Panlinguu.
 
 **me no abla engli.**
 Nie znam języka angielskiego.
@@ -613,10 +613,10 @@ Mówię do ciebie.
 Mówimy do siebie.
 
 **ze loga "kot" sa ki yang sa panlingue?**
-Jak się mówi "kot" w Panduni?
+Jak się mówi "kot" w Panlinguu?
 
 **"kot" si ke sa panlingue?**
-Czym jest "kot" w Panduni?
+Czym jest "kot" w Panlinguu?
 
 **maw loga miaw.**
 Kot mówi miau.
@@ -685,10 +685,10 @@ Proszę, napisz to tutaj!
 ### baxa <small>mówić w języku, komunikować się</small>
 
 **eska tote baxa panlingue.**
-Czy mówicie w Panduni?
+Czy mówicie w Panlinguu?
 
 **mome baxa panlingue.**
-Mówimy w Panduni.
+Mówimy w Panlinguu.
 
 **eska te abla baxa engli?**
 Czy umiesz mówić w języku angielskim?

@@ -1,4 +1,4 @@
-# Filozofia Panduni
+# Filozofia Panlingua
 
 Panlingue ma być prostym językiem łączącym ludzi. Podąża zasadami neutralności języka.
 

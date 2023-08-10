@@ -118,11 +118,11 @@ indonezyjski, które mają proste zasoby samogłosek.
 
 ### Powszechne spółgłoski
 
-Zasób spółgłosek Panduni jest mniejszy niż angielskiego,
+Zasób spółgłosek Panlingua jest mniejszy niż angielskiego,
 mandaryńskiego i polskiego. Większość liter spółgłosek jest wymawiana
 tak samo we wszystkich trzech językach. Tabela poniżej pokazuje, jak
-spógłoski są mapowane z Panduni na angielski i mandaryński. Dźwięki,
-które są w angielskim, mandaryńskim i polskim, ale nie w Panduni, są
+spógłoski są mapowane z Panlingua na angielski i mandaryński. Dźwięki,
+które są w angielskim, mandaryńskim i polskim, ale nie w Panlinguu, są
 umieszczone w nawiasach.
 
 |                    | Panlingue    | Angielski     | Mandaryński Pinyin | Polski                          |
@@ -147,7 +147,7 @@ trudne sylaby, na przykład "sprints" (CCCVNCC) w angielskim i
 Panlingue jest gdzieś po środku. Większość słów składa się z prostych
 sylab CV, ale są możliwe też bardzej skomplikowane, szczególnie w
 międzynarodowo znanych słowach technicznych. Na przykład **kristal**
-(kryształ) jest uznawany za skomplikowane słowo w Panduni. Z bardziej
+(kryształ) jest uznawany za skomplikowane słowo w Panlinguu. Z bardziej
 złożonymi zapożyczeniami można sobie poradzić na dwa sposoby.
 
 1. Wybrać prostszy wariant z innego języka. Na przykład słowo na
@@ -169,7 +169,7 @@ Pīnyīn jako _mai, sai, lai, rai_.
 
 Panlingue może być zapisywana regularnie, bo ma mniej dźwięków mowy
 (24) niż jest liter w podstawowym alfabecie rzymskim (26). Alfabet
-Panduni to:  
+Panlingua to:  
 a b c d e f g h i j k l m n o p r s t u v w x y z
 
 Panlingue ma doskonałą zgodność liter i dźwięków. Jedna litera
@@ -332,7 +332,7 @@ bardziej interesującym!
 
 Panlingue pozwala na różne szyki słów. Jest to osiągnięte głównie
 zakończeniami czasowników -a i -u, które sygnalizują odwrotne szyki
-zdań. W Panduni czasowniki mogą działać też jako przyimki.
+zdań. W Panlinguu czasowniki mogą działać też jako przyimki.
 
 **mi lova tu.** (SVO)  
 **mi tu amu.** (SOV)  
@@ -392,14 +392,14 @@ Panlingue zapożycza rdzenie z zachodnich słów. Cel to wybranie formy,
 która brzmi znajomo dla użytkowników jak największej liczby języków,
 jak to możliwe.
 
-| Rdzeń Panduni | Polski | Angielski  | Portugalski | Hiszpański | Francuski  | Niemiecki  | Rosyjski   |
+| Rdzeń Panlingua | Polski | Angielski  | Portugalski | Hiszpański | Francuski  | Niemiecki  | Rosyjski   |
 |---------------|--------|------------|-------------|------------|------------|------------|------------|
 | **kort**      | krótki | short      | curto       | corto      | court      | kurz       | korotkiy   |
 | **now**       | nowy   | new        | novo        | nuevo      | nouveau    | neu        | novıy      |
 | **marc**      | marzec | march      | marcha      | marcha     | marche     | Marsch     | marš       |
 | **post**      | poczta | post (mail)| (postal)    | posta      | poste      | Post       | počta      |
 
-Przyrostki Panduni są dołączane do rdzeni. Oto kilka słów Panduni:
+Przyrostki Panlingua są dołączane do rdzeni. Oto kilka słów Panlinguu:
 korti (krótki), korte (krótkość), korta (skracać), novi (nowy), nove
 (nowość), nova (odnowić).
 
@@ -424,7 +424,7 @@ zostawiają je, tak jak były. Mandaryński usunął je. Japoński dodał
 samogłoski, by ułatwić wymowę. Panlingue zostawia końcowe spółgłoski
 zwarte i dodaje normalne przyrostki części mowy.
  
-| 字 | Rdzeń Panduni | Kantoński  | Mandaryński | Japoński   | Koreański  | Wietnamski |
+| 字 | Rdzeń Panlingua | Kantoński  | Mandaryński | Japoński   | Koreański  | Wietnamski |
 |---|---------------|------------|-------------|------------|------------|------------|
 | 水 | **suy**       | sui        | shuǐ        | sui        | su         | thuỷ       |
 | 中 | **jung**      | zung       | zhōng       | chū        | jung       | trung      |
@@ -436,7 +436,7 @@ zwarte i dodaje normalne przyrostki części mowy.
 | 索 | **sog**       | sok        | suǒ         | saku       | sæg        |            |
 | 惡 | **ag**        | ok         | è           | aku        | ag         | ác         |
 
-Używanie zrostków Panduni do rdzeni sinickich mogą na początku
+Używanie zrostków Panlinguu do rdzeni sinickich mogą na początku
 wydawać się nietypowe, ale to nic nowego – sinickie slowa są już
 odmieniane w koreańskim!
 
@@ -444,7 +444,7 @@ odmieniane w koreańskim!
 
 ## Proste zdania
 
-W tym rozdziale porównamy struktury zdań Panduni z polskim,
+W tym rozdziale porównamy struktury zdań Panlingua z polskim,
 angielskim i chińskim.
 
 Normalny szyk zdania to podmiot-orzeczenie-dopełnienie – tak jak w
@@ -479,7 +479,7 @@ lub słowami jak "to".
     Panlingue:   mi pliza ye niama kafe.
     Chiński:    Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
-W Panduni i chińskim, rzeczowniki mogą być w liczbie pojedynczej lub
+W Panlinguu i chińskim, rzeczowniki mogą być w liczbie pojedynczej lub
 mnogiej zależnie od otaczających je słów. Nie ma zakończenia liczby
 mnogiej jak -i w polskim. Również czasowniki nie są odmieniane. Jedno
 słowo w jednej słowie **si** jest używane zamiast _jestem, jest,
@@ -499,6 +499,6 @@ byłem, byliście, będziemy..._
 
 ## Panlingue - język globalny
 
-![](http://www.pandunia.info/grafe/bandera.png "Flaga Panduni")
+![](http://www.pandunia.info/grafe/bandera.png "Flaga Panlingua")
 
 

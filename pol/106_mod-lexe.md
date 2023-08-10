@@ -2,14 +2,14 @@
 
 Przysłówek to słowo, które opisuje czasownik lub inną modyfikator.
 
-W Panduni przysłówek to modyfikator, który znajduje się przed czasownikiem lub na końcu zdania.
+W Panlinguu przysłówek to modyfikator, który znajduje się przed czasownikiem lub na końcu zdania.
 
 **me _bon_ sona.**
 – Ja _dobrze_ śpię.
 **me sona _bon_.**
 – Śpię _dobrze_.
 **te baxa panlingue _bon_.**
-– Mówisz w Panduni _dobrze_.
+– Mówisz w Panlinguu _dobrze_.
 
 
 ## Opisywanie innego modyfikatora

@@ -21,7 +21,7 @@ Przedstawianie się
 
 ### Gramatyka
 
-Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **le si mi doste** tematem jest zaimek **le** (on, ona, ono), za którym podąrza komentarz **si mi doste** (jest moim przyjacielem).
+Zdania w Panlinguu normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **le si mi doste** tematem jest zaimek **le** (on, ona, ono), za którym podąrza komentarz **si mi doste** (jest moim przyjacielem).
 
 Słowo **si** znaczy _być_ w Panlingue. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
 
@@ -38,7 +38,7 @@ Słowo **si** znaczy _być_ w Panlingue. To samo słowo jest używane dla wszyst
 
 ### Ćwiczenia
 
-Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne odpowiedzi są pod listą słów.
+Spróbuj przetłumaczyć te zdania z języka polskiego na Panlingue. Poprawne odpowiedzi są pod listą słów.
 
 1. Kim jesteś?
 2. Jestem Tomasz.
@@ -79,7 +79,7 @@ Mówienie cześć
 **salam**
 = Cześć!
 
-Oto jak ludzie pozdrawiają się w Panduni. Mówią **salam**. To słowo jest używane i na powitanie, jak i na pożegnanie
+Oto jak ludzie pozdrawiają się w Panlinguu. Mówią **salam**. To słowo jest używane i na powitanie, jak i na pożegnanie
 
 **salam**
 = Żegnaj!
@@ -97,9 +97,9 @@ To są zdania czynne. W zdaniach czynnych podmiot wykonuje czynność na dopełn
 
 > Kolejność słów w zdaniu czynnym: Podmiot + Orzeczenie + Dopełnienie
 
-W Panduni zaimki osobowe to: **me** = ja, **te** = ty, i **le** = on,ona, ono. Zauważ, że zaimki zostają takie same w poprzednich, przykładowych, zdaniach. Słowa nigdy się nie odmieniają w Panduni. Pozostają takie same niezleżnie od ich pozycji w zdaniu.
+W Panlinguu zaimki osobowe to: **me** = ja, **te** = ty, i **le** = on,ona, ono. Zauważ, że zaimki zostają takie same w poprzednich, przykładowych, zdaniach. Słowa nigdy się nie odmieniają w Panlinguu. Pozostają takie same niezleżnie od ich pozycji w zdaniu.
 
-W Panduni zdania mogą być skracane przez opuszczanie zaimków oczywistych w danej sytuacji.
+W Panlinguu zdania mogą być skracane przez opuszczanie zaimków oczywistych w danej sytuacji.
 
 **me salama te!**
 = Pozdrawiam cię!  
@@ -119,14 +119,14 @@ Wzór w **salam te** jest poręczny w zwracaniu się do ludzi po imieniu, okreś
 **salam xefe!**
 = Cześć, szefie!
 
-Innym słowem w Panduni do pozdrawiania jest **haló**. Jest to równie międzynarodowe pozdrowienie. Możesz swobodnie wybierać, którego słowa użyć pozdrawiając ludzi.
+Innym słowem w Panlinguu do pozdrawiania jest **haló**. Jest to równie międzynarodowe pozdrowienie. Możesz swobodnie wybierać, którego słowa użyć pozdrawiając ludzi.
 
 **haló!** - Cześć!
 
 
 ### Ćwiczenia
 
-Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne odpowiedzi są pod listą słów.
+Spróbuj przetłumaczyć te zdania z języka polskiego na Panlingue. Poprawne odpowiedzi są pod listą słów.
 
 1. Pozdrawiasz go/ją.
 2. Mama pozdrawia tatę.
@@ -175,7 +175,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Gramatyka
 
-Zaimki osobowe w Panduni to: **me** = ja, **te** = ty, i **le** = on, ona, ono. Panlingue jest językiem neutralnym płciowo. Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach. Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
+Zaimki osobowe w Panlinguu to: **me** = ja, **te** = ty, i **le** = on, ona, ono. Panlingue jest językiem neutralnym płciowo. Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach. Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
 
 **me pliza te salama le.**
 = Ja proszę cię, żebyś pozdrowił go/ją.
@@ -184,7 +184,7 @@ Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **pliza** = prosić, odno
 
 > Struktura osiowa: Podmiot + Czasownik¹ + Dopełnienie/Podmiot + Czasownik² + Dopełnienie
 
-Struktura osiowa jest powszechną strukturą w Panduni.
+Struktura osiowa jest powszechną strukturą w Panlinguu.
 
 Pamiętaj, że można opóścić zaimki znane z kontekstu. Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać. W ten sposób zdania mogą być skracane.
 
@@ -221,7 +221,7 @@ W praktyce, bezpośrednie rozkazy mogą być też tworzone tylko jednym czasowni
 
 ### Ćwiczenia
 
-Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
+Spróbuj przetłumaczyć te zdania z języka polskiego na Panlingue.
 
 1. Pije herbatę.
 2. Szef poprosił ją, by usiadła.
@@ -255,7 +255,7 @@ Pytania "tak lub nie"
 ☻: **salam! eska te niama kafe u cay?** = Witam! Czy chce pan kawę albo herbatę?  
 ☺: **cay.** = Herbatę.  
 ☻: **i te?** = A pan?  
-○: **me no baxa panlingue...** = Nie mówię w Panduni...  
+○: **me no baxa panlingue...** = Nie mówię w Panlinguu...  
 ☻: **pardon! eska le niama cay?** = Przepraszam! Czy napije się herbaty?  
 ☺: **no. le no niama cay. le niama kafe.** = Nie, on nie pije herbaty. On pije kawę.  
 ☻: **eska te niama supe?** = Czy zje pan zupę?  
@@ -311,10 +311,10 @@ Można też odpowiadadać twierdząco powtarzając główny czasownik z pytania.
 
 ### Ćwiczenia
 
-Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
+Spróbuj przetłumaczyć te zdania z języka polskiego na Panlingue.
 
-1. Czy mówisz w Panduni?
-2. Tak, mówię w Panduni.
+1. Czy mówisz w Panlinguu?
+2. Tak, mówię w Panlinguu.
 3. Czy matka pije kawę?
 4. Nie, ona nie pije kawę.
 5. Czy ona je zupę?
@@ -347,7 +347,7 @@ W poprzedniej lekcji nauczyłeś się odpowiadać **si** i **no** na pytania. S�
 > **me salama te.** = Pozdrawiam cię.  
 > **me no salama te.** = Nie pozdrawiam cię.
 
-Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **me no salama te**, przeczące słowo **no** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
+Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **me no salama te**, przeczące słowo **no** zaprzecza istnieniu pozdrowienia. W Panlinguu słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
 > **me pliza te safa kamare.** = Ja proszę cię, żebyś sprzątał pokój.  
 > **me no pliza te safa kamare.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
@@ -364,7 +364,7 @@ Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymi
 
 ### Ćwiczenia
 
-Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej niż jedna poprawna odpowiedź
+Przetłumacz te zdania z języka polskiego na Panlingue. Czasem istnieje więcej niż jedna poprawna odpowiedź
 
 1. Nie sprzątał pokoju.
 2. Jeden kubek nie jest pusty.
@@ -403,7 +403,7 @@ Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi
 > **ke zaman te niama?** = Kiedy jesz? (**zaman** = czas)  
 > **ki yang dansa?** = Jak tańczyć? (**yang** = sposób, styl)
 
-W Panduni pytania zaczynające się w polskim na _dlaczego_ są zadawane przez **koz ke**.
+W Panlinguu pytania zaczynające się w polskim na _dlaczego_ są zadawane przez **koz ke**.
 
 > **te suku maw koz ke?** = Dlaczego lubisz koty?
 
@@ -451,7 +451,7 @@ Przeszłość, teraźniejszość i przyszłość
 
 ### Wyrażanie czasu
 
-Nie ma odmiany czasowników w Panduni. Wszystkie czasowniki mają tylko jedną formę, niezależną od podmiotu, czasu i aspektu. Na przykłas, **me niama pang** może znaczyć i "Jem chleb", "Zjadłem chleb", i "Jadłem chleb", ale zazwyczaj jedno znaczenie ma sens w kontekście rozmowy. Na przykład, gdy ludzie rozmawiają o śniadaniu tego dnia, zdanie mówi o czasie przeszłym.
+Nie ma odmiany czasowników w Panlinguu. Wszystkie czasowniki mają tylko jedną formę, niezależną od podmiotu, czasu i aspektu. Na przykłas, **me niama pang** może znaczyć i "Jem chleb", "Zjadłem chleb", i "Jadłem chleb", ale zazwyczaj jedno znaczenie ma sens w kontekście rozmowy. Na przykład, gdy ludzie rozmawiają o śniadaniu tego dnia, zdanie mówi o czasie przeszłym.
 
 > **me niama pang na suba niam.** = Zjadłem chleb na poranny posiłek.
 
@@ -503,7 +503,7 @@ Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obec
 
 ### Ćwiczenia
 
-Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne odpowiedzi są na dole strony.
+Spróbuj przetłumaczyć te zdania z języka polskiego na Panlingue. Poprawne odpowiedzi są na dole strony.
 
 1. Mój szef będzie świętował w przyszłości.
 2. Miałem dwa psy.

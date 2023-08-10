@@ -1,7 +1,7 @@
 # Gramatyka
 
-Ta gramatyka opisuje typy słów i kolejność słów w Panduni.
-Jakkolwiek, można się nauczyć Panduni bez czytania tej gramatyki, na przykład rozmówkami i słownikiem.
+Ta gramatyka opisuje typy słów i kolejność słów w Panlinguu.
+Jakkolwiek, można się nauczyć Panlingua bez czytania tej gramatyki, na przykład rozmówkami i słownikiem.
 
 Wszyscy nauczyciele języków wiedzą, że język staje się trudniejszy do nauki, gdy uczeń musi uczyć się rozróżniać rzeczy, do których rozróżniania nie jest przyzwyczajony.
 Dlatego uczniowie mają problemy z rzeczami jak: nieregularna ortografia, deklinacja, konieczne czasy gramatyczne, tony, zgodność przymiotnika z rzeczownikiem, odmiana grzecznościowa, harmoniczność spółgłoski i samogłoski, koniczne rozróżnianie płci i tak dalej.
@@ -9,7 +9,7 @@ Dlatego uczniowie mają problemy z rzeczami jak: nieregularna ortografia, deklin
 Panlingue nie jest trudnym do nauki językiem.
 Nie ma żadnych wyżej wspomnianych złożoności. Zamiast tego, ma prostą gramatykę, relatywnie proste słownictwo i proste, fonetyczne pismo.
 
-Jedną rzeczą, o której należy pamiętać, ucząc się Panduni, jest to, że nie jest to sztywny, nakierowany na zasady język, w którym jest "właściwy" i "niewłaściwy" sposób wyrażania się.
+Jedną rzeczą, o której należy pamiętać, ucząc się Panlingua, jest to, że nie jest to sztywny, nakierowany na zasady język, w którym jest "właściwy" i "niewłaściwy" sposób wyrażania się.
 Ważne, żeby inni cię rozumieli. Konsekwentnie, większość języka to leksykalne elementy (słowa, które mają znaczenie, jak "książka" lub "jeść"), a niewielka jego część to czysto gramatyczne pojęcia (jak liczba i czas gramatyczny).
 
 ## Podstawowe Zasady
@@ -32,6 +32,6 @@ Oto 11 podstawowych zasad języka Panlingue.
 9. W _strukturze osiowej_, dopełnienie przechodniego czasownika działa jako podmiot następnego czasownika.
    - przykład: **me pliza te dona mone.** = Proszę cię, żebyś dał me pieniądze.
 10. Zaimki Mogą być opuszczane, gdy są oczywiste i zbędne.
-   - **me kia te baxa panlingue?** → **kia te baxa panlingue?** = Mówisz w Panduni?
+   - **me kia te baxa panlingue?** → **kia te baxa panlingue?** = Mówisz w Panlinguu?
    - **me pliza te loga ming.** →  **pliza loga ming.** = Proszę, mów wyraźnie.
 11. Słowa pochodne mają opcjonalne zakończenie. Przymiotniki kończą się na -i, rzeczowniki na -e, a czasowniki na -a lub -u.

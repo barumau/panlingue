@@ -24,7 +24,7 @@ Czasowniki kończące się na **-a** używają tego trójkątnego wzoru.
 
 ### 2.1. Szyk SVO
 
-Najpowszechniejszym szykiem zdania w Panduni jest podmiot-orzeczenie-dopełnienie (SVO). W tej strukturze podmiot pojawia się jako pierwszy, jako drugie
+Najpowszechniejszym szykiem zdania w Panlinguu jest podmiot-orzeczenie-dopełnienie (SVO). W tej strukturze podmiot pojawia się jako pierwszy, jako drugie
 – orzeczenie, a jako trzeci
 – dopełnienie.
 
@@ -180,16 +180,16 @@ Przyimki mogą być też użyte jako rozpoczęcie zdania okolicznikowego czasu.
 _Stoję przy domu._
 
 **me loga na panlingue.**
-_Mówię przy Panduni._
-Mówię w Panduni.
+_Mówię przy Panlingua._
+Mówię w Panlinguu.
 
 **me loga na doste na panlingue na fon.**
-_Mówię przy przyjaciołach przy Panduni przy telefonie._
-Mówię z przyjaciółmi w Panduni przez telefon.
+_Mówię przy przyjaciołach przy Panlingua przy telefonie._
+Mówię z przyjaciółmi w Panlinguu przez telefon.
 
 #### 10.1.3. Czasowniki jako przyimki
 
-W Panduni kilka czasowników działa jak przyimki lub przypadki gramatyczne w języku polskim.
+W Panlinguu kilka czasowników działa jak przyimki lub przypadki gramatyczne w języku polskim.
 
 **me kata pang.**
 – Kroję chleb.
@@ -218,7 +218,7 @@ Oto kilka czasowników, których można użyć jak przyimków:
 
 #### 10.1.4. Czasowniki bez przyimów
 
-Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu zdaniach, czasownik wyraża wystarczająco wiele.
+Przyimki nie są używane tak często w Panlinguu jak w języku polskim. W wielu zdaniach, czasownik wyraża wystarczająco wiele.
 
 **me laya dome.**
 – Przychodzę do domu. (Dosłownie: Przychodzę dom.)

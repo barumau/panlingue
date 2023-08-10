@@ -4,7 +4,7 @@ Modyfikator to słowo, które dodaje jakąś wartość lub opis do rzeczy wyraż
 
 ## Opisywanie rzeczownika
 
-Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panduni przymiotnik to modyfikator, który jest przed rzeczownikiem.
+Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panlinguu przymiotnik to modyfikator, który jest przed rzeczownikiem.
 
 > **day petre** - duży kamień
 > **day meze** - duży stół
@@ -33,7 +33,7 @@ Zakończenie nie jest stosowane przy rdzeniach-opisach, kończących się pojedy
 Przyimek **ko** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
 
 **me jana panlingue ko guru.**
-– Znam Pandunię jak mistrz.
+– Znam Panlingue jak mistrz.
 
 **ko** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **jana** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
 
