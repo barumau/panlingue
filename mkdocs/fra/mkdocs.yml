@@ -31,7 +31,6 @@ nav:
         - 110_jumle.md
         - 111_lex-bine.md
     - 'Leçons':
-        - 'Écriture et prononciation': abc.md
         - 'Phrases courantes': fraze.md
         - 'Leçons': darse.md
     - 'Vocabulaire':
@@ -39,5 +38,3 @@ nav:
         - 'Français → panlingue': fransi-panlingue.md
         - 'Etymologie': leksaslia.md
         - 'Recherche': tiddly.html
-    - 'Grammaire': kanun.md
-
