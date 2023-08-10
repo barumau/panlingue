@@ -265,9 +265,9 @@ Pronominit voidaan jättää pois silloin kun ne ovat muuten tunnettuja tai arva
 #### 7.8.1. Lyhyt saranarakenne (VOVO)
 
 **me eska te baxa panlingue.**
-= Minä kysyn, sinä puhutko panlinguea.  
+= Minä kysyn, sinä puhutko panlingueta.  
 **eska te baxa panlingue?**
-= Puhutko sinä panlinguea?
+= Puhutko sinä panlingueta?
 
 Tällainen "karsittu" saranarakenne on panlinguessa yleinen tapa muodostaa lauseita, joissa puhuja kertoo, miten hän suhtautuu sanomaansa asiaan.
  

@@ -187,7 +187,7 @@ Minä seison talon luona.
 Minä puhun panlingueksi.
  
 **me loga sa doste sa panlingue sa fon.**  
-Minä puhun ystävien kanssa panlinguea puhelimessa.
+Minä puhun ystävien kanssa panlingueta puhelimessa.
 
 ### Verbit preposition asemassa
 
@@ -237,7 +237,7 @@ Panlinguessa prepositioita käytetään vähemmän kuin suomessa ja englannissa.
 Prepositio **ko** ilmaisee tapaa. Se vastaa suomen sanoja _kuin_ ja _kuten_.
 
 **me jana panlingue ko gur.**
-= Minä osaan panlinguea kuin/kuten mestari.
+= Minä osaan panlingueta kuin/kuten mestari.
 
 **ko** muodostaa vertailusuhteen verbin tai adjektiivin ja vertailtavan asian kesken. Edellisessä esimerkissä **jana** (osata) on verbi ja **gur** (mestari) on vertailukohta.
 

@@ -1,4 +1,4 @@
-# Panlinguea sana sanalta
+# Panlingueta sana sanalta
 
 ### Johdanto
 
@@ -14,7 +14,7 @@ Panlingue tarjoaa ratkaisun jokaiseen kohtaan.
 1. Panlinguessa on paljon lainasanoja maailman joka puolelta, joten siinä on jotakin tuttua lähes jokaiselle.
 2. Sen ääntäminen on suhteellisen helppoa. Suurin osa sen vokaaleista ja konsonanteista ovat maailman tavallisimpien äänteiden joukossa. Lisäksi sen sanat ovat enimmäkseen 2-3 tavua pitkiä.
 3. Sen kielioppi on säännöllinen ja selkeä. Kaikki sanat ovat taipumattomia, mikä helpottaa kielen oppimista erityisesti vasta-alkajille.
-4. Keinotekoisena kielenä panlinguea ei rasita perinteen painolasti. Voit puhua kaikille samalla tavalla, oli kyseessä sitten ystävä, vieras, nuorempi, vanhempi tai vaikka kuninkaallinen!
+4. Keinotekoisena kielenä panlingueta ei rasita perinteen painolasti. Voit puhua kaikille samalla tavalla, oli kyseessä sitten ystävä, vieras, nuorempi, vanhempi tai vaikka kuninkaallinen!
 
 Tällä kurssilla opetellaan panlingue sanojen kautta. Kurssi koostuu lyhyistä kappaleista. Joka kappaleessa esitellään uusi sana ja sen käyttöä erilaisten lauseiden osana. Kappaleessa saattaa tulla vastaan myös muita uusia sanoja, mutta älä huolehdi niistä liikaa! Kaikkia sanoja ei tarvitse oppia kerralla, vaan niitä toistetaan kappaleiden kuluessa. On parempi keskittyä hyödyllisten lauseiden oppimiseen. Niitä kannattaa kokeilla käytännössä aina tilaisuuden tullen!
 
@@ -627,13 +627,13 @@ Hän ei osaa ajaa autolla.
 Osaatko korjata sen?
 
 **eska te abla panlingue?**
-Osaatko panlinguea?
+Osaatko panlingueta?
 
 **me abla panlingue.**
-Minä osaan panlinguea.
+Minä osaan panlingueta.
 
 **me abla lilo panlingue.**
-Minä osaan vähän panlinguea.
+Minä osaan vähän panlingueta.
 
 **me no abla engli.**
 Minä en osaa englantia.
@@ -725,10 +725,10 @@ Kirjoittaisitko sen tähän!
 ### basha <small>puhua kieltä, kommunikoida</small>
 
 **eska tote basha panlingue.**
-Puhutteko te panlinguea?
+Puhutteko te panlingueta?
 
 **mome abla basha panlingue.**
-Me osaamme puhua panlinguea.
+Me osaamme puhua panlingueta.
 
 **eska te abla basha Engli?**
 Osaatko puhua englantia?

@@ -133,7 +133,7 @@ Kiinan kielelle kehitettiin 1950-luvulla siirtokirjoitus latinalaisille aakkosil
 Panlinguen kirjoitus pystyy olemaan äänteenmukaista, koska panlinguessa on vähemmän äänteitä (24) kuin latinalaisissa aakkosissa on kirjaimia (26). Panlinguen aakkoset ovat:  
 a b c d e f g h i j k l m n o p r s t u w x y z
 
-Panlinguea kirjoitetaan äänteenmukaisesti. Jokainen kirjain tarkoittaa yhtä äännettä ja jokainen äänne voidaan kirjoittaa vain yhdellä kirjaimella. Kaikki sanat siis luetaan niin kuin ne kirjoitetaan.
+Panlingueta kirjoitetaan äänteenmukaisesti. Jokainen kirjain tarkoittaa yhtä äännettä ja jokainen äänne voidaan kirjoittaa vain yhdellä kirjaimella. Kaikki sanat siis luetaan niin kuin ne kirjoitetaan.
 
 ## Säännöllinen painotus
 

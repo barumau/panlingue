@@ -304,7 +304,7 @@ Käännä seuraavat lauseet panlingueksi. Oikeat vastaukset ovat sanaston jälke
 ☻: **i te?**
 = Entä sinä?  
 ○: **me no baxa panlingue...**
-= En osaa panlinguea...  
+= En osaa panlingueta...  
 ☻: **pardon! eska le niama cay?**
 = Anteeksi! Haluaisiko hän teetä?  
 ☺: **no. le no niama cay. le niama kafe.**
@@ -353,7 +353,7 @@ Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 **eska pape safa kamare?**
 = Siivoaako isä huoneen?  
 **eska niki baxa panlingue?**
-= Puhuuko Niki panlinguea?
+= Puhuuko Niki panlingueta?
 
 
 ### Vastaaminen
@@ -392,8 +392,8 @@ Toinen tapa vastata myöntävästi on kysymyksen verbin toistaminen.
 
 Käännä seuraavat lauseet panlingueksi.
 
-1. Puhutko panlinguea?
-2. Kyllä minä puhun panlinguea.
+1. Puhutko panlingueta?
+2. Kyllä minä puhun panlingueta.
 3. Juoko äiti kahvia?
 4. Ei, hän ei juo kahvia.
 5. Syökö hän keittoa?

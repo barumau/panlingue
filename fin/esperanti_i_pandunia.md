@@ -4,7 +4,7 @@ Esperanto on ollut suosituin keinotekoinen apukieli jo 1890-luvulta alkaen. Sen 
 
 Esperantoa on myös arvosteltu vuosien varrella runsaastikin. Useimmiten toistuvat ongelmakohdat luetellaan Justin B. Ryen englanninkielisessä kirjoituksessa [Learn Not to Speak Esperanto](http://jbr.me.uk/ranto/index.html). Sille ovat kirjoittaneet vastineet mm. [Vítor De Araújo](https://elmord.org/misc/kontrauranto/) ja [Claude Piron](http://claudepiron.free.fr/articlesenanglais/why.htm).
 
-Arvostelusta huolimatta on tunnustettava, että esperantolla on kiistämättömiä ansioita ja se on apukielistä ylivoimaisesti menestynein. Mutta onko se todella ansainnut menestyksensä? Onko esperanto todella ihanteellinen maailmankieli? Käymme tässä kirjoituksessa esperanton merkittävimmät ongelmakohdat läpi ja vertaamme niitä panlinguean.
+Arvostelusta huolimatta on tunnustettava, että esperantolla on kiistämättömiä ansioita ja se on apukielistä ylivoimaisesti menestynein. Mutta onko se todella ansainnut menestyksensä? Onko esperanto todella ihanteellinen maailmankieli? Käymme tässä kirjoituksessa esperanton merkittävimmät ongelmakohdat läpi ja vertaamme niitä panlingueen.
 
 
 
@@ -77,7 +77,7 @@ Useimpien ihmisten mielestä keino 1 tuottaa "luonnolliselta" kuulostavia sanoja
 
 Tämä ongelma kasvaa suuremmaksi, kun nimiä siirretään esperantoon. Onko mitenkään edes mahdollista siirtää samankaltaisia nimiä kuten Mari, Maria ja Mario esperantoon siten, että ne kuulostavat oikealta ja eivät sotkeudu toisiinsa? Ilmeisesti ei. Nimittäin tavallisesti sekä Mari että Maria kirjoitetaan esperantoksi "Maria" – vaikka -a on virallisesti adjektiivin pääte!
 
-### Sanojen lainaaminen panlinguean
+### Sanojen lainaaminen panlingueen
 
 Panlinguessa substantiivin pääte on -e tai ei mitään. Yleensä päätettä -e käytetään sanoissa, joiden ääntäminen olisi vaikeaa ilman sitä.
 
@@ -87,7 +87,7 @@ Panlinguessa substantiivin pääte on -e tai ei mitään. Yleensä päätettä -
 
 Heittomerkki siirtää sananpainon viimeiselle tavulle, joten ero on havaittavissa myös puhutussa kielessä.
 
-Näillä keinoilla panlinguean voi lainata kaikenlaisia sanoja tärkeitä kirjaimia muuttamatta ja hävittämättä.
+Näillä keinoilla panlingueen voi lainata kaikenlaisia sanoja tärkeitä kirjaimia muuttamatta ja hävittämättä.
 
 
 ### Esperanton sanavartaloilla on sanaluokka

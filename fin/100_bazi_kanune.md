@@ -28,7 +28,7 @@
     - esim. **me pliza te dona pese.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
     - **me eska te baxa panlingue?** → **eska te baxa panlingue?**
-      = Puhutko sinä panlinguea?
+      = Puhutko sinä panlingueta?
     - **me pliza te loga ming.** →  **pliza loga ming.**
       = Pyydän, puhu selvästi.
 10. Yhdyssanat muodostetaan asettamalla kaksi tai useampia sanavartaloita peräkkäin.

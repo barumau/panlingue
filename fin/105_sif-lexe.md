@@ -41,5 +41,5 @@ Tavan adverbit ovat verbin vieressä tai lauseen lopussa.
 **me sona _bono_.**
 = Minä nukun _hyvin_.  
 **te baxa panlingue _bono_.**
-= Sinä puhut panlinguea _hyvin_.
+= Sinä puhut panlingueta _hyvin_.
 

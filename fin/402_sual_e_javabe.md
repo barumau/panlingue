@@ -3,14 +3,14 @@ Usein kysyttyjä kysymyksiä
 
 ## Yleistä
 
-#### Kuinka moni osaa panlinguea?
+#### Kuinka moni osaa panlingueta?
 
-Tällä hetkellä panlinguea osaa muutama kymmenen harrastajaa. Sitä
+Tällä hetkellä panlingueta osaa muutama kymmenen harrastajaa. Sitä
 opetellaan pikemmin huvin kuin hyödyn vuoksi.
 
 #### Miten voin edistää panlinguen leviämistä?
 
-Opiskele panlinguea! Puhu sitä muiden kanssa! Kerro siitä muille!
+Opiskele panlingueta! Puhu sitä muiden kanssa! Kerro siitä muille!
 Kirjoita juttuja, tee videoita, podcasteja, musiikkia jne.
 
 Voit myös auttaa tämän internetsivuston kanssa kääntämällä sen
@@ -112,7 +112,7 @@ kielissä, mutta kokonaisuutena se on ainutlaatuinen.
 #### Kuinka paljon esperanto vaikutti panlinguen syntyyn?
 
 Alussa Esperanto oli tärkeä innoituksen lähde. Ilman esperantoa
-panlinguea ei olisi koskaan alettu tekemään. Mutta varsinaisessa
+panlingueta ei olisi koskaan alettu tekemään. Mutta varsinaisessa
 lopputuloksessa esperanton vaikutus on hyvin pieni. Panlingue on aivan
 erilainen kieli niin rakenteeltaan kuin sanastoltaankin.
 
@@ -138,11 +138,11 @@ oppia.
 
 #### Onko panlinguen tarkoitus korvata englanti?
 
-Panlinguea ei ole tarkoitettu korvaamaan englantia tai mitään muutakaan
+Panlingueta ei ole tarkoitettu korvaamaan englantia tai mitään muutakaan
 kieltä. Ihmisillä on taito puhua useita kieliä ja he puhuvat eri kieliä
 eri asioita varten. Joku voi puhua yhtä kieltä kotona, toista töissä ja
 kolmatta matkoilla. Voimme kuvitella maailman, jossa englantia, suomea
-ja kaikkia muita kieliä yhä puhutaan ja myös panlinguea niiden lisäksi.
+ja kaikkia muita kieliä yhä puhutaan ja myös panlingueta niiden lisäksi.
 
 Tavallaan englantia ei koskaan korvata millään muulla kielellä. Ne
 jotka käyttävät sitä nyt, käyttävät sitä myös jatkossa. Mutta jokainen

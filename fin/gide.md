@@ -2,8 +2,8 @@
 
 ## Johdanto
 
-Tämä on lyhyt ja helppo opas panlinguean tutustumiseksi. Tämä opas
-esittelee panlinguea ja näyttää kuinka se vertautuu muihin kieliin.
+Tämä on lyhyt ja helppo opas panlingueen tutustumiseksi. Tämä opas
+esittelee panlingueta ja näyttää kuinka se vertautuu muihin kieliin.
 Tämän oppaan tarkoitus on vakuuttaa sinut siitä, että panlingue on
 mielenkiintoinen ja oppimisen arvoinen kieli.
 
@@ -19,7 +19,7 @@ aikaisemmin oppimiisi kieliin verrattuna sillä on yksinkertaisempi
 kielioppi, äänteenmukaisempi kirjoitusjärjestelmä ja suppeampi
 sanasto.
 
-Yksi asia kannattaa pitää mielessä panlinguea puhuessa: se ei ole
+Yksi asia kannattaa pitää mielessä panlingueta puhuessa: se ei ole
 tiukasti sääntöjä noudattava kieli, jossa asiat voi sanoa vain
 "oikealla tavalla" ja "väärällä tavalla". Kaikista tärkeintä on
 puhujien keskinäinen ymmärrys, siis tulla ymmärretyksi ja yrittää
