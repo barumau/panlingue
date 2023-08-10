@@ -15,7 +15,7 @@ Verboj kiuj finiĝas je **-a** uzas ĉi tiun triangulan modelon.
 
 #### 6.2.1. SVO-vortordo
 
-La plej komuna vortordo en Pandunio estas subjekto-verbo-objekto (SVO).
+La plej komuna vortordo en Panlingvo estas subjekto-verbo-objekto (SVO).
 
     subjekto-verbo-objekto
     

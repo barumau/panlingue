@@ -3,7 +3,7 @@
 ##. Senflekciaj
 
 _Substantivo_ estas vorto kiu prezentas aferon.
-Substantivoj estas senfleksiaj, kiel aliaj vortospecoj en pandunio.
+Substantivoj estas senfleksiaj, kiel aliaj vortospecoj en panlingvo.
 Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco.
 
 **petre**

@@ -2,10 +2,10 @@
 
 ## Enkonduko
 
-Pandunio estas artefarita lingvo, elpensita por esti relativa facila al ĉiuj.
+Panlingvo estas artefarita lingvo, elpensita por esti relativa facila al ĉiuj.
 Eblas lerni ĝin rapide per ĉi tiu praktika kurso.
 
-Estas facile fari simplajn frazojn en pandunio. Estas nek artikoloj nek verbo
+Estas facile fari simplajn frazojn en panlingvo. Estas nek artikoloj nek verbo
 "esti".  Ordinaraj vortoj ne ŝanĝiĝas por montri pluralon, kaj verboj ne
 ŝanĝiĝas por montri tempon.
 
@@ -132,7 +132,7 @@ Mi salutas patrinon.
 Mi salutas patron.
 
 La vorto **salam** estas la substantivo kaj **salama** estas la verbo. La
-normala vortordo en pandunio estas subjekto-verbo-objekto.
+normala vortordo en panlingvo estas subjekto-verbo-objekto.
 
 **Sara salama Tomas.**
 Sara salutas Tomason.
@@ -158,7 +158,7 @@ Mi salutas vin.
 **te salama me.**
 Vi salutas min.
 
-Noto:  Vortoj neniam ŝanĝiĝas en pandunio. Do **me**
+Noto:  Vortoj neniam ŝanĝiĝas en panlingvo. Do **me**
 havas la saman formon kaj kiel subjekto kaj kiel objekto.
 
 **salam te!**
@@ -451,7 +451,7 @@ Li/ŝi manĝas pomon.
 **lole yama apel.**
 Ili manĝas pomojn.
 
-Noto: Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto
+Noto: Panlingvo ne havas apartajn formojn por singularo kaj pluralo. Do vorto
 kiel **apel** indikas unu aŭ multajn pomojn.
 
 **eska te yama kafe?**
@@ -474,7 +474,7 @@ Mi manĝas kafon kaj panon.
 **te wana yama ke?**
 Kion vi volas manĝi?
 
-Noto: En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj
+Noto: En panlingvo la demandvorto estas en la normala loko ankaŭ en demandaj
 frazoj. **Ke** ne ŝanĝas la vortordon.
 
 **me wana yama kafe.**
@@ -608,13 +608,13 @@ Mi povas konduki aŭton.
 Ĉu vi povas ripari ĝin?
 
 **eska te abla panlingue?**
-Ĉu vi povas paroli pandunion?
+Ĉu vi povas paroli panlingvon?
 
 **me abla panlingue.**
-Mi povas pandunion.
+Mi povas panlingvon.
 
 **me abla lilo Panlingue.**
-Mi povas ete pandunion.
+Mi povas ete panlingvon.
 
 **me no abla Engli.**
 Mi ne povas paroli la anglan.
@@ -702,10 +702,10 @@ Bonvolu skribi ĝin tie!
 ### basha <small>paroli, lingvumi</small>
 
 **eska tote basha panlingue.**
-Ĉu vi parolas pandunion?
+Ĉu vi parolas panlingvon?
 
 **mome basha panlingue.**
-Ni parolas pandunion.
+Ni parolas panlingvon.
 
 **eska te abla basha Engli?**
 Ĉu vi povas paroli la anglan?

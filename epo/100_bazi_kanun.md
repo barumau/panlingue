@@ -21,7 +21,7 @@
     - ekz. **me pliza te dona pese.** = Mi petas vin (por) doni monon.
 10. Eblas forigi pronomon kiam ĝia senco estas evidenta.
     - **me eska te baxa panlingue?** → **eska te baxa panlingue?** =
-      Ĉu vi parolas pandunion?
+      Ĉu vi parolas panlingvon?
     - **me pliza te loga ming.** →  **pliza loga ming.** = Bonvolu
       paroli klare.
 11. Derivitaj vortoj portas finaĵon. Mofidovortoj finiĝas je -i,

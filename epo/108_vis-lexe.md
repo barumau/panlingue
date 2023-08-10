@@ -56,7 +56,7 @@ Montrovortoj povas roli kiel modifovortoj.
 
 ## Demandovortoj
 
-**ke** estas la ĝenerala demandovorto en pandunio.
+**ke** estas la ĝenerala demandovorto en panlingvo.
 Ĝi funckias kiel la demanda senco de la vortoj _kiu_ kaj _kio_.
 
 **ke?**
