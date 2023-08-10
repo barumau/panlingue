@@ -23,16 +23,17 @@ For example, this is how the word **andewisti** (atheistic) is made:
     = andevisti     (atheistic)
 
 If joining bare stems together would result into a difficult consonant sequence,
-a padding vowel **-o-** is inserted between them.
+a padding vowel **-ə-** is inserted between them.
+(Remember, if it is difficult to type *ə*, you may always use the dash (-) instead of it.)
 
 For example, this is how **termometer** (_thermometer_) is made:
 
          term       (temperature)
-       +    o       (padding vowel)
+       +    ə       (padding vowel)
        +  met       (measuring)
        +   er       (device)
     ____________
-    = termometer    (thermometer)
+    = terməmeter    (thermometer)
 
 
 ### Common Suffixes
@@ -95,7 +96,7 @@ are also a lot of country names that do not end in **-ia**.
 
 Also abstract nouns often end in **-ia**.
 
-**nevi** new, **nevia** newness, novelty  
+**novi** new, **novia** newness, novelty  
 **huri** free, **huria** freedom
 
 When it is added after -er, it means a field of expertise.
@@ -116,9 +117,9 @@ only, sole, single
 – home  
 **domiki**
 – domestic  
-**nevi**
+**novi**
 new
-→ **nevike**
+→ **novike**
 novice, newbie
 
 #### -abli

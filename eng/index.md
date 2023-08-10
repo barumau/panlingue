@@ -29,30 +29,6 @@ It is a first stepping stone that builds confidence and improves the ability of 
 One year of learning Panlingue also enables students to communicate well with a growing number of people
 who have also learned this regular, flexible and multicultural language.
 
-## How to learn it?
-
-- [The basics](baze.md) in one short page
-- [Lessons with Dialogs](darse.md)
-- [Flashcards and quizzes](https://lingopolo.org/panlingue/) in Lingopolo
-- [Mini lessons with pictures](http://www.pandunia.info/panlingue/mini_darse.html)
-- [Phrasebook](fraze.md)
-- [Grammar of Panlingue](pan.pdf) in PDF format
-
-- [Searchable dictionary](tiddly.html)
-- [English-Panlingue](engli-panlingue.md) dictionary
-- [Panlingue-English](panlingue-engli.md) dictionary
-- [Origins of words](leksaslia.md)
-
-
-
-## Articles
-
-- [Panlingue - a new world language](dunia_baxe.md)
-- [Mentions about Panlingue in other publications](makal_tema_panlingue.md)
-- [Why do I like Panlingue?](http://www.pandunia.info/makal/Why_do_I_like_Panlingue.pdf) - opinions from learners
-- [Esperanto vs. Panlingue](esperanti_i_panlingue.md)
-
-
 ## Join Others
 
 You can talk about Panlingue at the

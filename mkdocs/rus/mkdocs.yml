@@ -12,7 +12,6 @@ plugins:
         lang: ru
 nav:
     - Дом: 'index.md'
-    - 'Звучание': abc.md
     - 'Уроки': darse.md
     - 'Грамматика':
         - 100_bazi_kanune.md
