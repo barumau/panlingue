@@ -92,7 +92,7 @@ and it is known by the audience or is topical within the discourse.
 **ye sa mau. le vola yama vi mux.**
 – This is a cat. It wants to eat that mouse.
 
-**me mala un mau e un vaf. li vaf sa dayi. le yama polo yam.**
+**me mala un mau e un vaf. li vaf sa dayi. le yama poli yame.**
 – I own a cat and a dog. The dog is big. It eats a lot of food.
 
 
