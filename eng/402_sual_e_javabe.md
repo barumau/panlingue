@@ -350,6 +350,23 @@ In Portuguese, this word has many forms and only the stem nov- remains the same:
 _nov-o, nov-a, nov-os, nov-as, nov-idade, re-nov-ar_...
 So it makes sense to take only the stem and attach our regular Panlingue suffixes to it.
 
+#### What is Panlingue called in other languages?
+
+Here are some translations of the name *Panlingue* in various languages.
+
+- Latin
+  *panlingua*
+- Esperanto
+  *Panlingvo*
+- Russian
+  панлингвэ /panlingve/
+- Mandarin Chinese
+  泛话 /fàn huà/
+- Cantonese
+  泛話 /faan wa/
+- Japanese
+  汎語 /han-go/
+
 #### Shouldn't "salam" mean "peace"?
 
 In many languages, expressions of greeting have something to do with
