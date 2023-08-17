@@ -85,6 +85,7 @@ The examples below show how clause constituents are arranged in various language
 | Language       | Verb           | Subject        | Object         |
 |----------------|----------------|----------------|----------------|
 | Arabic:        | *yaktab*       | *al-tifl*      | *risālatan*    |
+| Tagalog:       | *Nagsusulat*   | *ang bata*     | *ng liham.*    |
 | Panlingue:     | ***kitabu***   | ***bache***    | ***letre.***   |
 
 In most languages only one word order is possible or normal.
