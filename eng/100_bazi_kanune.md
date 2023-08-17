@@ -1,4 +1,5 @@
-# The basic rules of Panlingue
+
+# 1. The basic rules of Panlingue
 
 These are the basic rules of Panlingue language.
 They are described in more detail later in this document.

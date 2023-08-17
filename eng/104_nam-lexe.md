@@ -1,6 +1,7 @@
-## Nouns
 
-### Uninflected
+# 4. Nouns
+
+## Uninflected
 
 A noun is a word that names a thing.
 Like all words in Panlingue, nouns are invariant.
@@ -18,7 +19,7 @@ So the same form is used in singular and plural, in definite and indefinite, etc
 Number and definiteness are often known because they were specified earlier in the discussion or because they are general knowledge.
 For example, normally the word **sol** refers to _the sun_ and **lun** refers to _the moon_, our only sun and moon.
 
-### Number
+## Number
 
 Nouns are unaffected by number, i.e. nouns have the same form in singular and plural.
 Number can be mentioned with number words when it is needed.
@@ -35,10 +36,7 @@ Number can be mentioned with number words when it is needed.
 – many chairs; chairs
 
 
-### Gender
+## Gender
 
-Panlingue doesn't have grammatical gender (i.e. masculine, feminine and/or neuter categories).
-
-Some words have _natural gender_.
-For example **fem** (woman) is feminine and **man** (man) is masculine.
-
+Panlingue doesn't have grammatical gender of any type.
+There are no categories like masculine, feminine, neuter, animate or inanimate.

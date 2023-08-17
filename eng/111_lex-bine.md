@@ -1,4 +1,5 @@
-# Word derivation
+
+# 12. Word derivation
 
 New words can be built freely in Panlingue!
 Panlingue has a productive system of word derivation.
