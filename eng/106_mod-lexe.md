@@ -5,31 +5,31 @@
 
 An adverb is a word that modifies a verb or another modifier.
 
-In Panlingue adverbs end in **-o** and their place is before a verb
+In Panlingue adverbs end in *-o* and their place is before a verb
 or at the end of the sentence.
 
-**me _bono_ sona.**
+*me _bono_ sona.*
 – I well sleep.  
-**me sona _bono_.**
+*me sona _bono_.*
 – I sleep _well_.  
-**te baxa panlingue _bono_.**
+*te baxa panlingue _bono_.*
 – You speak Panlingue _well_.
 
 ## Modifying another modifier
 
 A modifier can modify also another modifier.
-For example **day** (big) and **lil** (little) can be used as intensifying adverbs.
+For example *day* (big) and *lil* (little) can be used as intensifying adverbs.
 
-**dayi jan**
+*dayi jan*
 – a big person  
-**lili jan**
+*lili jan*
 – a little person  
-**sundari jan**
+*sundari jan*
 – a beautiful person
 
-**dayo sundari jan**
+*dayo sundari jan*
 – very beautiful person  
-**lilo sundari jan**
+*lilo sundari jan*
 – somewhat beautiful person
 
 
@@ -37,43 +37,43 @@ For example **day** (big) and **lil** (little) can be used as intensifying adver
 
 Modifiers can be compared with the adverbs of comparison.
 
-- **max**
+- *max*
   (_more_) indicates comparison of superiority
-- **maxim**
+- *maxim*
   (_most_) indicates the superlative of superiority
-- **min**
+- *min*
   (_less_) indicates comparison of inferiority
-- **minim**
+- *minim*
   (_least_) indicates the superlative of inferiority
-- **paro**
+- *paro*
   (_as_ or _equally_) indicates the comparison of equality
 
 The particle
-**ka**
+*ka*
 relates the adverbs of comparison to the object of comparison.
 
-**aple sa max boni ka oranje.**
+*aple sa max boni ka oranje.*
 = Apples are better than oranges.  
-**oranje sa min boni ka aple.**
+*oranje sa min boni ka aple.*
 = Oranges are less good than apples.  
-**te loga paro bono ka me.**
+*te loga paro bono ka me.*
 = You speak as well as me.
 
 It is also possible to compare modifiers with the following verbs,
 which are directly attached to the object of comparison.
 
-- **maxu**
+- *maxu*
   (_to exceed_)
-- **minu**
+- *minu*
   (_to subceed_)
-- **paru**
+- *paru*
   (_to equal_)
 
-**aple sa boni maxu oranje.**
+*aple sa boni maxu oranje.*
 – Apples are good, exceed oranges. _meaning:_ Apples are better than oranges.  
-**oranje sa boni minu aple.**
+*oranje sa boni minu aple.*
 – Oranges are good, subceed apples. _meaning:_ Oranges are less good than apples.  
-**te loga bono para me.**
+*te loga bono para me.*
 – You speak well, equal me. _meaning:_ You speak as well as me.
 
 
@@ -82,32 +82,32 @@ which are directly attached to the object of comparison.
 Adverbs are used for expressing time and place of events and actions.
 Here are some of the most frequently used adverbs:
 
-**ceno**
+*ceno*
 – before, earlier  
-**medo**
+*medo*
 – between  
-**bado**
+*bado*
 – after, later  
-**viso**
+*viso*
 – instead  
-**duro**
+*duro*
 – in the meanwhile  
-**diko**
+*diko*
 – toward  
-**sabo**
+*sabo*
 – because  
-**kontro**
+*kontro*
 – against  
-**maxo**
+*maxo*
 – additionally  
 
-A complement can be added with the preposition **da**.
+A complement can be added with the preposition *da*.
 
-**me vida les ceno.**
+*me vida les ceno.*
 – I have seen them before.  
-**me vida les ceno da unyom.**
+*me vida les ceno da unyom.*
 – I have seen them before Monday.
 
-**me vola xopa tougar maxo da motogar.**
+*me vola xopa tougar maxo da motogar.*
 – I want to buy a trailer in addition to the car.
 
