@@ -4,14 +4,6 @@ fa_pandoc() {
     sed 's/\/home\/rkupsala\/pandunia\/html/http:\/\/www.pandunia.info/g' -i $1/pan.md
 }
 
-#Sharing Windows fonts with WSL
-#https://x410.dev/cookbook/wsl/sharing-windows-fonts-with-wsl/
-#
-# Noto Serif CJK
-# sudo apt install fonts-noto-cjk
-# Noto Serif CJK SC
-# https://fonts.google.com/noto/specimen/Noto+Serif+SC
-
 max_dataje_nam() {
     if test -f "$1"; then
         echo "zai $1"
@@ -22,9 +14,9 @@ max_dataje_nam() {
 }
 
 fa_dataje_liste() {
-    max_dataje_nam $1/000_dake.md
-    max_dataje_nam $1/100_baze_kanun.md
-#    max_dataje_nam $1/101_duni_lexe.md
+    max_dataje_nam $1/001_indute.md
+#    max_dataje_nam $1/dunia_baxe.md
+    max_dataje_nam $1/101_bazi_kanune.md
     max_dataje_nam $1/102_ABC.md
     max_dataje_nam $1/103_lex-tipe.md
     max_dataje_nam $1/104_nam-lexe.md
@@ -34,9 +26,9 @@ fa_dataje_liste() {
     max_dataje_nam $1/108_vis-lexe.md
     max_dataje_nam $1/109_kar-lexe.md
     max_dataje_nam $1/110_jumle.md
-    max_dataje_nam $1/111_lex-bine.md
+    max_dataje_nam $1/201_dunia_lexe.md
+    max_dataje_nam $1/202_lex-bine.md
     max_dataje_nam $1/darse.md
-#    max_dataje_nam $1/dunia_baxe.md
 #    max_dataje_nam $1/404_esperanto_vs_panlingue.md
 }
 
@@ -58,7 +50,8 @@ fa_pan_md() {
 
 fa_europi_dokume() {
     fa_pan_md $1
-    fa_pandoc $1 "DejaVu Serif"
+    #fa_pandoc $1 "DejaVu Serif"
+    fa_pandoc $1 "FreeSerif"
 }
 
 fa_niponi_dokume() {
@@ -84,4 +77,16 @@ fa_niponi_dokume jpn
 #sudo apt-get install texlive-fonts-extra
 #sudo apt-get install texlive-latex-extra
 #sudo apt-get install texlive-xetex
-
+#
+#
+# See the current list of fonts
+# fc-list | less
+#
+# Intall "Free Serif"
+# sudo apt install fonts-freefont-ttf
+#
+# Install Noto fonts (over 600 MB)
+# sudo apt install fonts-noto
+#
+# Install "Noto Serif CJK" just for Chinese, Japanese and Korean
+# sudo apt install fonts-noto-cjk

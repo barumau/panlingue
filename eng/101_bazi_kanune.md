@@ -10,24 +10,29 @@ They are described in more detail later in this document.
    The last suffix indicates the word class to which the word belongs.
     - Adjectives end in **-i**, ex. **novi** = new.
     - Adverbs end in **-o**, ex. **novo** = newly.
-    - Active verbs end in **-a**, ex. **me loga** = I speak.
-    - Passive verbs end in **-u**, ex. **le logu** = It is spoken.
+    - Agent-oriented verbs end in **-a**, ex. **me loga** = I speak.
+    - Patient-oriented verbs end in **-u**, ex. **le logu** = It is spoken.
     - Nouns end in **-e**, **-ia** or a consonant.
-4. Nouns have a single, unchanging form.
-5. Adjectives come before the word that they modify.
-   All adjectives, except the most common few, end in **-i**.
+4. Nouns have a single, unchanging form
+   that is not affected by number, gender or case.
+5. Adjectives end in **-i**
+   and they may become before or after the word that they modify.
     - ex. **rapidi loge** = Fast speech.
-6. Adverbs modify verbs, adjectives, other adverbs and complete sentences.
+6. Adverbs end in **-o**.
+   They modify verbs, adjectives, other adverbs and complete sentences.
    They come before the word that they modify or very last in the sentence.
-   All adverbs, except the most common few, end in **-o**.
     - ex. 1. **vero rapidi loge** = Very fast speech.
     - ex. 2. **te loga bono.** = You talk well.
-7. The verb ending **-a** indicates that the verb is active
-   and the agent of the action is immediately before the verb.
+7. The verb ending **-a** indicates that
+   the agent of the action is immediately before the verb.
     - ex. **me yama aple.** = I eat apples.
-8. The verb ending -u indicates that the verb is passive
-   and the recipient of the action is immediately before the verb.
+8. The verb ending -u indicates that
+   the patient of the action is immediately before the verb.
     - ex. **aple yamu.** = Apples are eaten.
+
+9. The word-class marking final vowel of any word may be dropped (without effect on stress).
+   This may have effect on the syntax.
+
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
     - ex. **me cinga te dona pes.** = I ask you to give money.

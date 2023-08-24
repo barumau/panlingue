@@ -42,11 +42,11 @@ The main phrase types are listed below.
 - The preposition phrase consists of a preposition (prep.) as head
   and usually a noun phrase as its complement.
 
-Pandunia sentences are made up of the building blocks listed above.
-The figure below shows the decomposition of a Pandunia sentence
+Panlingue sentences are made up of the building blocks listed above.
+The figure below shows the decomposition of a Panlingue sentence
 in three levels: (1) clause constituents, (2) phrases and (3) words.
 
-    Figure 1. Decomposition of a sentence structure in Pandunia.
+    Figure 1. Decomposition of a sentence structure in Panlingue.
     
          ╔═════════╗   ╔═══════════╗  ╔═══════════╗   ╔═══════════════╗
     (1)  ║ SUBJECT ║   ║ PREDICATE ║  ║ ADVERBIAL ║   ║ENDING PARTICLE║
@@ -72,9 +72,9 @@ Someone is something.
 Someone is of some kind of.  
 In short, the subject is what the predicative says.
 
-The predicative clause is simple in Pandunia.
+The predicative clause is simple in Panlingue.
 What is new for English speakers, is that the copula verb ’to be’ can be left out.
-It’s not necessary in Pandunia.
+It’s not necessary in Panlingue.
 There are two types of predicative clause: verbal and nominal.
 
     Figure 2. Decomposition of the copula clause.
@@ -237,7 +237,7 @@ The change can be a change of state or a change of place.
 In the sentence *the children run*, the subject changes place.
 In the sentence *the old man dies*, the subject changes state from living to dead.
 
-Here are some intransitive clauses in Pandunia.
+Here are some intransitive clauses in Panlingue.
 The subjects are written in cursive.
 
 ***bache*** **kursa.**
@@ -247,7 +247,7 @@ The subjects are written in cursive.
 ***seni mane*** **mortu.**
 – The old man died.
 
-Note that Pandunia verbs don’t indicate tense by themselves.
+Note that Panlingue verbs don’t indicate tense by themselves.
 So they can express the past and present alike.
 Therefore for example **mortu** can mean both ’died’ and ’dies’.
 
@@ -269,14 +269,14 @@ but structurally it is now a transitive clause.
 
 ## Transitive clause
 
-The transitive clause is the most versatile clause type in Pandunia, and it has many different realizations.
+The transitive clause is the most versatile clause type in Panlingue, and it has many different realizations.
 
 Transitive clauses are clauses where the verb takes a direct object.
 The purpose of the transitive clause is to express an event where someone does something to someone or something.
 
 The three constituents of the transitive clause are subject, verb and object.
 In theory, they can be ordered in many different ways.
-In Pandunia, their normal order is subject–verb–object (SVO).
+In Panlingue, their normal order is subject–verb–object (SVO).
 This order is one of the most common word orders among world's languages.
 It is the most common word order by number of speakers
 and the second-most common order by number of languages.
@@ -344,7 +344,7 @@ the instrument is in the middle,
 and the patient, as the recipient of the energy flow, is in the end.
 
 In syntactical terms the order of the words is subject–verb–object (or SVO in short).
-This is the normal and neutral word order in Pandunia.
+This is the normal and neutral word order in Panlingue.
 
 For example, in the following sentence, the subject is
 **me**
@@ -613,7 +613,7 @@ The second participant can be left out from the pivot construction when it is th
 – I want to write a letter.
 
 This structure is called the verb series or the serial verb construction.
-It is very common in Pandunia.
+It is very common in Panlingue.
 There can be two, three or even more verbs in a series.
 All verbs are about the same subject.
  
@@ -646,7 +646,7 @@ that indicate a modality such as likelihood, ability, advice, permission, desire
 The **topic** is what is being talked about,
 and the **comment** is what is being said about the topic.
 Typically the topic is something that is known before and the comment is a piece of new information about the topic.
-In Pandunia the topic comes first so it is a topic-fronting language.
+In Panlingue the topic comes first so it is a topic-fronting language.
 
 The focus of the sentence can be changed by changing the order of the topic and comment.
 
@@ -655,7 +655,7 @@ The focus of the sentence can be changed by changing the order of the topic and 
 **guru sa Maria.**
 – The teacher is Maria.
 
-In Pandunia, the topic can be fronted by using various sentence structures,
+In Panlingue, the topic can be fronted by using various sentence structures,
 such as passivization and change of word order.
 Consider the following sentence:
 
