@@ -18,16 +18,16 @@ nav:
     - 'Grammar and Rules':
         - 'The basic rules': 100_bazi_kanune.md
         - 'World words': 101_dunia_lexe.md
-        - 'Spelling and pronunciation': 102_ABC.md
-        - 'Word class markers': 103_lex-tipe.md
-        - 'Nouns': 104_nam-lexe.md
-        - 'Adjectives': 105_sif-lexe.md
-        - 'Adverbs': 106_mod-lexe.md
-        - 'Numerals': 107_nume.md
-        - 'Pronouns': 108_vis-lexe.md
-        - 'Verbs': 109_kar-lexe.md
+        - 'Spelling and pronunciation': G_ABC.md
+        - 'Word class markers': G_PoS.md
+        - 'Nouns': G_N.md
+        - 'Adjectives': G_ADJ.md
+        - 'Adverbs': G_ADV.md
+        - 'Numerals': G_NUM.md
+        - 'Pronouns': G_PRO.md
+        - 'Verbs': G_V.md
         - 'Sentences': 110_jumle.md
-        - 'Word building': 111_lex-bine.md
+        - 'Word building': G_AFX.md
     - 'Lessons':
         - 'Basic Phrases': fraze.md
         - 'Course': darse.md

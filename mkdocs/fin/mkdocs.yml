@@ -18,13 +18,13 @@ nav:
     - 'Panlinguen perusteet ja rakenne':
         - 'Perussäännöt': 100_bazi_kanune.md
         - 'Yleismaailmallinen sanasto': 101_dunia_lexe.md
-        - 'Ääntäminen': 102_ABC.md
-        - 'Substantiivit': 104_nam-lexe.md
-        - 'Adjektiivit': 105_sif-lexe.md
-        - 'Adverbit': 106_mod-lexe.md
-        - 'Numeraalit': 107_nume.md
-        - 'Pronominit': 108_vis-lexe.md
-        - 'Verbit': 109_kar-lexe.md
+        - 'Ääntäminen': G_ABC.md
+        - 'Substantiivit': G_N.md
+        - 'Adjektiivit': G_ADJ.md
+        - 'Adverbit': G_ADV.md
+        - 'Numeraalit': G_NUM.md
+        - 'Pronominit': G_PRO.md
+        - 'Verbit': G_V.md
         - 'Lauserakenteita': 110_jumle.md
     - 'Oppitunteja':
         - 'Lauseita': fraze.md

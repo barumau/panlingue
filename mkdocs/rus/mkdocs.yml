@@ -15,13 +15,13 @@ nav:
     - 'Уроки': darse.md
     - 'Грамматика':
         - 100_bazi_kanune.md
-        - 102_ABC.md
-        - 104_nam-lexe.md
-        - 107_nume.md
-        - 108_vis-lexe.md
-        - 109_kar-lexe.md
+        - G_ABC.md
+        - G_N.md
+        - G_NUM.md
+        - G_PRO.md
+        - G_V.md
         - 110_jumle.md
-        - 111_lex-bine.md
+        - G_AFX.md
     - 'Словарь':
         - 'пандуния-русский': panlingue-rusi.md
         - 'русский-пандуния': rusi-panlingue.md

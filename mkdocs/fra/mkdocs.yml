@@ -21,15 +21,15 @@ nav:
     - 'Grammaire':
         - 100_bazi_kanune.md
         - 101_dunia_lexe.md
-        - 102_ABC.md
-        - 104_nam-lexe.md
-        - 105_sif-lexe.md
-        - 106_mod-lexe.md
-        - 107_nume.md
-        - 108_vis-lexe.md
-        - 109_kar-lexe.md
+        - G_ABC.md
+        - G_N.md
+        - G_ADJ.md
+        - G_ADV.md
+        - G_NUM.md
+        - G_PRO.md
+        - G_V.md
         - 110_jumle.md
-        - 111_lex-bine.md
+        - G_AFX.md
     - 'Leçons':
         - 'Phrases courantes': fraze.md
         - 'Leçons': darse.md
