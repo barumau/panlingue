@@ -1,5 +1,5 @@
 site_name: Panlingue
-site_url: https://www.pandunia.info/panlingue/epa
+site_url: https://www.pandunia.info/panlingue/spa
 repo_url: https://github.com/barumau/panlingue/
 docs_dir: ../../spa
 site_dir: ../../html/spa
@@ -11,7 +11,7 @@ nav:
     - 'Info':
         - 'Principios': filsofe.md
     - 'Lecciones':
-        - 'Ortografía': abc.md
+        - 'Ortografía': G_ABC.md
         - 'Frases básicas': fraze.md
         - 'Curso': darse.md
     - 'Diccionarios':
