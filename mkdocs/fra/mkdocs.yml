@@ -21,15 +21,15 @@ nav:
     - 'Grammaire':
         - 100_bazi_kanune.md
         - 101_dunia_lexe.md
-        - G_ABC.md
-        - G_N.md
-        - G_ADJ.md
-        - G_ADV.md
+        - G-ABC.md
+        - G-N.md
+        - G-ADJ.md
+        - G-ADV.md
         - G_NUM.md
-        - G_PRO.md
-        - G_V.md
+        - G-PRN.md
+        - G-V.md
         - 110_jumle.md
-        - G_AFX.md
+        - G-AFX.md
     - 'Leçons':
         - 'Phrases courantes': fraze.md
         - 'Leçons': darse.md

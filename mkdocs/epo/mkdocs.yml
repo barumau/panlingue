@@ -11,14 +11,14 @@ nav:
     - 'Bazaĵoj kaj strukturo de Panlingue':
         - 'Bazaj reguloj': 100_bazi_kanun.md
         - 'Tutmonda vortaro': 101_dunia_lexe.md
-        - 'Prononco': G_ABC.md
-        - 'Substantivoj': G_N.md
-        - 'Adjektivoj': G_ADJ.md
-        - 'Adverboj': G_ADV.md
+        - 'Prononco': G-ABC.md
+        - 'Substantivoj': G-N.md
+        - 'Adjektivoj': G-ADJ.md
+        - 'Adverboj': G-ADV.md
         - 'Numeraloj': G_NUM.md
-        - 'Pronomoj': G_PRO.md
-        - 'Verboj': G_V.md
-        - 'Vortfarado': G_AFX.md
+        - 'Pronomoj': G-PRN.md
+        - 'Verboj': G-V.md
+        - 'Vortfarado': G-AFX.md
     - 'Lecionoj':
         - 'Utilaj frazoj': fraze.md
     - 'Vortaroj':

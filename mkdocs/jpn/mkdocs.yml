@@ -10,15 +10,15 @@ nav:
     - 'ホームページ': 'index.md'
     - '基本': baze.md
     - '文法':
-        - G_PoS.md
-        - G_N.md
-        - G_ADJ.md
-        - G_ADV.md
+        - G-PoS.md
+        - G-N.md
+        - G-ADJ.md
+        - G-ADV.md
         - G_NUM.md
-        - G_PRO.md
-        - G_V.md
+        - G-PRN.md
+        - G-V.md
         - 110_jumle.md
-        - G_AFX.md
+        - G-AFX.md
     - 'フレーズ集': fraze.md
     - '対話形式のレッスン': darse.md
     - '辞典': panlingue-niponi.md
