@@ -9,8 +9,8 @@ theme:
 nav:
     - 'Ĉefpaĝo': 'index.md'
     - 'Bazaĵoj kaj strukturo de Panlingue':
-        - 'Bazaj reguloj': 100_bazi_kanun.md
-        - 'Tutmonda vortaro': 101_dunia_lexe.md
+        - 'Bazaj reguloj': G-baze.md
+        - 'Tutmonda vortaro': L-lexe.md
         - 'Prononco': G-ABC.md
         - 'Substantivoj': G-N.md
         - 'Adjektivoj': G-ADJ.md
@@ -25,4 +25,10 @@ nav:
         - 'Panlingue-Esperanto': panlingue-esperanti.md
         - 'Esperanto-Panlingue': esperanti-panlingue.md
         - 'Etimologia vortaro': leksaslia.md
-
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=16
+markdown_extensions:
+  - toc:
+      toc_depth: 2

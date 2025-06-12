@@ -1,6 +1,6 @@
 fata_liste_panlingue_X() {
     #panlingue unodo
-    cat panlingue-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$2	 \" - \" \$$1 \"  \"}" > $2/panlingue-$2.md
+    cat panlingue-lexe.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$2	 \" - \" \$$1 \"  \"}" > $2/panlingue-$2.md
     #morta unodi linye
     sed -i '1d' $2/panlingue-$2.md
     # alfobeta
@@ -13,7 +13,7 @@ fata_liste_panlingue_X() {
 
 fata_liste_X_panlingue() {
     #ali bax unodo
-    cat panlingue-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$$1 \" - \" \$2 \"  \"}" > $2/$2-panlingue.md
+    cat panlingue-lexe.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$$1 \" - \" \$2 \"  \"}" > $2/$2-panlingue.md
     #morta unodi linye
     sed -i '1d' $2/$2-panlingue.md
     # alfobeta
@@ -26,8 +26,8 @@ fata_liste_X_panlingue() {
 }
 
 fata_leksasli_liste() {
-#    cat panlingue-loge.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
-    cat panlingue-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$$1 \"|\" \$5 \"|\"}" > $2/leksaslia.md
+#    cat panlingue-lexe.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
+    cat panlingue-lexe.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$$1 \"|\" \$5 \"|\"}" > $2/leksaslia.md
     #morta unodi linye
     sed -i '1d' $2/leksaslia.md
     #Sort
@@ -51,7 +51,7 @@ fata_liste() {
 }
 
 fata_lekse_asle() {
-    cat panlingue-loge.tsv | cut -f 2,5 > temp/lekse.txt
+    cat panlingue-lexe.tsv | cut -f 2,5 > temp/lekse.txt
     sed -i '1d' temp/lekse.txt
     sed -i 's/\t/ ← /g' temp/lekse.txt
     awk ' { FS=" ← "; OFS=" ← "; t = $1; $1 = $2; $2 = t; print; } ' temp/lekse.txt > temp/temp.txt
@@ -226,8 +226,8 @@ tarja_logaslia_pa_esperanti() {
 }
 
 
-#dos2unix panlingue-loge.csv
-sed 's/\t/|/g' -i panlingue-loge.csv
+#dos2unix panlingue-lexe.csv
+sed 's/\t/|/g' -i panlingue-lexe.csv
 
 # engli e panlingue
 fata_liste 6 engli

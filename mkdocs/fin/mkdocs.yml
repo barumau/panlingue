@@ -13,11 +13,11 @@ plugins:
 nav:
     - Kotisivu: 'index.md'
     - 'Tietoa':
-        - 'Maailman yhteyskieli': dunia_baxe.md
-        - 'Kysymyksiä & vastauksia': 402_sual_e_javabe.md
+        - 'Maailman yhteyskieli': I-idea.md
+        - 'Kysymyksiä & vastauksia': FAQ.md
     - 'Panlinguen perusteet ja rakenne':
-        - 'Perussäännöt': 100_bazi_kanune.md
-        - 'Yleismaailmallinen sanasto': 101_dunia_lexe.md
+        - 'Perussäännöt': G-baze.md
+        - 'Yleismaailmallinen sanasto': L-lexe.md
         - 'Ääntäminen': G-ABC.md
         - 'Substantiivit': G-N.md
         - 'Adjektiivit': G-ADJ.md
@@ -28,9 +28,15 @@ nav:
         - 'Lauserakenteita': 110_jumle.md
     - 'Oppitunteja':
         - 'Lauseita': fraze.md
-        - 'Kurssi': darse.md
+        - 'Kurssi': K-kurse.md
     - 'Sanasto':
         - 'Panlingue-suomi': panlingue-suomi.md
         - 'Suomi-panlingue': suomi-panlingue.md
         - 'Alkuperäsanasto': leksaslia.md
-
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=16
+markdown_extensions:
+  - toc:
+      toc_depth: 2

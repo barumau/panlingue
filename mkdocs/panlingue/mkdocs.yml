@@ -15,10 +15,15 @@ nav:
         - 'insan du putongi hake': putong_hake.md
         - 'dini kitabe': dini_kitabe.md
     - logoliste:
-        - 'logia': logia.html
         - 'dexnam': dexonam.md
         - 'logaslia': leksaslia.md
         - 'loge du numbe': loge_du_numbe.md
     - filme: filme.md
     - linke: linke.md
-
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=16
+markdown_extensions:
+  - toc:
+      toc_depth: 2

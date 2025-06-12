@@ -12,4 +12,10 @@ nav:
         - 'Panlingue-Português': panlingue-portugali.md
         - 'Português-Panlingue': portugali-panlingue.md
         - 'Dicionario etimologico': leksaslia.md
-
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=16
+markdown_extensions:
+  - toc:
+      toc_depth: 2

@@ -14,22 +14,21 @@ max_dataje_nam() {
 }
 
 fa_dataje_liste() {
-    max_dataje_nam $1/001_indute.md
-#    max_dataje_nam $1/dunia_baxe.md
-    max_dataje_nam $1/101_bazi_kanune.md
-    max_dataje_nam $1/102_ABC.md
-    max_dataje_nam $1/103_lex-tipe.md
-    max_dataje_nam $1/104_nam-lexe.md
-    max_dataje_nam $1/105_sif-lexe.md
-    max_dataje_nam $1/106_mod-lexe.md
-    max_dataje_nam $1/107_nume.md
-    max_dataje_nam $1/108_vis-lexe.md
-    max_dataje_nam $1/109_kar-lexe.md
-    max_dataje_nam $1/110_jumle.md
-    max_dataje_nam $1/201_dunia_lexe.md
-    max_dataje_nam $1/202_lex-bine.md
-    max_dataje_nam $1/darse.md
-#    max_dataje_nam $1/404_esperanto_vs_panlingue.md
+    max_dataje_nam $1/000_dake.md
+    max_dataje_nam $1/I-idea.md
+    max_dataje_nam $1/G-baze.md
+    max_dataje_nam $1/G-ABC.md
+    max_dataje_nam $1/G-PoS.md
+    max_dataje_nam $1/G-N.md
+    max_dataje_nam $1/G-ADJ.md
+    max_dataje_nam $1/G-NUM.md
+    max_dataje_nam $1/G-PRO.md
+    max_dataje_nam $1/G-V.md
+    max_dataje_nam $1/G-PP.md
+    max_dataje_nam $1/G-P.md
+    max_dataje_nam $1/G-AFX.md
+    max_dataje_nam $1/K-kurse.md
+#    max_dataje_nam $1/I_esperanto_vs_panlingue.md
 }
 
 fa_pan_md() {
@@ -59,15 +58,22 @@ fa_niponi_dokume() {
     fa_pandoc $1 "Noto Serif CJK JP"
 }
 
+fa_chini_dokume() {
+    fa_pan_md $1
+    fa_pandoc $1 "Noto Serif CJK SC"
+}
+
 fa_europi_dokume eng
 fa_europi_dokume epo
 fa_europi_dokume fra
 fa_europi_dokume pol
 fa_europi_dokume rus
-#fa_europi_dokume spa
+fa_europi_dokume spa
 fa_europi_dokume fin
 
 fa_niponi_dokume jpn
+
+fa_chini_dokume cmn
 
 #uza di pake:
 #sudo apt install pandoc

@@ -30,3 +30,10 @@ nav:
         - 'Polski-panlingue': polski-panlingue.md
         - 'Etymologia': leksaslia.md
         - 'Wyszukaj': tiddly.html
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=16
+markdown_extensions:
+  - toc:
+      toc_depth: 2

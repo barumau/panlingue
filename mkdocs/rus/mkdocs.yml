@@ -12,9 +12,9 @@ plugins:
         lang: ru
 nav:
     - Дом: 'index.md'
-    - 'Уроки': darse.md
+    - 'Уроки': K-kurse.md
     - 'Грамматика':
-        - 100_bazi_kanune.md
+        - G_baze.md
         - G-ABC.md
         - G-N.md
         - G_NUM.md
@@ -26,3 +26,10 @@ nav:
         - 'пандуния-русский': panlingue-rusi.md
         - 'русский-пандуния': rusi-panlingue.md
         - 'этимология': leksaslia.md
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=16
+markdown_extensions:
+  - toc:
+      toc_depth: 2

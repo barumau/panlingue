@@ -13,7 +13,7 @@ extra_css:
   - stile.css
 nav:
     - 'Info':
-        - 'Introduction': dunia_baxe.md
+        - 'Introduction': I-idea.md
         - 'Principles': filsof.md
     - 'Grammar and Rules':
         - 'The basic rules': 100_bazi_kanune.md
@@ -40,4 +40,11 @@ nav:
         - History: 401_historia.md
         - 'Questions & Answers': eske_i_jawabe.md
         - 'Translate this site': tarja_netoloke.md
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=16
+markdown_extensions:
+  - toc:
+      toc_depth: 2
 

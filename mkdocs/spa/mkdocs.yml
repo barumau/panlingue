@@ -18,4 +18,11 @@ nav:
         - 'Panlingue-Español': panlingue-espani.md
         - 'Español-Panlingue': espani-panlingue.md
         - 'Diccionario etimologico': leksaslia.md
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=16
+markdown_extensions:
+  - toc:
+      toc_depth: 2
 
