@@ -499,6 +499,6 @@ byłem, byliście, będziemy..._
 
 ## Panlingue - język globalny
 
-![](http://www.pandunia.info/grafe/bandera.png "Flaga Panlingua")
+![](http://www.pandunia.info/grafe/bandera2016.png "Flaga Panlingua")
 
 

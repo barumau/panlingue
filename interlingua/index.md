@@ -1,8 +1,6 @@
 panlingue - un lingua mondial simple
 ===================================
 
-![](http://www.pandunia.info/bandir/bandir.png "Bandiera de Panlingue")
-
 ## Que es Panlingue?
 
 Panlingue es un lingua global construite. In altere parolas, illo es un lingua artificial que es designate pro servir in le communication international per tote le mundo como un supplemento a altere linguas.
@@ -16,8 +14,5 @@ Alicun characteristicas remarcabile de Panlingue:
 
 Nota: Panlingue es un lingua construite que on ancora construe. Il es possible que le structura e vocabulario del lingua cambiara ex lo que iste paginas presenta.
 
-
-## Materiales pro aprender Panlingue
-
-- [Mini-lectiones con picturas](http://www.pandunia.info/panlingue/mini_darse.html)
+![](http://www.pandunia.info/bandir/bandera2016.png "Bandiera de Panlingue")
 

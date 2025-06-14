@@ -1,5 +1,5 @@
 
-![](http://www.panlingue.info/bandir/bandir.png "bandir da panlingue")
+![](http://www.panlingue.info/bandir/bandera2016.png "bandir da panlingue")
 
 #panlingue - adali dunbax
 

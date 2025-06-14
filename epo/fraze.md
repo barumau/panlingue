@@ -23,7 +23,7 @@ Onidire, _ripetado estas la fundamento de lernado_.
 Noto: Multaj lecionoj enhavas ankaŭ helpaj kaj klarigajn notojn kiel ĉi tiu.
 Ili klarigas gramatikajn detalojn por interesatoj. Se ili ne estas utilaj al
 vi, vi povas ignori ilin. Ne necesas koni la lingvo-teorion por paroli
-pandunie.
+panlingve.
 
 ## 1a parto: Salutado
 
@@ -123,7 +123,7 @@ Mi estas Sara.
 Mi estas Tomaso.
 
 Vi povas konigi vin dirante **me**
-kaj vian nomon. Oni ne bezonas verbon por diri tion pandunie!
+kaj vian nomon. Oni ne bezonas verbon por diri tion panlingve!
 
 **me salama mame.**
 Mi salutas patrinon.
@@ -635,10 +635,10 @@ Mi parolas al vi.
 Ni parolas unu al alia.
 
 **ze loga "kato" sa ki yang sa panlingue?**
-Kiel oni diras "kato" pandunie?
+Kiel oni diras "kato" panlingve?
 
 **"kato" si ke sa panlingue?**
-Kio estas "kato" pandunie?
+Kio estas "kato" panlingve?
 
 **maw loga miaw.**
 Kato diras mjaŭ.

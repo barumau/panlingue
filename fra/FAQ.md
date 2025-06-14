@@ -19,16 +19,10 @@ Les créateurs du Panlingue ont commencé ensemble l'élaboration d'une langue e
 
 #### Que représente le drapeau Panlingue ?
 
-![](http://www.pandunia.info/bandir/bandir.png "Le drapeau Panlingue")
+![](http://www.pandunia.info/bandir/bandera2016.png "Le drapeau Panlingue")
 
-Le drapeau Panlingue représente l'égalité mondiale. On peut y distinguer une planète bleue sur fond spatial et un signe égal superposé à la terre.
-
-#### Pourquoi la mascotte de Panlingue est un ornithorynque à bec de canard ?
-
-L’ornithorynque est un animal de l’est de l’Australie.
-Ses particularités anatomiques (bec de canard, queue de castor, pieds de loutre) font de ce mammifère une créature inhabituelle, tout comme l’est le Panlingue avec un mélange de mots et de grammaires des quatre coins du globe.
-
-![](http://www.pandunia.info/grafe/batokrote_tena_bandir.png "Nôtre platypus")
+Le drapeau Panlingue représente l'égalité mondiale.
+On peut y distinguer une planète sur fond spatial.
 
 
 ## Passé, présent et futur

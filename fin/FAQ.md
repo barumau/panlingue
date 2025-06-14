@@ -30,26 +30,12 @@ vuonna 2007, mutta kieli alkoi saada lopullisen muotonsa vasta vuoden
 
 #### Mitä panlinguen lippu esittää?
 
-![](http://www.pandunia.info/bandir/bandir.png "Panlinguen lippu")
+![](http://www.pandunia.info/bandir/bandera2016.png "Panlinguen lippu")
 
-Panlinguen lippu kuvastaa yleismaailmallista tasavertaisuutta. Lipun
-tausta on tumman sininen. Ympyrä esittää _sinistä planeettaamme_ ja
-sen päälle on asetettu yhtäsuuruusmerkki valkoisella.
-
-#### Miksi panlinguen maskotti on vesinokkaeläin?
-
-Vesinokkaeläin (panlingueksi **batokrote**) on munia muniva,
-ankannokkainen, majavanhäntäinen ja saukonräpyläinnen otus, joka
-asuu Itä-Australiassa. Se on erikoinen otus ja juuri sen vuoksi se on
-sopiva maskotti panlinguelle, joka on myös erikoislaatuinen sekoitus
-eri kielten sanoista ja rakenteista idästä ja lännestä, pohjoisesta
-ja etelästä.
-
-Panlingue ei istu mihinkään perinteiseen kielikategoriaan ja myös
-siinä suhteessa se muistuttaa vesinokkaeläintä, joka myös on
-ainutlaatuinen.
-
-![](http://www.pandunia.info/grafe/batokrote_tena_bandir.png "Vesinokkaeläin")
+Panlinguen lippu kuvastaa yleismaailmallista tasavertaisuutta.
+Lipun tausta on tumman sininen.
+Ympyrä esittää planeettaamme,
+jonka kolme raitaa on väritetty maan, taivaan ja auringon väreillä.
 
 
 ## Menneisyys, nykyisyys ja tulevaisuus
