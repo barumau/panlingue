@@ -1,139 +1,51 @@
+
 # History of Panlingue
 
-## Prehistory
+## Early ideas
 
-In the year 2000, Risto Kupsala, a young student of computer engineering in Finland,
-finds out about the classical auxiliary languages,
-Esperanto, Ido, Volapük and Interlingua.
-Inspired by them, he soon creates several crude drafts of an Europe-centred constructed auxiliary language (auxlang).
-Risto joins
-[AUXLANG](https://listserv.brown.edu/cgi-bin/wa?A0=AUXLANG)
-mailing list,
-which is the only forum to discuss with other auxlangers at that time.
+Panlingue was created by Risto Kupsala from Finland.
+He came across Esperanto and soon afterwards also other auxiliary languages in the year 2000,
+when he was a young student of computer engineering.
+He got inspired by them and created several crude drafts of an Europe-centred constructed auxiliary language (auxlang).
+At first they were inspired mainly by Esperanto and Ido
+and they used similar word-class markers as the aforementioned languages.
+Risto also joined
+[AUXLANG](https://listserv.brown.edu/cgi-bin/wa?A0=AUXLANG) mailing list
+to talk with other auxlangers.
 
-In 2003, Risto publishes an auxiliary language draft called _Lone_ in his personal web pages.
-It has analytic grammar and its words are borrowed from different languages from all continents.
-In 2004 Risto drafts a quota system for selecting words from different language families.
+In 2003, Risto published a significantly different kind of auxiliary language draft called _Lone_ in his personal web pages.
+It had analytic grammar without word-class markers and its words were borrowed from diverse languages around the world.
+This draft would later evolve into **Pandunia**.
+
+In 2004 Risto created a quota system for selecting words from different language families.
 In his opinion the vocabulary of the future world language should be evenly global
 and not European or Western as in the classical auxiliary languages.
-Later this idea becomes a guiding principle for the creation of Panlingue's vocabulary.
-
-In 2005, Risto,
-Florent Garet (from France, the creator of _Luni_, an auxlang inspired by Japanese), and
-Jens Wilkinson (a USA born translator working in Japan, the creator of _Dunia Patwa_)
-start to work together for creating a multicultural world language.
-The language is called _Gaia_.
-
-In a time when electronic multilingual dictionaries were not available in the internet,
-Risto creates a new collaborative wiki called
+Later this idea becomes the guiding principle for the creation of Panlingue's vocabulary.
+In a time when electronic multilingual dictionaries were not widely available in the internet,
+Risto created a new collaborative wiki called
 [Multilingual Vocabulary Resource (Mulivo)](http://mulivo.pbworks.com)
 for finding out common words in widely spoken languages around the world.
 
-In 2006, the Gaia project is ended without completion.
-Intensive work has produced a short list of international words
-and a bunch of ideas for analytic grammar.
-Risto, Florent and Jens go their separate ways.
-Jens reforms his Dunia Patwa into _Neo Patwa_
-using some of the ideas and words from Gaia.
+## Creation of the grammar
 
-In 2007, Risto and Jens continue to work together
-in a short-lived project called _Pangaia_,
-which is an international language
-"that is especially designed to be easy to learn and easy to pronounce".
-
-## Early years
-
-In 2007, Risto publishes the first version of _Panlingue_.
-In the following years Risto develops Panlingue
-trying to make the grammar ever simpler.
-The goal is use only meaningful content words and as few structure words as possible, but it leads to syntactic chaos.
-Progress is slow because Risto is occupied by graduation, work and raising children.
-
-In 2010, Risto starts to develop an agglutinative language as a private sideproject.
-He invents the three types of verbs and their vowel endings
-(active -a, passive -u, and stative -i).
-The vowel endings are originally borrowed from Arabic verb patterns "faʕala", "faʕila" and "faʕula".
+In 2010, Risto starts to develop again an agglutinative grammar that uses vowel endings to indicate word-classes.
+At first this is a private sideproject alongside Pandunia.
+He invented the three types of verbs and their vowel endings
+(active -*a*, passive -*u*, and stative -*i*),
+as a regular solution to the problem of transitivity and intransitivity, which is irregular in Esperanto.
+The vowel endings for verbs are inspired by Arabic verb patterns *faʕala*, *faʕila* and *faʕula*.
 These ideas will find their way into Panlingue several years later.
 
-![](http://www.pandunia.info/bandir/bandera2007.gif "The 2016 flag of Panlingue")  
-Panlingue flag in 2007
+## Naming confusion
 
-Finally, in 2012, other people learn Panlingue for the first time.
-[A discussion group for Panlingue](http://www.facebook.com/groups/panlingue)
-is created in Facebook social media.
+Risto decides to apply the agglutinative grammar to Pandunia calling this version of the language confusingly **Pandunia 1**.
+(In many programming languages indexing starts from zero, so the first version was then called **Pandunia 0**!)
+He records [a short greeting video in YouTube](https://www.youtube.com/watch?v=TgO8AwX4OCU) to showcase an early version of Pandunia 1.
+This branch of Pandunia is used between [2019](https://github.com/barumau/pandunia/releases/tag/v1.0) and [2021](https://github.com/barumau/pandunia/releases/tag/v1.1)
+but later in 2021 Pandunia switched back to the original track with analytic grammar.
 
-The learning materials are translated to Russian by Arkadii Balandin,
-who later becomes an important proponent of the _Lojban_ language.
-The first translation to Esperanto is written by Maksim Solokhin.
+## Panlingue
 
-[The first YouTube video in Panlingue](https://www.youtube.com/watch?v=yfkQrdyfLcQ) is published in 2013.
-It records what Panlingue sounded like then.
-
-Risto goes through a divorce and loses his interest for auxiliary languages for a while.
-Things slow down again.
-
-## Fruition
-
-![](http://www.pandunia.info/bandir/bandera2016.png "The 2016 flag of Panlingue")  
-Panlingue flag in 2016
-
-In 2016, the Panlingue website is completely remade.
-The source text is changed to Markdown format,
-and the files are stored the Git version control system and then in GitHub, where
-[the first version](https://github.com/barumau/panlingue/commit/44f2e415bd7c2b03030fa4acd541fc01e4e50217)
-and
-[all later changes](https://github.com/barumau/panlingue/commits/master)
-can be viewed.
-This technology also enables collaboration
-because
-[everybody can contribute](https://github.com/barumau/panlingue/graphs/contributors)
-changes and improvements to the language and its documentation.
-
-A new wave of people get interested about Panlingue in late 2016 and early 2017.
-Panlingue community begins to grow slowly but surely.
-Discussion groups in Telegram instant messenger are created.
-
-In 2017, Panlingue gets some publicity
-as the _Interlinguistica Tartuensis_ journal publishes an article titled
-["Panlingue, a global contact language"](https://dea.digar.ee/cgi-bin/dea?a=d&d=JVinterlinguisticatrt201705.2.5.2.4),
-and a chapter is dedicated for Panlingue in the book "Keksittyjä kieliä" (in Finnish) by Kauko Kämäräinen.
-One year later, Panlingue is mentioned in
-["Artificial Languages" article](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-11)
-in Oxford Research Encyclopedias.
-
-Unfortunately the analytic grammar of Panlingue turns out to produce too often sentences
-that are ambiguous and/or difficult to understand.
-That's why the grammar is changed for agglutinating grammar
-that uses vowel endings to indicate word-classes.
-
-[The second YouTube video in Panlingue](https://www.youtube.com/watch?v=TgO8AwX4OCU)
-records how Panlingue sounded at that time.
-
-[Reddit discussion forum](https://www.reddit.com/r/panlingue) for Panlingue is created in 2017.
-The most important changes to the language are announced there
-because it is the only forum that everybody can read without logging in.
-
-![](http://www.pandunia.info/bandir/bandir.png "The 2018 flag of Panlingue")  
-Panlingue flag in 2018
-
-In 2019, Panlingue version 1.0 is published.
-[*](https://github.com/barumau/panlingue/commit/6be2c56a130f9ed16effc8869c869472bcbff7c4)
-However, it's not entirely satisfactory, so the work for version 2.0 is started.
-
-Alex André records a [30 day challenge to learn Panlingue](https://twitter.com/XanderLeaDaren/status/1114972322157465612).
-
-In a major change in 2020, the alphabet of Panlingue is changed from an eccentrict one
-to something that conforms more to the international standards.
-[*](https://github.com/barumau/panlingue/commit/9337bbbdb54e72f019d1738159e38427f15c1a34)
-
-
-#### Miscellaneous
-
-Creation years of the Wikipedia articles about Panlingue:
-
-- 2008 Esperanto
-- 2016 Farsi
-- 2017 Kongo, Lingala, Volapük
-- 2018 Finnish, Interlingua
-- 2019 French, Tagalog
-
+The language with agglutinating structure was renamed to **Panlingue**.
+The new name is distinctive but still bears the prefix *pan*- as a reminder of the origins of the language.
+Own [website](https://www.pandunia.info/panlingue/) and [documentation repository](https://github.com/barumau/panlingue) are created for Panlingue.

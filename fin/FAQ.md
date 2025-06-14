@@ -97,10 +97,12 @@ kielissä, mutta kokonaisuutena se on ainutlaatuinen.
 
 #### Kuinka paljon esperanto vaikutti panlinguen syntyyn?
 
-Alussa Esperanto oli tärkeä innoituksen lähde. Ilman esperantoa
-panlingueta ei olisi koskaan alettu tekemään. Mutta varsinaisessa
-lopputuloksessa esperanton vaikutus on hyvin pieni. Panlingue on aivan
-erilainen kieli niin rakenteeltaan kuin sanastoltaankin.
+Ilman esperantoa panlingueta ei olisi koskaan alettu tekemään.
+Esperanto oli tärkeä innoituksen lähde varsinkin panlinguen luomisprosessin alussa,
+mutta varsinaisessa lopputuloksessa esperanton vaikutus ei ole suuri.
+Loppujen lopuksi panlingue on aivan erilainen niin rakenteeltaan kuin sanastoltaankin kuin esperanto.
+
+Panlinguen ja esperanton eroja käsitellään luvussa [Esperanto vs. Panlingue](I-esperanto_vs_panlingue.md).
 
 
 #### Tuntevatko panlinguen tekijät apukielten historiaa?
