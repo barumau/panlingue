@@ -10,7 +10,7 @@ The file base is forked from [v1.1](https://github.com/barumau/pandunia/releases
 
 #### Locations
 
-This website is available online at http://www.kupsala.net/risto/panlingue .
+This website is available online at http://www.pandunia.info/panlingue.
 
 All pure text files are stored in a version control repository in GitHub at https://github.com/barumau/panlingue
 

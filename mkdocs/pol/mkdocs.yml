@@ -9,18 +9,18 @@ theme:
 nav:
     - Główna: 'index.md'
     - 'Info':
-        - 'Wprowadzenie': dunia_baxe.md
+        - 'Wprowadzenie': I-idea.md
         - 'Założenia': filsofe.md
     - 'Nauka':
         - 'Rozmówki': fraze.md
-        - 'Kurs': darse.md
+        - 'Kurs': K-kurse.md
     - 'Gramatyka':
-        - 100_bazi_kanune.md
+        - G-baze.md
         - G-ABC.md
         - G-N.md
         - G-ADJ.md
         - G-ADV.md
-        - G_NUM.md
+        - G-NUM.md
         - G-PRN.md
         - G-V.md
         - 110_jumle.md

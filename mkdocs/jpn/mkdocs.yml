@@ -8,13 +8,13 @@ theme:
   language: ja
 nav:
     - 'ホームページ': 'index.md'
-    - '基本': baze.md
+    - '基本': G-baze.md
     - '文法':
         - G-PoS.md
         - G-N.md
         - G-ADJ.md
         - G-ADV.md
-        - G_NUM.md
+        - G-NUM.md
         - G-PRN.md
         - G-V.md
         - 110_jumle.md

@@ -14,10 +14,10 @@ nav:
     - Дом: 'index.md'
     - 'Уроки': K-kurse.md
     - 'Грамматика':
-        - G_baze.md
+        - G-baze.md
         - G-ABC.md
         - G-N.md
-        - G_NUM.md
+        - G-NUM.md
         - G-PRN.md
         - G-V.md
         - 110_jumle.md
