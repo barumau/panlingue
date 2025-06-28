@@ -1,44 +1,18 @@
 
 # 9. Verbs
 
-## Verb types
+A verb denotes an action or an occurence, for example *to eat*, *to speak*, *to look* and *to think*.
 
-A verb denotes an action or an occurence, for example to eat, to speak, to look and to think.
+### Agent and patient roles
 
-A verb can involve an agent and a patient.
-The agent performs or "causes" an action,
-and the patient receives or "experiences" the action.
+A verb can involve an agent (abbreviated *A*) and a patient (abbreviated *P*).
+The agent is the active participant,
+which brings about an event and has control over it.
+The patient is the passive participant,
+which is affected by the event.
 
-There are three types of verbs in Panlingue:
-
-1. Agent-oriented verbs: The subject does the action in the SVO word order.
-   The the verb ends in *-a*.
-2. Patient-oriented-verbs: The subject "suffers" the action in the SVO word order.
-   The verb ends in *-u*.
-3. Stative verbs: The subject is in the state that is indicated by the verb.
-   The verb ends in *-i*.
-
-Consider the following examples:  
-*me safa.*
-– I clean. (active verb)  
-*me safa kamar.*
-– I clean a room. (active verb with an object)  
-*kamar safu.*
-– The room is cleaned. (passive verb)  
-*kamar safu me.*
-– The room is cleaned by me. (passive verb with postponed agent)  
-*kamar safi.*
-– The room is clean. (stative verb)
-
-As you can see, *-a* and *-u* indicate opposite orders of the agent and patient.
-
-
-### Agent and patient
-
-It is necessary to know the concepts of **agent** and **patient*
-in order to understand how verbs work in Panlingue.
-There is a lot of variation in the the roles of agent and patient,
-but they share at least some basic, prototypical characteristics.
+Agent and patient can mean many things,
+but prototypical agents and patients share certain characteristics.
 
 The prototypical agent
 
@@ -61,140 +35,206 @@ The prototypical patient
 
 Consider again the sentence *the player kicked the ball to the goal*.
 The ball is the patient, because it's a non-living thing, it stood still in relation to the player, it is drawn to the event by the player and it undergoes a change of place.
-Consider another sentence, *the player schored a point*.
+
+     The player  kicked  the ball.
+    └─────┬────┘└──┬───┘└────┬────┘
+        AGENT     VERB    PATIENT
+
+Consider another sentence, *the player scored a point*.
 Here the *point* is the patient, because it would not exist without the event.
 In fact, it undergoes a change of state from non-existence into existence.
 
+     The player  scored  a point.
+    └─────┬────┘└──┬───┘└────┬────┘
+        AGENT     VERB    PATIENT
 
-### Agent-oriented verbs
 
-Verbs that end in *-a* are called _agent-oriented verbs_
-because the agent comes immediately before the verb.
-Verb is the only necessary member of the clause.
-Therefore it stays put, while the agent and patient circle it as depicted in the figure below.
+## Verb types
 
-    FIGURE. Order of agent and patient in relation to A-verb.
-    
-          ┌─────────┐┌─────────┐╔══════════╗
-    (A-1) │ PATIENT ││  AGENT  │║  A-VERB  ║
-          └─────────┘└─────────┘╚══════════╝
-                     ┌─────────┐╔══════════╗┌─────────┐
-    (A-2)            │  AGENT  │║  A-VERB  ║│ PATIENT │
-                     └─────────┘╚══════════╝└─────────┘
-                                ╔══════════╗┌─────────┐┌─────────┐
-    (A-3)                       ║  A-VERB  ║│ PATIENT ││  AGENT  │
-                                ╚══════════╝└─────────┘└─────────┘
+There are two types of verbs in Panlingue.
+Their difference is that they indicate opposite orders of agent and patient.
 
-If there is a word immediately before the verb, it is the agent.
-If there is a word immediately after the verb, it is the patient.
+1. Forward verbs end in *-a*,
+   and they are immediately preceded by the agent and immediately followed by the patient.
+2. Backward verbs end in *-u*,
+   and they are immediately preceded by the patient and immediately followed by the agent.
 
-#### Order A-1: Agent, verb and patient
+Note that the verb types deal only with the word order.
+They don't have anything to do with passivity or transitivity,
+which are manifested on the clause-level.
 
-The most common word order in Panlingue is agent–verb–patient (A-2).
-It is used typically in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
+### Forward verbs (A-verbs)
 
-Examples:  
+Verbs that end in *-a* are called _forward verbs_
+because the energy that originates from the agent flows forward via the verb tow the patient.
+
+    AGENT ───> A-VERB ───> PATIENT
+
+The verb is the only necessary member of a clause.
+A minimal phrase can consist of a verb only,
+as in phrase B below.
+
+A: **te loga o auda?**
+– Do you you talk or listen?  
+B: **auda.**
+– (I) listen.
+
+Sometimes a verb is accompanied by only one participant,
+either agent or patient.
+If there is a word immediately before the A-verb, it is the agent.
+
+    ┌─────────┐ ╔══════════╗
+    │  AGENT  │→║  A-VERB  ║
+    └─────────┘ ╚══════════╝
+
+*`me loga.`*  
+ `A    V`  
+'I speak.'
+
+If there is a word immediately after the A-verb, it is the patient.
+
+    ╔══════════╗ ┌─────────┐
+    ║  A-VERB  ║→│ PATIENT │
+    ╚══════════╝ └─────────┘
+
+*`vida ye!`*  
+ ` V   P`  
+'Watch this!'
+
+There are three possible word orders when both agent and patient are present:
+agent–verb–patient (AVP),
+patient–agent–verb (PAV),
+and verb–patient–agent (VPA).
+
+The most common word order is agent–verb–patient (AVP).
+This is the direct word order
+that is normally used.
+
+         ┌─────────┐ ╔══════════╗ ┌─────────┐
+    AVP: │  AGENT  │→║  A-VERB  ║→│ PATIENT │
+         └─────────┘ ╚══════════╝ └─────────┘
+
 *me vida les.*
 – I see them.  
-*te beka pang.*
-– You bake bread.  
+*te beka ban.*
+– You bake bread.
 
-#### Order A-2: Patient, agent and verb
+The second order is patient–agent–verb (PAV).
 
-The second order is patient–agent–verb.
-Order A-1 is used when the speaker wants to draw the focus on the patient.
+          ┌─────────┐ ┌─────────┐ ╔══════════╗
+    PAV:  │ PATIENT │ │  AGENT  │→║  A-VERB  ║
+          └─────────┘ └─────────┘ ╚══════════╝
+                ↑                       │
+                └───────────────────────┘
+
+It is used when the speaker wants to draw the focus on the patient.
 It is used for fronting the question word.
 It is also common in dependent clauses.
 
 Examples:  
 *ke te vida?*
 – What do you see?  
-*me yama pang,* ***de*** *te beka.*
+*me yama ban,* ***de*** *te beka.*
 – I eat bread **that** you baked.
 
-#### Order A-3: Verb, patient and agent
 
-The third order is the verb-patient-agent, which is rarely used.
-It is only used when the speaker adds the agent as an afterthought or clarification.
+The third possible order is the verb–patient–agent order (VPA), which is rarely used.
 
-A-3  
+         ╔══════════╗ ┌─────────┐ ┌─────────┐
+    VPA: ║  A-VERB  ║→│ PATIENT │ │  AGENT  │
+         ╚══════════╝ └─────────┘ └─────────┘
+             ↑                        │
+             └────────────────────────┘
+
+This order can be use used when the speaker wants to add the agent as an afterthought or clarification.
+
 *vida te, li feme.*
 – Sees you, that woman.
 
 
-#### Minimal structure
+### Backward verbs (U-verbs)
 
-When there is only one participant, either agent or patient,
-its place is fixed either on the left or on the right of A-verb.
+Verbs that end in *-u* are called _backward verbs_,
+because the energy flows backward to the patient via the verb from the agent.
 
-    FIGURE. Order of A-verb and agent or patient.
-	
-                     ┌─────────┐╔══════════╗
-    (A-4)            │  AGENT  │║  A-VERB  ║
-                     └─────────┘╚══════════╝
-                                ╔══════════╗┌─────────┐
-    (A-5)                       ║  A-VERB  ║│ PATIENT │
-                                ╚══════════╝└─────────┘
+    PATIENT <─── U-VERB ───> AGENT
 
+The arguments of backward verbs are exactly in the opposite order compared to forward verbs.
 
-### Patient-oriented verbs
+Sometimes a verb is accompanied by only one participant,
+either agent or patient.
+If there is a word immediately before the U-verb, it is the patient.
 
-Verbs that end in *-u* are called _patient-oriented verbs_
-because the patient comes immediately before the verb.
-The agent and patient are arranged around the verb as depicted in the figure below.
+    ┌─────────┐ ╔══════════╗
+    │ PATIENT │←║  A-VERB  ║
+    └─────────┘ ╚══════════╝
 
-    FIGURE. Order of agent and patient in relation to U-verb.
-    
-          ┌─────────┐┌─────────┐╔══════════╗
-    (U-1) │  AGENT  ││ PATIENT │║  U-VERB  ║
-          └─────────┘└─────────┘╚══════════╝
-                     ┌─────────┐╔══════════╗┌─────────┐
-    (U-2)            │ PATIENT │║  U-VERB  ║│  AGENT  │
-                     └─────────┘╚══════════╝└─────────┘
-                                ╔══════════╗┌─────────┐┌─────────┐
-    (U-3)                       ║  U-VERB  ║│  AGENT  ││ PATIENT │
-                                ╚══════════╝└─────────┘└─────────┘
+*`nave mergu.`*  
+ ` P     V`  
+'Ship sank.'
 
-The arguments of patient-oriented verbs are exactly in the opposite order
-compared to agent-oriented verbs.
+If there is a word immediately after the U-verb, it is the agent.
 
-#### Order U-1: Patient, verb and agent
+    ╔══════════╗ ┌─────────┐
+    ║  A-VERB  ║←│  AGENT  │
+    ╚══════════╝ └─────────┘
+
+*`venu man.`*  
+ ` V   A`  
+'Came a man.'
+
+There are three possible word orders for U-verbs when both agent and patient are present:
+patient–verb–agent (PVA),
+agent–patient–verb (APV),
+and verb–agent–patient (VAP).
 
 The patient-verb-agent order is common in the passive voice,
 where the focus is on the passive recipient of the action.
 
-Often they can be translated to English by using the passive voice or an intransitive verb
+         ┌─────────┐ ╔══════════╗ ┌─────────┐
+    PVA: │ PATIENT │←║  U-VERB  ║←│  AGENT  │
+         └─────────┘ ╚══════════╝ └─────────┘
+
+This order is usually translated to English by using the passive voice or an intransitive verb,
 but sometimes a transitive verb can be used too.
 
 Examples:  
-*pang beku te.*
+*ban beku te.*
 – Bread is baked by you.  
 *kupe parcu.*
-– The cup got broken.  
+– The cup broke ~ got broken.  
 *rajer suku les.*
-– The king is pleased by them.
+– The king is pleased by them. ~ The king likes them.
 
-#### Order U-2: Agent, patient and verb
-
-The most common order is U-1, agent–patient–verb.
+The most common order is agent–patient–verb (APV).
 It is used typically in the active voice, where the the focus is on the agent of the action.
 
-Examples:  
-*me les vidu.* - _I them see._  
-*te pang beku.* - _You bread bake._
-
-Order U-2 is equivalent toto the subject–object–verb word order (SOV).
-SOV is the most common word order by number of languages.
+The APV order is equivalent to the subject–object–verb word order (SOV)
+that is the most common word order by number of languages.
 It is the normal word order in languages like Latin, Japanese, Korean, Turkish, Hindi and Tamil.
-SOV is followed by SVO as the second-most common order.
+SOV is followed by SVO (i.e. AVP) as the second-most common order.
 Together they account for almost 90% of the world's languages.
-The third-most common order is VSO.
-It is supported by the order U-3 in Panlingue.
 
-#### Order U-3: Verb, agent and patient
+         ┌─────────┐ ┌─────────┐ ╔══════════╗
+    APV: │  AGENT  │ │ PATIENT │←║  U-VERB  ║
+         └─────────┘ └─────────┘ ╚══════════╝
+             │                        ↑
+             └────────────────────────┘
+
+Examples:  
+*me les vidu.*
+– _I them see._  
+*te ban beku.*
+– _You bread bake._
 
 The verb–agent–patient order is very rare but possible.
-This order is similar to the VSO word order of Classical Arabic.
+This order is similar to the VSO word order of Classical Arabic and Filipino.
+
+         ╔══════════╗ ┌─────────┐ ┌─────────┐
+    VAP: ║  U-VERB  ║←│  AGENT  │ │ PATIENT │
+         ╚══════════╝ └─────────┘ └─────────┘
+             │                        ↑
+             └────────────────────────┘
 
 *vidu me te.*
 – 'I see you.'
@@ -202,7 +242,8 @@ This order is similar to the VSO word order of Classical Arabic.
 
 ### Stative verbs
 
-Verbs that end in *-i* are called _stative verbs_.
+In Panlingue, also adjectives can be used as verbs.
+When adjectives are usd in that role, they are called **adjectival verbs** or **stative verbs**.
 They are basically adjectives that describe the subject in a verb-like manner.
 The subject of a stative verb is in the state denoted by the verb root.
 Stative verbs are frequently accompanied by the verb
@@ -217,54 +258,13 @@ When it is optional, it is marked inside brackets in the following examples.
 *ti buke (sa) boni.*
 – Your book is good.
 
-Stative verbs differ from passive verbs by the fact that
+Stative verbs differ from other verbs by the fact that
 a stative verb is about being in a state
-whereas a passive verb indicates a change of state.
-In other words, a stative verb is a _passive of being_
-and a passive verb is a _passive of becoming_.
+whereas other verbs indicate a change of state.
 
 Stative verbs are always intransitive.
-They can't have an object.
+They can't take an object.
 
-
-### Comparison of the verb types
-
-The verb types are summarized in the table below
-for the normal subject–verb–object word order.
-
-| Noun           | Stative verb   | Passive verb   | Active verb    |
-|----------------|----------------|----------------|----------------|
-| *kitabe*     | *kitabi*     | *kitabu*     | *kitaba*     |
-| writing        | written        | get written    | write          |
-| *safe*       | *safi*       | *safu*       | *safa*       |
-| tidyness       | tidy, clean    | get clean      | make clean     |
-| *nove*       | *novi*       | *novu*       | *nova*       |
-| novelty        | new, novel     | get new        | make new       |
-| *yame*       | *yami*       | *yamu*       | *yama*       |
-| food           | eaten          | get eaten      | eat            |
-| *guste*      | *gusti*      | *gustu*      | *gusta*      |
-| taste          | tasty          | be tasted      | taste, try     |
-| *ame*        | *ami*        | *amu*        | *ama*        |
-| love           | beloved, dear  | be loved       | love, hold dear|
-
-| Noun           | Stative verb   | Passive verb   | Active verb    |
-|----------------|----------------|----------------|----------------|
-| *suke*       | *suki*       | *suka*       | *suku*       |
-| pleasure       | pleased        | please         | be pleased     |
-| *nide*       | *nidi*       | *nidu*       | *nida*       |
-| need           | needy          | be needed      | need           |
-| *vol*        | *voli*       | *volu*       | *vola*       |
-| want           | wanting        | be wanted      | want           |
-| *tam*        | *tami*       | *tamu*       | *tama*       |
-| greed          | greedy         | covet, hog     | make greedy    |
-| *fobe*       | *fobi*       | *fobu*       | *foba*       |
-| fear           | afraid, scared | fear           | scare          |
-| *lai*        | *layi*       | *layu*       | *laya*       |
-| arrival        |                | get reached    | arrive, reach  |
-| *fuke*       | *fuki*       | *fuku*       | *fuka*       |
-| clothing       | clothed        | be worn        | wear           |
-| *dur*        | *duri*       | *duru*       | *dura*       |
-| time, duration | lasting        | last, take time| spend, put time|
 
 
 ## Participles
@@ -397,9 +397,9 @@ I speak with friends in Panlingue by telephone.
 
 In Panlingue some verbs function like prepositions do in English.
 
-*me kata pang.*
+*me kata ban.*
 – I cut bread.  
-*me kata pang, uza chake.*
+*me kata ban, uza chake.*
 – I cut bread, use a knife. (I cut bread with a knife.)  
 
 *me denga dura dul hor.* - I wait, (it) lasts two hours. (I wait during/for two hours.)
