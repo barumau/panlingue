@@ -11,3 +11,9 @@ nav:
     - '短语集': fraze.md
     - '词典': panlingue-cini.md
     - '语源': leksaslia.md
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=16
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/+xPKbG725-8E0N2E8

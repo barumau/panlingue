@@ -27,6 +27,8 @@ extra:
   social:
     - icon: fontawesome/regular/comments
       link: https://pandunia.info/forum/viewforum.php?f=16
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/+xPKbG725-8E0N2E8
 markdown_extensions:
   - toc:
       toc_depth: 2
