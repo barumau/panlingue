@@ -3,6 +3,7 @@ site_url: https://www.pandunia.info/panlingue/cmn
 repo_url: https://github.com/barumau/panlingue/
 docs_dir: ../../cmn
 site_dir: ../../html/cmn
+use_directory_urls: false
 theme: material
 nav:
     - Home: 'index.md'

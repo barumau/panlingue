@@ -4,6 +4,7 @@ repo_url: https://github.com/barumau/panlingue/
 site_author: Risto Kupsala
 docs_dir: ../../panlingue
 site_dir: ../../html/panlingue
+use_directory_urls: false
 theme: readthedocs
 nav:
     - ABC: abc.md

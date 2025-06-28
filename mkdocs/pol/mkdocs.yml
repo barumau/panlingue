@@ -3,6 +3,7 @@ site_url: https://www.pandunia.info/panlingue/pol
 repo_url: https://github.com/barumau/panlingue/
 docs_dir: ../../pol
 site_dir: ../../html/pol
+use_directory_urls: false
 theme:
   name: material
   language: pl

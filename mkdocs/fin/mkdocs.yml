@@ -4,6 +4,7 @@ repo_url: https://github.com/barumau/panlingue/
 site_author: Risto Kupsala
 docs_dir: ../../fin
 site_dir: ../../html/fin
+use_directory_urls: false
 theme:
   name: material
   language: fi

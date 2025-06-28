@@ -3,6 +3,7 @@ site_url: https://www.pandunia.info/panlingue/spa
 repo_url: https://github.com/barumau/panlingue/
 docs_dir: ../../spa
 site_dir: ../../html/spa
+use_directory_urls: false
 theme:
     name: material
     language: es
