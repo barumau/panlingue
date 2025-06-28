@@ -31,8 +31,8 @@ nav:
         - 'Lauseita': fraze.md
         - 'Kurssi': K-kurse.md
     - 'Sanasto':
-        - 'Panlingue-suomi': panlingue-suomi.md
-        - 'Suomi-panlingue': suomi-panlingue.md
+        - 'Panlingue-suomi': panlingue-fin.md
+        - 'Suomi-panlingue': fin-panlingue.md
         - 'Alkuperäsanasto': leksaslia.md
 extra:
   social:

@@ -16,8 +16,8 @@ nav:
         - 'Frases básicas': fraze.md
         - 'Curso': K-kurse.md
     - 'Diccionarios':
-        - 'Panlingue-Español': panlingue-espani.md
-        - 'Español-Panlingue': espani-panlingue.md
+        - 'Panlingue-Español': panlingue-spa.md
+        - 'Español-Panlingue': spa-panlingue.md
         - 'Diccionario etimologico': leksaslia.md
 extra:
   social:

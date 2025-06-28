@@ -27,8 +27,8 @@ nav:
         - 110_jumle.md
         - G-AFX.md
     - 'Słownik':
-        - 'Panlingue-polski': panlingue-polski.md
-        - 'Polski-panlingue': polski-panlingue.md
+        - 'Panlingue-polski': panlingue-pol.md
+        - 'Polski-panlingue': pol-panlingue.md
         - 'Etymologia': leksaslia.md
         - 'Wyszukaj': tiddly.html
 extra:

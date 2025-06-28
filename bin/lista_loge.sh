@@ -6,7 +6,7 @@ fata_liste_panlingue_X() {
     # alfobeta
     sed -i 's/[A-Z] - .*$/####&/' $2/panlingue-$2.md
     #Add header
-    sed -i "1s/^/# panlingue-$2\n/" $2/panlingue-$2.md
+    sed -i "1s/^/# panlingue-$3\n/" $2/panlingue-$2.md
     #Delete empty translations
     sed -i '/-...$/d' $2/panlingue-$2.md
 }
@@ -20,7 +20,7 @@ fata_liste_X_panlingue() {
     cat $2/$2-panlingue.md | LC_ALL=C sort -f > temp/temp.txt
     cat temp/temp.txt | sed 's/[A-Z] - .*$/####&/' > $2/$2-panlingue.md
     #Add header
-    sed -i "1s/^/# $2-panlingue\n/" $2/$2-panlingue.md
+    sed -i "1s/^/# $3-panlingue\n/" $2/$2-panlingue.md
     #Delete empty translations
     sed -i '/^.-/d' $2/$2-panlingue.md
 }
@@ -35,7 +35,7 @@ fata_leksasli_liste() {
     #Add header row
     sed -i "1s/^/| panlingue | $2 | logasle |\n/" $2/leksaslia.md
     #Add header
-    sed -i "1s/^/# panlingue-$2 ha logasle\n/" $2/leksaslia.md
+    sed -i "1s/^/# panlingue-$3 ha logasle\n/" $2/leksaslia.md
     #Delete empty translations
     sed -i '/||/d' $2/leksaslia.md
     #xula linye 2
@@ -45,9 +45,9 @@ fata_leksasli_liste() {
 
 fata_liste() {
     echo cana logoliste pa $2
-    fata_liste_panlingue_X $1 $2
-    fata_liste_X_panlingue $1 $2
-    fata_leksasli_liste $1 $2
+    fata_liste_panlingue_X $1 $2 $3
+    fata_liste_X_panlingue $1 $2 $3
+    fata_leksasli_liste $1 $2 $3
 }
 
 fata_lekse_asle() {
@@ -230,48 +230,32 @@ tarja_logaslia_pa_esperanti() {
 sed 's/\t/|/g' -i panlingue-lexe.csv
 
 # engli e panlingue
-fata_liste 6 engli
-fata_leksasli_liste 6 engli
-tarja_logaslia_pa_engli
-
-#Tiddly dictionary
-cp engli/panlingue-engli.md temp/temp.txt
-sed 's/_//g' -i temp/temp.txt
-cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
+fata_liste 6 eng engli
+fata_leksasli_liste 6 eng engli
+#tarja_logaslia_pa_engli
 
 # esperanti e panlingue
-fata_liste 21 esperanti
-tarja_logaslia_pa_esperanti
+fata_liste 21 epo esperanti
+#tarja_logaslia_pa_esperanti
 
 # suomi e panlingue
-fata_liste 22 suomi
-tarja_logaslia_pa_suomi
+fata_liste 22 fin suomi
+#tarja_logaslia_pa_suomi
 
 # polski e panlingue
-fata_liste 23 polski
-
-# Tiddly polski e panlingue
-cp polski/panlingue-polski.md temp/temp.txt
-sed 's/_//g' -i temp/temp.txt
-cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > polski/tiddly.html
+fata_liste 23 pol polski
 
 # cini e panlingue
-fata_liste 12 cini
+fata_liste 12 cmn cini
 
 # rusi e panlingue
-fata_liste 10 rusi
+fata_liste 10 rus rusi
 
 # fransi e panlingue
-fata_liste 7 fransi
-
-#Tiddly fransi e panlingue
-cp fransi/panlingue-fransi.md temp/temp.txt
-sed 's/_//g' -i temp/temp.txt
-cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > fransi/tiddly.html
+fata_liste 7 fra fransi
 
 # espani e panlingue
-fata_liste 8 espani
+fata_liste 8 spa espani
 
 # portugali e panlingue
-fata_liste 9 portugali
-
+fata_liste 9 por portugali

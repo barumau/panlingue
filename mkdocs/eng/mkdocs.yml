@@ -32,8 +32,8 @@ nav:
         - 'Basic Phrases': fraze.md
         - 'Course': K-kurse.md
     - 'Words':
-        - 'Panlingue-English': panlingue-engli.md
-        - 'English-Panlingue': engli-panlingue.md
+        - 'Panlingue-English': panlingue-eng.md
+        - 'English-Panlingue': eng-panlingue.md
         - 'Origins of words': leksaslia.md
         - 'Search': tiddly.html
     - 'Appendix':

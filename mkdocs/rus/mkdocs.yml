@@ -23,8 +23,8 @@ nav:
         - 110_jumle.md
         - G-AFX.md
     - 'Словарь':
-        - 'пандуния-русский': panlingue-rusi.md
-        - 'русский-пандуния': rusi-panlingue.md
+        - 'пандуния-русский': panlingue-rus.md
+        - 'русский-пандуния': rus-panlingue.md
         - 'этимология': leksaslia.md
 extra:
   social:

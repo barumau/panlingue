@@ -10,8 +10,8 @@ theme:
 nav:
     - 'Ortografía': abc.md
     - 'Dicionarios':
-        - 'Panlingue-Português': panlingue-portugali.md
-        - 'Português-Panlingue': portugali-panlingue.md
+        - 'Panlingue-Português': panlingue-por.md
+        - 'Português-Panlingue': por-panlingue.md
         - 'Dicionario etimologico': leksaslia.md
 extra:
   social:

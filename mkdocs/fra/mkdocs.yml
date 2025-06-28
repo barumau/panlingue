@@ -35,8 +35,8 @@ nav:
         - 'Phrases courantes': fraze.md
         - 'Leçons': K-kurse.md
     - 'Vocabulaire':
-        - 'Panlingue → français': panlingue-fransi.md
-        - 'Français → panlingue': fransi-panlingue.md
+        - 'Panlingue → français': panlingue-fra.md
+        - 'Français → panlingue': fra-panlingue.md
         - 'Etymologie': leksaslia.md
         - 'Recherche': tiddly.html
 extra:

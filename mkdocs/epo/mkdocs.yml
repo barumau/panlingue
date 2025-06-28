@@ -23,8 +23,8 @@ nav:
     - 'Lecionoj':
         - 'Utilaj frazoj': fraze.md
     - 'Vortaroj':
-        - 'Panlingue-Esperanto': panlingue-esperanti.md
-        - 'Esperanto-Panlingue': esperanti-panlingue.md
+        - 'Panlingue-Esperanto': panlingue-epo.md
+        - 'Esperanto-Panlingue': epo-panlingue.md
         - 'Etimologia vortaro': leksaslia.md
 extra:
   social:
