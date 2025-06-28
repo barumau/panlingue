@@ -26,6 +26,8 @@ bina_pane() {
     bina_netoloke por
     bina_netoloke rus
     bina_netoloke fin
+    
+    bina_netoloke sage
 }
 
 bina_pane

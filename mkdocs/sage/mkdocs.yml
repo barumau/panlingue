@@ -1,0 +1,20 @@
+site_name: Panlingue
+site_url: https://www.pandunia.info/panlingue/sage
+site_author: Risto Kupsala
+docs_dir: ../../sage
+site_dir: ../../html/sage
+use_directory_urls: false
+theme:
+  name: material
+nav:
+    - 'Nili binde': nili_binde.md
+    - 'Idioti bufon': 'idioti_bufon.md'
+    - 'Kabuliwalah': kabulivala.md
+    - 'Xing': xing.md
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=16
+markdown_extensions:
+  - toc:
+      toc_depth: 2
