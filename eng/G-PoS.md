@@ -274,7 +274,7 @@ For example from **loga** ('to speak') we get **logi** ('spoken').
 If the idea is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
 For example, from the noun **human** ('human being'), we get the adjective **humani** ('human', having the attributes of a human being).
 
-If the root is a place word, then its adjectival form will mean "that which is from that place".
+If the root is a place word, then its adjectival form will mean 'that which is from that place'.
 
 **Rusia** Russia, **Rusi** Russian  
 **Pakistan** Pakistan, **Pakistani** Pakistani  

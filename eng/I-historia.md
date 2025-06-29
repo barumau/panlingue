@@ -48,4 +48,4 @@ but later in 2021 Pandunia switched back to the original track with analytic gra
 
 The language with agglutinating structure was renamed to **Panlingue**.
 The new name is distinctive but still bears the prefix *pan*- as a reminder of the origins of the language.
-Own [website](https://www.pandunia.info/panlingue/) and [documentation repository](https://github.com/barumau/panlingue) are created for Panlingue.
+Own [website](https://www.pandunia.info/panlingue/) and [documentation repository](https://github.com/barumau/panlingue) were created for Panlingue.
