@@ -1,5 +1,5 @@
 
-# 3. Word class markers
+# Word class markers
 
 ## Simple but powerful grammar
 
@@ -23,13 +23,15 @@ For example, consider the following sentence where root words are hidden.
 In other languages nothing could be guessed only by the last vowels of words,
 but in Panlingue they reveal the structure of the whole sentence.
 First, the word classes can be known, because they are indicated by the vowel endings.
-The first word is a noun, the next one is a verb, and the last two are an adjective and a noun.
+The first word is a noun because it ends in *-e*,
+the next one is a verb because it ends in *-a*,
+and the last two are an adjective and a noun ending in *-i* and *-e* respectively.
 Second, the constituents of the sentence and their order can be known from the word classes.
 The sentence consists of
 a subject, which is the first noun,
 a predicate, which is the verb,
-and an object, which consists of the adjective and the noun at the end.
-The word order is subject–verb–object.
+and an object, which consists of the adjective and the noun in the end.
+The word order is thus subject–verb–object.
 
         ░░░░e     ░░░░░a     ░░░░i      ░░░░e.
          │          │          │          │
@@ -94,7 +96,7 @@ You can't say simply *the child the letter writes*.
 
 Word order is free also in other cases.
 For example, adjectives can be placed before the noun or after the noun.
-In Panlingue, one can say *bace suki* or *suki bace* and the meaning is the same.
+In Panlingue, one can say *bache suki* or *suki bache* and the meaning is the same: 'a happy child'.
 In most languages one or the other order is preferred or even required.
 For example, in English the noun-last order (e.g. *a happy child*) is normal, and the opposite order (e.g. *a child happy*) would sound abnormal.
 In Spanish it's the opposite: the noun-first order (e.g. *un niño feliz*) is normal and the noun-last order (e.g. *un feliz nīno*) is abnormal.
@@ -180,59 +182,59 @@ Here are a few examples of different types of ideas.
 
 - concrete action
     - **kitabe**
-      writing, text (noun)
+      'writing, text' (noun)
     - **kitabi**
-      written, textual (adjective)
+      'written, textual' (adjective)
     - **kitabo**
-      by writing, textually (adverb)
+      'by writing, textually' (adverb)
     - **kitaba**
-      to write (active verb)
+      'to write' (active verb)
     - **kitabu**
-      to be written (passive verb)
+      'to be written' (passive verb)
 - abstract action
     - **fikre**
-      thought (noun)
+      'thought' (noun)
     - **fikri**
-      thought (adjective)
+      'thought' (adjective)
     - **fikro**
-      by thought (adverb)
+      'by thought' (adverb)
     - **fikra**
-      to think (active verb)
+      'to think' (active verb)
     - **fikru**
-      to be thought (passive verb)
+      'to be thought' (passive verb)
 - description
     - **longe**
-      length (noun)
+      'length' (noun)
     - **longi**
-      long, lengthy (adjective)
+      'long, lengthy' (adjective)
     - **longo**
-      lengthily (adverb)
+      'lengthily' (adverb)
     - **longa**
-      to make long, lengthen (active verb)
+      'to make long, lengthen' (active verb)
     - **longu**
-      to get long, be lengthened (passive verb)
+      'to get long, be lengthened' (passive verb)
 - emotion
     - **suke**
-      delight (noun)
+      'delight' (noun)
     - **suki**
-      delighted, happy (adjective)
+      'delighted, happy' (adjective)
     - **suko**
-      happily (adverb)
+      'happily' (adverb)
     - **suka**
-      to delight, please (active verb)
+      'to delight, please' (active verb)
     - **suku**
-      to be delighted, be pleased (passive verb)
+      'to be delighted, be pleased' (passive verb)
 - tool
     - **hamar**
-      a hammer (noun)
+      'a hammer' (noun)
     - **hamari**
-      hammerlike (adjective)
+      'hammerlike' (adjective)
     - **hamaro**
-      by/with/like a hammer
+      'by/with/like a hammer'
     - **hamara**
-      to hammer, to use hammer on sth (active verb)
+      'to hammer, to use hammer on sth' (active verb)
     - **hamaru**
-      to be hammered (passive verb)
+      'to be hammered' (passive verb)
 
 
 ### Deriving verbs
@@ -240,11 +242,11 @@ Here are a few examples of different types of ideas.
 **-a** and **-u** are the endings for verbs.
 
 1. If the stem's idea is an action, then its verb form will mean "to do the action".
-   For example from **vide** (_a look_) we get **vida** (_to look_).
+   For example from **vide** ('a look') we get **vida** ('to look').
 2. If the idea is a description then its verb form will mean "to turn into that quality".
-   For example from **nevi** (_new_) we get **neva** (_to make new_ or _to renew_).
+   For example from **nevi** ('new') we get **neva** ('to make new' or 'to renew').
 3. If the idea is a thing, then its verb form will mean "to apply it to".
-   For example from **hamar** (_hammer_) we get **hamara** (_to hammer_).
+   For example from **hamar** ('hammer') we get **hamara** ('to hammer').
 
 
 ### Deriving nouns
@@ -252,10 +254,10 @@ Here are a few examples of different types of ideas.
 **-e** is the ending for nouns.
 
 If the stem's idea is an action, then its noun form will mean the result or the product of the action.
-For example from **kitaba** (_to write_) we get **kitabe** (_writing_ or _text_).
+For example from **kitaba** ('to write') we get **kitabe** ('writing' or 'text').
 
 If the idea is a description, then its noun form will mean a concrete instance of that quality.
-For example from **nevi** (_new_) we get **neve** (_a novelty_ i.e. something new).
+For example from **nevi** ('new') we get **neve** ('a novelty' i.e. something new).
 
 Additional noun suffixes are presented below.
 
@@ -264,13 +266,13 @@ Additional noun suffixes are presented below.
 **-i** is the ending for adjectives and adjectival verbs.
 
 If the stem's idea is a description, then its adjectival form will mean "that which is in the state of the root".
-For example from **nev-** (_newness_), we get **nevi** (_new_ i.e. _that which is new_).
+For example from **nev-** ('newness'), we get **nevi** ('new' i.e. 'that which is new').
 
 If the idea is an action, then its adjectival form will mean the state that is produced by the action.
-For example from **loga** (_to speak_) we get **logi** (_spoken_).
+For example from **loga** ('to speak') we get **logi** ('spoken').
 
 If the idea is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
-For example, from the noun **human** (_human being_), we get the adjective **humani** (_human_, having the attributes of a human being).
+For example, from the noun **human** ('human being'), we get the adjective **humani** ('human', having the attributes of a human being).
 
 If the root is a place word, then its adjectival form will mean "that which is from that place".
 
@@ -279,62 +281,3 @@ If the root is a place word, then its adjectival form will mean "that which is f
 **Amerike** America, **Ameriki** American  
 **Europe** Europe, **Europi** European  
 **Asia** Asia, **Asi** Asian
-
-
-## Panlingue without endings
-
-It's possible to speak Panlingue also without the word-class markers.
-The purpose of endingless Panlingue is to reach out to people,
-who speak languages that don't have any inflections.
-This type of languages includes Chinese, Vietnamese, Thai and Yoruba.
-They tend to use structure words and syntactical constructions instead of inflections to indicate grammatical relationships.
-Endingless Panlingue imitates inflectionless languages within the rules and structure of normal, endingful Panlingue.
-In consequence, endingless Panlingue is easy to understand when you know the transformation rules from inflected Panlingue to uninflected Panlingue.
-
-Inflectionless Panlingue is held together by a group of structure words that retain their word-class markers.
-The structure words include personal pronouns, possessive pronouns, demonstrative pronouns, the negative adverb *no* and the affirmative modal verb *ya*.
-These structure words can be used more frequently than in marked Panlingue to compensate the lack of other structural cues.
-
-Let's look at an example to better understand the differences and similarities between these variants of Panlingue.
-In the following example, sentence (1) is in normal Panlingue that uses word-class endings across the board
-and sentence (2) is in endingless Panlingue.
-Both sentences are followed by the pattern of structural cues that matches the sentence.
-Word roots are hidden in the pattern just like we did in chapter 1.
-
-	(1) Endingful Panlingue
-	Sentence:           feme vola vida si doste.
-    Structural markers: ░░░e ░░░a ░░░a ░i ░░░░e.
-	
-	(2) Endingless Panlingue
-	Sentence:           li fem ya vol vid si dost.
-    Structural markers: li ░░░ ya ░░░ ░░░ si ░░░░.
-
-In endingful Panlingue the structural markers are the word-class endings that are part of every word, including both structure words and content words alike.
-The situation is quite different in endingless Panlingue.
-There content words don't bear any structural markers,
-so for example *vida* that bears the verb ending *-a* in the endingful Panlingue becomes *vid* in endingless Panlingue.
-To compensate the loss of word-class markers, endingless Panlingue uses structure words to mark the clause structure.
-In sentence (2) these markers are *li* and *si*, which marks the beginning of noun phrases,
-and *ya*, which marks the beginning of verb phrase.
-
-However, a few structure words is not enough to structure a sentence.
-There also has to be some implicit word order rules that define the position and order of clause constituents.
-The rule that governs example (2) states that
-when there are two noun phrase constituents, one in the beginning and one in the end of the clause,
-the first one is the agent, the last one is the patient, and the words between them constitute a transitive verb phrase.
-In other words, the verbs between the participants are treated as if they would end in *-a*.
-The word order is relatively fixed in endingless Panlingue.
-One can't simply change *-a* to *-u*,
-so for example the passive voice has to be expressed in a different, more wordy way.
-
-The structure words are in bold in the following examples in order to show how they mark the boundaries between sentence constituents.
-In addition, the examples are followed by the same sentence in markerful Panlingue in parentheses to facilitate comparison and comprehension.
-
-***li*** *fem* ***ya*** *vol vid* ***si*** *dost.*
-– The woman wants to see her friend.  
-*(li feme ya vola vida si doste.)*
-
-Conversion from endingful to endingless Panlingue is regular.
-It follows well-defined rules.
-Therefore endingless Panlingue is compatible with endingful Panlingue.
-The endingless language variety offers yet another way to approach the international language.

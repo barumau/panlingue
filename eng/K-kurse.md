@@ -322,7 +322,7 @@ for making polite requests.
 = Please give me some tea.  
 **cinga yama cai.**
 = Please have some tea.  
-**cinga safa kamar.**
+**cinga safa kamre.**
 = Please clean the room.
 
 Commands are introduced with **amira** = to command. They employ the
@@ -330,7 +330,7 @@ same pivot structure as requests with **cinga**.
 
 **amira dona cai.**
 = Give (me) some tea!  
-**amira safa kamar.**
+**amira safa kamre.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and
@@ -365,7 +365,7 @@ thanks
 and  
 **kafe**
 coffee  
-**kamar**
+**kamre**
 room  
 **amira**
 to order, to command  
@@ -384,7 +384,7 @@ to eat or drink
 1. le yama cai.
 2. xef cinga le sida.
 3. cinga yama kafe o cai.
-4. mam cinga me safa kamar.
+4. mam cinga me safa kamre.
 5. xef sida e yama kafe.
 
 
@@ -459,7 +459,7 @@ Of course common and proper nouns can also be used.
 
 **suala xef yama kafe?**
 = Does the chief drink coffee?  
-**suala pape safa kamar?**
+**suala pape safa kamre?**
 = Does the father clean the room?  
 **suala niki baxa panlingue?**
 = Does Nicky speak Panlingue?
@@ -566,11 +566,11 @@ In Panlingue the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**me cinga te safa kamar.**
+**me cinga te safa kamre.**
 = I ask you to clean the room.  
-**me no cinga te safa kamar.**
+**me no cinga te safa kamre.**
 = I do NOT ask you to clean the room.  
-**me cinga te no safa kamar.**
+**me cinga te no safa kamre.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -621,7 +621,7 @@ but.
 
 ### Answers to the Exercises
 
-1. le no safa kamar.
+1. le no safa kamre.
 2. un kupe no kali.
 3. duli vaf no yama supe.
 4. le no tena vaf e mau. / le tena no vaf e no mau.
@@ -790,7 +790,7 @@ time expression is present, other markers are not needed.
 
 **me jenu va nen 2003.**
 = I was born in 2003.  
-**le safa kamar va badi den.**
+**le safa kamre va badi den.**
 = He will clean the room tomorrow.
 
 
@@ -819,7 +819,7 @@ Try translating these sentences from English to Panlingue.
 1. mi xef festa va vile.
 2. me tena duli vaf va pase.
 3. te yama supe zay.
-4. le safa kamar va predi den.
+4. le safa kamre va predi den.
 5. mau yama kafe va badi den.
 6. ti mam festa va predi noce.
 

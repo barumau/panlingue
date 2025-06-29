@@ -836,11 +836,11 @@ Different scopes of negation may result depending on the location of the negativ
 **me vida no te a lole.**
 – I see, not you, but them.
 
-**me cinga te safa kamar.**
+**me cinga te safa kamre.**
 – I ask you to clean the room.  
-**me no cinga te safa kamar.**
+**me no cinga te safa kamre.**
 – I do NOT ask you to clean the room.  
-**me cinga te no safa kamar.**
+**me cinga te no safa kamre.**
 – I ask you NOT to clean the room.
 
 Words
