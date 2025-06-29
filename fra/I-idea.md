@@ -384,7 +384,7 @@ Il n'y a pas de terminaison au pluriel comme -s en anglais ou en français et le
 
 ## Le Panlingue - Une langue mondiale
 
-![](http://www.pandunia.info/grafe/bandera2016.png "Panlingue flag")
+![](http://www.pandunia.info/bandir/bandera2016.png "Panlingue flag")
 
 
 Mis à jour le 27 mars 2020.

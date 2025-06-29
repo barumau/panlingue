@@ -217,6 +217,6 @@ Panlinguessa ja kiinassa sama substantiivimuoto käy sekä yksikössä että mon
 
 ## Panlingue - koko maailman kieli
 
-![](http://www.pandunia.info/bander/bander.png "Panlinguen lippu")
+![](http://www.pandunia.info/bandir/bandera2016.png "Panlinguen lippu")
 
 
