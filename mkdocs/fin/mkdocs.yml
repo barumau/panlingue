@@ -26,9 +26,9 @@ nav:
         - 'Numeraalit': G-NUM.md
         - 'Pronominit': G-PRN.md
         - 'Verbit': G-V.md
-        - 'Lauserakenteita': 110_jumle.md
+        - 'Lauserakenteita': G-jumle.md
     - 'Oppitunteja':
-        - 'Lauseita': fraze.md
+        - 'Lauseita': K-fraze.md
         - 'Kurssi': K-kurse.md
     - 'Sanasto':
         - 'Panlingue-suomi': panlingue-fin.md

@@ -10,10 +10,10 @@ theme:
 nav:
     - Inicio: 'index.md'
     - 'Info':
-        - 'Principios': filsofe.md
+        - 'Principios': I-filosofia.md
     - 'Lecciones':
         - 'Ortografía': G-ABC.md
-        - 'Frases básicas': fraze.md
+        - 'Frases básicas': K-fraze.md
         - 'Curso': K-kurse.md
     - 'Diccionarios':
         - 'Panlingue-Español': panlingue-spa.md

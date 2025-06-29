@@ -816,7 +816,7 @@ I'm at home.
 **le ya ke?**
 Where is he/she?
 
-**le sida ya kamar.**
+**le sida ya kamre.**
 He/she sits in the room.
 
 Tip! You can use **ya** as a preposition or alone as the verb.
@@ -968,7 +968,7 @@ I want to take a car for rent.
 **me vola kirokapa un gare.**
 I want to rent a car.
 
-**le kirodona kamar va safarer.**
+**le kirodona kamre va safarer.**
 He/she rents rooms to travelers.
 
 

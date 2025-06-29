@@ -18,9 +18,9 @@ nav:
         - G-NUM.md
         - G-PRN.md
         - G-V.md
-        - 110_jumle.md
+        - G-jumle.md
         - G-AFX.md
-    - 'フレーズ集': fraze.md
+    - 'フレーズ集': K-fraze.md
     - '対話形式のレッスン': K-kurse.md
     - '辞典': panlingue-jpn.md
 extra:

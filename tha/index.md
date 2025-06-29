@@ -17,7 +17,7 @@
 
 - [บทเรียนผ่านทางรูปภาพ](http://www.pandunia.info/panlingue/mini_darse.html)
 - [การออกเสียง](abc.md)
-- [รวบประโยค](fraze.md)
+- [รวบประโยค](K-fraze.md)
 - [ไวยากรณ์](kanun.md)
 
 - [พจนานุกรมที่มาของคำ](leksaslia.md)

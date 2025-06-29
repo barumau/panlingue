@@ -43,7 +43,7 @@ Lorsque vous commencez à traduire pour une nouvelle langue, commencez à partir
     * N'inclure dans cette page que les liens dont les pages existent et/ou sont prêtes.
 * abc.md
     * Cette page explique comment prononcer le Panlingue
-* fraze.md
+* K-fraze.md
     * Cette page présente les mots de base, les phrases et les structures grammaticales.
 * kanun.md
     * C'est la page de la grammaire

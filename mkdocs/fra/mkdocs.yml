@@ -16,7 +16,7 @@ nav:
     - Accueil: 'index.md'
     - 'Info':
         - 'Présentation': I-idea.md
-        - 'Principes de fonctionnement': filsofe.md
+        - 'Principes de fonctionnement': I-filosofia.md
         - 'Questions et réponses': FAQ.md
         - 'Traduire ce site': tarja_netoloke.md
     - 'Grammaire':
@@ -29,10 +29,10 @@ nav:
         - G-NUM.md
         - G-PRN.md
         - G-V.md
-        - 110_jumle.md
+        - G-jumle.md
         - G-AFX.md
     - 'Leçons':
-        - 'Phrases courantes': fraze.md
+        - 'Phrases courantes': K-fraze.md
         - 'Leçons': K-kurse.md
     - 'Vocabulaire':
         - 'Panlingue → français': panlingue-fra.md

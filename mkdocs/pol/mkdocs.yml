@@ -11,9 +11,9 @@ nav:
     - Główna: 'index.md'
     - 'Info':
         - 'Wprowadzenie': I-idea.md
-        - 'Założenia': filsofe.md
+        - 'Założenia': I-filosofia.md
     - 'Nauka':
-        - 'Rozmówki': fraze.md
+        - 'Rozmówki': K-fraze.md
         - 'Kurs': K-kurse.md
     - 'Gramatyka':
         - G-baze.md
@@ -24,7 +24,7 @@ nav:
         - G-NUM.md
         - G-PRN.md
         - G-V.md
-        - 110_jumle.md
+        - G-jumle.md
         - G-AFX.md
     - 'Słownik':
         - 'Panlingue-polski': panlingue-pol.md

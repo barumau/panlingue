@@ -380,5 +380,5 @@ health and well-being.
 So the meaning of **salam** is greater than the meaning of peace. It
 means well-being in general and you can use it as a general
 expression for well-wishing in all kinds of situations, not just when
-you meet somebody. See the first lesson in the [phrasebook](fraze.md)
+you meet somebody. See the first lesson in the [phrasebook](K-fraze.md)
 for a lot of examples!

@@ -51,7 +51,7 @@ When you begin translating for a new language, start from these files.
     * Include here links only to pages that are existing and/or ready.
 * abc.md
     * This page explains how to pronounce Panlingue
-* fraze.md
+* K-fraze.md
     * This page introduces basic words, sentences and grammatical structures
 * kanun.md
     * This is the grammar page

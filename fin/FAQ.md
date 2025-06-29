@@ -184,6 +184,6 @@ Näin ollen sanan **salam** merkitys on laajempi kuin vain rauha ja
 tervehdyksenä se tarkoittaa muutakin kuin tulemista rauhan aikein. **Salam**
 tarkoittaa hyvinvointia yleensä ja sitä käytetään toivottamaan toisille hyvää
 kaikissa tilanteissa kuten tavatessa, onnitellessa ja toivottaessa hyvää
-matkaa. Esimerkkejä löydät [tulkkisanakirjan](fraze.md) ensimmäisestä luvusta!
+matkaa. Esimerkkejä löydät [tulkkisanakirjan](K-fraze.md) ensimmäisestä luvusta!
 
 

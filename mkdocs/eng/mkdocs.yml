@@ -27,10 +27,10 @@ nav:
         - 'Pronouns': G-PRN.md
         - 'Verbs': G-V.md
         - 'Prepositions': G-PP.md
-        - 'Sentences': 110_jumle.md
+        - 'Sentences': G-jumle.md
         - 'Word building': G-AFX.md
     - 'Lessons':
-        - 'Basic Phrases': fraze.md
+        - 'Basic Phrases': K-fraze.md
         - 'Course': K-kurse.md
     - 'Words':
         - 'Panlingue-English': panlingue-eng.md
