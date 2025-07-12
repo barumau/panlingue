@@ -16,7 +16,7 @@ Panlingue is written in the basic Latin alphabet – the same as English!
 It doesn't have any of the accented letters, which are different from language to language.
 So it can be typed, printed and used with computers and smart devices in most countries without any difficulty.
 
-> A B Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
+> A B C D E F G H I J K L M N O P R S T U V X Y Z
 
 ## Note on phonetic notation
 
@@ -38,19 +38,21 @@ Panlingue has its own sound system and its own spelling system
 that are mostly similar to those of the languages of continental Europe and Latin America.
 
 The complete speech sound inventory of Panlingue is presented in the table below.
+Pronunciation of only those letters is specified whose pronunciation differs from the corresponding International Phonetic Alphabet symbol.
 
-|                    | Labial | Alveolar | Palatal | Velar   | Glottal |
-|:-------------------|:-------:|:-------:|:-------:|:-------:|:-------:|
-| **Stops**          | b p     | t d     | ch j    | k g     |         |
-| **Fricatives**     | f       | s z     | sh      |         | h       |
-| **Nasals**         | m       | n       |         | ng      |         |
-| **Lateral**        |         | l       |         |         |         |
-| **Trill**          |         | r       |         |         |         |
-| **Semivowels**     | v       |         | y       |         |         |
-| **High vowels**    | u       |         | i       |         |         |
-| **Mid vowels**     | o       | -       | e       |         |         |
-| **Low vowels**     |         | a       |         |         |         |
-|                    |**Back**|**Central**|**Front**|        |         |
+|                    | Labial        | Alveolar     | Palatal        | Velar     | Glottal   |
+|:-------------------|:-------------:|:------------:|:--------------:|:---------:|:---------:|
+| **Stops**          | b p           | t d          |                | k g       |           |
+| **Affricates**     |               | c [ts]       | ch [tʃ] j [dʒ] | x [ks]    |           |
+| **Fricatives**     | f             | s z          | sh [ʃ]         |           | h         |
+| **Nasals**         | m             | n            |                | ng [ŋ]    |           |
+| **Lateral**        |               | l            |                |           |           |
+| **Trill**          |               | r            |                |           |           |
+| **Semivowels**     | v [w]         |              | y [j]          |           |           |
+| **High vowels**    | u             |              | i              |           |           |
+| **Mid vowels**     | o             | -            | e              |           |           |
+| **Low vowels**     |               | a            |                |           |           |
+|                    | **Back**      |**Central**   |**Front**       |           |           |
 
 ### Vowels
 
@@ -72,20 +74,6 @@ as well as pronunciation advice in plain English.
   *O* is pronounced as in *or*.
 - **u** = [u]  
   *U* is pronounced as in *rule*.
-- **-** = [ə]
-  The mid central vowel sound [ə] is pronounced as the *a* in *about* /əbaut/.
-  It is present between the elements of compound words,
-  where it is represented by the hyphen in writing, f.ex.
-  *dem-kratia* /deməkratia/
-  'democracy' and
-  *post-karte* /postəkarte/
-  'postcard'.
-  It is present also at the end of words
-  that end in a non-sonorant consonant or a consonant cluster, f.ex.
-  *log* /logə/
-  'talk' and
-  *kart* /kartə/
-  'card'.
 
 There are also several common vowel sequences
 – au, eu, ou, ai, ei, oi –
@@ -130,6 +118,8 @@ If alternative pronunciations are possible,
 they are joined with the tilde (~).
 
 - **b** = [b]
+- **c** = [ts]  
+  Like *ts* in *bits*.
 - **ch** = [tʃ]  
   *Ch* is pronounced always like *ch* in *chat*, never as in *chateau* or *choir*.
 - **d** = [d]
@@ -175,8 +165,6 @@ There are also additional letters and letter-combinations, which can be used onl
 which do not belong to the ordinary vocabulary of Panlingue, like names of places and people.
 They are not used in any common Panlingue words.
 
-- **c** = [ts]  
-  Like *ts* in *bits*.
 - **kh** = [x]  
   Voiceless velar fricative, like *ch* in *Loch* in Scottish.
 - **gh** = [ɣ]  
@@ -338,8 +326,8 @@ One may
 (2) insert one space before and after the punctuation mark.
 This practice helps to separate sentences more clearly.
 
-    (1) sal!  tu hau, he?  mi vol ga to kafekan.  tu vol lai kon mi, he?
-    (2) sal ! tu hau, he ? mi vol ga to kafekan . tu vol lai kon mi, he ?
+    (1) salam!  te sa boni, he?  me vola ga pa kafekan.  te vola laya kon me, he?
+    (2) salam ! te sa boni, he ? me vola ga pa kafekan . te vola laya kon me, he ?
 
 In informal texts, smileys, emoticons and emojis may be used like punctuation marks to end sentences
 but in addition they indicate the mood of the speaker.
