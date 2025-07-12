@@ -14,14 +14,15 @@ and the roots that come before it only modify its meaning.
 
 Compound words are made of bare word stems and a vowel ending.
 
-For example, this is how the word **andevisti** (atheistic) is made:
+For example, this is how the word **inexplikabli** ('inexplicable, unexplainable') is made:
 
-           an       (negation)
-       +  dev       (god)
-       +  ist       (proponent, -ist)
+           in       ('not')
+       +   ex       ('out')
+       + plik       ('fold')
+       +  abl       ('able')
        +    i       (adjective ending)
     _____________
-    = andevisti     (atheistic)
+    = inexplikabli  ('inexplicable')
 
 If joining bare stems together would result into a difficult consonant sequence,
 a padding vowel **-o-** is inserted between them.
@@ -32,7 +33,7 @@ For example, this is how **termometer** (_thermometer_) is made:
          term       (temperature)
        +    o       (padding vowel)
        + metr       (measuring)
-       +   er       (device)
+       +   er       (agent)
     _____________
     = termometrer    (thermometer)
 
@@ -164,19 +165,19 @@ It indicates motion or transformation into something when it is prefixed to word
 'encircle, surround'
 
 
-#### ex- ~ exo-
+#### ex- ~ exo- ~ e-
 
 The prefix
 **ex-**
 means that the action is directed outside from something.
 
-**sepa**
+**cepta**
 'take, catch'
-→ **exsepa**
+→ **ecepta**
 'take out, except'  
 **jeta**
 'thrust'
-→ **exjeta**
+→ **ejeta**
 'thrust out, eject'
 
 #### in- ~ im-
@@ -640,11 +641,12 @@ means 'chemical element'.
 The suffix
 **-ivi**
 means someone who tends to do what the base word says.
-**ate**
+
+**ata**
 'act, perform'
 → **ativi**
 'active, inclined to act'  
-**exploz**
+**exploza**
 'explode'
 → **explozivi**
 'explosive'  
