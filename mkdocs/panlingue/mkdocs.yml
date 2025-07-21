@@ -5,7 +5,12 @@ site_author: Risto Kupsala
 docs_dir: ../../panlingue
 site_dir: ../../html/panlingue
 use_directory_urls: false
-theme: readthedocs
+theme:
+  name: material
+  palette:
+    primary: green
+extra_css:
+  - stile.css
 nav:
     - ABC: abc.md
     - sage:

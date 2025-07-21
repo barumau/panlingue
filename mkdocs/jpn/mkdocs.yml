@@ -7,6 +7,8 @@ use_directory_urls: false
 theme:
   name: material
   language: ja
+  palette:
+    primary: green
 nav:
     - 'ホームページ': 'index.md'
     - '基本': G-baze.md

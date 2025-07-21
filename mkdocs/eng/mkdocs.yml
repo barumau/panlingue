@@ -9,6 +9,8 @@ theme:
   name: material
   font:
     code: Ubuntu mono
+  palette:
+    primary: green
 extra_css:
   - stile.css
 nav:

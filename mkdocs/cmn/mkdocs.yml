@@ -4,7 +4,10 @@ repo_url: https://github.com/barumau/panlingue/
 docs_dir: ../../cmn
 site_dir: ../../html/cmn
 use_directory_urls: false
-theme: material
+theme:
+  name: material
+  palette:
+    primary: green
 nav:
     - Home: 'index.md'
     - '字母表': G-ABC.md

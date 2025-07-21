@@ -6,6 +6,10 @@ site_dir: ../../html/sage
 use_directory_urls: false
 theme:
   name: material
+  palette:
+    primary: green
+extra_css:
+  - stile.css
 nav:
     - 'Nili binde': nili_binde.md
     - 'Idioti bufon': 'idioti_bufon.md'

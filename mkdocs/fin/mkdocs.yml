@@ -8,6 +8,10 @@ use_directory_urls: false
 theme:
   name: material
   language: fi
+  palette:
+    primary: green
+extra_css:
+  - stile.css
 plugins:
     - search:
         lang: fi

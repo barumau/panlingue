@@ -7,6 +7,10 @@ use_directory_urls: false
 theme:
   name: material
   language: pl
+  palette:
+    primary: green
+extra_css:
+  - stile.css
 nav:
     - Główna: 'index.md'
     - 'Info':
