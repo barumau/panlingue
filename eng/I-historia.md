@@ -44,6 +44,18 @@ He records [a short greeting video in YouTube](https://www.youtube.com/watch?v=T
 This branch of Pandunia is used between [2019](https://github.com/barumau/pandunia/releases/tag/v1.0) and [2021](https://github.com/barumau/pandunia/releases/tag/v1.1)
 but later in 2021 Pandunia switched back to the original track with analytic grammar.
 
+    Figure. The tree of evolution of Panlingue and its sibling languages.
+    
+        ┌───────────┐  ┌───────────┐  ┌───────────┐
+        │ Panlingue │  │ Pandunia  │  │  Panglo   │
+        └─────┬─────┘  └─────┬─────┘  └─────┬─────┘
+              │1             │2             │3
+              │              ├──────────────┘
+              └──────────────┤
+                             │
+                             │0
+      ───────────────────────┴───────────────────────
+
 ## Panlingue
 
 The language with agglutinating structure was renamed to **Panlingue**.
