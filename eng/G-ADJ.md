@@ -1,5 +1,5 @@
 
-# 5. Adjectives
+# Adjectives
 
 A modifier is a word that adds some quality or description to another word,
 for example good, bad, big, and fast.

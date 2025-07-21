@@ -6,12 +6,14 @@ En Esperanto, normalaj radikoj povas esti a/e-bazaj, o-bazaj kaj i-bazaj. (Tiu i
 
 > log**a** - dir**i**  
 > log**u** - esti dirata (de) / dir**iĝi**  
-> log**i** - dir**a** / dir**e**  
-> log**e** aŭ log - dir**o** / vorto (log estas baze substantivo)  
+> log**i** - dir**a**  
+> log**o** - dir**e**  
+> log**e** - dir**o** / vorto
 
 > nova - novigi  
-> novu - esti novigita (de) / noviĝi  
-> novi aŭ nov - nova / nove (nov estas baze modifilo)  
+> novu - esti novigita (de) ~ noviĝi  
+> novi - nova  
+> novo - nove
 > nove - novo / novaĵo  
 
 ## Ŝanĝi la vortotipon
@@ -19,19 +21,18 @@ En Esperanto, normalaj radikoj povas esti a/e-bazaj, o-bazaj kaj i-bazaj. (Tiu i
 Oni povas ŝanĝi la finaĵon por krei pliajn facilajn vortojn. Tio similas al Esperanto, kun kelkaj diferencoj:
 
 - Kiam modifilo-baza vorto iĝas verbo, la signifo estas igi kiel la modifilo.
-> now(i) - nova / nove  
+> novi - nova 
 > nova - nov**igi** (pensi ke ĉiuj verboj estas transitivaj helpas memori)  
-> si now(i) - novi = esti nova / esti nove  
+> sa now(i) - novi = esti nova ~ esti nove  
 
 - Kiam verbo-baza vorto iĝas substantivo, la signifo estas la produktaĵo de la ago.
 > kitaba - skribi  
 > kitabe - skrib**aĵo**   
-> kitabe fata - skribo / skribado  
+> kitabion - skribo ~ skribado  
 
 - Kiam verbo-baza vorto iĝas modifilo, la signifo estas la rezulto de la ago.
 > kitaba - skribi  
-> kitabi - skrib**ita** / skribata  
-> sa kitabe - per skribaĵo = skriba  
+> kitabi - skrib**ita** ~ skribata  
 
 ## Sufiksoj
 
@@ -57,7 +58,7 @@ morta - mortigi ; morter - mortiganto
 **indonesia** Indonezio  
 **italia** Italio  
 
-**nowi** - nova; **nowia** - noveco  
+**novi** - nova; **novia** - noveco  
 **huri** - libera; **huria** libereco
 
 Post -er, -ia signifas verkejo.
@@ -71,9 +72,4 @@ Post -er, -ia signifas verkejo.
 **niama** - manĝi; **nyamisa** - manĝigi  
 **jana** - koni/scii; **janisa** - konigi/sciigi  
 
-#### -ul-
-
-liga - ligi ; lig**ul**a - **mal**ligi  
-suku - ŝati ; suk**ul**u - malŝati  
-bon(i) - bona ; bon**ul**(i) - malbona
 

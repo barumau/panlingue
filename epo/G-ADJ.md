@@ -1,58 +1,59 @@
-## 3. Modifovortoj
+
+# Adjektivoj
 
 _Modifovorto_ estas vorto, kiu priskribas econ de alia vorto.
 Panlinguej modifovortoj rolas kiel adjektivoj kaj adverboj en Esperanto.
 En panlingvo, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 
-### 3.1. Modifante substantivon
+## Modifante substantivon
 
-**nowi kar**
+*novi gar*
 – nova aŭto 
-**rapi kar**
+*rapi gar*
 – rapida aŭto  
-**day meze**
+*day meze*
 – granda tablo  
-**gaw meze**
+*gavi meze*
 – alta tablo  
-**bon kurse**
+*bon kurse*
 – bona seĝo
 
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
 Tio estas, kiel adjektivaj verboj en Esperanto.
 
-**kar nowi.**
+*gar novi.*
 – La aŭto novas. (Aŭ: La aŭto estas nova.)  
-**bagre rapi.**
+*bagre rapi.*
 – Tigroj rapidas. (Aŭ: Tigroj estas rapidaj.)  
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-**nowi kar rapi.**
+*novi gar rapi.*
 – Nova aŭto estas rapida.
 
-### 3.4. Komparoj
+## Komparoj
 
 Modifovortoj povas esti komparataj.
 
-- **max** (pli) signifas komparo de plieco
-- **maxim** (la plej) signifas komparo de plejeco
-- **min** (malpli) signifas komparo de malplieco
-- **minim** (malplej) signifas komparo de malplejeco
-- **sam** (same) signifas komparo de sameco
+- *max* (pli) signifas komparo de plieco
+- *maxim* (la plej) signifas komparo de plejeco
+- *min* (malpli) signifas komparo de malplieco
+- *minim* (malplej) signifas komparo de malplejeco
+- *par* (same) signifas komparo de sameco
 
-Partiklo **ko** rilatas komparvortoj al la fonto de komparo.
+Partiklo *ka* rilatas komparvortoj al la fonto de komparo.
 
-**me si max bon ko te.**
+*me sa max bon ka te.*
 – Mi estas pli bona ol vi.  
-**te loga sem bon ko me.**
+*te loga par bon ka me.*
 – Vi parolas same bone kiel mi.
 
-#### 3.6. Finaĵo de modifovortoj
+## Finaĵo de modifovortoj
 
-Finaĵo de modifovortoj estas **-i** normale.
+Finaĵo de modifovortoj estas *-i* normale.
 La finaĵo estas ĉiam uzata je vortoj derivitaj el verboj kaj substantivoj.
-Ekz. **logi** _parola_, **suki** _feliĉa_, **kitabi** _skriba_.
+Ekz. *logi* 'parola', *suki* 'feliĉa', *kitabi* 'skriba'.
 
 La finaĵo ne estas en kelkaj tre oftaj vortoj, kiuj finiĝas je unu facile prononcebla konsonanto.
-Ekz. **bon** (_bona_), **day** (_granda_), kaj **lil** (_eta_).
+Ekz. *bon* ('bona'), *day* ('granda'), kaj *lil* ('eta').
 

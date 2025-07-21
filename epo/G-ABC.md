@@ -1,29 +1,31 @@
+
 # Prononco de panlingvo
 
 Panlingvo uzas la bazan latinan alfabeton.
 Jen la panlingva alfabeto.
 
-> A B Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
+> A B C D E F G H I J K L M N O P R S T U V X Y Z
 
-En Panlingvo ĉiu litero reprezentas ĉiam unu saman sonon.
+En Panlingvo ĉiu litero kaj literkunmetaĵo reprezentas ĉiam unu saman sonon.
 Ne estas sensonaj literoj.
 
 ## Fonemaro
 
 La tuta fonemaro de Panlingvo estas en la suba tabelo.
 
-|                    | Lipa    |Alveola  | Palata  | Vela    | Glota   |
-|:-------------------|:-------:|:-------:|:-------:|:-------:|:-------:|
-| **Plozivo**        | b p     | t d     | ch j    | k g     |         |
-| **Frikativo**      | f       | s z     | sh      |         | h       |
-| **Naza**           | m       | n       |         | ng      |         |
-| **Lateralo**       |         | l       |         |         |         |
-| **Trilo**          |         | r       |         |         |         |
-| **Duonvokaloj**    | v       |         | y       |         |         |
-|**Malvastaj vokaloj**| u      |         | i       |         |         |
-|**Duonvastaj vokaloj** | o    |         | e       |         |         |
-|**Vastaj vokaloj**  |         | a       |         |         |         |
-|                |**Malantaŭa**|**Centra**|**Antaŭa**|       |         |
+|                    | Lipa          |Alveola       | Palata         | Vela      | Glota     |
+|:-------------------|:-------------:|:------------:|:--------------:|:---------:|:---------:|
+| **Plozivo**        | b p           | t d          |                | k g       |           |
+| **Affrikato**      |               | c [ts]       | ch [tʃ] j [dʒ] | x [ks]    |           |
+| **Frikativo**      | f             | s z          | sh [ʃ]         |           | h         |
+| **Naza**           | m             | n            |                | ng [ŋ]    |           |
+| **Lateralo**       |               | l            |                |           |           |
+| **Trilo**          |               | r            |                |           |           |
+| **Duonvokaloj**    | v [w]         |              | y [j]          |           |           |
+|**Malvastaj vokaloj**| u            |              | i              |           |           |
+|**Duonvastaj vokaloj** | o          |              | e              |           |           |
+|**Vastaj vokaloj**  |               | a            |                |           |           |
+|                    | **Malantaŭa** | **Centra**   | **Antaŭa**     |           |           |
 
 
 ### Vokaloj
@@ -40,23 +42,6 @@ Panlingvo havas sis vokalojn.
   *O* estas prononcita kiel en Esperanto.
 - **u** = [u]  
   *U* estas prononcita kiel en Esperanto.
-- **-** = [ə]
-  La meza centra vokalo [ə] estas prononcita
-  kiel *a* en la angla vorto *about* /əbaut/
-  aŭ kiel *e* en la franca vorto *le* /lə/
-  aŭ kiel *e* en la ĝermana vorto *Bitte* /bitə/.
-  Ĝi aperas inter elementoj de kunmetitaj vortoj,
-  kie ĝi estas skribita per la hifeno, ekz.
-  *dem-kratia* /deməkratia/
-  'demokratio' kaj
-  *post-karte* /postəkarte/
-  'poŝtkarto'.
-  Ĝi aperas ankaŭ je la fino de vortoj,
-  kiuj finiĝas per iu sensonora konsonanto aŭ konsonantaro, ekz.
-  *log* /logə/
-  'paroli' kaj
-  *kart* /kartə/
-  'karto'.
 
 ### Duonvokaloj
 
@@ -72,6 +57,8 @@ Panlingvo havas sis vokalojn.
 Panlingvo enhavas la sekvajn konsonantojn.
 
 - **b** = [b]
+- **c** = [ts]  
+  kiel en Esperanto.
 - **ch** = [tʃ]  
   _Ch_ estas prononcata kiel esperanta _ĉ_.
 - **d** = [d]
@@ -93,7 +80,7 @@ Panlingvo enhavas la sekvajn konsonantojn.
 - **r** = [r] ~ [ɹ]  
   _R_ estas prononcata kiel en la rusa aŭ kiel en la nordamerika angla.
 - **s** = [s]  
-  _S_ is always voiceless like _s_ in _sissy_.
+  _S_ estas ĉiam sensonora kiel en Esperanto.
 - **sh** = [ʃ]  
   _Sh_ estas prononcata kiel esperanta _ŝ_.
 - **t** = [tʰ] ~ [t]
@@ -101,7 +88,7 @@ Panlingvo enhavas la sekvajn konsonantojn.
   _X_ estas prononcata _ks_, kiam ĝi estas inter vokaloj.
   Ekz. **maxim** estas prononcata /maksim/.
   In aliaj lokoj oni povas prononci ĝin kiel _s_,
-  ekz. **max** /mas/, **xenon** /senon/.
+  ekz. **max** /mas/, **xenon** /senon/ ~ /ksenon/.
 - **z** = [z] ~ [dz]
 
 
@@ -112,8 +99,6 @@ kiujn oni povas uzi nur en _eksteraj vortoj_,
 kiuj ne apartenal al la normala vortaro de Panlingvo,
 ekz. nomoj de lokoj, homoj kaj lokaj aĵoj
 
-- **c** = [ts]  
-  _C_ estas prononcata kiel en Esperanto.
 - **kh** = [x]  
   _Kh_ estas prononcata kiel esperanta _Ĥ_.
 - **gh** = [ɣ]  
@@ -196,20 +181,20 @@ ka-fe, yu-mor, pos-te.
 
 ## Interpunkcio
 
-[.] Ĉiaj frazoj povas finiĝi per punkto.
+`.` Ĉiaj frazoj povas finiĝi per punkto.
 
-[?] Demandoj povas finiĝi per demando-signo anstataŭ punkto.
+`?` Demandoj povas finiĝi per demando-signo anstataŭ punkto.
 
-[!] Kri-signo montras laŭton aŭ emfazon.
+`!` Kri-signo montras laŭton aŭ emfazon.
 
-[...] Tripunkto montras nefinitan frazon aŭ necertecon.
+`...` Tripunkto montras nefinitan frazon aŭ necertecon.
 
-[:] Dupunkto montras komencon de klarigo aŭ listo.
+`:` Dupunkto montras komencon de klarigo aŭ listo.
 
-[,] Komo indikas etan paŭzon aŭ apartigo inter listeroj.
+`,` Komo indikas etan paŭzon aŭ apartigo inter listeroj.
 
 En neformalaj tekstoj, miensimboloj kaj emoĝioj povas uziĝi por montri humoron.
-Ekzemple **:)** montras feliĉon kaj **:(** montras malfeliĉon.
+Ekzemple `:)` montras ĝojon kaj `:(` montras malĝojon.
 
 **me vida te :)**
 = Mi vidas vin.  

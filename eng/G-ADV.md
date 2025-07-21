@@ -1,26 +1,31 @@
 
-# 6. Adverbs
-
-## Modifying a verb
+# Adverbs
 
 An adverb is a word that modifies a verb or another modifier.
 
-In Panlingue adverbs end in *-o* and their place is before a verb
+## Modifying a verb
+
+In Panlingue, adverbs end in *-o* and their place is before the verb
 or at the end of the sentence.
 
-*me _bono_ sona.*
-– I well sleep.  
-*me sona _bono_.*
-– I sleep _well_.  
-*te baxa panlingue _bono_.*
-– You speak Panlingue _well_.
+*`me bon-o    son-a.`*  
+ `I  good-ADV sleep-V`  
+'I sleep well.'
+
+*`me son-a   bon-o.`*  
+ `I  sleep-V good-ADV`  
+'I sleep well.'
+
+*`te  bash-a  panlingue bon-o.`*  
+ `you speak-V Panlingue good-ADV`  
+'You speak Panlingue well.'
 
 ## Modifying another modifier
 
 A modifier can modify also another modifier.
 For example *day* (big) and *lil* (little) can be used as intensifying adverbs.
 
-*dayi jan*
+*dayi hom*
 – a big person  
 *lili jan*
 – a little person  
@@ -38,15 +43,15 @@ For example *day* (big) and *lil* (little) can be used as intensifying adverbs.
 Modifiers can be compared with the adverbs of comparison.
 
 - *max*
-  (_more_) indicates comparison of superiority
+  ('more') indicates comparison of superiority
 - *maxim*
-  (_most_) indicates the superlative of superiority
+  ('most') indicates the superlative of superiority
 - *min*
-  (_less_) indicates comparison of inferiority
+  ('less') indicates comparison of inferiority
 - *minim*
-  (_least_) indicates the superlative of inferiority
+  ('least') indicates the superlative of inferiority
 - *paro*
-  (_as_ or _equally_) indicates the comparison of equality
+  ('as' or 'equally') indicates the comparison of equality
 
 The particle
 *ka*
@@ -62,19 +67,19 @@ relates the adverbs of comparison to the object of comparison.
 It is also possible to compare modifiers with the following verbs,
 which are directly attached to the object of comparison.
 
-- *maxu*
-  (_to exceed_)
-- *minu*
-  (_to subceed_)
-- *paru*
-  (_to equal_)
+- *maxa*
+  ('to exceed')
+- *mina*
+  ('to subceed')
+- *para*
+  ('to equal')
 
-*aple sa boni maxu oranje.*
-– Apples are good, exceed oranges. _meaning:_ Apples are better than oranges.  
-*oranje sa boni minu aple.*
-– Oranges are good, subceed apples. _meaning:_ Oranges are less good than apples.  
-*te loga bono para me.*
-– You speak well, equal me. _meaning:_ You speak as well as me.
+*aple maxa oranje sa boni.*
+– Apples exceed oranges in being good. _meaning:_ Apples are better than oranges.  
+*oranje mina aple sa boni.*
+– Oranges subceed apples in being good. _meaning:_ Oranges are less good than apples.  
+*te para me loga bono.*
+– You equal me in speaking well. _meaning:_ You speak as well as me.
 
 
 ## Adverbs of time and space
@@ -82,7 +87,7 @@ which are directly attached to the object of comparison.
 Adverbs are used for expressing time and place of events and actions.
 Here are some of the most frequently used adverbs:
 
-*ceno*
+*cheno*
 – before, earlier  
 *medo*
 – between  
@@ -103,11 +108,10 @@ Here are some of the most frequently used adverbs:
 
 A complement can be added with the preposition *da*.
 
-*me vida les ceno.*
+*me vida les cheno.*
 – I have seen them before.  
-*me vida les ceno da unyom.*
+*me vida les cheno da unyom.*
 – I have seen them before Monday.
 
-*me vola xopa tougar maxo da motogar.*
+*me vola shopa tougar maxo da motogar.*
 – I want to buy a trailer in addition to the car.
-

@@ -1,5 +1,5 @@
 
-# 2. Spelling and pronunciation
+# Spelling and pronunciation
 
 Panlingue is phonetic in two directions:
 

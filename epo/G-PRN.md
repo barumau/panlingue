@@ -19,16 +19,16 @@ Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj ya Esencovortoj.
 
 ## Refleksiva pronomo
 
-**ze**
+**se**
 – si (mem)
 
 Rimarko: La refleksiva pronomo **ze** povas uziĝi por ĉiuj personoj.
 Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**me vida ze**
+**me vida se**
 – Mi vidas min.  
-**le vida ze**
-– Ŝi vidas sin.  
+**le vida se**
+– Ĝi vidas sin.  
 
 
 ## Montrovortoj
@@ -38,9 +38,9 @@ La montrovorto estas:
 **ce**
 – tio
 
-**me wana ce.**
+**me vola ce.**
 – Mi volas tion.  
-**le wana ce sa me.**
+**le vola ce sa me.**
 – Ĝi volas tion ĉe mi.  
 
 
@@ -48,7 +48,7 @@ Montrovortoj povas roli kiel modifovortoj.
 
 **ci petre.**
 – Tiu ŝtono.  
-**ce si petre.**
+**ce sa petre.**
 – Tio estas ŝtono.  
 **ci petre bari.**
 – Tiu ŝtono pezas.  
@@ -63,7 +63,7 @@ Montrovortoj povas roli kiel modifovortoj.
 – Kiu?/Kio?  
 **ki xey?**
 – Kio? (Kiu afero?)  
-**ki ren?**
+**ki hom?**
 – Kiu? (Kiu persono?)  
 **ki sate?**
 – Kiam? (Kiu tempo?)  

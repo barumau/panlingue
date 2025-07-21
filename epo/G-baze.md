@@ -1,29 +1,55 @@
+
 # Bazaj reguloj
 
-1. Ĉiu vorto elparoliĝas kiel ĝi skribiĝas. Neniu litero estas
-   silenta. Nur minusklaj literoj estas necesaj.
-2. La akcento estas sur la silabo, kiu estas antaŭ la lasta konsonanto.
-3. Substantivoj ne ŝanĝiĝas laŭ nombro aŭ genro. Nature, ili estas
-    nek virgenraj, nek ingenraj, nek ununombraj, nek multnombraj.
-4. Adjektivoj kaj adverboj havas saman formon. Ili antaŭas la vorton,
-   kiuj ili modifas.
-    - ekz. 1. **bon pang** = Bona pano.
-    - ekz. 2. **te bon loga.** = Vi bone parolas.
-5. Oni povas krei novajn vortojn kunmetante aliajn vortojn. La ĉefa
-   vorto ĉiam staras je la fino. Liga vokalo -o- estas metita en centron.
-    - ekz. **poste** (poŝto) + **sanduke** (kesto) → **postosanduke** (leterkesto)
-6. Verboj kiuj finiĝas je -a uzas la vortordon subjekto-verbo-objekto.
-    - ekz.  **me niama pang.** = Mi manĝas panon.
-7. Verboj kiuj finiĝas je -u uzas vortordon objekto-verbo-subjekto.
-    - ekz.  **pang nyamu.** = Pano estas manĝata.
-8. Verboj ne ŝanĝiĝas laŭ persono aŭ nombro.
-9. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
-    - ekz. **me pliza te dona pese.** = Mi petas vin (por) doni monon.
-10. Eblas forigi pronomon kiam ĝia senco estas evidenta.
-    - **me eska te baxa panlingue?** → **eska te baxa panlingue?** =
-      Ĉu vi parolas panlingvon?
-    - **me pliza te loga ming.** →  **pliza loga ming.** = Bonvolu
-      paroli klare.
-11. Derivitaj vortoj portas finaĵon. Mofidovortoj finiĝas je -i,
-    substantivoj je -e, kaj verboj je -a aŭ -u.
+1. Ĉiu vorto elparoliĝas kiel ĝi skribiĝas.
+   Neniu litero estas silenta.
+   Nur minusklaj literoj estas necesaj.
+2.  La akcento estas sur la silabo, kiu estas antaŭ la lasta konsonanto.
+3.  Substantivoj ne havas deviga finaĵo,
+    sed ili kutime finiĝas per **-e**, **-ia** aŭ konsonanto.
+    Ili ŝanĝiĝas nek laŭ nombro nek laŭ genro.
+    Nature, ili estas nek virgenraj, nek ingenraj, nek ununombraj, nek multnombraj.
+4.  Adjektivoj finiĝas per **-i**,
+    kaj ili antaŭas la vorton, kiun ili modifas.
+
+    **rapidi loge**  
+    'rapida parolo'
+5.  Adverboj finiĝas per **-o**,
+    kaj ili modifas verbojn, adjektivojn kaj aliaj adverbojn.
+    Ili antaŭas la vorton, kiun ili modifas.
+
+    **vero rapidi loge**  
+    'vere rapida parolo'
+
+    **te rapido loga.**  
+    'Vi rapide parolas.'
+6.  Progresaj verboj finiĝas per **-a**
+    kaj uzas la vortordon subjekto–verbo–objekto.
+
+    **me yama aple.**  
+    'Mi manĝas pomojn.'
+7.  Regresaj verboj finiĝas per **-u**
+    kaj uzas la vortordon objekto–verbo–subjekto.
+
+    **aple yamu.**  
+    'Pomoj estas manĝata.'
+8.  La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo.
+    Tia strukturo nomiĝas la "ĉarnira strukturo".
+
+    **me pleza te dona pese.**  
+    'Mi petas vin (por) doni monon.'
+9.  Eblas forigi pronomon kiam ĝia senco estas evidenta.
+
+    **me suala te basha panlingue?** → **suala te basha panlingue?**  
+    'Ĉu vi parolas panlingvon?'
+
+    **me pleza te loga klaro.** →  **pleza loga klaro.**  
+    'Bonvolu paroli klare.'
+10. Oni povas krei novajn vortojn kunmetante aliajn vortojn.
+    La ĉefa vorto ĉiam staras je la fino.
+    Liga vokalo -o- estas metita en centron.
+
+    **hur-** ('libero') + **ist-** ('subtenanto') → **huriste** ('liberalisto')
+
+    **poste** ('poŝto') + **sinduke** ('kesto') → **postosinduke** ('leterkesto')
 
