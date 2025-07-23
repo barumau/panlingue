@@ -21,17 +21,17 @@
 
     **te rapido loga.**  
     'Sinä nopeasti puhut.'
-6.  Eteenvaikuttavien verbien pääte on **-a**
+6.  Tekijäjohtoisten verbien pääte on **-a**
     ja sanajärjestys on subjekti–verbi–objekti.
 
     **me yama aple.**  
     'Minä syön omenaa.'
-7.  Taaksevaikuttavien verbien pääte on **-u**
-    ja sanajärjesyts on objekti–verbi–subjekti.
+7.  Kohdejohtoisten verbien pääte on **-u**
+    ja sanajärjestys on objekti–verbi–subjekti.
 
     **aple yamu.**  
     'Omenaa syödään.'
-8. Eteenvaikuttavan verbin objekti voi toimia seuraavan verbin subjektina.
+8. Tekijäjohtoisen verbin objekti voi toimia seuraavan verbin subjektina.
    Tämä on ns. _saranarakenne_.
 
     **me pleza te dona pese.**  
