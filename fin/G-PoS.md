@@ -8,7 +8,9 @@ Sen rakenteen perustana on sanaluokkapäätteet, jotka liitetään sanavartaloon
 
 Juuri on panlinguen sanojen perusta.
 Se on päätteetön sanavartalo, jolla on ylimalkainen merkitys.
-Esimerkiksi juurisana *kitab-* liittyy kirjoittamiseen ja *bon-* liittyy hyvyyteen.
+Juuri auttaa tunnistamaan merkitykseltään yhteen kuuluvia pandunian sanoja,
+ja päättelemään vielä tuntemattomien sanojen merkityksiä.
+Esimerkiksi juurisana *kitab-* liittyy kirjoittamisen ja *bon-* liittyy hyvyyden käsitteeseen.
 Sanajuuria ei voi kuitenkaan käyttää sellaisenaan, vaan ne tarvitsevat sanaluokkapäätteitä tullakseen kokonaisiksi sanoiksi.
 
 Sanaluokkapäätteitä on viisi.
