@@ -31,10 +31,11 @@ who have also learned this regular, flexible and multicultural language.
 
 ## Join Others
 
-You can talk about Panlingue at the
-[Auxlangs](https://www.reddit.com/r/auxlangs/)
-forum in Reddit.
+You can talk about Panlingue in our
+[discussion forum](https://pandunia.info/forum/viewforum.php?f=16)
+and in
+[Telegram](https://t.me/+xPKbG725-8E0N2E8).
 
 You can contact the creator and a main developer of Panlingue, Risto Kupsala, via email
-[risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned forums.
+[risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned forum.
 

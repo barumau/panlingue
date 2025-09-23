@@ -114,7 +114,7 @@ that is normally used.
     AVP: │  AGENT  │→║  A-VERB  ║→│ PATIENT │
          └─────────┘ ╚══════════╝ └─────────┘
 
-*me vida les.*
+*me vida lole.*
 – I see them.  
 *te beka ban.*
 – You bake bread.
@@ -203,7 +203,7 @@ Examples:
 – Bread is baked by you.  
 *kupe parcu.*
 – The cup broke ~ got broken.  
-*rajer suku les.*
+*rajer suku lole.*
 – The king is pleased by them. ~ The king likes them.
 
 The most common order is agent–patient–verb (APV).
@@ -222,7 +222,7 @@ Together they account for almost 90% of the world's languages.
              └────────────────────────┘
 
 Examples:  
-*me les vidu.*
+*me lole vidu.*
 – _I them see._  
 *te ban beku.*
 – _You bread bake._

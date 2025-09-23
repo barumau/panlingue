@@ -471,10 +471,10 @@ Also verbs are not conjugated. One word, **si**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Panlingue:  le sa aple.
+    Panlingue: le sa aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Panlingue:  les sa aple.
+    Panlingue: lole sa aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

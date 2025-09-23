@@ -452,7 +452,7 @@ discussion.
 = Does he or she drink tea?  
 **suala te yama supe?**
 = Do you eat soup?  
-**suala mes yama sui?**
+**suala mome yama sui?**
 = Do we drink water?
 
 Of course common and proper nouns can also be used.
@@ -659,13 +659,13 @@ passive verb meaning _to be caused by_.
 
 **ke saba te suku mau?**
 = Why do you like cats?  
-**sabu les kavayi.**
+**sabu lole kavayi.**
 = Because they are cute.
 
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**me suku mau sabu les kavayi**
+**me suku mau sabu lole kavayi**
 = I like cats because they are cute.
 
 ### Exercises
