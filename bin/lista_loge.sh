@@ -1,3 +1,35 @@
+kopi_lexe_liste() {
+    panlingue_x="../panlexia/generated/panlingue-$1.md"
+    x_panlingue="../panlexia/generated/$1-panlingue.md"
+    cp $panlingue_x $1
+    cp $x_panlingue $1
+}
+
+kopi_lexe_liste_kon_altre_nim() {
+    panlingue_x="../panlexia/generated/panlingue-$1.md"
+    x_panlingue="../panlexia/generated/$1-panlingue.md"
+    cp $panlingue_x $2
+    cp $x_panlingue $2
+}
+
+kopi_data_do_lexia() {
+    cp ../panlexia/generated/arb-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/cmn-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/deu-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/eng-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/epo-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/fas-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/fin-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/fra-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/ita-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/jpn-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/por-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/pol-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/rus-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/spa-panlingue.csv ./html/lexia/data
+    cp ../panlexia/generated/tha-panlingue.csv ./html/lexia/data
+}
+
 fata_liste_panlingue_X() {
     #panlingue unodo
     cat panlingue-lexe.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$2	 \" - \" \$$1 \"  \"}" > $2/panlingue-$2.md
@@ -227,35 +259,53 @@ tarja_logaslia_pa_esperanti() {
 
 
 #dos2unix panlingue-lexe.csv
-sed 's/\t/|/g' -i panlingue-lexe.csv
+#sed 's/\t/|/g' -i panlingue-lexe.csv
+
+cd ../panlexia
+rm generated/*
+sh tools/generate_bilingual_dictionaries.sh panlingue
+cd ../panlingue
+
+# chini e panlingue
+kopi_lexe_liste cmn chini
 
 # engli e panlingue
-fata_liste 6 eng engli
-fata_leksasli_liste 6 eng engli
+kopi_lexe_liste eng engli
 #tarja_logaslia_pa_engli
 
 # esperanti e panlingue
-fata_liste 21 epo esperanti
+kopi_lexe_liste epo esperanti
 #tarja_logaslia_pa_esperanti
 
 # suomi e panlingue
-fata_liste 22 fin suomi
+kopi_lexe_liste fin suomi
 #tarja_logaslia_pa_suomi
 
+# franci e panlingue
+kopi_lexe_liste fra franci
+
+# itali e panlingue
+#kopi_lexe_liste ita itali
+
+# niponi e panlingue
+kopi_lexe_liste jpn niponi
+
+# malayi e panlingue
+kopi_lexe_liste_kon_altre_nim ind may
+
 # polski e panlingue
-fata_liste 23 pol polski
-
-# cini e panlingue
-fata_liste 12 cmn cini
-
-# rusi e panlingue
-fata_liste 10 rus rusi
-
-# fransi e panlingue
-fata_liste 7 fra fransi
-
-# espani e panlingue
-fata_liste 8 spa espani
+kopi_lexe_liste pol polski
 
 # portugali e panlingue
-fata_liste 9 por portugali
+kopi_lexe_liste por portugali
+
+# rusi e panlingue
+kopi_lexe_liste rus rusi
+
+# espani e panlingue
+kopi_lexe_liste spa espani
+
+# itali e panlingue
+kopi_lexe_liste tha tai
+
+kopi_data_do_lexia
