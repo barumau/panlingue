@@ -22,7 +22,7 @@ nav:
     - 'Diccionarios':
         - 'Panlingue-Español': panlingue-spa.md
         - 'Español-Panlingue': spa-panlingue.md
-        - 'Diccionario etimologico': leksaslia.md
+        - 'Diccionario etimologico': lexaslia.md
 extra:
   social:
     - icon: fontawesome/regular/comments

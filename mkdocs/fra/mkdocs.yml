@@ -39,7 +39,7 @@ nav:
     - 'Vocabulaire':
         - 'Panlingue → français': panlingue-fra.md
         - 'Français → panlingue': fra-panlingue.md
-        - 'Etymologie': leksaslia.md
+        - 'Etymologie': lexaslia.md
         - 'Recherche': tiddly.html
 extra:
   social:

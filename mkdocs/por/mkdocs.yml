@@ -16,7 +16,7 @@ nav:
     - 'Dicionarios':
         - 'Panlingue-Português': panlingue-por.md
         - 'Português-Panlingue': por-panlingue.md
-        - 'Dicionario etimologico': leksaslia.md
+        - 'Dicionario etimologico': lexaslia.md
 extra:
   social:
     - icon: fontawesome/regular/comments

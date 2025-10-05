@@ -33,7 +33,7 @@ nav:
     - 'Słownik':
         - 'Panlingue-polski': panlingue-pol.md
         - 'Polski-panlingue': pol-panlingue.md
-        - 'Etymologia': leksaslia.md
+        - 'Etymologia': lexaslia.md
         - 'Wyszukaj': tiddly.html
 extra:
   social:

@@ -38,7 +38,7 @@ nav:
     - 'Sanasto':
         - 'Panlingue-suomi': panlingue-fin.md
         - 'Suomi-panlingue': fin-panlingue.md
-        - 'Alkuperäsanasto': leksaslia.md
+        - 'Alkuperäsanasto': lexaslia.md
 extra:
   social:
     - icon: fontawesome/regular/comments

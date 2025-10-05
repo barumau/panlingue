@@ -29,7 +29,7 @@ nav:
     - 'Словарь':
         - 'пандуния-русский': panlingue-rus.md
         - 'русский-пандуния': rus-panlingue.md
-        - 'этимология': leksaslia.md
+        - 'этимология': lexaslia.md
 extra:
   social:
     - icon: fontawesome/regular/comments

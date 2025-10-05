@@ -22,8 +22,8 @@ nav:
         - 'dini kitabe': dini_kitabe.md
     - logoliste:
         - 'dexnam': dexonam.md
-        - 'logaslia': leksaslia.md
-        - 'loge du numbe': loge_du_numbe.md
+        - 'lexaslia': lexaslia.md
+        - 'lexe du nume': loge_du_numbe.md
     - filme: filme.md
     - linke: linke.md
 extra:
