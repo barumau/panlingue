@@ -3,94 +3,80 @@
 
 In Panlingue, prepositions are basically a sub-category of verbs.
 
-## Prepositions of place and time
+## Core prepositions
 
-Panlingue has five prepositions of place and time.
+Panlingue has six core prepositions of place, time and relation.
 
-1. *ya* - presence or togetherness:
-   with, by use of
-2. *na* - absence or lack: without
-3. *va* - location or moment (in general):
-   at, in, on, by
-4. *ja* - origin, beginning or cause: from, since, because
-5. *pa* - destination, end or purpose: to, till, until, for, then
+1.  *a*
+    – location in space or moment in time: *at, in, on, by*
+2.  *ja*
+    – origin, beginning or cause: *from, since, because*
+3.  *ta*
+   – destination, end or purpose: *to, till, until, for*
+4.  *va*
+    – presence or togetherness: *with*
+5.  *na*
+    – absence or lack: *without*
+6.  *ka*
+   – point of comparison: *like, as, than*
 
-A preposition begins a prepositional phrase. In a simple prepositional phrase
-the preposition is complemented by a pronoun or a noun phrase.
+A preposition begins a prepositional phrase.
+In a simple prepositional phrase the preposition is complemented by a pronoun or a noun phrase.
 
-*me va hotel.*
+*me a hotel.*
 – I'm in the hotel.  
-*me sona va hotel.*
+*me sona a hotel.*
 – I sleep in the hotel.  
-*me sona ja xam pa sube.*
+*me sona ja xam ta sube.*
 – I sleep since evening until morning.  
-*me safara ja London pa Paris.*
+*me safara ja London ta Paris.*
 – I travel from London to Paris.  
 
-Prepositions can be complemented also by a verb phrase. Then they
-refer to time.
+Prepositions can be complemented also by a verb phrase.
+Then they refer to time.
 
 *me denga ja te kita.*
 – I have waited since you left.  
-*me denga pa te laya dom.*
+*me denga ta te laya dom.*
 – I wait until you come home.  
-*me denga va te sona.*
+*me denga a te sona.*
 – I wait while you sleep.  
 
-### va
+### Location: a
 
-*va* is an all-purpose locative preposition.
-Its basic meaning is "at".
- 
-*me liba va dome.*  
-_I stand with house._  
-I stand by the house.
- 
-*me loga va panlingue.*  
-_I speak with Panlingue._  
-I speak in Panlingue.
- 
-*me loga ya doste va panlingue va fon.*  
-_I speak with friends with Panlingue with telephone._  
-I speak with friends in Panlingue by telephone.
+*a* is the all-purpose locative preposition.
+Its basic meaning is 'at',
+and it can be variously translated as *at, in, on* and *by*.
 
-### Verbs as prepositions
+*`me sta  a  dao.`*  
+ `I  stay at road`  
+'I am on the road.'
 
-In Panlingue some verbs function like prepositions do in English.
+*`me loga  a  panlingue a  telefon.`*  
+ `I  speak at Panlingue at telephone.`  
+'I speak in Panlingue in telephone.'
 
-*me kata ban.*
-– I cut bread.  
-*me kata ban, uza chake.*
-– I cut bread, use a knife. (I cut bread with a knife.)  
+### Togetherness: va
 
-*me denga dura dul hor.* - I wait, (it) lasts two hours. (I wait during/for two hours.)
+The preposition
+*va*
+indicates that two things are together or in the company of each other.
 
-Here are some verbs that are usable as prepositions:
+*`me sta  va   te  a  dom.`*  
+ `I  stay with you at house`  
+'I am with you at home.'
 
-*bada* - to follow; after, behind  
-*dura* - to last; during, for the time/duration of  
-*jungu* - to be centered; amid, amidst, in the middle, in the center  
-*loka* - to occupy, to be located; at  
-*sirka* - to surround; around  
-*supra* - to surpass; over, above  
+*`me loga  panlingue va   mi doste.`*  
+ `I  speak Panlingue with my friend`  
+'I speak Panlingue with my friend.'
 
-### Verbs without prepositions
+It can be used also to indicate that two actions happen at the same time.
 
-Prepositions are not used as frequently in Panlingue as in English. In
-many phrases, the verb says enough alone.
+*`me kata ban  va    uza dau.`*  
+ `I  cut  bread with use knife`  
+'I cut bread using a knife'
 
-*me laya dome.*
-– I come home.  
-*te sida kurse.*
-– You sit (on) the chair.  
-*le lala sofa.*
-– S/he lies (on) the sofa.  
-*pex nata daria.*
-– Fish swim (in) the sea.  
-*jenger marca dau.*
-– Warriors march (on) the road.  
-
-## Preposition of relation
+### Comparison: ka
 
 Preposition *ka* indicates the way something is done.
 It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
@@ -101,19 +87,45 @@ It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
 *ka*
 relates the verb or the adjective to a point of comparison.
 In the above example
-*sava*
-(know) is the verb and
+(*sava*)
+'know' is the verb and
 *master*
-(master) is the point of comparison.
+('master') is the point of comparison.
 
 *ka* is also used when adjectives are compared.
 
-*pute sa min dayi ko pape.*
+*pute sa min dayi ka pape.*
 – The child is smaller than the father.  
-*laupape sa samo dayi ka pape.*
+*laupape sa simo dayi ka pape.*
 – Grandfather is as big as father.
 
 *ka* relates the adverbs of comparison
-– *max* (more), *min* (less) and *samo* (same) –
+– *max* ('more'), *min* ('less') and *simo* ('same') –
 to the point of comparison, which is *pape* (father) in the examples above.
 
+## Compound preposition
+
+The core prepositions can be combined with other words to form compound prepositions,
+that show more specifically where an object is in relation to another object.
+There are two ways to make compound prepositions,
+the sandwich method and the genitive method.
+They have the same meaning despite their different structure,
+so it is only a matter of personal preference, which method to use.
+
+In the sandwich method, start with a core preposition, add a place noun, and then add a noun of relative position.
+
+*a dom*
+– at the house  
+*a dom en*
+– (lit.) at the house inside → inside the house  
+*a dom chien*
+– (lit.) at the house front → in front of the house
+
+In the genitive method, compound prepositions are formed with the structure
+*a ... da*
+('at ... of').
+
+*a en da dom*
+– (lit.) at the inside of the house → inside the house  
+*a chien da dom*
+– in front of the house
