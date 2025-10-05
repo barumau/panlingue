@@ -494,7 +494,7 @@ sisältää sekä syömisen että juomisen.
 Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevää,
 koska yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
 
-**me yama kafe e pang.**
+**me yama kafe e ban.**
 Minä nautin kahvia ja leipää.
 
 

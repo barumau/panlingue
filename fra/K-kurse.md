@@ -197,9 +197,9 @@ Les réponses correctes sont données plus bas.
 = Bonjour ! Asseyez-vous je vous prie !  
 ☻: **danke.**
 = Merci.  
-☺: **pliza niama kafe o cay.**
+☺: **pliza yama kafe o cay.**
 = Prenez du thé ou du café, je vous prie
-☻: **me niama cay. danke.**
+☻: **me yama cay. danke.**
 = Je prends du thé, merci.  
 ...
 ☺: **pliza salama ti mame!**
@@ -262,7 +262,7 @@ formules de politesses.
 = S'il vous plaît, donnez-moi du café.  
 **pliza dona cay.**
 = S'il vous plaît, donnez-moi du thé. 
-**pliza niama cay.**
+**pliza yama cay.**
 = S'il vous plaît, prenez un peu de thé.  
 **pliza safa kamare.**
 = Nettoyez la chambre s'il vous plaît
@@ -306,16 +306,16 @@ Essayez de traduire ces phrases du Français au Panlingue.
 **o** ou.
 **safa** nettoyer.
 **sida** s'asseoir (être assis).
-**niama** manger ou boire, consommer.
+**yama** manger ou boire, consommer.
 
 
 ### Réponses aux exercices
 
-1. le niama cay.
+1. le yama cay.
 2. xefe pliza le sida.
-3. pliza niama kafe o cay.
+3. pliza yama kafe o cay.
 4. mame pliza me safa kamare.
-5. xefe sida e niama kafe.
+5. xefe sida e yama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -326,7 +326,7 @@ Questions par oui ou par non
 
 ### Dialogue
 
-☻: **salam! eska te niama kafe o cay?**
+☻: **salam! eska te yama kafe o cay?**
 = Bonjour ! Prenez-vous du café ou du thé ?  
 ☺: **cay.**
 = Du thé.  
@@ -334,17 +334,17 @@ Questions par oui ou par non
 = Et vous ?  
 ○: **me no baxa panlingue...**
 = Je ne parle pas le Panlingue...  
-☻: **pardon! eska le niama cay?**
+☻: **pardon! eska le yama cay?**
 = Pardon ! prend-il du thé ?  
-☺: **no. le no niama cay. le niama kafe.**
+☺: **no. le no yama cay. le yama kafe.**
 = Non. Il ne prend pas de thé. Il prend du café.  
-☻: **eska te niama supe?**
+☻: **eska te yama supe?**
 = Prenez-vous de la soupe ?  
-☺: **niama.**
+☺: **yama.**
 = Oui. (_J'en prends._)  
-☻: **eska le niama supe?**
+☻: **eska le yama supe?**
 = Prend-il de la soupe ?  
-☺: **no niama.**
+☺: **no yama.**
 = Non.  
 ☻: **danke. me dona un cay e un kafe e un supe sa bade da des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
@@ -356,11 +356,11 @@ Note : **sa bade da** est une expression qui signifie "dans (tant de temps)"
 
 Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **pliza ** que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
 
-**me eska te niama cay.**
+**me eska te yama cay.**
 = Je vous demande si vous buvez du thé.  
-**eska te niama cay?**
+**eska te yama cay?**
 = Buvez-vous du thé ?  
-**eska niama cay?**
+**eska yama cay?**
 = Du thé ?
 
 Les demandes s'adressent généralement à des interlocuteurs directs,
@@ -369,16 +369,16 @@ Par conséquent, le deuxième pronom est habituellement nécessaire. Il
 peut être omis seulement quand on a identifié qui est le sujet de la
 discussion.
 
-**eska le niama cay?**
+**eska le yama cay?**
 = Est-ce qu'il ou elle prend du thé ?  
-**eska te niama supe?**
+**eska te yama supe?**
 = Prenez-vous de la soupe ?  
-**eska mome niama suy?**
+**eska mome yama suy?**
 = Buvons-nous de l'eau minérale ?
 
 Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
-**eska xefe niama kafe?**
+**eska xefe yama kafe?**
 = Est-ce que le chef prend du café ?  
 **eska pape safa kamare?**
 = Le père nettoie-t-il la chambre ?  
@@ -391,32 +391,32 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 On peut répondre aux questions fermées (deux réponses possibles oui
 ou non) par **si** = oui et **no** = non.
 
-– **eska te niama supe?**
+– **eska te yama supe?**
 = Manges-tu de la soupe ?  
 – **si.**
 = Oui.  
-– **eska le niama supe?**
+– **eska le yama supe?**
 = Mange-t-elle de la soupe ?  
 – **no.**
 = Non.
 
 Des réponses plus complètes peuvent également être apportées.
 
-– **eska te niama kafe?**
+– **eska te yama kafe?**
 = Bois-tu du café ?  
-– **si. me niama kafe.**
+– **si. me yama kafe.**
 = Oui, je bois du café .  
-– **eska le niama kafe?**
+– **eska le yama kafe?**
 = Boit-il du café ?  
-– **no. le no niama kafe.**
+– **no. le no yama kafe.**
 = Non, il ne boit pas de café.
 
 Il est également possible de répondre par l'affirmative en répétant
 le verbe principal de la question.
 
-– **eska te niama suy?**
+– **eska te yama suy?**
 = Bois-tu de l'eau ?  
-– **niama.**
+– **yama.**
 = (Oui) j'en bois.
 
 
@@ -452,10 +452,10 @@ Essayez de traduire ces phrases du Français au Panlingue.
 
 1. eska te baxa panlingue?
 2. si. me baxa panlingue.
-3. eska mame niama kafe?
-4. no. le no niama kafe.
-5. eska le niama supe?
-6. (le) no niama.
+3. eska mame yama kafe?
+4. no. le no yama kafe.
+5. eska le yama supe?
+6. (le) no yama.
 
 
 --------------------------------------------------------------------------------
@@ -526,9 +526,9 @@ Parfois, il y a plus d'une bonne réponse.
 
 1. le no safa kamare.
 2. un kupe no hali.
-3. dul waf no niama supe.
+3. dul waf no yama supe.
 4. le no tena waf e maw. / le tena no waf e no maw.
-5. xefe niama cay a no kafe.
+5. xefe yama cay a no kafe.
 6. mame tena no waf a dul maw.
 
 
@@ -546,7 +546,7 @@ si nécessaire.
 = Qu'est-ce que c'est ? / Qui est-il/elle ?  
 **ki ren laya?**
 = Qui vient ? (**ren** = personne)  
-**ki zaman te niama?**
+**ki zaman te yama?**
 = Quand manges-tu ? (**zaman** = temps)  
 **ki yang dansa?**
 = Comment danser ? (**yang** = manière, style)
@@ -600,7 +600,7 @@ ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 2. pape suku.
 3. ki zaman le laya?
 4. sa bade du des minute.
-5. ke saba le no niama?
+5. ke saba le no yama?
 6. sabu le no suku kafe u supe.
 
 --------------------------------------------------------------------------------
@@ -617,12 +617,12 @@ seule forme. Ils fonctionnement un peu comme le verbe anglais "to hit
 = Je le frappe / je l'ai frappé.
 
 En Panlingue tous les verbes fonctionnent ainsi ! Par exemple,
-**me niama pang** peut signifier à la fois "Je mange du pain" et
+**me yama ban** peut signifier à la fois "Je mange du pain" et
 "J'ai mangé du pain", mais en général un seul temps est retenu selon
 le contexte de la discussion. Par exemple lorsque les gens parlent à
 propos d'un petit déjeuner qui a déjà été consommé.
 
-**me niama pang sa subi niame.**
+**me yama ban sa subi yame.**
 = J'ai mangé du pain pour le petit déjeuner.
 
 Il y a également des expressions de temps spécifiques.
@@ -707,8 +707,8 @@ Essayez de traduire ces phrases du Français au Panlingue. Les réponses correct
 **zay** présent, en cours, actuel.
 **wil** futur.
 **darba** frapper, battre.
-**pang** pain.
-**subi niam** repas du matin, petit-déjeuner.
+**ban** pain.
+**subi yam** repas du matin, petit-déjeuner.
 **den** jour
 **noce** nuit, soir
 **predi** avant, d'avant
@@ -718,9 +718,7 @@ Essayez de traduire ces phrases du Français au Panlingue. Les réponses correct
 
 1. mi xefe festa sa wile.
 2. me tena dul waf sa pase.
-3. te niama supe zay.
+3. te yama supe zay.
 4. le safa kamare sa predi den.
-5. maw niama kafe sa badi den.
+5. maw yama kafe sa badi den.
 6. ti mame festa sa predi noce.
-
-Mis à jour le 27 mars 2020.

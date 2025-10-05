@@ -36,13 +36,13 @@ Panlinguen lauseet perustuvat sanoihin ja muutamaan yksinkertaiseen sanajärjest
 Siinä kaikki! Lauseenosien järjestys on sama kuin englannissa
 eli tekijä, teonsana ja teon kohde (eli subjekti, verbi ja objekti).
 
-**me niama pal.** - Minä syön hedelmää. (tai) Minä söin hedelmiä.
+**me yama pal.** - Minä syön hedelmää. (tai) Minä söin hedelmiä.
 
 Tässä lauseessa on kolme huomionarvoista seikkaa, jotka poikkeavat
 suomen kielestä ja eurooppalaisista kielistä yleensä.
 
 1. Verbi on taipumaton eli verbillä ei ole aikamuotoa.
-   Sana **niama** tarkoittaa syömistä yleensä.
+   Sana **yama** tarkoittaa syömistä yleensä.
 2. Yksikköä ja monikkoa ei eroteta.
    Niinpä **pal** voi tarkoittaa yhtä tai useampaa hedelmää.
 3. Määräistä ja epäämääräistä artikkelia ei käytetä.
@@ -52,8 +52,8 @@ suomen kielestä ja eurooppalaisista kielistä yleensä.
 Kannattaa huomata vielä yksi seikka.
 Panlinguessa aktiiviset verbit päättyvät useimmiten a-kirjaimeen.
 Vastaava substantiivi päättyy e:hen.
-Niinpä sana **niama** tarkoittaa syöntiä ja **niam** tarkoittaa ruokaa eli syömistä.
-Lause **me niama niam.** tarkoittaa siis "Minä syön ruokaa."
+Niinpä sana **yama** tarkoittaa syöntiä ja **yam** tarkoittaa ruokaa eli syömistä.
+Lause **me yama yam.** tarkoittaa siis "Minä syön ruokaa."
 Vastaavasti **me canta cante.** tarkoittaa "Minä laulan lauluja."
 
 
@@ -140,7 +140,7 @@ Myöskään adjektiivien kanssa ei tarvitse käyttää olla-verbiä.
 Panlinguessa verbit ovat taipumattomia.
 Samaa sanaa käytetään kaikissa aikamuodoissa.
 
-**yer den me laya restoran i niama bon niam.**
+**yer den me laya restoran i yama bon yam.**
 
 Yllä olevan lauseen voi suomentaa kahdella tavalla.
 Ensimmäinen tapa on käyttää imperfektiä:
@@ -182,12 +182,12 @@ Prepositioita voi käyttää yksinään, ilman verbiä.
 
 Kuitenkin yleensä prepositioita käytetään verbin ohella.
 
-**me niama supe | sa camce | sa mame | sa niam kamar.**  
+**me yama supe | sa camce | sa mame | sa yam kamre.**  
 Minä syön soppaa | lusikalla | mamman kanssa | ruokahuoneessa.
 
 Preposition tarkka merkitys riippuu sen kohteesta.
 Sen vuoksi **sa** tarkoittaa eri asiaa lausekkeissa
-**sa camce** (lusikalla) ja **sa kamar** (huoneessa).
+**sa camce** (lusikalla) ja **sa kamre** (huoneessa).
 
 Totta puhuen, muihin kieliin verrattuna, panlinguen prepositioiden merkitys ei ole poikkeuksellisen laaja.
 Tarkastellaan vertailun vuoksi sijapäätteen -lla käyttöä suomessa:
@@ -200,12 +200,12 @@ Se on suunnilleen sama kuin preposition **sa** käyttöala panlinguessa.
 
 Prepositioiden käyttöä voi välttää puhumalla lyhyin lausein.
 
-**le kata pang. le uza caku.**
+**le kata ban. le uza caku.**
 – Hän leikkaa leipää. Hän käyttää veistä.
 
 Lauseen subjektin toistamisen sijasta voi pitää pienen tauon, jota merkitään pilkulla.
 
-**le kata pang, uza caku.**
+**le kata ban, uza caku.**
 – Hän leikkaa leipää, käyttäen veistä.
 
 

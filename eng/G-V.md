@@ -1,5 +1,5 @@
 
-# 9. Verbs
+# Verbs
 
 A verb denotes an action or an occurence, for example *to eat*, *to speak*, *to look* and *to think*.
 

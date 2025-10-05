@@ -1,5 +1,5 @@
 
-# 7. Numerals
+# Numerals
 
 ## Cardinal numbers
 

@@ -22,9 +22,9 @@ Elles seront abordées plus en détail plus loin dans ce document.
    - ex. 1. **vero rapidi loge** = discours très rapide
    - ex. 2. ** te loga bono.** = Tu parles bien.
 7. La terminaison **-a** des verbes indique que le verbe est à la forme active, et l'agent de l'action se place immédiatement avant le verbe.
-    - ex. **me niama aple.** = Je mange des pommes.
+    - ex. **me yama aple.** = Je mange des pommes.
 8. La terminaison **-u** des verbes indique que le verbe est à la forme passive, et l'objet recevant l'action se place immédiatement avant le verbe.
-    - ex. **aple niamu.** = Des pommes sont mangées.
+    - ex. **aple yamu.** = Des pommes sont mangées.
 9. Dans la _structure pivot_, l'objet du verbe transitif fonctionne comme le sujet du verbe qui suit.
     - ex. **me pliza te dona pes.** = I te demande de donner de l'argent.
 10. Les pronoms peuvent être omis quand ils sont évidents et redondant.

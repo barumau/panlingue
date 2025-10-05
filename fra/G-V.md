@@ -50,7 +50,7 @@ Exemples:
 – Tu vois quoi ?
 **me vida lole.** 
 – Je les vois.
-**te beka pang.** 
+**te beka ban.** 
 – Tu fais cuire du pain.
 
 ## Les verbes passifs
@@ -66,7 +66,7 @@ Souvent les phrases passives en panlingue peuvent être traduites en français  
 mais parfois on peut utiliser également un verbe transitif.
 
 Examples:  
-**pang beku te.** 
+**ban beku te.** 
 – Du pain est cuit par toi.  
 **te suku me.** 
 – Tu es ravi.e de moi. (C'est-à-dire : Tu m'aimes.)
@@ -120,8 +120,8 @@ Je parle avec un ami.e en panlingue au téléphone.
 
 En panlingue certains verbes fonctionnent comme le feraient des prépositions en français.
 
-**me kata pang.** - Je coupe pain.  
-**me kata pang, uza caku.** – Je coupe pain, utilise un couteau. (Je coupe du pain avec un couteau.)  
+**me kata ban.** - Je coupe pain.  
+**me kata ban, uza caku.** – Je coupe pain, utilise un couteau. (Je coupe du pain avec un couteau.)  
 
 **me denga dura dul hor.** – J'attends, (ça) dure deux heures. (J'attends pendant deux heures.)
 

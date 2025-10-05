@@ -463,7 +463,7 @@ Je bois du café.
 
 Astuce : Le sens de **yama** regroupe à la fois l’idée de manger et de boire. Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique ! Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
-**me yama kafe e pang.**
+**me yama kafe e ban.**
 Je prends un café et du pain.
 
 
@@ -1044,4 +1044,3 @@ Laisse-moi tranquille !
 Quoi de neuf ?
 -->
 
-Mis à jour : 30 octobre 2020

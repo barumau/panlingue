@@ -348,21 +348,21 @@ L'ordre normal des mots est sujet-verbe-objet - tout comme en anglais ou en chin
 Le verbe **beyu** est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'est ce qu'on appelle la phrase passive.)
 
     Anglais :   The apples were eaten.
-    Panlingue :  aple beyu niama.
+    Panlingue :  aple beyu yama.
     Chinois :   Píngguǒ bèi chī le. (苹果被吃了。)
     Français :  Les pommes ont été mangées.
 
 **Beyu** est un mot emprunté au chinois standard, mais il est également proche de certaines utilisations de l'anglais "to be".
 
     Anglais :   It can not be eaten.
-    Panlingue :  le no abla beyu niama.
+    Panlingue :  le no abla beyu yama.
     Chinois :   Tā bù néng bèi chī. (它不能被吃。)
     Français :	Ça ne peut pas être mangé.
 
 Comme le chinois, le Panlingue ne marque pas les verbes avec un mot comme "to" (français : "à").
 
     Anglais :   I invite him to drink coffee.
-    Panlingue:   me pliza le niama kafe.
+    Panlingue:   me pliza le yama kafe.
     Chinois :   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
     Français :  Je l'invite à boire du café.
     
@@ -386,5 +386,3 @@ Il n'y a pas de terminaison au pluriel comme -s en anglais ou en français et le
 
 ![](http://www.pandunia.info/bandir/bandera2016.png "Panlingue flag")
 
-
-Mis à jour le 27 mars 2020.

@@ -490,7 +490,7 @@ recipient–verb–(optional agent).
 – You are seen.  
 **musike audu.**
 – Music is heard.  
-**pang beku.**
+**ban beku.**
 – Bread is baked.  
 **kope parcu.**
 – Cup breaks. (Cup gets broken.)

@@ -91,7 +91,7 @@ En panlingue, les verbes actifs sont faciles à identifier parce qu'ils se termi
 
 Les phrases suivantes utilisent l'ordre des mots de type SVO.
 
-**me niama aple.** 
+**me yama aple.** 
 – Je mange des pommes.  
 **me vida te.** 
 – Je te vois.
@@ -109,7 +109,7 @@ En panlingue, la voix passive est marquée par la terminaison en **-u** du verbe
 – Tu es vu.e.  
 **musike audu.** 
 – De la musique est entendue.  
-**pang beku.** 
+**ban beku.** 
 – Du pain est cuit.  
 **kupe kaputu.** 
 – La tasse se brise. (La tasse est brisée.)
@@ -137,11 +137,11 @@ sujet – verbe 1 – objet 1 – verbe 2 – objet 2.
 L'objet 1 possède un double rôle.
 Il est à la fois l'objet du verbe 1 et du sujet du verbe 2.
 
-**me wana te niama sabze.** 
+**me wana te yama sabze.** 
 – Je veux tu manges légumes. (Je veux que tu manges des légumes.)
 
 Dans l'exemple ci-dessus, **me wana** a pour objet **te**.
-En même temps, **te** fonctionne comme le sujet du prédicat suivant : **niama sabze**.
+En même temps, **te** fonctionne comme le sujet du prédicat suivant : **yama sabze**.
 Donc **te** est le _pivot_ de la phrase entière.
 
 
@@ -393,13 +393,13 @@ En panlingue, une particule modale modifie le mot qui la suit, ou bien toute la 
 
 La particule **plus** _(aussi, également)_ en est un bon exemple car elle fonctionne plutôt comme en français.
 
-**le niama bir plus.** 
+**le yama bir plus.** 
 – Elle boit de la bière, _en plus_.  
-**le niama plus bir.** 
+**le yama plus bir.** 
 – Elle boit _de la bière aussi_.  
-**le plus niama bir.** 
+**le plus yama bir.** 
 – Elle _boit aussi_ de la bière.  
-**plus le niama bir.** 
+**plus le yama bir.** 
 – _Elle aussi_ boit de la bière.
 
 Les particules modales peuvent modifier toutes sortes de mots, y compris des pronoms et des numéraux, ce que les adjectifs ne peuvent pas modifier.

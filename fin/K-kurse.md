@@ -170,9 +170,9 @@ pomo, päällikkö.
 = Hei! Istu, ole hyvä!  
 ☻: **danke.**
 = Kiitos.  
-☺: **pliza niama kafe u cay.**
+☺: **pliza yama kafe u cay.**
 = Joisitko kahvia tai teetä?  
-☻: **me niama cay. danke.**
+☻: **me yama cay. danke.**
 = Minä juon teetä. Kiitos.  
 ...  
 ☺: **pliza salama ti mame!**
@@ -232,7 +232,7 @@ kohteliaiden pyyntöjen ilmaisemiseen.
 = Antaisitko kahvia.  
 **pliza dona cay.**
 = Antaisitko teetä.  
-**pliza niama cay.**
+**pliza yama cay.**
 = Ottaisitko teetä.  
 **pliza safa kamare.**
 = Siivoaisitko huoneen.
@@ -277,16 +277,16 @@ Käännä seuraavat lauseet panlingueksi. Oikeat vastaukset ovat sanaston jälke
 **u** tai, vai.
 **safa** siivota.
 **sida** istua.
-**niama** syödä tai juoda.
+**yama** syödä tai juoda.
 
 
 ### Harjoitusten vastaukset
 
-1. le niama cay.
+1. le yama cay.
 2. xefe pliza le sida.
-3. pliza niama kafe u cay.
+3. pliza yama kafe u cay.
 4. mame pliza me safa kamare.
-5. xefe sida i niama kafe.
+5. xefe sida i yama kafe.
 6. (komanda) salama xefe!
 
 
@@ -297,7 +297,7 @@ Käännä seuraavat lauseet panlingueksi. Oikeat vastaukset ovat sanaston jälke
 
 ### Keskustelu
 
-☻: **salam! eska te niama kafe u cay?**
+☻: **salam! eska te yama kafe u cay?**
 = Terve! Joisitteko kahvia vai teetä?  
 ☺: **cay.**
 = Teetä.  
@@ -305,15 +305,15 @@ Käännä seuraavat lauseet panlingueksi. Oikeat vastaukset ovat sanaston jälke
 = Entä sinä?  
 ○: **me no baxa panlingue...**
 = En osaa panlingueta...  
-☻: **pardon! eska le niama cay?**
+☻: **pardon! eska le yama cay?**
 = Anteeksi! Haluaisiko hän teetä?  
-☺: **no. le no niama cay. le niama kafe.**
+☺: **no. le no yama cay. le yama kafe.**
 = Ei, hän ei juo teetä. Hän juo kahvia.  
-☻: **eska te niama supe?**
+☻: **eska te yama supe?**
 = Saisiko olla keittoa?  
 ☺: **si.**
 = Kyllä.  
-☻: **eska le niama supe?**
+☻: **eska le yama supe?**
 = Haluaisiko hän keittoa?  
 ☺: **no.**
 = Ei.  
@@ -327,11 +327,11 @@ Kysymykset joihin vastataan "kyllä" ja "ei" muodostetaan samalla
 saranarakenteella kuin pyynnöt, joissa käytetään sanaa **pliza**.
 Kysymyslauseet aloitetaan sanalla **eska** = kysyä.
 
-**me eska te niama cay.**
+**me eska te yama cay.**
 = Minä kysyn, juotko sinä teetä. 
-**eska te niama cay?**
+**eska te yama cay?**
 = Juotko sinä teetä?  
-**eska niama cay?**
+**eska yama cay?**
 = Juotko teetä?
 
 Pyynnöt on yleensä osoitettu ihmiselle, joille puhutaan, mutta
@@ -339,16 +339,16 @@ kysymykset usein koskettavat muita ihmisiä. Sen vuoksi
 kysymyslauseeseen jätetään yleensä jälkimmäinen pronomini jäljelle.
 Sen voisi jättää pois vain kun on ilmiselvää, ketä kysymys koskee.
 
-**eska le niama cay?**
+**eska le yama cay?**
 = Juoko hän teetä?  
-**eska te niama supe?**
+**eska te yama supe?**
 = Syötkö sinä keittoa?  
-**eska mome niama suy?**
+**eska mome yama suy?**
 = Juommeko me vettä?
 
 Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 
-**eska xefe niama kafe?**
+**eska xefe yama kafe?**
 = Juoko päällikkö kahvia?  
 **eska pape safa kamare?**
 = Siivoaako isä huoneen?  
@@ -360,31 +360,31 @@ Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 
 Kyllä-vai-ei kysymyksiin vastaan **si** = kyllä, tai **no** = ei.
 
-– **eska te niama supe?**
+– **eska te yama supe?**
 = Syötkö sinä keittoa?  
 – **si.**
 = Kyllä.  
-– **eska le niama supe?**
+– **eska le yama supe?**
 = Syökö hän keittoa?  
 – **no.**
 = Ei.
 
 Vastata voi myös perusteellisemmin.
 
-– **eska te niama kafe?**
+– **eska te yama kafe?**
 = Juotko sinä kahvia?  
-– **si. me niama kafe.**
+– **si. me yama kafe.**
 = Kyllä. Minä juon kahvia.  
-– **eska le niama kafe?**
+– **eska le yama kafe?**
 = Juoko hän kahvia?  
-– **no. le no niama kafe.**
+– **no. le no yama kafe.**
 = Ei. Hän ei juo kahvia.
 
 Toinen tapa vastata myöntävästi on kysymyksen verbin toistaminen.
 
-– **eska te niama suy?**
+– **eska te yama suy?**
 = Juotko sinä vettä?  
-– **niama.**
+– **yama.**
 = Juon.
 
 
@@ -417,10 +417,10 @@ Käännä seuraavat lauseet panlingueksi.
 
 1. eska te baxa panlingue?
 2. si. me baxa panlingue.
-3. eska mame niama kafe?
-4. no. le no niama kafe.
-5. eska le niama supe?
-6. (le) no niama.
+3. eska mame yama kafe?
+4. no. le no yama kafe.
+5. eska le yama supe?
+6. (le) no yama.
 
 --------------------------------------------------------------------------------
 
@@ -490,9 +490,9 @@ Käännä seuraavat lauseet panlingueksi.
 
 1. le no safa kamare.
 2. un kupe no hali.
-3. dul waf no niama supe.
+3. dul waf no yama supe.
 4. le no tena waf i maw. / le tena no waf i no maw.
-5. xefe niama cay a no kafe.
+5. xefe yama cay a no kafe.
 6. mame tena no waf a dul maw.
 
 
@@ -512,7 +512,7 @@ tarkennetaan muilla sanoilla.
 
 **ki ren laya?**
 = Kuka tulee? (**ren** = henkilö)  
-**ki zaman te niama?**
+**ki zaman te yama?**
 = Mihin aikaan sinä syöt? (**zaman** = aika)  
 **ki yang se dansa?**
 = Miten tanssitaan? (**yang** = tapa)
@@ -564,7 +564,7 @@ vastata kysymykseen.
 2. pape suku.
 3. ki zaman le laya?
 4. sa bade da des minute.
-5. ke saba le no niama?
+5. ke saba le no yama?
 6. sabu le no suku kafe.
 
 
@@ -583,12 +583,12 @@ jotka ovat kaikissa aikamuodoissa samoja tietyissä persoonissa.
 = Minä imuroin (äsken/nyt/pian).
 
 Ero on siinä, että kaikki panlinguen verbit ovat sellaisia! Esimerkiksi
-**me niama pang**  voi tarkoittaa sekä "Minä söin leipää" että "Minä
+**me yama ban**  voi tarkoittaa sekä "Minä söin leipää" että "Minä
 syön leipää", mutta tavallisesti vain toinen merkitys sopii
 asiayhteyteen. Esimerkiksi kun on päivä ja puhe on aamiaisesta,
 lause viittaa luonnollisesti menneeseen aikaan.
 
-**me niama pang sa subi nyam.**
+**me yama ban sa subi nyam.**
 = Minä söin leipää aamiaisella.
 
 Mennyttä, nykyistä ja tulevaa tarkoittavat määresanat ovat **pas, zay**
@@ -670,7 +670,7 @@ Käännä seuraavat lauseet panlingueksi.
 **zay** nykyinen, nykyään.
 **wil** tuleva, tulevaisuudessa.
 **darba** lyödä.
-**pang** leipä.
+**ban** leipä.
 **subi nyam** aamiainen.
 **milke** maito.
 
@@ -678,8 +678,8 @@ Käännä seuraavat lauseet panlingueksi.
 
 1. mi xefe festa sa wile.
 2. me tena dul waf sa pase.
-3. te niama kafe zay.
+3. te yama kafe zay.
 4. le safa kamare sa predi den.
-5. maw niama milke sa badi den.
+5. maw yama milke sa badi den.
 6. ti mame festa sa predi noce.
 

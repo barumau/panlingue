@@ -188,19 +188,19 @@ Panlinguen yleisin sanajärjestys on subjekti-predikaatti-objekti, joka on myös
 Objektin voi siirtää lauseen alkun verbin **bey** avulla.
 
     Englanti:  The apples were eaten.
-    Panlingue:  aple bey niama.
+    Panlingue:  aple bey yama.
     Kiina:     Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bey** on lainaa kiinan kielestä, mutta sen käyttö muistuttaa myös joitakin englannin olla-verbin "to be" käyttötapoja.
 
     Englanti:  It can not be eaten.
-    Panlingue:  ye no abla bey niama.
+    Panlingue:  ye no abla bey yama.
     Kiina:     Tā bù néng bèi chī. (它不能被吃。)
 
 Kuten kiinassa, panlinguessa ei tarvitse merkitä infiniittimuotoista verbiä, mikä tehdään englannissa artikkelilla "to".
 
     Englanti:  I invite him to drink coffee.
-    Panlingue:  mi pliza ye niama kafe.
+    Panlingue:  mi pliza ye yama kafe.
     Kiina:     Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 Panlinguessa ja kiinassa sama substantiivimuoto käy sekä yksikössä että monikossa. Siis englannin kielen tapaista monikon päätettä (-s) ei ole. Molemmissa kielissä ei myöskään taivuteta verbejä persoona- eikä aikamuodoissa.

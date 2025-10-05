@@ -1,5 +1,5 @@
 
-# 8. Pronouns
+# Pronouns
 
 Pronouns can substitute nouns and noun phrases.
 

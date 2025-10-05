@@ -27,7 +27,7 @@ Panlinguessa yleisin sanajärjestys on subjekti-verbi-objekti eli SVO. Tässä s
 Esimerkkejä:  
 **me vida lole.**
 = Minä näen heidät.  
-**te beka pang.**
+**te beka ban.**
 = Sinä leivot leipää.  
 
 ### OSV-järjestys
@@ -43,7 +43,7 @@ Kolmion toinen sanajärjestys on OSV. Se on yleinen kysymyslauseissa ja sivulaus
 Esimerkkejä:  
 **ke te vida?**
 = Mitä sinä näet?  
-**me niama pang, jo te beka.**
+**me yama ban, jo te beka.**
 = Minä syön leipää _jonka sinä leivoit._
 
 #### 6.2.3. VOS-järjestys
@@ -57,7 +57,7 @@ Kolmion kolmas sanajärjestys on VOS, jota käytetään harvoin.
     S ← O
 
 Esimerkkejä:  
-**niama pang me.**
+**yama ban me.**
 = Syön leipää minä.  
 **vida me te.**
 = Näet minut sinä.
@@ -84,7 +84,7 @@ SOV on usein käytetty vaihtoehto SVO-järjestykselle.
 Esimerkkejä:  
 **me lole vidu.**
 = _Minä heidät näen._  
-**te pang beku.**
+**te ban beku.**
 = _Sinä leipää leivot._
 
 #### 6.3.2. OVS-järjestys
@@ -98,9 +98,9 @@ OVS on yleinen "passiivissa" lauseissa.
     O   S
 
 Esimerkkejä:  
-**pang beku te.**
+**ban beku te.**
 = Leipää leivot sinä.  
-**pang beku.**
+**ban beku.**
 = Leipää leivotaan.  
 **te vidu me.**
 = Sinut näen minä.  
@@ -123,7 +123,7 @@ Passiivilausekkeessa on vain objekti ja verbi, mutta subjektia ei mainita.
 
 **me vidu.**
 = Minut nähdään.  
-**pang beku.**
+**ban beku.**
 = Leipää leivotaan.  
 **kupe kaputu.**
 = Kuppi särkyy. (Kuppi särjetään.)
@@ -193,9 +193,9 @@ Minä puhun ystävien kanssa panlingueta puhelimessa.
 
 Monesti verbit täyttävät saman aseman kuin sijamuodot, prepositiot ja postpositiot suomessa.
 
-**me kata pang.**
+**me kata ban.**
 = Minä leikkaan leipää.  
-**me kata pang, uza caku.**
+**me kata ban, uza caku.**
 = Minä leikkaan leipää, veistä käyttäen. (Minä leikkaan leipää veitsellä.)  
 
 **me denga dura dul hor.**

@@ -150,7 +150,7 @@ Aktiivilauseissa predikaatin pääsana on verbi eli teonsana. Panlinguessa verbi
 
 A-päätteistä verbiä käyttävän aktiivilauseen sanajärjestys on subjekti–verbi–objekti (SVO).
 
-**me niama aple.**
+**me yama aple.**
 = Minä syön omenoita.  
 **me auda musike.**
 = Minä kuuntelen musiikkia.  
@@ -175,7 +175,7 @@ Passiivilauseessa tilanne nähdään teon kohteen tai kokijan kannalta. Lauseess
 = Sinut nähdään.  
 **musike audu.**
 = Musiikkia kuullaan.  
-**pang beku.**
+**ban beku.**
 = Leipää leivotaan.
 
 Passiivilauseessa teon kohde on tekijää tärkeämpi, joten se on ensimmäisenä. Kohde on passiivinen toimija, joka käy läpi predikaatin ilmaiseman teon.
@@ -196,7 +196,7 @@ Kun käytetään sanajärjestä verbi–objekti (VO), huomion kohteena on teko.
 = Nähdään sinut.  
 **auda musike.**
 = Kuunnellaan musiikkia.  
-**beka pang.**
+**beka ban.**
 = Leivotaan leipää.
 
 
@@ -233,10 +233,10 @@ subjekti – verbi 1 – objekti 1 – verbi 2 – objekti 2.
 
 Objekti 1 on kahdessa roolissa. Se on yhtä aikaa sekä verbin 1 objekti että verbin 2 subjekti.
 
-**me wana te niama sabze.**
+**me wana te yama sabze.**
 = Minä haluan sinun syövän vihanneksia.
 
-Edellisessä esimerkissä, lausekkeen **me wol** objektina on **te**. Samaan aikaan **te** toimii subjektina lausekkeelle **niama sabze**. Näin ollen **te** on lauseen _sarana_.
+Edellisessä esimerkissä, lausekkeen **me wol** objektina on **te**. Samaan aikaan **te** toimii subjektina lausekkeelle **yama sabze**. Näin ollen **te** on lauseen _sarana_.
 
 
 ### 7.7. Verbiketju
@@ -440,7 +440,7 @@ Käänteisen järjestys muistuttaa suomen kielessä yleistä rakennetta.
 
 Jos määrelauseessa on kohde mutta ei tekijää, päälauseen asiansana toimii määrelauseen tekijänä.
 
-**me vida man _ya niama aple_.**
+**me vida man _ya yama aple_.**
 = Minä näen miehen, _joka syö omenoita_.  
 **me vida _aple nyamu yu_ man.**
 = Minä näen _omenia syövän_ miehen.
@@ -455,13 +455,13 @@ Panlinguessa tavan partikkeli määrittää seuraavaa sanaa tai, jos se on lause
 
 Partikkeli **plus** (myös) on hyvä esimerkki tavan partikkeleista, koska se toimii samalla tavalla kuin vastaava suomen sana.
 
-**le niama bir plus.**
+**le yama bir plus.**
 = Hän juo olutta, myös.  
-**le niama plus bir.**
+**le yama plus bir.**
 = Hän juo _myös olutta_.  
-**le plus niama bir.**
+**le plus yama bir.**
 = Hän _myös juo_ olutta.  
-**plus le niama bir.**
+**plus le yama bir.**
 = _Myös hän_ juo olutta.
 
 Partikkelit voivat määrittää mitä tahansa sanaa, mutta adjektiivit eivät voi määrittää esimerkiksi lukusanoja.

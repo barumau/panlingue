@@ -1,3 +1,4 @@
+
 # Basics of Panlingue
 
 This document is a simple guide to the main features of Panlingue.

@@ -712,13 +712,13 @@ such as "to hit", which is the same in all tenses.
 **me darba le.**
 = I hit it.
 
-In Panlingue all verbs are like that! For example, **me yama pang**
+In Panlingue all verbs are like that! For example, **me yama ban**
 can mean both "I eat bread" and "I ate bread", but usually only one
 or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the
 sentence tells about the past time.
 
-**me yama pang va subi yam.**
+**me yama ban va subi yam.**
 = I ate bread for morning meal.
 
 There are also specific time words.
@@ -811,7 +811,7 @@ Try translating these sentences from English to Panlingue.
 **zayo** at present, currently.
 **vilo** in future.
 **darba** to hit, to beat.
-**pang** bread.
+**ban** bread.
 **subyam** morning meal, breakfast.
 
 ### Answers to the Exercises
