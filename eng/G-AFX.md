@@ -19,19 +19,18 @@ For example, this is how the word **inexplikabli** ('inexplicable, unexplainable
            in       ('not')
        +   ex       ('out')
        + plik       ('fold')
-       +  abl       ('able')
-       +    i       (adjective ending)
+       + abli       ('able')
     _____________
     = inexplikabli  ('inexplicable')
 
 If joining bare stems together would result into a difficult consonant sequence,
-a padding vowel **-o-** is inserted between them.
+a linking vowel *-o-* is inserted between them.
 (Remember, if it is difficult to type *ə*, you may always use the dash (-) instead of it.)
 
 For example, this is how **termometer** (_thermometer_) is made:
 
          term       (temperature)
-       +    o       (padding vowel)
+       +    o       (linking vowel)
        + metr       (measuring)
        +   er       (agent)
     _____________
@@ -46,9 +45,9 @@ The prefix
 **a-**
 means that the action brings the agent and the object together.
 
-**cepa**
+**cepta**
 'take, catch'
-→ **acepa**
+→ **acepta**
 'take to oneself, accept'  
 **liga**
 'tie'
@@ -61,9 +60,9 @@ The prefix
 **de-**
 means that the action is directed away from or off something.
 
-**cepa**
+**cepta**
 'take, catch'
-→ **decepa**
+→ **decepta**
 'take away, remove'  
 **duta**
 'lead, conduct'
@@ -412,18 +411,6 @@ means something that is made of or something that consists of the thing indicate
 → **limonaje**
 'lemonade'
 
-#### -an-
-
-Active participle and causative suffix
-
-**yama** to eat  
-**yamani** eating  
-**yamana** to make eat, to feed  
-**xula** to learn  
-**xulana** to teach  
-**sava** to know  
-**savana** to let know, to inform  
-
 #### -em
 
 This rarely used suffix means a fundamental unit in the system of things that is indicated by the base word.
@@ -566,22 +553,27 @@ Indicates possibility. It is often used with the active participle **-an-**.
 The suffix
 **-ion**
 means 'an action or process'.
-**ata**
-'act'
-→ **ation**
-'action'  
+The form *-ion* is joined directly to the root.
+
 **dita**
-'say'
+'to say'
 → **dition**
 'saying, diction'  
 **konsuma**
-'consume'
+'to consume'
 → **konsumion**
-'consumption'  
-**rotata**
-'wheel; to turn like a wheel'
-→ **rotation**
-'turning, rotation'
+'consumption'
+
+The form *-tion* is joined to complete verb that ends in *-a* or *-u*.
+
+**evolu**
+'to evolve'
+→ **evolution**
+'evolution, evolving'  
+**loga**
+'to speak'
+→ **logation**
+'speaking'
 
 #### -isme
 
@@ -610,14 +602,6 @@ certain way or to follow a certain ideology or religion.
 **dev** god  
 **deviste** theist (one who believes in existence of a god or gods)  
 **devisti** theistic
-
-#### -it-
-
-Passive participle and causative suffix.
-
-**sava** to know  
-**saviti** known  
-**savita** to make known  
 
 #### -ium ~ **-um**
 
@@ -718,6 +702,59 @@ means 'arrangement, management'.
 'farming'
 → **agronomia**
 agronomy
+
+#### -n-
+
+Active participle suffix.
+It is added after a complete verb,
+so it retains the verb endings *-a* and *-u*.
+
+**yama**
+'to eat'
+→ **yamani**
+'that eats, eating'  
+**vida**
+'to see'
+→ **vidani**
+'that sees, seeing'  
+
+It also functions as the causative verbal suffix,
+that indicates means that someone causes someone to do something.
+
+**sava**
+'to know'
+→  **savana**
+'to make (someone) known (something), to inform (someone)'  
+**yama**
+'to know'
+→  **yamana**
+'to make (someone) eat (something), to feed (someone)'
+
+
+#### -t-
+
+Passive participle suffix.
+It is added after a complete verb,
+so it retains the verb ending *-a*.
+(Only verbs ending in *-a* can be converted passive.)
+
+**sava**
+'to know'
+→  **savati**
+'known'
+
+It also functions as the causative verbal suffix,
+that indicates that someone causes something to be done to someone or something.
+
+**sava**
+'to know'
+→  **savata**
+'to make (something) known'  
+**yama**
+'to know'
+→  **yamata**
+'to make (something) eaten, to feed (something)'
+
 
 #### -ur
 
