@@ -26,7 +26,7 @@ La plej komuna vortordo en Panlingvo estas subjekto-verbo-objekto (SVO).
 Ekzemploj:  
 **me vida lole.**
 = Mi vidas ilin.  
-**te beka pang.**
+**te beka ban.**
 = Vi bakas panon.  
 
 #### 6.2.2. OSV-vortordo
@@ -40,7 +40,7 @@ Ekzemploj:
 Ekzemploj:  
 **ke te vida?**
 = Kion vi vidas?  
-**me niama pang, da te beka.**
+**me yama ban, da te beka.**
 = Mi manĝas panon, kiun vi bakis._
 
 #### 6.2.3. VOS-vortordo
@@ -74,7 +74,7 @@ SOV order is commonly used alternative for SVO order.
 Ekzemploj:  
 **me lole vidu.**
 = Mi ilin vidas.  
-**te pang beku.**
+**te ban beku.**
 = Vi panon bakas.
 
 #### 6.3.2. OVS-vortordo
@@ -88,7 +88,7 @@ OVS-ordo estas komuna en "pasivaj" frazoj.
     O   S
 
 Ekzemploj:  
-**pang beku te.**
+**ban beku te.**
 = Panon bakas vi.  
 **te suku me.**
 = Al vi plaĉas mi.
@@ -109,7 +109,7 @@ Pasivaj frazoj enhavas nur objekton kaj verbon sed ne subjekton.
 
 **me vidu.**
 Mi estas vidita.  
-**pang beku.**
+**ban beku.**
 = Pano estas bakita.  
 **kupe kaputu.**
 = Kopo estas rompita.

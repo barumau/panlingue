@@ -1,3 +1,4 @@
+
 # Frazaro
 
 ## Enkonduko
@@ -462,7 +463,7 @@ Mi trinkas kafon.
 
 Noto: Signifo de **yam** kovras manĝadon kaj trinkadon.
 
-**me yama kafe e pang.**
+**me yama kafe e ban.**
 Mi manĝas kafon kaj panon.
 
 
