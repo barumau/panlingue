@@ -139,7 +139,7 @@ signifas ke la agado forigas ion.
 'parto'
 → **departa**
 'apartigi'  
-**a**
+**koda**
 'kodi'
 → **dekoda**
 'malkodi'  
@@ -221,6 +221,10 @@ La prefikso
 **ex-**
 signifas ke la ago celas eksteren.
 
+**kluza**
+'fermi'
+→ **exkluza**
+'ekskluzivi'  
 **cepta**
 'preni'
 → **ecepta**
@@ -312,9 +316,9 @@ esprimas ke io estas antaŭ en tempo aŭ ordo.
 
 La prefikso **re-** signifas 'veni aŭ meti denove en la saman lokon kiel antaŭe'.
 
-**ata**
+**aga**
 'agi'
-→ **reata**
+→ **reaga**
 'reagi'  
 **turna**
 'turni'
@@ -449,40 +453,25 @@ la sufiksoj kuniĝas al
 'nacio'
 → **nasiali**
 'nacia'  
-**sosia**
+**socia**
 'socio'
-→ **sosiali**
+→ **sociali**
 'socia, sociala'
 
 #### -bli
 
 La sufikso
-**-bil**
+**-bli**
 esprimas, ke io estas 'ebla' aŭ 'povas esti farata'.
 
-**vize**
+**viza**
 'vidi'
-→ **vizebil**
+→ **vizabli**
 'videbla'  
 **uza**
 'uzi'
-→ **uzabil**
+→ **uzabli**
 'uzebla'
-
-#### -ente ~ -nte
-
-La sufikso
-**-(e)nte**
-esprimas 'iun kiu faras la agon kiun la radiko esprimas'.
-
-**es**
-'esti'
-→ **esente**
-'estanta'  
-**loga**
-'paroli'
-→ **logante**
-'parolanta'
 
 #### -er ~ -ter
 
@@ -490,21 +479,21 @@ La sufikso
 **-(t)er**
 esprimas 'personon kiu okupiĝas pri io (eble profesie)'.
 
-**ate**
+**aga**
 'agi'
-→ **ater**
+→ **ager**
 'aganto'  
-**bake**
+**baka**
 'baki'
 → **baker**
 'bakisto'  
-**lide**
+**lida**
 'regi, estri'
 → **lider**
 'resisto, estro'  
-**filsofe**
+**filosofa**
 'filozofi'
-→ **filsofer**
+→ **filosofer**
 'filozofo'  
 **muskete**
 'muskedo'
@@ -514,7 +503,7 @@ esprimas 'personon kiu okupiĝas pri io (eble profesie)'.
 'kesto, kaso'
 → **kaser**
 'kasisto'  
-**kompute**
+**komputa**
 'komputi'
 → **komputer**
 'komputilo'
@@ -525,7 +514,7 @@ esprimas 'personon kiu okupiĝas pri io (eble profesie)'.
 **-(t)er** + **-ia**.
 Ĝi siginifas ejon, kutime verkejon.
 
-**bake**
+**baka**
 'baki'
 → **bakeria**
 'bakejo'  
@@ -679,11 +668,12 @@ kie ĝi signifas kolekton de scienca scio kaj praktiko.
 **geolojia**
 'geologio'
 
-#### -an ~ ian
+#### -ian
 
 La sufikso
 **-ian**
 esprimas 'anon de iu komunumo', ekzemple de lando, urbo aŭ klubo.
+
 
 **Italia**
 'Italio'
@@ -704,7 +694,9 @@ esprimas 'anon de iu komunumo', ekzemple de lando, urbo aŭ klubo.
 
 #### -ifa
 
-La sufikso *-ifa* signifas 'igi'.
+La sufikso
+**-ifa**
+signifas 'igi'.
 
 **kompli**
 'malsimpla, kompleksa'
@@ -845,7 +837,7 @@ La formo **-tive** estas uzata kiam la radiko finiĝas per iu alia vokalo ol *-e
 → **bashative**
 'lingva, komunikada'
 
-#### -iza ~ -tiza
+#### -iza
 
 La sufikso
 **-iza**
@@ -997,65 +989,65 @@ signifas rezulton de ago.
 ### Kemiaj afiksoj
 
 **-al**
-'aldehyde':  
+'aldehido':  
 **metanal**
-'formaldehyde, methanal'
+'formaldehido, metanalo'
 
 **-an**
-'alkane group':  
+'alkana grupo':  
 **metil**
-'methyl'
+'metilo'
 → **metan**
-'methane'
+'methano'
 
 **-at**
-'salt or ester':  
+'salo aŭ estero':  
 **sulfe**
-'sulfur'
+'sulfuro'
 → **sulfat**
-'sulfate'  
+'sulfato'  
 
 **-en**
-'alkene group':  
+'alkena grupo':  
 **meten**
-'methen'
+'meteno'
 
 **-il**
-'alkyl group':  
+'alkila grupo':  
 **bute**
-'butter'
+'butero'
 → **butil**
-'butyl'  
+'butilo'  
 **metan**
-'methane'
+'metano'
 → **metil**
-'methyl'
+'metilo'
 
 **-in**
-'alkyne group':  
+'alkina grupo':  
 **metin**
-'methyne'
+'metino'
 
 **-it**
-'salt or ester':  
+'salo aŭ estero':  
 **sulfe**
-'sulfur'
+'sulfuro'
 → **sulfit**
-'sulfite'
+'sulfito'
 
 **-ol**
-'alkohola compound':  
+'alkohola kombinaĵo':  
 **etan**
 'etano'
 → **etanol**
 'etanolo'
 
 **-on**
-'ketone group':  
+'ketona grupo':  
 **propan**
-'propane'
+'propano'
 → **propanon**
-'propanone'
+'propanono'
 
 **-os**
 'sukero':  
@@ -1067,3 +1059,4 @@ signifas rezulton de ago.
 'malto'
 → **maltos**
 'maltozo'
+

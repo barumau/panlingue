@@ -1,5 +1,5 @@
 
-# 11. World words
+# World words
 
 <big>Where Panlingue words come from?</big>
 

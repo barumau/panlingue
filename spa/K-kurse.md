@@ -15,19 +15,19 @@ Presentación
 **salam!**
 = ¡Buenos!  
 <big>��</big>
-**te sa ke?**
+**tu sa que?**
 = ¿Quién es usted?  
 <big>🧔</big>
-**me sa Yusef. te sa ke?**
+**me sa Yusef. tu sa que?**
 = Yo soy Yusef. ¿Quién es usted?  
 <big>👩</big>
-**me sa Sara. le sa ke?**
+**me sa Sara. le sa que?**
 Yo soy Sara. ¿Quién es?  
 <big>🧔</big>
 **le sa mi doste.**
 = Es una amiga mia.  
 <big>👩</big>
-**li nam sa ke?**
+**li nam sa que?**
 = ¿Cómo se llama?  
 <big>🧔</big>
 **li nam sa Maria.**
@@ -66,7 +66,7 @@ Intenta traducir estas frases de Español a Panlingue.
 yo  
 **mi**
 mi  
-**te**
+**tu**
 tú, usted
 **ti**
 tu  
@@ -74,7 +74,7 @@ tu
 él, ella, ello  
 **li**
 su  
-**ke**
+**que**
 quién? qué?  
 **sa**
 ser  
@@ -96,11 +96,11 @@ animal
 
 ### Respuestas
 
-1. te sa ke?
+1. tu sa que?
 2. me sa tomas.
-3. ti doste sa ke?
+3. ti doste sa que?
 4. le sa Sara.
-5. ti nam sa ke?
+5. ti nam sa que?
 6. mi nam sa ........... 
 
 
@@ -120,19 +120,19 @@ Esta es la manera como se saludan las personas en Panlingue. Dicen **salam**. Es
 La palabra **salam** significa saludo. (El origen de esta palabra es del árabe “salām”. Panlingue es una lengua planificada multicultural. Por eso en Panlingue es común encontrar que una sola palabra tenga origenes de diferentes idiomas.) 
 
 
-**me salama te.**
+**me salama tu.**
 = Yo te saludo.  
-**te salama me.**
+**tu salama me.**
 = Tú me saludas. Usted me saluda.
 
-**me salama te** es una oración activa. En las oraciones activas el
+**me salama tu** es una oración activa. En las oraciones activas el
 sujeto realiza la acción del verbo y el objeto o complemento es el
 que la recibe. En este caso **me** es el sujeto, **salama** es el
-verbo (la acción), y **te** es el objeto. Su orden es importante.
+verbo (la acción), y **tu** es el objeto. Su orden es importante.
 
 > Sujeto + Verbo + Objeto
 
-En Panlingue los pronombres personales son: **me** = yo, **te** = tú,
+En Panlingue los pronombres personales son: **me** = yo, **tu** = tú,
 usted, y **le** = él, ella, ello. Nota: los pronombres se mantienen
 igual a los dos ejemplos de las oraciones anteriores. Las palabras en
 Panlingue nunca cambian. Siempre se mantienen igual sin importar su
@@ -140,9 +140,9 @@ posición o función en la oración.
 
 En Panlingue las oraciones pueden ser abreviadas dejando por fuera los pronombres que son evidentes en el contexto.
 
-**me salama te!**
+**me salama tu!**
 = ¡Yo te saludo!  
-**salama te!**
+**salama tu!**
 = ¡Saludos para usted! (Es obvio que el hablante es quien saluda.)  
 **salama!**
 = ¡Saludos! (Es obvio que el oyente es saludado.)
@@ -185,7 +185,7 @@ jefe, patrón
 
 ### Respuestas
 
-1. te salama le.
+1. tu salama le.
 2. mame salama pape.
 3. salam mame!
 4. salam!
@@ -228,17 +228,17 @@ Pidiendo
 
 ### Gramatica
 
- En Panlingue los pronombres personales son: **me** = yo, **te** = tú,
+ En Panlingue los pronombres personales son: **me** = yo, **tu** = tú,
  usted, y **le** = él, ella, ello. Panlingue es una lengua de género
  neutral. No distingue sexos en los pronombres de las terceras personas
  o en otros pronombres. Todos los pronombres personales son usados en
  la siguiente oración.
 
-**me pliza te salama le.**
+**me pliza tu salama le.**
 = Yo pedirte saludar a él/ella. (Te pido que saludes)
 
 Esta oración es una _oración eje_. El primer verbo, **pliza** = pedir,
-se dirije a **te** como su objeto. Al mismo tiempo **te** sirve
+se dirije a **tu** como su objeto. Al mismo tiempo **tu** sirve
 también como el sujeto del segundo verbo, **salama** = saludar, del
 cual su objeto es **le**. Así **tu** tiene un doble papel: (1) objeto
 del primer verbo y (2) sujeto del segundo verbo. Por lo tanto, es el
@@ -254,7 +254,7 @@ seguridad que los oyentes saben de lo que él o ella está hablando.
 Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se
 pueden hacer frases más cortas. 
 
-**me pliza te salama le.**
+**me pliza tu salama le.**
 = Yo te pido digas hola a él.
 **pliza salama le.**
 = Por favor dile hola.
@@ -348,31 +348,31 @@ Preguntas de Sí o No
 ### Diálogo
 
 <big>👩‍🍳</big>
-**salam! eska te yama kafe o cai?**
+**salam! qua tu yama kafe o cai?**
 = ¡Hola! ¿ Qué desean tomar café o té?  
 <big>🧔</big>
 **cai.**
 = Té.  
 <big>👩‍🍳</big>
-**e te?**
+**e tu?**
 = ¿ y Usted? 
 <big>🧓</big>
 **me no baxa panlingue...**
 = Yo no hablo Panlingue...  
 <big>👩‍🍳</big>
-**maf! eska le yama cai?**
+**maf! qua le yama cai?**
 = ¡Perdón! ¿Él toma té?  
 <big>🧔</big>
 **no. le no yama cai. le yama kafe.**
 = No. Él no bebe té. Él desea tomar café.  
 <big>👩‍🍳</big>
-**eska te yama supe?**
+**qua tu yama supe?**
 = ¿Quieren tomar sopa?  
 <big>🧔</big>
 **ye.**
 = Sí.  
 <big>👩‍🍳</big>
-**eska le yama supe?**
+**qua le yama supe?**
 = ¿Él quiere tomar sopa?  
 <big>🧔</big>
 **no yama.**
@@ -386,20 +386,20 @@ Preguntas de Sí o No
 
 Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **pliza**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **wena** = preguntar.
 
-**me eska te yama cai.**
+**me qua tu yama cai.**
 = Yo preguntarte, tomas té.  
-**eska te yama cai?**
+**qua tu yama cai?**
 = ¿Bebes tú té?  
-**eska yama cai?**
+**qua yama cai?**
 = ¿Bebes té?   
 
 En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas. Por lo tanto el pronombre de segunda persona suele ser necesario. Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
-**eska le yama cai?**
+**qua le yama cai?**
 = ¿Bebe él/ella té?  
-**eska te yama supe?**
+**qua tu yama supe?**
 = ¿Come usted sopa?  
-**eska Kamilo baxa panlingue?**
+**qua Kamilo baxa panlingue?**
 = ¿Habla Camilo Panlingue?
 
 
@@ -407,28 +407,28 @@ En las peticiones por lo general se refiere a los que se habla, pero las pregunt
 
 Las preguntas de sí o no se responden con **si** = sí, y **no** = no.
 
-– **eska te yama supe?**
+– **qua tu yama supe?**
 = ¿Comes tú sopa?  
 – **ye.**
 = Sí.  
-– **eska le yama supe?**
+– **qua le yama supe?**
 = ¿Come ella sopa?  
 – **no.**
 
 También se puede dar una respuesta mas larga.
 
-– **eska te yama kafe?**
+– **qua tu yama kafe?**
 = ¿Bebes tú café?  
 – **ye. me yama kafe.**
 = Sí, yo bebo café.  
-– **eska le yama kafe?**
+– **qua le yama kafe?**
 = ¿Bebe él café?  
 – **no. le no yama kafe.**
 = No, él no bebe café.  
 
 Se puede también responder sí, repitiendo el verbo de la pregunta.
 
-– **eska te yama sui?**
+– **qua tu yama sui?**
 = ¿Bebe usted agua?  
 – **yama.**
 = (Sí, yo) bebo.
@@ -467,7 +467,7 @@ agua
 un (1)  
 **desi**
 diez  
-**eska**
+**qua**
 preguntar  
 **ye**
 sí
@@ -475,11 +475,11 @@ sí
 
 ### Respuestas
 
-1. eska te baxa panlingue?
+1. qua tu baxa panlingue?
 2. ye. me baxa panlingue.
-3. eska mam yama kafe?
+3. qua mam yama kafe?
 4. no. le no yama kafe.
-5. eska le yama supe?
+5. qua le yama supe?
 6. (le) no yama.
 
 
@@ -493,22 +493,22 @@ En la lección anterios apredimos a responder con **si** y **no**.
 La palabra **no** es usada para negar algo. Si se pone **no** antes
 del verbo convertimos una oración afirmativa en negativa. 
 
-**me salama te.**
+**me salama tu.**
 = Yo saludarte.  
-**me no salama te.**
+**me no salama tu.**
 = Yo no saludar a usted. (No te salude.)
 
  Conceptualmente negación significa a ausencia de la palabra negada.
- En la frase **me no salama te** la palabra **no** niega la existencia
+ En la frase **me no salama tu** la palabra **no** niega la existencia
  de **salama** (saludar). En Panlingue la palabra negativa ne se aplica
  a la palabra que la sigue. si que diferentes alcances de negación
  pueden resultar en función de la ubicación de la palabra negativa.
 
-**me pliza te safa kamar.**
+**me pliza tu safa kamar.**
 = Yo te pedi limpiar la habitación.  
-**me no pliza te safa kamar.**
+**me no pliza tu safa kamar.**
 = Yo no te pedi limpiar la habitación.  
-**me pliza te no safa kamar.**
+**me pliza tu no safa kamar.**
 = Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
@@ -668,7 +668,7 @@ celebrar
 
 1. mi xef festa va futur.
 2. me tena duli vaf va pas.
-3. te yama supe zayo.
+3. tu yama supe zayo.
 4. le safa kamar va cenden.
 5. mau yama kafe va badoden.
 6. ti mame festa va censuar.
@@ -712,9 +712,9 @@ La otra palabra conectora, **da** funciona de la misma manera que
 Las palabras conectoras son útiles para dividir frases complejas en
 otras más pequeñas y más manejables.
 
-**me va telo da te.**
+**me va telo da tu.**
 = Yo estoy lejos de ti.  
-**mi va te du telo.**
+**mi va tu du telo.**
 = Yo estoy a tu distancia.  
 
 Las palabras conectoras también ayudan a enlazar dos frases entre
@@ -722,7 +722,7 @@ ellas.
 
 **mame yama keke va bade da le fata le.**
 = Mamá come una galleta después de hacerla.  
-**te fikra ke va tem da keke du guste?**
+**tu fikra que va tem da keke du guste?**
 = ¿Qué tu piensas del sabor de estas galletas?
 
 Las palabras conectoras, en Español también las usamos pero las
@@ -754,9 +754,9 @@ sucesivas efectuadas por el mismo agente. El orden de la frase es:
 Recordemos que Panlingue es una lengua que la serialización verbal
 sea común.
 
-**me vola vida te.**
+**me vola vida tu.**
 = Quiero verte. (palabras por palabras: Yo querer ver usted)  
-**me foka vida te.**
+**me foka vida tu.**
 = Te miro. (palabras por palabra: Yo concentrar ver ti)  
 
 Pueden haber mas de dos verbos en serie.
@@ -794,6 +794,6 @@ Intenta traducir estas oraciones de Español a Panlingue.
 ### Respuestas
 
 1. me vola dona kafe pa xef.
-2. eska te vola yama sui?
+2. qua tu vola yama sui?
 3. le no vola safa si kamar.
 

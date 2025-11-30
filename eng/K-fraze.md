@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Basic words and phrases
 
 ## Introduction
@@ -5,917 +10,1034 @@
 Panlingue is a constructed language that is designed to be relatively easy for
 everyone. You can learn it fast with this practical course.
 
-English speakers will find it easy to make basic sentences in Panlingue as the
-word order is generally the same as in English, there are no definite or
-indefinite articles, no verb "to be", and no complicated rules about changing
-the form of words to express singular and plural or the tense of verbs.
+English speakers will find it easy to make basic sentences in Panlingue as
+the word order is generally the same as in English,
+there are no definite or indefinite articles,
+and no complicated rules about changing the form of words to express singular and plural or the tense of verbs.
 
-The course consists of short lessons. Each lesson introduces one new word,
-which is used in several different phrases in the lesson. This is to teach you
-how the word works as part of sentences. Possibly you will encounter also other
-new words in the same lesson but don't worry about them! You don't have to
-learn all of them at once. Just memorize the phrases that are useful for you!
+The course consists of short lessons.
+Each lesson introduces one new word, which is used in several different phrases in the lesson.
+This is to teach you how the word works as part of sentences.
+Possibly you will encounter also other new words in the same lesson but don't worry about them!
+You don't have to learn all of them at once.
+Just memorize the phrases that are useful for you!
 Maybe the rest will go to your memory subconciously.
 
-You can study this course together with one or several friends. Read the
-phrases together and try to make small conversations. You can also study alone.
-Even then it's useful to read out loud and create conversations. Repeat the
-same phrases several times today, tomorrow, the day after tomorrow and so on.
+You can study this course together with one or several friends.
+Read the phrases together and try to make small conversations.
+You can also study alone.
+Even then it's useful to read out loud and create conversations.
+Repeat the same phrases several times today, tomorrow, the day after tomorrow and so on.
 As they say, _repetition is the mother of learning_.
 
-Note! Many lessons include also tips and notes like this. They are there to
-clarify grammatical details for those who are interested. You can skip over
-them if they are not helpful. You don't have to know the theory of the
-language. You can just speak Panlingue!
+Note! Many lessons include also tips and notes like this.
+They are there to clarify grammatical details for those who are interested.
+You can skip over them if they are not helpful.
+You don't have to know the theory of the language.
+You can just speak Panlingue!
+
 
 ## Part 1: Greeting and basics
 
-### salam <small>greet, greeting</small>
+### sal <small>greeting</small>
 
 <p style="font-size:5em;">🙋‍</p>
 
-**salam**
-Hello!
+*sal!*
+– Hello!
 
-**salam sube!**
-Good morning!
+*sal suba!*
+– Good morning!
 
-**salam den!**
-Good day!
+*sal dia!*
+– Good day!
 
-**salam suar!**
-Good evening!
+*sal sham!*
+– Good evening!
 
-**salam noce!**
-Good night!
+*sal noche!*
+– Good night!
 
-**salam yam!**
-Bon appetit!
+*sal yam!*
+– Bon appetit!
 
-**salam lai!**
-Welcome!
+*sal vena!*
+– Welcome!
 
-**salam cute!**
-Goodbye!
+*sal chuta!*
+– Goodbye!
 
-**salam safar!**
-Have a safe journey!
+*sal safar!*
+– Have a safe journey!
 
-**salam son!**
-Sleep well!
+*sal sona!*
+– Sleep well!
 
-As you can see from the range of expressions, **salam** is a general word for
-well-wishing. Use it any time!
+As you can see from the range of expressions,
+*sal*
+is a general word for well-wishing.
+Use it any time!
+You can also say
+*halo*
+'hello, hi'
+or
+*salam*
+'greetings'
+when you greet someone.
 
-**Salam** is a popular greeting that is used by both religious and
-non-religious people in many different countries around the world.
+<small>Similar words to
+*sal*
+in other languages:
 
-<small>Etymology. **salam** is from Arabic: سَلَام‏ "salām", Hebrew:
-שָׁלוֹם‏ "šalom", Turkish: selam, Hindi: सलाम "salām", Swahili: salaam,
-Indonesian: selamat.</small>
+French *salut*,
+Arabic سَلَام‏ (salām),
+Hebrew
+שָׁלוֹם‏ (šalom),
+Turkish *selam*,
+Hindi सलाम (salām),
+Swahili *salaam*,
+Indonesian *selamat*.</small>
 
 
-### danke <small>thanks</small>
+### shukre <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**danke!**
-Thanks!
+*shukre!*
+– Thanks!
 
-**multo danke!**
-Thanks a lot!
+*multi shukre!*
+– Thanks a lot!
 
-**ha, danke.**
-Yes, thank you.
+*ya, shukre.*
+– Yes, thank you.
 
-**no, danke.**
-No, thank you.
+*no, shukre.*
+– No, thank you.
 
-**danka te.**
-Thank you.
+*shukra tu.*
+– Thank you.
 
-**me danka te.**
-I thank you.
+*me shukra tu.*
+– I thank you.
 
-**me danka te helpa me.**
-I thank you for helping me.
+*me shukra tu helpa me.*
+– I thank you for helping me.
 
-**danka te helpa me.**
-Thanks for helping me.
+*shukra tu helpa me.*
+– Thanks for helping me.
 
-**te keci.**
-You're welcome. (Literally: _You're polite._)
+*no yau shukra.*
+– You're welcome. (Literally: _No need to thank._)
 
 
 ### sa <small>to be</small>
 
-The word **sa** can be used also for stating something as a fact. Then it is
-used in place of "to be".
+The word
+*sa*
+is used for stating something as a fact.
 
-**me sa Tomas.**
-I am Thomas.
+*me sa Tomas.*
+– I am Thomas.
 
-**te sa Sara.**
-You are Sarah.
+*tu sa Sara.*
+– You are Sarah.
 
-**aple sa pal.**
-The apple is a fruit.
+*aple sa frute.*
+– The apple is a fruit.
 
 
 ### me <small>I, me</small>
 
-<p style="font-size:5em;">🗨️🧑</p>
+*me sa Sara.*
+– I'm Sarah.
 
-**me sa Sara.**
-I'm Sarah.
+*me sa Tomas.*
+– I'm Thomas.
 
-**me sa Tomas.**
-I'm Thomas.
+*me sala mama.*
+– I greet mother.
 
-**me salama mame.**
-I greet mother.
+*me sala papa.*
+– I greet father.
 
-**me salama pape.**
-I greet father.
+The verb form of
+*sal*
+is
+*sala*.
+The basic word order in Panlingue is subject–verb–object.
 
-The word **salam** is a noun and **salama** is the corresponding verb. The
-basic word order in Panlingue is subject-verb-object.
+*Sara sala Tomas.*
+– Sarah greets Thomas.
 
-**Sara salama Tomas.**
-Sarah greets Thomas.
+*sal mama!*
+– Greetings, mother!
 
-**salam mame!**
-Greetings, mother!
+*sal papa!*
+– Greetings, father!
 
-**salam pape!**
-Greetings, father!
-
-<small>Etymology. **me**
-is from English: me, Hindi: मैं (meṇ), Spanish: me, French: me.</small>
-
-
-### te <small>you</small>
-
-<p style="font-size:4em;">🗣️👉👤</p>
-
-**te sa Tomas.**
-You are Thomas.
-
-**me salama te.**
-I greet you.
-
-**te salama me.**
-You greet me.
-
-Pronouns don't ever change their form in Panlingue. That's why **me** is the
-same in subject and object positions while English has two different forms, 'I'
-and 'me'.
-
-**me ama te.**
-I love you.
-
-<small>Etymology. **te** is from Hungarian: te, Russian: ты (ty), Italian: te, French: te.</small>
+<small>Similar words to
+*me*
+in other languages:
+English *me*,
+Hindi: मैं (meṇ),
+Spanish *me*,
+French *me*,
+Fulfulde *mi*,
+Swahili *mimi*.</small>
 
 
-### le <small>he, she or it</small>
+### tu <small>you</small>
+
+*tu sa Tomas.*
+– You are Thomas.
+
+*me sala tu.*
+– I greet you.
+
+*tu sala me.*
+– You greet me.
+
+Pronouns don't ever change their form in Panlingue.
+That's why
+*me*
+is the same in subject and object positions
+while English has two different forms, 'I' and 'me'.
+
+*me ama tu.*
+– I love you.
+
+<small>Similar words to
+*tu*
+in other languages:
+Spanish *tu*,
+Italian *tu*,
+French *tu*,
+Russian ты (ty),
+Hindi तू (tū),
+Persian تو‏‎ (to),
+Tajik ту (tu).</small>
+
+
+### ho <small>he, she or it</small>
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**le sa man.**
-He is a man.
+*ho sa man.*
+– He is a man.
 
-**le sa fem.**
-She is a woman.
+*ho sa fem.*
+– She is a woman.
 
-**le sa aple.**
-It is an apple.
+*ho sa aple.*
+– It is an apple.
 
-**le** is the general third person pronoun. It is used for people (irrespective
-of gender) as well as for things.
+*ho*
+is the general third person pronoun.
+It is used for people (irrespective of gender) as well as for things.
 
-**me salama le.**
-I greet him/her.
+*me sala ho.*
+– I greet him/her.
 
-<small>Etymology. **le** is from French: il/le, Spanish: él/le.</small>
+Similar words to
+*ho*
+in other languages:
+Hebrew הוּא /hu/,
+Arabic هو /howa/,
+Turkish *o*,
+Fulani *o*,
+Yoruba *ó*,
+Persian او /u/,
+Hindi वह /voh/.
 
 
-### suala <small>to ask a question</small>
+### qua <small>to ask a question</small>
 
-<p style="font-size:5em">🤔❓</p>
+*qua tu sa Tomas?*
+– Are you Thomas?
 
-**suala te sa Tomas?**
-Are you Thomas?
+*qua tu sa dokter?*
+– Are you a doctor?
 
-**suala te sa mediker?**
-Are you a doctor?
-
-Tip: Yes/no questions frequently begin with **suala**.
+Tip: Yes/no questions frequently begin with
+*qua*.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**me suala te mediker.**
-(I ask, you doctor?) by dropping out the first word.
+*me qua tu sa dokter*
+(I ask, you are doctor?) by dropping out the first word.
 
-**suala te boni?**
-How are you? (Literally: _Are you good?_)  
-**me boni.**
-I'm good.  
-**suala te?**
-And you?  
-**me no boni.**
-I'm not good.
-
-<small>Etymology. **suala**
-is from Arabic سؤال (su'āl),
-Hindi सवाल (savāl),
-Malay _soal_,
-Swahili _swali_.</small>
+*qua tu boni?*
+– How are you? (Literally: _Are you good?_)  
+*me boni.*
+– I'm good.  
+*tu ne?*
+– And you?  
+*me no boni.*
+– I'm not good.
 
 
-### ha <small>yes</small>
+### ya <small>yes</small>
 
-<p style="font-size:5em">👍</p>
+*qua tu sa Tomas?*
+– Are you Thomas?
 
-**suala te sa Tomas?**
-Are you Thomas.
+*ya, me sa Tomas.*
+– Yes, I am Thomas.
 
-**ha, me sa Tomas.**
-Yes, I am Thomas.
+*qua ho sa dokter?*
+– Is he/she a doctor?
 
-**suala le sa mediker?**
-Is he/she a doctor?
+*ya, ho sa dokter.*
+– Yes, he is a doctor.
 
-**ha, le sa mediker.**
-Yes, he is a doctor.
+<small>Similar words to
+*ya*
+in other languages:
+German *ja*,
+English *yeah*,
+Malay *ya*,
+Korean 예 (ya).</small>
 
 
 ### no <small>no, not</small>
 
-<p style="font-size:5em">👎</p>
+*me no sa Sara.*
+– I'm not Sarah.
 
-**me no sa Sara.**
-I'm not Sarah.
+*me no sa dokter.*
+– I'm not a doctor.
 
-**me no sa mediker.**
-I'm not a doctor.
+*qua tu boni?*
+– Are you well?  
+*ya. me boni.*
+– Yes, I'm well.
 
-**suala te boni?**
-Are you well?  
-**ha. me boni.**
-Yes, I'm well.
+*qua tu sa boni?*
+– Are you well?  
+*no, me no sa boni.*
+– No, I'm not well.
 
-**suala te boni?**
-Are you well?  
-**no, me no boni.**
-No, I'm not well.
+You can use
+*no*
+to deny anything.
+It is placed before the word that is denied.
 
-You can use **no** to deny anything. It is placed before the word that is
-denied.
+*ho no sala me.*
+– He/she doesn't greet me.
 
-**le no salama me.**
-He/she doesn't greet me.
+<small>Similar words to
+*no*
+in other languages:
+Spanish *no*,
+English *no*,
+French *non*,
+Persian نه⁩ (na),
+Bengali না (na).</small>
 
-<small>Etymology. **no**
-is from Spanish: no, English no, French: non.</small>
 
+### Plural personal pronouns
 
-### Plural pronouns
+| Singular    | Plural       |
+|:------------|:-------------|
+| *me*        | *memen*      |
+| I, me       | we           |
+| *tu*        | *tumen*      |
+| you         | you all      |
+| *ho*        | *homen*      |
+| he or she   | they         |
 
-Plural pronouns are created like this:
-**me**
-(I) →
-**mome**
-(we)  
-**te**
-(you) →
-**tote**
-(you all)  
-**le**
-(he, she, it) →
-**lole**
-(they)
 
-**mome salama tote.**
-We greet you all.
+*memen sala tumen.*
+– We greet you all.
 
-**tote salama lole.**
-You greet them.
+*tumen sala homen.*
+– You greet them.
 
-**lole salama mome!**
-They greet us.
+*homen sala memen.*
+– They greet us.
 
-**mome sa fem.**
-We are women.
+*memen sa fem.*
+– We are women.
 
-**tote sa man.**
-You are men.
+*tumen sa man.*
+– You are men.
 
-**lole sa aple.**
-They are apples.
+*homen sa aple.*
+– They are apples.
 
 
-### ke? <small>what? who?</small>
+### que? <small>what?</small>
 
-**ke?**
-What?
+*que?*
+– What?
 
-**te sa ke?**
-Who are you?  
-**me sa Tomas.**
-I'm Thomas.
+*que sa ho?*
+– What is it?
 
-**le sa ke?**
-Who is he/she?  
-**le sa Sara.**
-She is Sarah.
+*ho sa buk.*
+– It is a book.
 
-**tote sa ke?**
-Who are you people?
+Similar words to
+*que*
+in other languages:
+Spanish *qué*,
+Portuguese *que*,
+Italian *che*,
+Bengali কী (ke).
 
-**lole sa ke?**
-Who are they?
 
-<small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che,
-Bengali: কী "ki".</small>
+### qui jan? <small>who?</small>
 
+*qui jan?*
+– Who? ~ Which person?
 
-### ye & ve <small>this and that</small>
+*tu sa qui jan?*
+– Who are you?  
+*me sa Tomas.*
+– I'm Thomas.
 
-**ye sa ke?**
-What's this?
+*ho sa qui jan?*
+– Who is he/she?  
+*ho sa Sara.*
+– She is Sarah.
 
-**ye sa aple.**
-This is an apple.
+*tumen sa qui jan?*
+– Who are you people?
 
-**ve sa ke?**
-What is that?
+*homen sa qui jan?*
+– Who are they?
 
-**ve sa oranje.**
-That is an orange.
 
-**ye sa kirmi aple.**
-This is a red apple.
+### yi <small>this</small>
 
-**yi aple sa kirmi.**
-This apple is red.
+*yi sa que?*
+– What's this?
 
-Note: When an adjective like
-**kirmi**
-is placed before a noun, it works as a modifier.
-When it follows the noun, it works as an adjectival verb.
+*yi sa aple.*
+– This is an apple.
 
-**ye sa kirmi.**
-This is red.
+*ho sa rubi aple.*
+– It is a red apple.
 
-Note: The demonstrative pronoun has two forms.
-The forms **ye** and **ve** are used as stand-alone words.
-The forms **yi** and **vi** are used when they modify a noun.
+*homen sta que?*
+– Where are they?
 
-**lole ya ke?**
-Where are they?
+*homen sta hir.*
+– They are here.
 
-**lole ya ye.**
-They are here.
 
-**lole ya ve.**
-They are there.
+### vi <small>that</small>
 
+*que sa vi?*
+– What is that?
 
+*vi sa aple.*
+– That is an apple.
 
-### du <small>'s (possessive particle)</small>
+*yi aple sa rubi.*
+– This apple is red.
 
-**ye sa ke?**
-What's this?
+*ho sa rubi.*
+– It is red.
 
-**le sa me du telfon.**
-It's my telephone.
+*homen sta que?*
+– Where are they?
 
-**ye sa ke du?**
-Whose is this?
+*homen sta der.*
+– They are there.
 
-**le sa mi.**
-It's mine.
 
-Note: Possessive particle **du** is put between the owner and the owned thing.
-So **me du** means "my", **te du** means "your" and so on.
+### di <small>'s (possessive particle)</small>
 
-**le sa ke?**
-Who's he/she?
+*yi sa que?*
+– What's this?
 
-**le sa mi doste.**
-He/she is my friend.
+*ho sa me di telefon.*
+– It's my telephone.
 
-**me sa Sara du doste.**
-I am Sarah's friend.
+*yi sa que di?*
+– Whose is this?
 
-<small>Etymology. **du**
-Mandarin: 的 (de).</small>
+*ho sa me di.*
+– It's mine.
 
+Note: The possessive particle
+*di*
+is joined to the owner. So
+*me di*
+means 'my',
+*tu di*
+means 'your' and so on.
 
-### nam <small>name</small>
+*ho sa que?*
+– Who's he/she?
 
-**ti nam sa ke?**
-What's your name?
+*ho sa me di doste.*
+– He/she is my friend.
 
-**mi nam sa Tomas.**
-My name is Thomas.
+*me sa Sara di doste.*
+– I am Sarah's friend.
 
-**li nam sa ke?**
-What is his/her name?
+It's also possible to end a sentence with
+*di*.
 
-**li nam sa Sara.**
-Her name is Sarah.
+*mau sa me di.*
+The cat is mine.  
+*mone sa memen di.*
+The money is our.  
+*doste sa Sara di.*
+The friend is Sara's.
 
-**me nama tomas.**
-I am called Thomas.
+<small>
+Similar words to
+*di*
+in other languages:
+Mandarin 的 (de, di).</small>
 
-<small>Etymology. **name** is from Hindi: नाम  "nām", Farsi: نام‏‎
-"nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German:
-Name, English: name.</small>
 
+### nim <small>name</small>
 
-### tena <small>have</small>
+*tu di nim sa que?*
+– What's your name?
 
-**me tena boni dom.**
-I have a good house.
+*me di nim sa Tomas.*
+– My name is Thomas.
 
-**le no tena pese.**
-He/she doesn't have money.
+*ho di nim sa que?*
+– What is his/her name?
 
-**me vola tena novi telfon.**
-I want to have a new phone.
+*ho di nim sa Sara.*
+– Her name is Sarah.
 
-**suala te tena pute?**
-Do you have children?  
-**me tena duli pute.**
-I have two children.
+<small>Similar words to
+*nim*
+in other languages:
+Hindi नाम  (nām),
+Farsi نام‏‎ (nām),
+Thai นาม (naam),
+Malay *nama*,
+Japanese 名前 (namae),
+German *Name*,
+English *name*.</small>
 
 
-### sava <small>to know</small>
+### hava <small>have</small>
 
-**me sava le.**
-I know him/her.
+*me hava boni haus.*
+– I have a good house.
 
-**suala te sava vi jan?**
-Do you know that person?
+*ho no hava mone.*
+– He doesn't have money.
 
-**suala tote sava ses?**
-Do you know each other?
+*me vola hava novi telefon.*
+– I want to have a new telephone.
 
-**mome sava ses longo.**
-We know each other for a long time.
+*qua tu hava pikin?*
+– Do you have children?  
+*me hava du pikin.*
+– I have two children.
+
+*qua hava dokter?*
+– Is there a doctor?  
+*ya. ho sa dokter.*
+– Yes. He or she is a doctor.
+
+*qua hava vin?*
+– Do you have wine?  
+*ya. baki e rubi.*
+– Yes, white and red.
+
+
+### nou <small>know</small>
+
+*me nou ho.*
+– I know him/her/it.
+
+*qua tu nou vi jen?*
+– Do you know that person?
+
+*me no nou.*
+– I don't know.
+
+*qua tumen nou alale?*
+– Do you know each other?
+
+*memen nou alala ja long.*
+– We know each other for a long time.
 
 
 ### helpe <small>help</small>
 
-**me nida helpe.**
-I need help.
+*me yau helpa.*
+– I need help.
 
-**suala te abla helpa me?**
-Can you help me?
+*qua tu pota helpa me?*
+– Can you help me?
 
-**suala me abla helpa te?**
-Can I help you?
+*qua me pota helpa tu?*
+– Can I help you?
 
-**me vola helpa te.**
-I want to help you.
+*me vola helpa tu.*
+– I want to help you.
 
 
 ## Part 2: Eating
 
 ### yama <small>consume, eat, drink</small>
 
-**suala te vola yama koi?**
-Would you like to eat something?
+*qua tu vola yama som ting?*
+– Would you like to eat something?
 
-**le yama aple.**
-He/she eats an apple.
+*ho yama un aple.*
+– He/she eats an apple.
 
-**lole yama aple.**
-They eat apples.
+*homen yama aple.*
+– They eat apples.
 
 Note: Unlike English, Panlingue doesn't have separate singular and plural forms.
-Therefore a word like **aple** can refer to one or more apples.
+Therefore a word like
+*aple*
+can refer to one or more apples.
 
-**suala te yama kafe?**
-Do you drink coffee?
+*qua tu yama kafe?*
+– Do you drink coffee?
 
-**ha. me yama kafe.**
-Yes, I drink coffee.
+*ya. me yama kafe.*
+– Yes, I drink coffee.
 
-Tip: Meaning of **yama** covers both eating and drinking. It can feel odd at
-first but soon you will see that it is quite handy! Usually the object of the
-verb tells is it about eating, drinking or both.
+Tip: Meaning of
+*yama*
+covers both eating and drinking.
+It can feel odd at first but soon you will see that it is quite handy!
+Usually the object of the verb tells is it about eating, drinking or both.
 
-**me yama kafe e ban.**
-I'm having coffee and bread.
+*me yama kafe e ban.*
+– I'm having coffee and bread.
 
 
 ### vola <small>want</small>
 
-**suala te vola yama?**
-Would you like to eat?
+*qua tu vola yama?*
+– Would you like to eat?
 
-**te vola yama ke?**
-What would you like to eat?
+*tu vola yama que?*
+– What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Panlingue
-the word order is not affected by the **ke**.
+the word order is not affected by the
+*que*.
 
-**me vola yama kafe.**
-I want to drink coffee.
+*me vola yama kafe.*
+– I want to drink coffee.
 
-**suala te vola yama cai?**
-Would you like to drink tea?  
-**no. me no vola cai. me vola kafe.**
-No, I don't want tea. I want coffee.
+*qua tu vola yama cha?*
+– Would you like to drink tea?  
+*no. me no vola cha. me vola kafe.*
+– No, I don't want tea. I want coffee.
 
-**te vola ki aple?**
-Which apple do you want?  
-**yi kirmi.**
-This red one.
+*tu vola qui aple?*
+– Which apple do you want?  
+*li rubi.*
+– This red one.
 
 
-### cinga <small>request, please</small>
+### pleza <small>ask, beg; please</small>
 
-**me cinga te yama cai.**
-I ask you to drink tea.
+*me pleza tu yama cha.*
+– I beg you to drink tea.
 
-**me cinga te laya dom.**
-I ask you to come home.
+*me pleza tu vena haus.*
+– I beg you to come home.
 
-**me cinga te helpa me.**
-I ask you to help me.
+*me pleza tu helpa me.*
+– I beg you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**cinga yama cai.**
-Please, have some tea!
+*pleza yama cha.*
+– Please, have some tea!
 
-**cinga yama kafe.**
-Please, have some coffee!
+*pleza yama kafe.*
+– Please, have some coffee!
 
-**cinga laya dom.**
-Please, come home!
+*pleza vena haus.*
+– Please, come home!
 
-**cinga helpa me.**
-Please, help me.
-
-
-### haida <small>let's</small>
-
-**haida yama!**
-Let's eat!
-
-**haida gova yama!**
-Let's go eat!
-
-**haida gova dom.**
-Let's go home.
+*pleza helpa me.*
+– Please, help me.
 
 
-### nida <small>need</small>
+### shal <small>let's, shall</small>
 
-**me nida helpe.**
-I need help.
+*memen shal yama!*
+– Let's eat!
 
-**me nida yama.**
-I'm hungry.
+*tumen shal yama!*
+– You all shall eat!
 
-**suala te nida yama?**
-Are you hungry?
+*tu shal yama!*
+– You shall eat!
 
-**suala te nida sui?**
-Are you thirsty?
+*yama!*
+– Eat!
+
+*memen shal go yama!*
+– Let's go eat!
+
+*memen shal go haus.*
+– Let's go home.
+
+
+### yau <small>need</small>
+
+*me yau helpa.*
+– I need help.
+
+*me yau yama.*
+– I'm hungry.
+
+*qua tu yau yama?*
+– Are you hungry?
+
+*qua tu yau sui?*
+– Are you thirsty?
 
 
 ## Part 3. Communication
 
-### maf <small>sorry, pardon</small>
+### perdon <small>sorry, pardon</small>
 
-**maf! me no aha.**
-Sorry, I don't understand.
+*perdon! me no aha.*
+– Sorry, I don't understand.
 
-**maf! ye sa ke?**
-Excuse me, what's this?
+*perdon! yi sa que?*
+– Excuse me, what's this?
 
-**maf. te nama ke?**
-Excuse me, what's your name?
+*perdon. tu di nim sa que?*
+– Excuse me, what's your name?
 
 
 ### aha <small>understand</small>
 
-**suala te aha me?**
-Do you understand me?
+*qua tu aha me?*
+– Do you understand me?
 
-**me aha.**
-I understand.
+*me aha.*
+– I understand.
 
-**maf. me no aha te.**
-Sorry. I don't understand you.
+*perdon. me no aha tu.*
+– Sorry. I don't understand you.
 
-**me no baso aha te.**
-I didn't quite understand you.
+*me no baso aha tu.*
+– I didn't quite understand you.
 
-**me aha nol.**
-I don't understand at all.
+*me aha no ting.*
+– I don't understand at all.
 
 
-### abla <small>can</small>
+### saba <small>know how</small>
 
-**me abla xofa gar.**
-I can drive a car.
+*me saba shofa gar.*
+– I can drive a car.
 
-**le no abla xofa gar.**
-He/she doesn't know how to drive a car.
+*ho no saba shofa gar.*
+– He/she doesn't know how to drive a car.
 
-**suala te abla reibona le?**
-Do you know how to fix it?
+*qua tu saba shuli ho?*
+– Do you know how to fix it?
 
-**suala te abla panlingue?**
-Can you speak Panlingue?
+*qua tu saba pandunia?*
+– Can you speak Panlingue?
 
-**me abla panlingue.**
-I can speak Panlingue.
+*me saba pandunia.*
+– I can speak Panlingue.
 
-**me abla lilo panlingue.**
-I can speak a little Panlingue.
+*me saba kam pandunia.*
+– I can speak a little Panlingue.
 
-**me no abla engli.**
-I can't speak English.
+*me no saba engli.*
+– I can't speak English.
 
-**pardon. me no abla ti bax.**
-Sorry, I can't speak your language.
+*perdon. me no saba tu di bash.*
+– Sorry, I can't speak your language.
 
 
 ### loga <small>to say, speak, talk</small>
 
-**te loga ke?**
-What did you say?
+*tu loga que?*
+– What did you say?
 
-**me loga va te.**
-I talk to you.
+*me loga pa tu.*
+– I talk to you.
 
-**mome loga va ses.**
-We talk to each other.
+*memen loga pa alale.*
+– We talk to each other.
 
-**se loga "cat" ko ya panlingue?**
-How do you say "cat" in Panlingue?
+*jan loga*
+***cat***
+*a qui mode a pandunia?*
+– How do you say "cat" in Panlingue?
 
-**"cat" logu ko ya panlingue?**
-How is "cat" said in Panlingue?
+***cat***
+*sa que a pandunia?*
+– What is "cat" in Panlingue?
 
-**mau loga miau.**
-Cat says meow.
-
-
-### auda <small>to listen, hear</small>
-
-**auda me!**
-Listen to me!
-
-**me no abla auda te.**
-I can't hear you.
-
-**cinga loga forto.**
-Please speak louder.
-
-**me auda musike.**
-I listen to music.
-
-**te auda ki yang du musike?**
-What kind of music do you listen to?
+*mau loga "miau".*
+– Cat says "meow".
 
 
-### vida <small>to see</small>
+### audi <small>to listen, hear</small>
 
-**suku vida te.**
-Pleased to see you!
+*audi me!*
+– Listen to me!
 
-**vida te reyo!**
-See you again!
+*me no pota audi tu.*
+– I can't hear you.
 
-**vida te badodeno!**
-See you tomorrow!
+*pleza loga max bala.*
+– Please speak louder.
 
-**me vida le cendeno.**
-I saw him/her yesterday.
+*me audi muzike.*
+– I listen to music.
+
+*tu audi que tip di muzike?*
+– What kind of music do you listen to?
 
 
-### mena <small>to mean</small>
+### viza <small>to see</small>
 
-**yi loge mena ke?**
-What does this word mean?
+*suku viza tu.*
+– Pleased to see you!
 
-**"mau" mena ke?**
-What does "mau" mean?
+*to rivize!*
+– See you again!
 
-**le mena yang da zou.**
-It means a kind of animal.
+*viza tu a posden!*
+– See you tomorrow!
 
-**me no aha le mena ke.**
-I don't understand what it means.
+*me viza ho a preden.*
+– I saw him/her yesterday.
+
+
+### sema <small>to mean</small>
+
+*yi lexe sema que?*
+– What does this word mean?
+
+*"mau" sema que?*
+– What does "mau" mean?
+
+*ho sema un tipe da hevan.*
+– It means a kind of animal.
+
+*me no aha ho sema que.*
+– I don't understand what it means.
 
 
 ### kitaba <small>write</small>
 
-**cinga kitaba ti adres.**
-Please, write your address.
+*pleza kitaba tu di adres.*
+– Please, write your address.
 
-**cinga kitaba le ya ye.**
-Please, write it here!
+*pleza kitaba ho a hir.*
+– Please, write it here!
 
 
-### baxa <small>speak a language, communicate</small>
+### basha <small>speak a language, communicate</small>
 
-**suala tote baxa panlingue.**
-Do you speak Panlingue?
+*qua tu basha pandunia.*
+– Do you speak Panlingue?
 
-**mome baxa panlingue.**
-We speak Panlingue.
+*memen basha pandunia.*
+– We speak Panlingue.
 
-**suala te abla baxa engli?**
-Can you speak English?
+*qua tu saba basha english?*
+– Can you speak English?
 
-**fransi, espani, portugali, rusi**
-French, Spanish, Portuguese, Russian
+*franse, espanya, portugal, rus*
+– French, Spanish, Portuguese, Russian
 
-**cini, niponi, indonesi**
-Chinese, Japanese, Indonesian
+*putong han, nipon, malayu*
+– Chinese, Japanese, Malay
 
-**arabi, turki, farsi, urdi, hindi**
-Arabic, Turkish, Farsi, Urdu, Hindi
+*arabi, turki, parsi, urdu, hindi*
+– Arabic, Turkish, Farsi, Urdu, Hindi
 
-**suahili, hausi, yorubi, amari**
-Swahili, Hausa, Yoruba, Amharic
+*suahili, hausa, yoruba, amara*
+– Swahili, Hausa, Yoruba, Amharic
 
 
 ## Part 4. Going around
 
-### gova <small>to go</small>
+### go <small>to go</small>
 
-**te gova ke?**
-Where are you going?
+*go der!*
+– Go there!
 
-**me gova dom.**
-I'm going home.
+*tu go qui kan?*
+– Where are you going?
 
-**me musu gova ke?**
-Where should I go?
+*me go haus.*
+– I'm going home.
 
-**me musu gova va ki ren?**
-To whom should I go?
+*me debu go qui kan?*
+– Where should I go?
 
-**haida gova!**
-Let's go!
+*me debu go pa qui jan?*
+– To whom should I go?
 
-**haida gova ya fute**
-Let's go by foot!
+*memen shal go!*
+– Let's go!
+
+*memen shal go a fut*
+– Let's go by foot!
 
 
-### laya <small>to come</small>
+### vena <small>to come</small>
 
-**cinga laya!**
-Come here!
+*vena hir!*
+– Come here!
 
-**te laya la ke?**
-Where do you come from?
+*pleza vena!*
+– Please come!
 
-**me laya la Dubai.**
-I come from Dubai.
+*tu vena ja qui kan?*
+– Where do you come from?
 
-**me laya dom badodeno.**
-I will come home tomorrow.
+*me vena ja Dubai.*
+– I come from Dubai.
+
+*me vena haus a pos den.*
+– I will come home tomorrow.
 
 
 ### safara <small>to travel</small>
 
-**suala te safara ya tren?**
-Do you travel by train?
+*qua tu safara a tren?*
+– Do you travel by train?
 
-**mome safara la London va Paris.**
-We travel from London to Paris.
+*memen safara ja London pa Paris.*
+– We travel from London to Paris.
 
-**safar polo longi.**
-The voyage is very long.
-
-
-### ya <small>in, on, at</small>
-
-**hotel ya ke?**
-Where is the hotel?
-
-**hotel ya vi dau.**
-The hotel is on that road.
-
-**te ya ke?**
-Where are you?
-
-**me ya dom.**
-I'm at home.
-
-**le ya ke?**
-Where is he/she?
-
-**le sida ya kamre.**
-He/she sits in the room.
-
-Tip! You can use **ya** as a preposition or alone as the verb.
-
-**me kara ya...**
-I work at ...
+*safara sa multo longi.*
+– The voyage is very long.
 
 
-### doma <small>to live, reside</small>
+### a <small>in, on, at</small>
 
-**te doma ke?**
-Where do you live?
+*hotel a qui kan?*
+– Where is the hotel?
 
-**me doma Singapur.**
-I live in Singapore.
+*hotel a vi dao.*
+– The hotel is on that road.
 
-**suala te doma yi hotel?**
-Do you live in this hotel?
+*tu a qui kan?*
+– Where are you?
 
-Tip: It is also okay to say **te doma ya ke?** instead of **te doma ke**.
-However **doma** already covers the meaning of being at somewhere, so **ya** is not necessary.
+*me a haus.*
+– I'm at home.
+
+*ho a qui kan?*
+– Where is he/she?
+
+*ho sida a kamre.*
+– He/she sits in the room.
+
+Tip! You can use
+*a*
+as a preposition or alone as the verb.
+
+*me verka a...*
+– I work at ...
 
 
-### denga <small>to wait</small>
+### loju <small>to live, reside</small>
 
-**cinga denga!**
-Please wait!
+*tu loju a qui kan?*
+– Where do you live in?
 
-**denga me!**
-Wait for me!
+*me loju Singapur.*
+– I live in Singapore.
 
-**lole denga mome.**
-They wait for us.
+*qua tu loju yi hotel?*
+– Do you live in this hotel?
 
-**me denga te ya hotel.**
-I wait for you in the hotel.
+
+### dela <small>to wait</small>
+
+*pleza dela!*
+– Please wait!
+
+*dela me!*
+– Wait for me!
+
+*homen dela memen.*
+– They wait for us.
+
+*me dela tu a hotel.*
+– I wait for you in the hotel.
 
 
 ## Part 5. Time expressions
 
-### zayo <small>currently</small>
+### sta <small>currently</small>
 
-**me zayo salama ti doste.**  
-I am greeting your friend.
+*me sta sala tu di doste.*
+– I am greeting your friend.
 
-**man zayo vida fem.**  
-The man is looking at the woman.
+*man sta viza filme.*
+– The man is watching a film.
 
-**le zayo sa xef.**  
-He or she is currently the chief.
+*ho sta sa shef.*
+– He or she is being the chief.
 
-**le zayo ya dom.**  
-He or she is currently at home.
-
-
-### ceno <small>in the past</small>
-
-**me ceno salama te du doste.**  
-I greeted your friend.
-
-**man ceno vida fem.**  
-The man looked at the woman.
-
-**le ceno sa xef.**  
-He or she was the chief.
-
-**le ceno ya dom.**  
-He or she was at home.
+*ho sta sa a haus.*
+– He or she is currently at home.
 
 
-### fino <small>already, completed</small>
+### ha <small>already, completed</small>
 
-**me fino salama ti doste.**  
-I have greeted your friend.
+*me ha sala tu di doste.*
+– I have greeted your friend.
 
-**man fino vida fem.**  
-The man has looked at the woman.
+*ho man ha viza ho filme.*
+– The man has watched the film.
 
-**le fino sa xefe.**  
-He or she has been the chief.
+*ho ha sa shef.*
+– He has been the chief.
 
-**le fino ya dom.**  
-He or she has been at home.
+*ho ha sa a haus.*
+– He has been at home.
 
 
-### poso <small>in the future</small>
+### pasa <small>in the past</small>
 
-**me poso salama ti doste.**  
-I will greet your friend.
+*me pasa sala tu di doste.*
+– I greeted your friend.
 
-**man poso vida fem.**  
-The man will see the woman.
+*man pasa viza filme.*
+– The man watched a film.
 
-**le poso sa xefe.**  
-He or she will be the chief.
+*ho pasa sa shef.*
+– He/she was the chief.
 
-**le poso ya dom.**  
-He or she will be at home.
+*ho pasa sa a haus.*
+– He/she was at home.
 
+
+### futa <small>be going to, in the future</small>
+
+*me futa sala tu di doste.*
+– I will greet your friend.
+
+*man futa viza filme.*
+– The man will watch the film.
+
+*ho futa sa shef.*
+– He/she will be the chief.
+
+*ho futa sa a haus.*
+– He/she will be at home.
 
 
 
@@ -923,153 +1045,143 @@ He or she will be at home.
 
 ### dona <small>give</small>
 
-**cinga dona pese.**
-Please give some money.
+*pleza dona mone.*
+– Please give some money.
 
-**cinga dona le va me.**
-Please give it to me.
+*pleza dona ho pa me.*
+– Please give it to me.
 
-**me dona ye va te.**
-I give this to you.
+*me dona yi pa tu.*
+– I give this to you.
 
-**me dona buke va lole.**
-I give a book to them.
+*me dona buk pa homen.*
+– I give a book to them.
 
-**le no vola dona le va me.**
-He/she doesn't want to give it to me.
+*ho no vola dona ho pa me.*
+– He/she doesn't want to give it to me.
 
 
-### kapa <small>take, get</small>
+### cepa <small>take, get</small>
 
-**me kapa un kafe.**
-I will take a coffee.
+*me cepa kafe.*
+– I will take a coffee.
 
-**cinga kapa un kafe va me.**
-Please take one coffee for me.
+*pleza cepa kafe pa me.*
+– Please take one coffee for me.
 
-**te ceno kapa pese la me.**
-You already got money from me before.
+*tu pasa cepa mone of me.*
+– You already got money from me before.
 
-**me kapa un bir.**
-I will take a beer.
+*me cepa bir.*
+– I will take a beer.
 
 
 ### kire <small>rent, lease, hire</small>
 
-**kire sa 500 dolar ya mome.**  
-The rent is 500 dollars in a month.
+*kire sa 500 dolar a mes.*
+– The rent is 500 dollars in a month.
 
-**le no abla peya kire.**  
-He/she can't pay the rent.
+*ho no pota pei kire.*
+– He/she can't pay the rent.
 
-**me vola kapa un gare ya kire.**  
-I want to take a car for rent.
+*me vola cepa gar a kire.*
+– I want to take a car for rent.
 
-**me vola kirokapa un gare.**
-I want to rent a car.
+*me vola cepa gar a kire.*
+– I want to rent a car.
 
-**le kirodona kamre va safarer.**
-He/she rents rooms to travelers.
+*ho dona kamre a kire pa safarer.*
+– He/she rents rooms to travelers.
 
 
 <!--
 
 ### mai <small>commerce</small>
 
-Tip: Buying and selling a compound words: **mai dar**
-means _to sell_ and **mai kap**
+Tip: Buying and selling a compound words: *mai dar*
+means _to sell_ and *mai kap*
 means _to buy_.
 
-**lole mai dona pan.**
-They sell everything.
+*homen mai dona pan.*
+– They sell everything.
 
-**me mai kap un bir.**
-I will buy a beer.
+*me mai kapa bir.*
+– I will buy a beer.
 
-### yang <small>type, kind, sort</small>
+### tipe <small>type, kind, sort</small>
 
-**le sa ki yang?**
-What is it like?
+*ho sa qui tipe?*
+– What is it like?
 
-**suala le novi?**
-Is it new?
+*qua ho sa nov?*
+– Is it new?
 
-**ke sa max boni?**
-Which is better?
+*que sa mas boni?*
+– Which is better?
 
-**ye sa maxim boni (da pan).**
-This is the best (of all).
+*ya sa masim boni (homen pan).*
+– This is the best (of all).
 
-**le kosta ke?**
-How much does it cost?  
-**nol.**
-Nothing.  
-**le kosta lil / multo.**
-It is cheap / expensive.  
+*ho kosta que?*
+– How much does it cost?  
+*no ting.*
+– Nothing.  
+*ho koste kam / meni.*
+– It is cheap / expensive.  
 
-**mome cingu laya.**
-We are being called.
+*von pleza memen vena.*
+– We are being called.
 
-**me soka tualete.**
-I'm looking for the toilet.
+*me soka tualete.*
+– I'm looking for the toilet.
 
-****
-Go there / forward / back / left / right.
+Go forward / back / left / right.
 
-****
 Come here / back / to us.
 
-**me darsa panlingue.**
-I study Panlingue.
+*me skole pandunia.*
+– I study Panlingue.
 
-**xova le va me ya logobuke!**
-Show me in the dictionary!
-**me no yada.**
-I don't remember.
+*shou ho pa me a lexe buk!*
+– Show me in the dictionary!
+*me no memo.*
+– I don't remember.
 
-****
-(I wish you) all the best!
+– (I wish you) all the best!
 
-****
-I will never forget you.
+– I will never forget you.
 
-****
-Don't worry! (Hakuna matata!)
+– don't worry! (Hakuna matata!)
 
-**pan sa okey.**
-Everything is alright.
+*pan sa okei.*
+– Everything is alright.
 
-****
-Cheers!
+– Cheers!
 
-****
-Of course!
+– Of course!
 
-**suala te suku ...?**
-Do you like ...?
+*qua tu suku ...?*
+– Do you like ...?
 
-****
-I feel alright.
+– I feel alright.
 
-**cinga sida ya ye!**
-Please, sit here!
+*pleza sida hir!*
+– Please, sit here!
 
-**me suku stasa.**
-I rather stand.
+*me suku sta.*
+– I rather stand.
 
-****
-With pleasure!
+– With pleasure!
 
-**feste kaixu ya ki zaman?**
-When does the party begin?
+*feste shuru a qui tem?*
+– When does the party begin?
 
-**te sahi.**
-You are right.
+*tu sahi.*
+– You are right.
 
-****
-Leave me alone!
+– Leave me alone!
 
-**ke habar?**
-What's new?
+*que habar?*
+– What's new?
 -->
 

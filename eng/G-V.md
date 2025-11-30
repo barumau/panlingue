@@ -3,7 +3,40 @@
 
 A verb denotes an action or an occurence, for example *to eat*, *to speak*, *to look* and *to think*.
 
-### Agent and patient roles
+Panlingue has three verb grades: agentive, patientive, and stative.
+The grades are indicated by the vowel endings *-a*, *-u* and *-i* respectively.
+There are no verb inflections for other things, like person, number, time and mood,
+which are common in other languages, like English.
+Things like that are indicated by separate words in Panlingue.
+
+## Person and number
+
+Person and number are indicated by the subject.
+For example, the verb
+*sa*
+('to be') has the same form in all persons.
+
+*me sa doste.*
+– I am a friend.  
+*tu sa doste.*
+– You are a friend.  
+*ho sa doste.*
+– He/she is a friend.  
+*memen sa doste.*
+– We are friends.  
+*tumen sa doste.*
+– You are friends.  
+*homen sa doste.*
+– They are friends.
+
+Also a noun can serve as subject.
+
+*mau sa hevan.*
+– The cat is an animal.
+
+## Agent and patient roles
+
+### What are agent and patient?
 
 A verb can involve an agent (abbreviated *A*) and a patient (abbreviated *P*).
 The agent is the active participant,
@@ -49,8 +82,6 @@ In fact, it undergoes a change of state from non-existence into existence.
         AGENT     VERB    PATIENT
 
 
-## Verb types
-
 There are two types of verbs in Panlingue.
 Their difference is that they indicate opposite orders of agent and patient.
 
@@ -74,9 +105,9 @@ The verb is the only necessary member of a clause.
 A minimal phrase can consist of a verb only,
 as in phrase B below.
 
-A: **te loga o auda?**
+A: *tu loga o auda?*
 – Do you you talk or listen?  
-B: **auda.**
+B: *auda.*
 – (I) listen.
 
 Sometimes a verb is accompanied by only one participant,
@@ -97,7 +128,7 @@ If there is a word immediately after the A-verb, it is the patient.
     ║  A-VERB  ║→│ PATIENT │
     ╚══════════╝ └─────────┘
 
-*`vida ye!`*  
+*`viza ye!`*  
  ` V   P`  
 'Watch this!'
 
@@ -114,9 +145,9 @@ that is normally used.
     AVP: │  AGENT  │→║  A-VERB  ║→│ PATIENT │
          └─────────┘ ╚══════════╝ └─────────┘
 
-*me vida lole.*
+*me viza homen.*
 – I see them.  
-*te beka ban.*
+*tu beka ban.*
 – You bake bread.
 
 The second order is patient–agent–verb (PAV).
@@ -132,9 +163,9 @@ It is used for fronting the question word.
 It is also common in dependent clauses.
 
 Examples:  
-*ke te vida?*
+*que tu viza?*
 – What do you see?  
-*me yama ban,* ***de*** *te beka.*
+*me yama ban,* ***de*** *tu beka.*
 – I eat bread **that** you baked.
 
 
@@ -148,7 +179,7 @@ The third possible order is the verb–patient–agent order (VPA), which is rar
 
 This order can be use used when the speaker wants to add the agent as an afterthought or clarification.
 
-*vida te, li feme.*
+*viza tu, ho di feme.*
 – Sees you, that woman.
 
 
@@ -199,11 +230,11 @@ This order is usually translated to English by using the passive voice or an int
 but sometimes a transitive verb can be used too.
 
 Examples:  
-*ban beku te.*
+*ban beku tu.*
 – Bread is baked by you.  
 *kupe parcu.*
 – The cup broke ~ got broken.  
-*rajer suku lole.*
+*rajer suku homen.*
 – The king is pleased by them. ~ The king likes them.
 
 The most common order is agent–patient–verb (APV).
@@ -222,9 +253,9 @@ Together they account for almost 90% of the world's languages.
              └────────────────────────┘
 
 Examples:  
-*me lole vidu.*
+*me homen vidu.*
 – _I them see._  
-*te ban beku.*
+*tu ban beku.*
 – _You bread bake._
 
 The verb–agent–patient order is very rare but possible.
@@ -236,7 +267,7 @@ This order is similar to the VSO word order of Classical Arabic and Filipino.
              │                        ↑
              └────────────────────────┘
 
-*vidu me te.*
+*vidu me tu.*
 – 'I see you.'
 
 
@@ -255,7 +286,7 @@ When it is optional, it is marked inside brackets in the following examples.
 – I am old.  
 *me vola sa juni.*
 – I want to be young.  
-*ti buke (sa) boni.*
+*tu di buke (sa) boni.*
 – Your book is good.
 
 Stative verbs differ from other verbs by the fact that
@@ -266,10 +297,371 @@ Stative verbs are always intransitive.
 They can't take an object.
 
 
+## Time and mood
+
+
+### Tense
+
+Tense is a property that expresses time reference.
+The main tenses are the past, present, and future.
+The marker
+*pasa*
+indicates the past tense,
+*nun*
+indicates the present tense, and
+*futa*
+indicates the future tense.
+More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
+
+*man* ***pasa*** *yama ban.*
+– The man *ate* (or *did eat*) bread.  
+*man* ***nuno*** *yama ban.*
+– The man *eats* bread (now).  
+*man* ***futa*** *yama ban.*
+– The man *will eat* bread.
+
+It is also possible to express the future in the past
+with a combination of two tense markers.
+
+*man* ***pasa futa*** *yama ban.*
+– The man *was going to* eat bread.
+
+
+### Aspect
+
+Aspect expresses how an action or event extends over time.
+
+*shura*
+('to begin or start')
+indicates beginning of an action or transition to a new situation.
+In linguistics it is called the **inchoative** or **inceptive** aspect.
+
+*me shura fuka kote.*
+– I start wearing the coat. ~ I put the coat on.  
+*kaguje shura piru.*
+– Paper starts to burn.  
+*tu shura yama.*
+– You start to eat.
+
+*fina*
+('to end, cease, quit or stop')
+conveys the idea of "to stop doing something".
+In linguistics it is called the **terminative** or **cessative** aspect.
+
+*homen fina haha.*
+– They stopped laughing.  
+*kaguje fina piru.*
+– Paper ceased to burn.  
+*tu fina yama.*
+– You stop eating.
+
+*pula*
+('to fulfill or complete')
+indicates that an action is done completely.
+In linguistics it is called the **perfective** aspect.
+
+*tu pula yama piza.*
+– You ate a pizza (completely).  
+*me pula viza filme.*
+– I completed watching the film. / I watched the film completely.
+
+*dura*
+('to keep on, continue or proceed')
+indicates that a situation is on-going, continuing or in progress
+at the time, which the speaker is talking about.
+In linguistics it is called the **continuative** or **progressive** aspect.
+
+*tu dura yama piza.*
+– You keep on eating pizza.
+
+A more common way to express continuation is to use the verb
+*sta*
+('to stay')
+in the sense 'to be in the process of'.
+
+*tu sta yama piza.*
+– You are eating pizza.  
+*me sta viza filme.*
+– I am watching the film.
+
+**ha**
+('to exist')
+indicates that the action or event is complete
+and its result has still an effect at the time, which the speaker is talking about.
+This aspect resembles what is called the **perfect tense** in English grammar.
+
+*me ha dona buk pa homen.*
+– I have given the book to them. (So I don't have it.)  
+*homen no ha redona le pa me.*
+– They haven't given it back to me. (So probably they still have it.)  
+*me ha vena pa pol.*
+– I have come to the city. (So I am still there.)
+
+<!--
+Note that it is possible to negate the auxiliary verb
+*ha*
+and the main verb separately.
+
+*me no ha gula alkol.*
+– I haven't drank alcohol.  
+*me ha no gula alkol.*
+– I have reached the state of not drinking alcohol.
+-->
+
+<!--
+### Mood
+
+The conditional mood is used for anything that could take place.
+It indicates that the realization of an action or event depends on another condition.
+The conditional mood is expressed with the auxiliary verb
+*vud*
+('would').
+This marker is used in both main and subordinate clauses.
+
+*me* ***vud*** *vol yama.*
+– I *would* like to eat.  
+*me* ***vud*** *go to Dubai.*
+– I *would* go to Dubai.  
+*me* ***vud*** *go, if tu vud las me.*
+– I *would* go if you would let me.  
+*tu no* ***vud*** *sa suka, if me* ***vud*** *go.*
+– You would not be happy, if I would go.
+
+The auxiliary verb
+*debu*
+('should, ought') indicates some kind of expectation like duty, obligation, requirement, desire, advisability or likelihood.
+
+*ma voka memen. memen debu go.*
+– Mother called us. We should go.  
+*ho debu ha vena pre nun.*
+– He should have come by now.  
+*evri von debu vote.*
+– Everyone should vote.
+
+The imperative mood is used to form a command or request.
+In Panlingue, the imperative is created with the auxiliary verb
+*shal*.
+It can be used to give commands to any person, not just "you".
+
+*memen shal go!*
+– Let us go! ~ Let's go!  
+*homen shal kursa!*
+– Let them run!
+
+*shal*
+can be used to give commands also to the second person,
+but it is common to drop both the personal pronoun and the auxiliary verb
+in order to give the command more force.
+
+*tu shal vena!* = *vena!*
+– Come!  
+*tumen shal vena!* = *vena!*
+– Come (you all)!
+
+
+### Summary of verb forms
+
+#### Active
+
+<table>
+    <tr>
+        <th></th>
+        <th>Past</th>
+        <th>Present</th>
+        <th>Future</th>
+        <th>Conditional</th>
+    </tr>
+    <tr>
+        <th>Simple</th>
+        <td>
+            <strong><em>ho pasa yama</em></strong><br/>
+            'he ate ~ did eat'
+        </td>
+        <td>
+            <strong><em>ho yama</em></strong><br/>
+            'he eats'
+        </td>
+        <td>
+            <strong><em>ho futa yama</em></strong><br/>
+            'he will eat'
+        </td>
+        <td>
+            <strong><em>ho vud yama</em></strong><br/>
+            'he would eat'
+        </td>
+    </tr>
+    <tr>
+        <th>Perfect</th>
+        <td>
+            <strong><em>ho pasa ha yama</em></strong><br/>
+            'he had eaten'
+        </td>
+        <td>
+            <strong><em>ho ha yama</em></strong><br/>
+            'he has eaten'
+        </td>
+        <td>
+            <strong><em>ho futa ha yama</em></strong><br/>
+            'he will have eaten'
+        </td>
+        <td>
+            <strong><em>ho vud ha yama</em></strong><br/>
+            'he would have eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Progressive</th>
+        <td>
+            <strong><em>ho pasa sta yama</em></strong><br/>
+            'he was eating'
+        </td>
+        <td>
+            <strong><em>ho sta yama</em></strong><br/>
+            'he is eating'
+        </td>
+        <td>
+            <strong><em>ho futa sta yama</em></strong><br/>
+            'he will be eating'
+        </td>
+        <td>
+            <strong><em>ho vud sta yama</em></strong><br/>
+            'he would be eating'
+        </td>
+    <tr>
+        <th>Perfect progressive</th>
+        <td>
+            <strong><em>ho pasa ha sta yama</em></strong><br/>
+            'he had been eating'
+        </td>
+        <td>
+            <strong><em>ho ha sta yama</em></strong><br/>
+            'he has been eating'
+        </td>
+        <td>
+            <strong><em>ho futa ha sta yama</em></strong><br/>
+            'he will have been eating'
+        </td>
+        <td>
+            <strong><em>ho vud ha sta yama</em></strong><br/>
+            'he would have been eating'
+        </td>
+    </tr>
+    <tr>
+        <th>Imperative</th>
+        <td></td>
+        <td>
+            <strong><em>yama!</em></strong><br/>
+            'Eat!'
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+Note!
+In the above table, *ho* is translated only 'he' instead of the usual 'he or she' in order to save space.
+
+#### Passive
+
+<table>
+    <tr>
+        <th></th>
+        <th>Past</th>
+        <th>Present</th>
+        <th>Future</th>
+        <th>Conditional</th>
+    </tr>
+    <tr>
+        <th>Simple</th>
+        <td>
+            <strong><em>ho pasa yamu</em></strong><br/>
+            'it was eaten'
+        </td>
+        <td>
+            <strong><em>ho yamu</em></strong><br/>
+            'it is eaten'
+        </td>
+        <td>
+            <strong><em>ho futa yamu</em></strong><br/>
+            'it will be eaten'
+        </td>
+        <td>
+            <strong><em>ho vud yamu</em></strong><br/>
+            'it would be eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Perfect</th>
+        <td>
+            <strong><em>ho pasa ha yamu</em></strong><br/>
+            'it had been eaten'
+        </td>
+        <td>
+            <strong><em>ho ha yamu</em></strong><br/>
+            'it has been eaten'
+        </td>
+        <td>
+            <strong><em>ho futa ha yamu</em></strong><br/>
+            'I will have been eaten'
+        </td>
+        <td>
+            <strong><em>ho vud ha yamu</em></strong><br/>
+            'it would have been eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Progressive</th>
+        <td>
+            <strong><em>ho pasa sta yamu</em></strong><br/>
+            'it was being eaten'
+        </td>
+        <td>
+            <strong><em>ho sta yamu</em></strong><br/>
+            'it is being eaten'
+        </td>
+        <td>
+            <strong><em>ho futa sta yamu</em></strong><br/>
+            'it will be being eaten'
+        </td>
+        <td>
+            <strong><em>ho vud sta yamu</em></strong><br/>
+            'it would be being eaten'
+        </td>
+    <tr>
+        <th>Perfect progressive</th>
+        <td>
+            <strong><em>ho pasa ha sta yamu</em></strong><br/>
+            'it had been being eaten'
+        </td>
+        <td>
+            <strong><em>ho ha sta yamu</em></strong><br/>
+            'it has been being eaten'
+        </td>
+        <td>
+            <strong><em>ho futa ha sta yamu</em></strong><br/>
+            'it will have be being eaten'
+        </td>
+        <td>
+            <strong><em>ho vud ha sta yamu</em></strong><br/>
+            'it would have been being eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Imperative</th>
+        <td></td>
+        <td>
+            <strong><em>yamu!</em></strong><br/>
+            'Be eaten!'
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+-->
 
 ## Participles
 
-*-an-*
+*-n-*
 denotes someone or something that does the action of the root.
 It is the active participle suffix.
 
@@ -278,62 +670,94 @@ It is the active participle suffix.
 *logani*
 – speaking  
 *logane*
-– the one who speaks
+– the one who speaks  
+*padu*
+– to fall  
+*paduni*
+– fallen  
 
-*-it-*
+*-t-*
 denotes someone or something that undergoes the action of the root.
 It is the passive participle suffix.
 
 *loga*
 – to speak  
-*logiti*
+*logati*
 – spoken  
-*padu*
-– to fall  
-*paditi*
-– fallen  
+*pada*
+– to drop  
+*padati*
+– dropped  
 *una*
 to unite
-→ *uniti*
+→ *unati*
 united
 
 
-### Causative verbs
+## Causative verbs
 
 The causatives are the verbs that are used to indicate
 that one person causes another person to do something.
-It can be by asking, paying, requesting, or forcing the person.
+Causation can come about by asking, requesting, forcing, hiring or otherwise making someone else to do the job.
 
 Sometimes the simple active verb is causative.
+For example, when you drop something, you make it fall.
 
-*Tomas pada xeke.*
+*Tomas pada petre.*
 – Thomas drops a stone.  
-*xeke padu.*
+*petre padu.*
 – Stone falls.
 
 In other situations, the causative is formed by using one of the participle suffixes.
 *-ana* means that someone causes someone to do something.
-*-ita* means that someone causes something to be done to someone or something.
+*-ata* means that someone causes something to be done to someone or something.
 
 *Sara padana Tomas.*
 – Sara causes Thomas to drop (something).  
-*Sara padita xeke.*
-– Sara causes the stone to be dropped.
+*Sara padata petre.*
+– Sara causes the stone to be dropped (by someone else).
 
 Here is a more complete example.
 Note that *to feed* has two different causative meanings in English.
 
-*pex yamu.*
+*pesh yamu.*
 – Fish is eaten.  
-*mau yama pex.*
+*mau yama pesh.*
 – The cat eats fish.  
-*me yamita pex pa mau.*
+*me yamata pesh pa mau.*
 – I feed fish to the cat.  
-*me yamana mau va pex.*
+*me yamana mau va pesh.*
 – I feed the cat with fish.
 
-A causative can imply that the action is done for the causer.
+A causative can imply that the action is done for the one who causes it.
 
-*me no bina dom. me binita le.*
+*me no bina dom. me binata ho.*
 – I don't build the house. I have it built (for myself).
+
+
+## Serial verb construction
+
+Serial verb construction is a string of verbs that share the same subject,
+which is before the verbs.
+In serial verb constructions the verbs are interpreted so that
+the first verb (an auxiliary verb) is something that the subject possesses
+and the second verb is something that the subject does (when there is an object in the end)
+or experiences (when there is no object).
+
+*me saba kitaba javab.*  
+≈ *I have the ability to write the answer.*  
+– I can write the answer.  
+*me halalu kitaba javab.*  
+≈ *I have the permission to write the answer.*  
+– I may write the answer.  
+*me musu kitaba javab.*  
+≈ *I have the compulsion to write the answer.*  
+– I must write the answer.
+
+Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
+
+*guru halala me kitaba javab.*
+– The teacher permits me to write the answer.  
+*guru musa me kitaba javab.*
+– The teacher compels me to write the answer.
 

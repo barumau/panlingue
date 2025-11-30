@@ -1,32 +1,33 @@
+
 # Adverbes
 
-##. Modification du verbe
+## Modification du verbe
 
-En panlingue, les adverbes se terminent en **-o** et ils se placent avant le verbe ou à la fin de la phrase.
+En panlingue, les adverbes se terminent en *-o* et ils se placent avant le verbe ou à la fin de la phrase.
 
-**me _bono_ sona.** 
+*me _bono_ sona.*
 – Je _bien_ dors.  
-**me sona _bono_.** 
+*me sona _bono_.*
 – Je dors _bien_.  
-**te baxa panlingue _bono_.** 
+*tu basha panlingue _bono_.*
 – Tu parles panlingue _bien_.
 
 
 ## Modification d'un autre modificateur
 
 Un modificateur peut également modifier un autre modificateur.
-Ainsi, **day** (grand) et **lil** (petit) peuvent être utilisés comme des adverbes d'intensification.
+Ainsi, *day-* (grand) et *let-* (petit) peuvent être utilisés comme des adverbes d'intensification.
 
-**day ren** 
+*dayi jan*
 – un grand individu  
-**lil ren** 
+*leti jan*
 – un petit individu  
-**sundari ren** 
+*sundari jan* 
 – un bel individu
 
-**dayo sundari ren** 
+*dayo sundari jan* 
 – un très bel individu  
-**lilo sundari ren** 
+*leto sundari jan* 
 – un assez bel individu
 
 
@@ -34,16 +35,20 @@ Ainsi, **day** (grand) et **lil** (petit) peuvent être utilisés comme des adve
 
 Les modificateurs peuvent être comparés.
 
-- **max** (plus) marque le comparatif de supériorité
-- **maxim** (le plus) marque le superlatif de supériorité
-- **min** (moins) marque le comparatif d'infériorité
-- **minim** (le moins) marque le superlatif d'infériorité
-- **samo** (aussi, autant) marque le comparatif d'égalité
+-   *max*
+   (plus) marque le comparatif de supériorité
+-   *maxim*
+   (le plus) marque le superlatif de supériorité
+-   *min*
+   (moins) marque le comparatif d'infériorité
+-   *minim*
+    (le moins) marque le superlatif d'infériorité
+-   *par*
+    (aussi, autant) marque le comparatif d'égalité
 
-La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
+La particule *ka* met en relation les adverbes de comparaison à l'élément comparé.
 
-**me si max bon ko te.**
-= Je suis meilleur que toi.  
-**te loga samo bono ko me.**
-= Tu parles aussi bien que moi.
-
+*me sa max boni ka tu.*
+– Je suis meilleur que toi.  
+*tu loga par bono ka me.*
+– Tu parles aussi bien que moi.

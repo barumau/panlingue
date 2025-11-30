@@ -1,46 +1,141 @@
 
 # Nouns
 
-## Uninflected
+## Only one form
 
-A noun is a word that names a thing.
-Like all words in Panlingue, nouns are invariant.
-So the same form is used in singular and plural, in definite and indefinite, etc.
+A noun is a word that refers to a concrete or abstract object,
+such as *person*, *tree*, *house*, *life* and *beauty*.
+Like all words in Panlingue, nouns don't ever change in form.
+The same word form is always used, no matter whether the referred thing is singular or plural, definite or indefinite, subject or object, etc.
+Therefore the same Panlingue word form can correspond to many different word forms in English.
 
-*seke*
-– a stone, stones, the stone or the stones  
-*meze*
-– a table, tables, the table or the tables  
-*kurse*
-– a chair, chairs, the chair or the chairs  
+*haus*
+– a house, houses, the house, or the houses  
+*mez*
+– a table, tables, the table, or the tables  
+*korse*
+– a chair, chairs, the chair, or the chairs  
 *sui*
-– water
+– water, the water
 
-Number and definiteness are often known because they were specified earlier in the discussion or because they are general knowledge.
+Number and definiteness are often known because they were previously mentioned in the conversation or because they are general knowledge.
 For example, normally the word
-*sole*
+*sol*
 refers to _the sun_ and
-*lune*
+*lun*
 refers to _the moon_, our only sun and moon.
 
-## Number
 
-Nouns are unaffected by number, i.e. nouns have the same form in singular and plural.
-Number can be mentioned with number words when it is needed.
+## Indicating number
 
-*kurse*
+Panlingue nouns have the same form
+in singular (when there is one)
+and plural (when there is more than one).
+Therefore all Panlingue nouns are like the English words
+_sheep_, _deer_ and _fish_,
+which also have only one form though they can refer to one or many things.
+
+In Panlingue, the number is indicated only when it matters and when it is new information.
+It is done simply by inserting a number or a quantity word before the noun.
+
+*meme*
+– (one or more) sheep  
+*un meme*
+– a sheep or one sheep  
+*du meme*
+– two sheep  
+*tri meme*
+– three sheep  
+*multi meme*
+– many sheep
+
+*korse*
 – a chair or chairs  
-*un kurse*
+*un korse*
 – one chair  
-*duli kurse*
+*du korse*
 – two chairs  
-*sani kurse*
+*tri korse*
 – three chairs  
-*poli kurse*
-– many chairs; chairs
+*multi korse*
+– many chairs
+
+It is possible to specify plurality also by reduplication, by saying the noun two times.
+
+*haus haus*
+– houses and houses, a variety of houses  
+*buk buk*
+– books and books, a variety of books
+
+Quantity words should not be used together with reduplication.
+Therefore, a phrase like
+*tri buk buk*
+would be superfluous, whereas
+*tri buk*
+('three books') is just perfect.
 
 
-## Gender
+## Associative plural
 
-Panlingue doesn't have grammatical gender of any type.
-There are no categories like masculine, feminine, neuter, animate or inanimate.
+There is so called **associative plural** in Panlingue.
+It is expressed by the particle
+*men*,
+and the structure
+*X men*
+means 'X and other people associated with X'.
+
+*Adam men*
+– Adam and his people  
+*Maria men*
+– Maria and her people
+
+The same particle is used also for forming the plural personal pronouns.
+
+*memen*
+– we = 'I and my people' (not 'many mes')  
+*tumen*
+– you = 'you and your people' (not 'many yous')  
+*homen*
+– they = 'a certain group of associated people'
+
+
+## Proper names
+
+Proper names are nouns for individual people, places and other things.
+
+Names of people can be tagged with the universal title of respect
+*si*.
+Using it shows respect and politeness.
+In Panlingue, you use it in front of someone's name.
+
+It can be used in formal and informal situations and for all age groups, for all social groups and for all sexes and genders.
+The closest translation for it in English is _Mr_ or _Ms_ or _Mx_.
+
+There are different customs concerning honorific titles in different cultures.
+In some cultures it is not polite to use someone's name without a title of respect.
+Therefore it is advisable to use
+*si*
+always when you meet new people from different cultures.
+
+A title of respect can be used with a given name, a family name, or both.
+
+*si Bili King*
+– Mx Billy King  
+*si Bili*
+– Mx Billy  
+*si King*
+– Mx King
+
+
+## Noun ending?
+
+Nouns can end in any vowel or consonant in Panlingue.
+They don't have dedicated endings, unlike verbs, adverbs and adjectives do.
+As a rule of thumb, those words that **don't end** in the single vowels *-a*, *-u*, *-i* and *-o* are nouns.
+This rule is highly reliable but there are still exceptions to it,
+including a few cultural loanwords, like
+*piza*
+('pizza, an Italian pie with tomato, cheese and other toppings') and
+*sushi*
+('a Japanese dish of rice, seaweed and fish'),
+and many proper names, like *Ana*, *Marta*, *Lili*, *Marko* and *Lulu*.

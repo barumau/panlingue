@@ -431,7 +431,6 @@ at first, but it is nothing new – Sinitic words are already inflected
 in Korean!
 
 
-
 ## Easy sentences
 
 In this section we will compare the sentence structures of Panlingue
@@ -442,27 +441,27 @@ The normal sentence word order is subject-verb-object – just like in
 English and Chinese.
 
     English:   I love you, and you love me.
-    Panlingue:  me ama te, te ama me.
+    Panlingue: me ama tu, tu ama me.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The verb **beyu** is used when the object of an action comes first in
 the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Panlingue:  aple beyu yama.
+    Panlingue: aple beyu yama.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **beyu** is a loan word from Standard Chinese, but it is also close to
 some uses of English "to be".
 
     English:   It can not be eaten.
-    Panlingue:  le no abla beyu yama.
+    Panlingue: ho no pota beyu yama.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Panlingue doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Panlingue:  me cinga le yama kafe.
+    Panlingue: me cinga ho yama kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Panlingue and Chinese, nouns can be singular or plural depending
@@ -471,10 +470,10 @@ Also verbs are not conjugated. One word, **si**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Panlingue: le sa aple.
+    Panlingue: ho sa aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Panlingue: lole sa aple.
+    Panlingue: homen sa aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

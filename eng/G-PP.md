@@ -44,17 +44,74 @@ Then they refer to time.
 
 ### Location: a
 
-*a* is the all-purpose locative preposition.
-Its basic meaning is 'at',
-and it can be variously translated as *at, in, on* and *by*.
+The preposition
+*a*
+expresses general location in time or space, 'at, by, in, on'.
 
-*`me sta  a  dao.`*  
- `I  stay at road`  
-'I am on the road.'
+*memen marche a dao.*
+– We walk ON the road.  
+*mau side a mez.*
+– A cat sits ON the table.  
+*mi mus sta long a labur.*
+– I must stay long AT work.
 
-*`me loga  a  panlingue a  telefon.`*  
- `I  speak at Panlingue at telephone.`  
-'I speak in Panlingue in telephone.'
+### Destination: pa
+
+The preposition
+*pa*
+denotes destination in the broadest sense.
+
+It denotes the destination of movement, 'to'.
+
+*homen marche pa bazar.*
+– They walk TO the market.
+
+It denotes the destination of giving i.e. the recipient, 'to, for'.
+
+*mi don ye buk pa tumen.*
+– I give this book TO you.  
+*ye buk sa pa tumen.*
+– This book if FOR you.
+
+It denotes the causal destination, 'for, for the purpose of'.
+
+*mi vud morte pa mi se nasia.*
+– I would die FOR my nation.
+
+### Origin: ja
+
+The preposition
+*ja*
+denotes separation or origin in the broadest sense.
+
+It denotes the origin of movement, 'from'.
+
+*homen anda ja Brazil.*
+– They come FROM Brazil.
+
+It denotes also the origin of existence, 'of'.
+
+*lexe* ***kitab*** *sa ja arabi asle.*
+– The word *kitab* is OF Arabic origin.
+
+It denotes also the material origin, 'of'.
+
+*kupe sa ja glas.*
+– The cup is made OF glass.
+
+It denotes also the causal origin, 'because of'.
+
+*mau mortu ja seni umre.*
+– The cat died OF old age.  
+*mau mortu ja toxe.*
+– The cat died BECAUSE OF poison.
+
+It denotes also the mental origin, 'of, about'.
+
+*memen loga ja tumen.*
+– We talk ABOUT you.  
+*me fikra ja ashe.*
+– I think OF hope.
 
 ### Togetherness: va
 

@@ -1,40 +1,47 @@
 
 # Adjectives
 
-A modifier is a word that adds some quality or description to another word,
-for example good, bad, big, and fast.
+An adjective is a word that adds some quality or description to another word,
+for example *good*, *bad*, *big*, and *fast*.
+In Panlingue, most adjectives end in
+*-i*.
 
-## Modifying a noun
+## Modifying nouns
 
-An adjective is a word that adds a particular quality for a noun.
-In Panlingue, adjectives typically end in *-i* and their place is before a noun.
+In Panlingue, adjectives are usually placed before the noun that they modify.
 
 *novi gar*
 – new car(s)  
-*rapidi gar*
+*rapi gar*
 – fast car(s)  
-*dayi meze*
+*dayi mez*
 – big table(s)  
-*gavi meze*
+*gavi mez*
 – high table(s)  
 *boni kurse*
 – good chair(s)
 
-Two or more adjectives can modify the same word.
+Two or more adjectives can modify the same noun.
 
-*lili novi gar*
+*leti novi gar*
 – a little, new car
 
-Adjective can be also after the noun.
-Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
+## Predicative use
 
-*gar novi.*
+Adjective can be also after the noun.
+Often this type of phrases can be read as complete sentences, where the verb *to be* is implied.
+
+*gar – novi.*
 – The car is new.  
-*bagre rapidi.*
-– The tiger is fast.
+*gar sa novi.*
+– The car is new.  
+*bagre – rapi.*
+– The tiger is fast.  
+*bagre sa rapi.*
+– The tiger is fast.  
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-*novi gar rapidi.*
+*novi gar – rapi.*
 – The new car is fast.
 

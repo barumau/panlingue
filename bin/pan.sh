@@ -1,3 +1,8 @@
+#!/bin/bash
+
+# Activate the virtual environment for Python libraries
+source $HOME/.venvs/pan/bin/activate
+
 sh bin/lista_loge.sh
 #sh bin/konta_loge.sh
 sh bin/kitaba_PDF.sh

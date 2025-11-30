@@ -10,7 +10,7 @@ Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco
 – ŝtono, ŝtonoj, la ŝtono, la stonoj  
 **meze**
 – tablo, tabloj, la tablo, la tabloj  
-**kurse**
+**korse**
 – seĝo, seĝoj  
 **suy**
 – akvo  
@@ -36,15 +36,15 @@ La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
 Substantivoj havas la saman formon en la singularo kaj la plularalo.
 Oni povas esprimin nombron per numeraloj kiam ĝi estas utila.
 
-**kurse**
+**korse**
 – seĝo aŭ seĝoj  
-**un kurse**
+**un korse**
 – unu seĝo  
-**dul kurse**
+**du korse**
 – du seĝoj  
-**tin kurse**
+**tri korse**
 – tri seĝoj  
-**pol kurse**
+**multi korse**
 – multe da seĝoj; seĝoj
 
 

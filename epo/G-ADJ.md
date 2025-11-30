@@ -1,9 +1,10 @@
 
 # Adjektivoj
 
-_Modifovorto_ estas vorto, kiu priskribas econ de alia vorto.
-Panlinguej modifovortoj rolas kiel adjektivoj kaj adverboj en Esperanto.
-En panlingvo, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
+Adjektivo estas vorto, kiu priskribas econ de alia vorto.
+En panlingvo, adjektivoj antaŭas la substantivon kiun ili modifas.
+En panlingvo, plejaj adjektivoj finiĝas je
+*-i*.
 
 ## Modifante substantivon
 
@@ -11,49 +12,73 @@ En panlingvo, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 – nova aŭto 
 *rapi gar*
 – rapida aŭto  
-*day meze*
+*dayi mez*
 – granda tablo  
-*gavi meze*
+*gavi mez*
 – alta tablo  
-*bon kurse*
+*boni kurse*
 – bona seĝo
+
+Du aŭ pli da adjektivoj povas modifi la saman vorton.
+
+*leti novi gar*
+– malgranda nova aŭto
+
+## Predikativa uzo
 
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
 Tio estas, kiel adjektivaj verboj en Esperanto.
 
-*gar novi.*
-– La aŭto novas. (Aŭ: La aŭto estas nova.)  
-*bagre rapi.*
-– Tigroj rapidas. (Aŭ: Tigroj estas rapidaj.)  
+*gar – novi.*
+– La aŭto novas.  
+*gar sa novi.*
+La aŭto estas nova.  
+*bagre – rapi.*
+– Tigro rapidas.  
+*bagre sa rapi.*
+Tigro estas rapida.
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-*novi gar rapi.*
-– Nova aŭto estas rapida.
+*novi gar – rapi.*
+– Nova aŭto rapidas.  
+*novi gar sa rapi.*
+– Novaj aŭto estas rapidaj.
 
 ## Komparoj
 
 Modifovortoj povas esti komparataj.
 
-- *max* (pli) signifas komparo de plieco
-- *maxim* (la plej) signifas komparo de plejeco
-- *min* (malpli) signifas komparo de malplieco
-- *minim* (malplej) signifas komparo de malplejeco
-- *par* (same) signifas komparo de sameco
+**max**
+('pli') signifas komparo de plieco  
+**maxim**
+('la plej') signifas komparo de plejeco  
+**min**
+('malpli') signifas komparo de malplieco  
+**minim**
+('malplej') signifas komparo de malplejeco  
+**par**
+('same, egale') signifas komparo de sameco
 
-Partiklo *ka* rilatas komparvortoj al la fonto de komparo.
+Partiklo
+**ka**
+rilatas komparvortoj al la fonto de komparo.
 
-*me sa max bon ka te.*
-– Mi estas pli bona ol vi.  
-*te loga par bon ka me.*
+**aple sa max boni ka aranje.**
+– Pomoj estas pli bonaj ol oranĝoj.  
+**aranje sa min boni ka aple.**
+– Oranĝoj estas malpli bonaj ol pomoj.
+**tu loga par bono ka mi.**
 – Vi parolas same bone kiel mi.
 
-## Finaĵo de modifovortoj
+## Finaĵo de adjektivoj
 
-Finaĵo de modifovortoj estas *-i* normale.
+Finaĵo de adjektivoj estas *-i* normale.
 La finaĵo estas ĉiam uzata je vortoj derivitaj el verboj kaj substantivoj.
 Ekz. *logi* 'parola', *suki* 'feliĉa', *kitabi* 'skriba'.
 
+<!--
 La finaĵo ne estas en kelkaj tre oftaj vortoj, kiuj finiĝas je unu facile prononcebla konsonanto.
-Ekz. *bon* ('bona'), *day* ('granda'), kaj *lil* ('eta').
+Ekz. *bon* ('bona'), *day* ('granda'), kaj *lit* ('eta').
+-->
 

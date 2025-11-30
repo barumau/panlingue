@@ -1,3 +1,4 @@
+
 # Frequently Asked Questions
 
 ## General
@@ -19,8 +20,8 @@ send your edited files by email to risto@pandunia.info
 
 #### When was Panlingue created?
 
-Panlingue was created in 2023 from a version of an earlier language called Pandunia.
-Pandunia was an experimental auxiliary language project that went through many experimental phases.
+Panlingue was created in 2023 from a version of an earlier language called Panlingue.
+Panlingue was an experimental auxiliary language project that went through many experimental phases.
 Panlingue was born from one of the branches of this project.
 Therefore the history of Panlingue can be traced back to early 2000s.
 
@@ -141,7 +142,6 @@ and there will be different international languages in the future.
 The most important thing is to make the choice for yourself.
 You are free to speak Panlingue, English and any other language that your heart desires.
 
-
 ## Grammar
 
 #### Is Panlingue a pidgin or a creole?
@@ -184,7 +184,7 @@ In general, word forms can change in four ways.
 
 In Panlingue, only 3. and 4. are used.
 We can change the ending of a word,
-so for example *vide* 'sight' can be changed to *vida* 'to see'.
+so for example *vize* 'sight' can be changed to *viza* 'to see'.
 We can also add suffixes,
 so for example *novike* 'novice, newbie' can be created from *novi* 'new'.
 
@@ -233,7 +233,7 @@ Esperanto (a heavily agglutinating language) and Panlingue.
 The parts of each word are separated with the hyphen.
 
     Esperanto: Mi vol-as  vid-i  vi-a-j-n  du   bel-a-j-n  okul-o-j-n  nun.
-    Panlingue: me vol-a   vid-a  t-i       du-i mey-i      ok-e        zay-o.
+    Panlingue: me vol-a   vid-a  t-i       du   mey-i      ok-e        zay-o.
                I  want to see    your      two beautiful   eyes        now.
 
 #### Are the word class markers unnatural?

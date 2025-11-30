@@ -13,12 +13,12 @@
     </tr>
     <tr>
         <td>
-            Oka repo vi binde.
+            Oka rio vi binde.
             Ve sa ye.
             Ve sa dom.
             Ve sa mome.
-            Ya le, mei jan, de te ama, mei jan de te sava, mei jan de te enzamano geta save da, mei insan de enzamano zayu, transa jiu.
-            Sum da momi sukia e paxia, kilpol da autameni din, istia, e malnomia-du bazxul, mei saider e yamsoker, mei vir e fobiker, mei biner e haraber da sivilia, mei rajer e nonger, mei joveni dule ya romansia, mei mai e pai, inxalpuri ben, mei inventer e eureker, mei xulaner da deke, mei dusi politiker, mei "superstar", mei "maximgavi lider", mei sante e doxer ya histor da momi jong, jivi – ya binde da fun, pendu ya solrade.
+            A le, mei jan, de tu ama, mei jan de tu sava, mei jan de tu enzamano geta save da, mei insan de enzamano zayu, transa jiu.
+            Sum da momi sukia e paxia, kilpol da autameni din, isme, e malnomia-du bazxul, mei saider e yamsoker, mei vir e fobiker, mei biner e haraber da sivilia, mei rajer e nonger, mei joveni dule a romansia, mei mai e pai, inxalpuri ben, mei inventer e eureker, mei xulaner da deke, mei dusi politiker, mei "superstar", mei "maximgavi lider", mei sante e doxer a histor da momi jong, jivi – a binde da fun, pendu a solrade.
         </td><td>
             Look again at that dot.
             That's here.
@@ -30,9 +30,9 @@
     </tr>
     <tr>
         <td>
-            Gevia sa vero lil sen ya dai, kosmi estadia.
-            Fikra va nade da sang, de vayu pan gunlider e imperer, va lole abla, ha onor e xeng, mutu va sati xef da fen da binde.
-            Fikra va finyavi zalimia, de domer da gon da yi grafcel fata va gato hasabli domer da koi ali gon – ko polmari lole-du galtahe, ko ico lole vola morta unal, ko tezi lole-du hen.
+            Gevia sa vero lil sen a dai, kosmi estadia.
+            Fikra pa nade da sang, de vayu pan gunlider e imperer, pa lole abla, ha onor e xeng, mutu pa sati xef da fen da binde.
+            Fikra pa finyavi zalimia, de domer da gon da yi grafcel fata pa gato hasabli domer da koi ali gon – ko polmari lole-du galtahe, ko ico lole vola morta unal, ko tezi lole-du hen.
         </td><td>
             The Earth is a very small stage in a vast cosmic arena.
             Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot.
@@ -41,9 +41,9 @@
     </tr>
     <tr>
         <td>
-            Momi asan, momi fantazi authamia, yi ansahi fantaz, de sa mome tena koi haki loke ya kosmia, testu yi pike da lilmingi fote.
-            Momi planete sa uniki binde ya sirkani dai kosmi oskuria.
-            Ya momi anhamia, ya pan yi daye, no zaya ponter, de sa helpe vilo laya la ali loke, va sekura mome la se.
+            Momi asan, momi fantazi authamia, yi ansahi fantaz, de sa mome tena koi haki loke a kosmia, testu yi pike da lilmingi fote.
+            Momi planete sa uniki binde a sirkani dai kosmi oskuria.
+            Ya momi anhamia, a pan yi daye, no zaya ponter, de sa helpe vilo laya la ali loke, pa sekura mome la se.
         </td><td>
             Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light.
             Our planet is a lonely speck in the great enveloping cosmic dark.
@@ -53,10 +53,10 @@
     <tr>
         <td>
             Gevia sa uniki dunia savu hata zaye, de domana jiu.
-            No zaya ali loke, ya minim ya karibi vil, de momi jong abla kinu va.
+            No zaya ali loke, a minim a karibi vil, de momi jong abla kinu pa.
             Kega, ha.
             Fata dom, zayo, no.
-            Suku o no, zayo, Gevia sa loke, ya de mome estasa se.
+            Suku o no, zayo, Gevia sa loke, a de mome estasa se.
         </td><td>
             The Earth is the only world known so far to harbor life.
             There is nowhere else, at least in the near future, to which our species could migrate.
@@ -69,7 +69,7 @@
         <td>
             Logu, kosmolojia sa anautonorani e ikbineri bei.
             Ablo no zaya max boni dalil da bufonia da insani idei, da yi teli graf da momi lil dunia.
-            Va me, le aksenta momi xarte da maxo dosto manira ya unal, hafiza e bava li lilmingo nili binde, uniki dom de mome enzamano sava.
+            Pa me, le aksenta momi xarte da maxo dosto manira va unal, hafiza e bava li lilmingo nili binde, uniki dom de mome enzamano sava.
         </td><td>
             It has been said that astronomy is a humbling and character-building experience.
             There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world.

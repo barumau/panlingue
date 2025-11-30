@@ -1,21 +1,30 @@
 
 # Adverboj
 
+Adverbo estas vorto, kiu modifas verbon, adjektivon aŭ alian adverbon.
+En panlingvo, plejaj adverboj finiĝas per
+*-o*.
+
 ## Modifante verbon
 
-**me _bono_ sona.**
+*tu rapo loga.*
+– Vi _rapide_ parolas.  
+*homen bono kitaba.*
+– Ili _bone_ skribas.
+
+*me bono sona.*
 – Mi _bone_ dormas.  
-**me sona _bono_.**
+*me sona bono.*
 – Mi dormas _bone_.  
-**te basha panlingue _bono_.**
-– Vi parolas Panlinguen _bone_.
+*tu basha panlingue bono.*
+– Vi parolas panlingvon _bone_.
 
 ## Modifante adjektivon
 
 Adverboj povas modifi ankaŭ adjektivojn.
 
-**dayo sundari ren**
+*dayo meyi jan*
 – grande bela homo  
-**lilo sundari ren**
+*leto meyi jan*
 – ete bela homo
 

@@ -15,7 +15,7 @@ to talk with other auxlangers.
 
 In 2003, Risto published a significantly different kind of auxiliary language draft called _Lone_ in his personal web pages.
 It had analytic grammar without word-class markers and its words were borrowed from diverse languages around the world.
-This draft would later evolve into **Pandunia**.
+This draft would later evolve into **Panlingue**.
 
 In 2004 Risto created a quota system for selecting words from different language families.
 In his opinion the vocabulary of the future world language should be evenly global
@@ -29,7 +29,7 @@ for finding out common words in widely spoken languages around the world.
 ## Creation of the grammar
 
 In 2010, Risto starts to develop again an agglutinative grammar that uses vowel endings to indicate word-classes.
-At first this is a private sideproject alongside Pandunia.
+At first this is a private sideproject alongside Panlingue.
 He invented the three types of verbs and their vowel endings
 (active -*a*, passive -*u*, and stative -*i*),
 as a regular solution to the problem of transitivity and intransitivity, which is irregular in Esperanto.
@@ -38,16 +38,16 @@ These ideas will find their way into Panlingue several years later.
 
 ## Naming confusion
 
-Risto decides to apply the agglutinative grammar to Pandunia calling this version of the language confusingly **Pandunia 1**.
-(In many programming languages indexing starts from zero, so the first version was then called **Pandunia 0**!)
-He records [a short greeting video in YouTube](https://www.youtube.com/watch?v=TgO8AwX4OCU) to showcase an early version of Pandunia 1.
-This branch of Pandunia is used between [2019](https://github.com/barumau/pandunia/releases/tag/v1.0) and [2021](https://github.com/barumau/pandunia/releases/tag/v1.1)
-but later in 2021 Pandunia switched back to the original track with analytic grammar.
+Risto decides to apply the agglutinative grammar to Panlingue calling this version of the language confusingly **Panlingue 1**.
+(In many programming languages indexing starts from zero, so the first version was then called **Panlingue 0**!)
+He records [a short greeting video in YouTube](https://www.youtube.com/watch?v=TgO8AwX4OCU) to showcase an early version of Panlingue 1.
+This branch of Panlingue is used between [2019](https://github.com/barumau/pandunia/releases/tag/v1.0) and [2021](https://github.com/barumau/pandunia/releases/tag/v1.1)
+but later in 2021 Panlingue switched back to the original track with analytic grammar.
 
     Figure. The tree of evolution of Panlingue and its sibling languages.
     
         ┌───────────┐  ┌───────────┐  ┌───────────┐
-        │ Panlingue │  │ Pandunia  │  │  Panglo   │
+        │ Panlingue │  │ Panlingue  │  │  Panglo   │
         └─────┬─────┘  └─────┬─────┘  └─────┬─────┘
               │1             │2             │3
               │              ├──────────────┘

@@ -1,7 +1,9 @@
 
 # Adverbs
 
-An adverb is a word that modifies a verb or another modifier.
+Adverb is a word that modifies a verb, an adjective or another adverb.
+In Panlingue, most adverbs end in
+*-o*.
 
 ## Modifying a verb
 
@@ -16,7 +18,7 @@ or at the end of the sentence.
  `I  sleep-V good-ADV`  
 'I sleep well.'
 
-*`te  bash-a  panlingue bon-o.`*  
+*`tu  bash-a  pandunia bon-o.`*  
  `you speak-V Panlingue good-ADV`  
 'You speak Panlingue well.'
 
@@ -27,14 +29,14 @@ For example *day* (big) and *lil* (little) can be used as intensifying adverbs.
 
 *dayi hom*
 – a big person  
-*lili jan*
+*leti jan*
 – a little person  
-*sundari jan*
+*meyi jan*
 – a beautiful person
 
-*dayo sundari jan*
+*dayo meyi jan*
 – very beautiful person  
-*lilo sundari jan*
+*leto meyi jan*
 – somewhat beautiful person
 
 
@@ -57,12 +59,12 @@ The particle
 *ka*
 relates the adverbs of comparison to the object of comparison.
 
-*aple sa max boni ka oranje.*
-= Apples are better than oranges.  
-*oranje sa min boni ka aple.*
-= Oranges are less good than apples.  
-*te loga paro bono ka me.*
-= You speak as well as me.
+*aple sa max boni ka aranje.*
+– Apples are better than oranges.  
+*aranje sa min boni ka aple.*
+– Oranges are less good than apples.  
+*tu loga par bono ka me.*
+– You speak as well as me.
 
 It is also possible to compare modifiers with the following verbs,
 which are directly attached to the object of comparison.
@@ -74,11 +76,11 @@ which are directly attached to the object of comparison.
 - *para*
   ('to equal')
 
-*aple maxa oranje sa boni.*
+*aple maxa aranje sa boni.*
 – Apples exceed oranges in being good. _meaning:_ Apples are better than oranges.  
-*oranje mina aple sa boni.*
+*aranje mina aple sa boni.*
 – Oranges subceed apples in being good. _meaning:_ Oranges are less good than apples.  
-*te para me loga bono.*
+*tu para me loga bono.*
 – You equal me in speaking well. _meaning:_ You speak as well as me.
 
 
@@ -108,10 +110,11 @@ Here are some of the most frequently used adverbs:
 
 A complement can be added with the preposition *da*.
 
-*me vida lole cheno.*
+*me viza homen cheno.*
 – I have seen them before.  
-*me vida lole cheno da unyom.*
+*me viza homen cheno da unyom.*
 – I have seen them before Monday.
 
 *me vola shopa tougar maxo da motogar.*
 – I want to buy a trailer in addition to the car.
+
