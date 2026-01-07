@@ -12,10 +12,10 @@ suomi/Diaesitys.odp
 suomi/Diaesitys.pdf
 grafe/*
 html/*
-*/lexaslia.md
-*/pan.md
-*/pan.pdf
-*/*-panlingue.md
-*/panlingue-*.md
+docs/*/lexaslia.md
+docs/*/pan.md
+docs/*/pan.pdf
+docs/*/do_panlingue.md
+docs/*/ze_panlingue.md
 
 

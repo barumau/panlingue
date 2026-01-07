@@ -1,7 +1,8 @@
 fa_pandoc() {
-    pandoc $1/pan.md -V geometry:a4paper,margin=2cm -s -o $1/pan.pdf --pdf-engine=/usr/bin/xelatex -V mainfont="$2" -V monofont="DejaVu Sans Mono"
+    dir="docs/$1"
+    pandoc --lua-filter=bin/parse-html.lua --from=markdown-markdown_in_html_blocks $dir/pan.md -V geometry:a4paper,margin=2cm -s -o $dir/pan.pdf --pdf-engine=/usr/bin/xelatex -V mainfont="$2" -V monofont="DejaVu Sans Mono"
     #-V CJKmainfont="MS Mincho" #-V CJKmainfont="Noto Sans CJK SC" -V devanagarifont="Noto Sans Devanagari"
-    sed 's/\/home\/rkupsala\/pandunia\/html/http:\/\/www.pandunia.info/g' -i $1/pan.md
+    sed 's/\/home\/risto\/pandunia\/html/http:\/\/www.pandunia.info/g' -i $dir/pan.md
 }
 
 max_dataje_nam() {
@@ -21,6 +22,7 @@ fa_dataje_liste() {
     max_dataje_nam $1/G-PoS.md
     max_dataje_nam $1/G-N.md
     max_dataje_nam $1/G-ADJ.md
+    max_dataje_nam $1/G-ADV.md
     max_dataje_nam $1/G-NUM.md
     max_dataje_nam $1/G-PRO.md
     max_dataje_nam $1/G-V.md
@@ -28,7 +30,7 @@ fa_dataje_liste() {
     max_dataje_nam $1/G-P.md
     max_dataje_nam $1/G-AFX.md
     max_dataje_nam $1/K-kurse.md
-#    max_dataje_nam $1/I_esperanto_vs_panlingue.md
+    max_dataje_nam $1/I_esperanto_vs_panlingue.md
 }
 
 fa_pan_md() {
@@ -36,15 +38,15 @@ fa_pan_md() {
     echo "kitaba la $1 PDF dokumen"
     rm temp/dataje_liste.txt
     touch temp/dataje_liste.txt
-    fa_dataje_liste $1
-    cat temp/dataje_liste.txt | xargs -d "\n" cat -- > $1/pan.md
+    dir="docs/$1"
+    fa_dataje_liste $dir
+    cat temp/dataje_liste.txt | xargs -d "\n" cat -- > $dir/pan.md
 
     #la sube kitaba ha 'unicode' harfe e simbol, ki 'pandoc' no bil kitaba.
     #101_dunia_loga.md 200_baze_jumla.md
 
     # uze la loka di grafe
-    #sed 's/http:\/\/www.pandunia.info/\/home\/risto\/pandunia\/html/g' -i $1/pan.md
-    sed 's/http:\/\/www.pandunia.info/\/home\/rkupsala\/pandunia\/html/g' -i $1/pan.md
+    sed 's/http:\/\/www.pandunia.info/\/home\/risto\/pandunia\/html/g' -i $dir/pan.md
 }
 
 fa_europi_dokume() {
@@ -63,17 +65,17 @@ fa_chini_dokume() {
     fa_pandoc $1 "Noto Serif CJK SC"
 }
 
-fa_europi_dokume eng
-fa_europi_dokume epo
-fa_europi_dokume fra
-fa_europi_dokume pol
-fa_europi_dokume rus
-fa_europi_dokume spa
-fa_europi_dokume fin
+fa_europi_dokume en
+fa_europi_dokume eo
+fa_europi_dokume fr
+fa_europi_dokume pl
+fa_europi_dokume ru
+fa_europi_dokume es
+fa_europi_dokume fi
 
-fa_niponi_dokume jpn
+fa_niponi_dokume ja
 
-fa_chini_dokume cmn
+fa_chini_dokume zh
 
 #uza di pake:
 #sudo apt install pandoc
